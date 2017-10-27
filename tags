@@ -1,0 +1,58 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DEVICE_NAME	main.c	26;"	d	file:
+DIRNAME	main.c	29;"	d	file:
+FILENAME	main.c	30;"	d	file:
+FTW_OPEN_FD	main.c	24;"	d	file:
+Name	main.c	/^struct Name$/;"	s	file:
+Namemap	main.c	/^struct Namemap$/;"	s	file:
+Namemap_p	main.c	/^struct Namemap_p$/;"	s	file:
+PART_NAME	main.c	27;"	d	file:
+TYPE_DEFAULT	main.c	32;"	d	file:
+TYPE_FSYNC	main.c	33;"	d	file:
+TYPE_OPEN	main.c	36;"	d	file:
+TYPE_RENAME	main.c	34;"	d	file:
+TYPE_WRITE	main.c	35;"	d	file:
+_GNU_SOURCE	main.c	11;"	d	file:
+_LARGEFILE64_SOURCE	main.c	8;"	d	file:
+_LARGEFILE_SOURCE	main.c	2;"	d	file:
+__USE_LARGEFILE64	main.c	5;"	d	file:
+arrName	main.c	/^	struct Name arrName[20];$/;"	m	struct:Namemap	typeref:struct:Namemap::Name	file:
+arrName	main.c	/^	struct Name arrName[20];$/;"	m	struct:Namemap_p	typeref:struct:Namemap_p::Name	file:
+arrName_p	main.c	/^struct Name *arrName_p;$/;"	v	typeref:struct:Name
+arrName_p_s	main.c	/^struct Name *arrName_p_s[20];$/;"	v	typeref:struct:Name
+compare_inode	main.c	/^int compare_inode(const void *node1, const void *node2)$/;"	f
+compare_user	main.c	/^int compare_user(const void *node1, const void *node2)$/;"	f
+construct_name_map	main.c	/^static int construct_name_map(char *file, void **name_tree)$/;"	f	file:
+convert_trace	main.c	/^static int convert_trace(char *file, const struct stat64 *buf, $/;"	f	file:
+count	main.c	/^	int count;$/;"	m	struct:Namemap	file:
+count	main.c	/^	int count;$/;"	m	struct:Namemap_p	file:
+delete_time	main.c	/^	double delete_time;$/;"	m	struct:Name	file:
+entry_p	main.c	/^struct Namemap_p *entry_p = 0;$/;"	v	typeref:struct:Namemap_p
+file_p	main.c	/^char *file_p;$/;"	v
+free_entry	main.c	/^void free_entry(void *entry)$/;"	f
+free_entry_p	main.c	/^void free_entry_p(void *entry)$/;"	f
+get_ps	main.c	/^static int get_ps(char* file, void **name_tree)$/;"	f	file:
+inode	main.c	/^	long long int inode;$/;"	m	struct:Namemap	file:
+lost_found_dir	main.c	/^static char lost_found_dir[PATH_MAX + 1];$/;"	v	file:
+main	main.c	/^int main (int argc, char *argv[])$/;"	f
+make_namemap_entry	main.c	/^struct Namemap* make_namemap_entry(long long int inode)$/;"	f
+make_namemap_entry_p	main.c	/^struct Namemap_p* make_namemap_entry_p(char* name)$/;"	f
+name	main.c	/^	char name[PATH_MAX + 1];$/;"	m	struct:Name	file:
+name	main.c	/^	char name[PATH_MAX + 1];$/;"	m	struct:Namemap_p	file:
+name_p	main.c	/^char name_p[PATH_MAX + 1];$/;"	v
+name_tree_p	main.c	/^void *name_tree_p;$/;"	v
+namemap_insert	main.c	/^int namemap_insert(struct Namemap* entry, char *path)$/;"	f
+namemap_insert_p	main.c	/^int namemap_insert_p(struct Namemap_p* entry, char *path)$/;"	f
+parse_time	main.c	/^double parse_time(char* line)$/;"	f
+path_check	main.c	/^int path_check(char *path)$/;"	f
+preopened_files	main.c	/^static int preopened_files(char *file, void **name_tree)$/;"	f	file:
+print_help	main.c	/^void print_help()$/;"	f
+print_trace	main.c	/^static int print_trace(char *file, void *name_tree)$/;"	f	file:
+s_count	main.c	/^int s_count = 0;$/;"	v
+t_index	main.c	/^int t_index;$/;"	v
+walk_user	main.c	/^void const walk_user(void *nodep, const VISIT which, const int depth)$/;"	f

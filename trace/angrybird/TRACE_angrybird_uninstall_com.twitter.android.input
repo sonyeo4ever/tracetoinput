@@ -1,0 +1,61 @@
+38.289427	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
+38.289475	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
+38.289487	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
+38.289507	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
+38.289538	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
+38.289550	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
+38.289568	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
+38.289585	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+38.295174	[FS]	/data/com.twitter.android/databases	1	
+38.306176	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
+38.306214	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+38.307111	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
+38.307135	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
+38.307155	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
+38.308585	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
+38.308601	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+38.341266	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+38.341305	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+38.341317	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+38.341337	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+38.341439	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+38.341451	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+38.341470	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+38.341488	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.351519	[FS]	/data/com.twitter.android/databases	1	
+38.355346	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+38.355380	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.356202	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+38.356228	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+38.356247	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+38.358241	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+38.358310	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.791274	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+38.791546	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+38.792152	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2147	0	
+38.792278	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+38.792693	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+38.792728	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+38.792748	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+38.792954	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+38.793062	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+38.793081	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+38.793257	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+38.793287	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.802042	[FS]	/data/com.twitter.android/databases	1	
+38.803074	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+38.803574	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+38.803606	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.804537	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+38.804568	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+38.804594	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+38.806126	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+38.806147	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+38.807564	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+38.807746	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+38.808433	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	8142	0	
+38.809382	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	8142	8166	8142	
+38.809932	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	16308	8192	16308	
+38.810156	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	24500	1654	24500	
+38.810225	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+38.820767	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	

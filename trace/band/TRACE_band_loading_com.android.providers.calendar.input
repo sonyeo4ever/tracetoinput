@@ -1,0 +1,298 @@
+2.325635	[WO]	/user/0/com.google.android.googlequicksearchbox/app_prediction/events_2493	0	130	2342	
+2.327082	[CR]	/data/eu.chainfire.supersu/logs/L15081425670000.GRANTED.ADB shell	
+2.336780	[WA]	/user/0/com.google.android.googlequicksearchbox/files/engine_16	0	5139	0	
+2.700541	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+2.700754	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+2.701154	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+2.701237	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+2.713398	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.047955	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.048159	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.049017	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.049102	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.060614	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140291	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.140481	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.140998	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.141072	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.147455	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180125	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.180295	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+3.180783	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+3.180861	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+3.186430	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+3.186739	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.186895	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.188324	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.188412	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.196866	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.198603	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.225108	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.244141	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.249938	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.295433	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+3.295470	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+3.295485	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+3.295510	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+3.295533	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+3.295548	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+3.296122	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+3.296241	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8720	4	12824	
+3.296257	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8724	4096	12824	
+3.296280	[WO]	/data/com.nhn.android.band/databases/statistics-journal	12820	4	12824	
+3.296302	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+3.298560	[FS]	/data/com.nhn.android.band/databases	1	
+3.301638	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+3.301678	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+3.302525	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+3.302553	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+3.302575	[WO]	/data/com.nhn.android.band/databases/statistics	16384	4096	20480	
+3.302599	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+3.304153	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+3.304174	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+3.390169	[WO]	/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	16	4	4096	
+3.393445	[WO]	/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	20	510	4096	
+3.394541	[WO]	/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+3.425645	[CR]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	
+3.426288	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	0	1	0	
+3.426361	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	1	1	1	
+3.426396	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	2	1	2	
+3.426429	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	3	1	3	
+3.426463	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	4	1	4	
+3.426495	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	5	1	5	
+3.426528	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	6	1	6	
+3.426560	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	7	1	7	
+3.426593	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	8	1	8	
+3.426625	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	9	1	9	
+3.427230	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	10	386	10	
+3.427269	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	396	1	396	
+3.427303	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	397	1	397	
+3.427336	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	398	1	398	
+3.427368	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	399	1	399	
+3.427399	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	400	1	400	
+3.427432	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	401	1	401	
+3.427464	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	402	1	402	
+3.427496	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	403	1	403	
+3.427604	[UN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+3.428002	[CR]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	
+3.428567	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	0	16	4096	
+3.437087	[RN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+3.452590	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.452800	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+3.453158	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+3.453233	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+3.458867	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+3.459215	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.459370	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+3.459725	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	448	0	
+3.459793	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+3.463507	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+3.478381	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	512	12824	
+3.478420	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	512	4	12824	
+3.478436	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	516	4096	12824	
+3.478462	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4612	4	12824	
+3.478486	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4616	4	12824	
+3.478504	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+3.478527	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8716	4	12824	
+3.478567	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8720	4	12824	
+3.478582	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8724	4096	12824	
+3.478607	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	12820	4	12824	
+3.478629	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.481121	[FS]	/data/com.nhn.android.band/databases	1	
+3.485790	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	12	12824	
+3.485832	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.487088	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	0	4096	20480	
+3.487123	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	12288	4096	20480	
+3.487143	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	16384	4096	20480	
+3.487169	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	1	
+3.488730	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	28	12824	
+3.488757	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.496308	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	512	12824	
+3.496337	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	512	4	12824	
+3.496353	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	516	4096	12824	
+3.496379	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4612	4	12824	
+3.496403	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4616	4	12824	
+3.496418	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+3.496443	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8716	4	12824	
+3.496481	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8720	4	12824	
+3.496496	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8724	4096	12824	
+3.496520	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	12820	4	12824	
+3.496543	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.498907	[FS]	/data/com.nhn.android.band/databases	1	
+3.500909	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	12	12824	
+3.500952	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.501989	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	0	4096	20480	
+3.502023	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	12288	4096	20480	
+3.502042	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	16384	4096	20480	
+3.502070	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	1	
+3.504030	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	28	12824	
+3.504052	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.547593	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.548641	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+3.552152	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.560170	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.565293	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.635517	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+3.650387	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+3.805174	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	512	12824	
+3.805229	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	512	4	12824	
+3.805246	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	516	4096	12824	
+3.805272	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4612	4	12824	
+3.805316	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4616	4	12824	
+3.805332	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+3.805359	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8716	4	12824	
+3.805385	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.807761	[FS]	/data/com.nhn.android.band/databases	1	
+3.813936	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	12	12824	
+3.814003	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.815012	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	0	4096	20480	
+3.815052	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	12288	4096	20480	
+3.815083	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	1	
+3.816772	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	28	12824	
+3.816810	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.836271	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+3.836428	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4097	0	
+3.836525	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+3.842678	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+3.857747	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226632	24	524288	
+3.857806	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226656	4096	524288	
+3.857840	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230752	24	524288	
+3.857857	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230776	4096	524288	
+3.857887	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234872	24	524288	
+3.857904	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234896	4096	524288	
+3.857934	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	238992	24	524288	
+3.857951	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	239016	4096	524288	
+3.866986	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243112	24	524288	
+3.867036	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243136	4096	524288	
+3.867071	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247232	24	524288	
+3.867090	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247256	4096	524288	
+3.867121	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251352	24	524288	
+3.867139	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251376	4096	524288	
+3.867170	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255472	24	524288	
+3.867187	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255496	4096	524288	
+3.875631	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259592	24	524288	
+3.875678	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259616	4096	524288	
+3.875712	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263712	24	524288	
+3.875729	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263736	4096	524288	
+3.875761	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267832	24	524288	
+3.875778	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267856	4096	524288	
+3.875808	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271952	24	524288	
+3.875825	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271976	4096	524288	
+3.888236	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276072	24	524288	
+3.888293	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276096	4096	524288	
+3.888484	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280192	24	524288	
+3.888502	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280216	4096	524288	
+3.888534	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284312	24	524288	
+3.888551	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284336	4096	524288	
+3.888581	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288432	24	524288	
+3.888598	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288456	4096	524288	
+3.903592	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292552	24	524288	
+3.903637	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292576	4096	524288	
+3.903820	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296672	24	524288	
+3.903838	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296696	4096	524288	
+3.903869	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300792	24	524288	
+3.903886	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300816	4096	524288	
+3.903916	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304912	24	524288	
+3.903933	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304936	4096	524288	
+3.909187	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	512	12824	
+3.909238	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	512	4	12824	
+3.909257	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	516	4096	12824	
+3.909287	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4612	4	12824	
+3.909333	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4616	4	12824	
+3.909350	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+3.909377	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	8716	4	12824	
+3.909405	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.911037	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309032	24	524288	
+3.911086	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309056	4096	524288	
+3.911126	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313152	24	524288	
+3.911147	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313176	4096	524288	
+3.911185	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317272	24	524288	
+3.911204	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317296	4096	524288	
+3.911240	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321392	24	524288	
+3.911260	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321416	4096	524288	
+3.911291	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325512	24	524288	
+3.911310	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325536	4096	524288	
+3.911342	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329632	24	524288	
+3.911360	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329656	4096	524288	
+3.911391	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333752	24	524288	
+3.911409	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333776	4096	524288	
+3.911622	[FS]	/data/com.nhn.android.band/databases	1	
+3.916162	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337872	24	524288	
+3.916203	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337896	4096	524288	
+3.916242	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	341992	24	524288	
+3.916264	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	342016	4096	524288	
+3.916301	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346112	24	524288	
+3.916320	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346136	4096	524288	
+3.916350	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350232	24	524288	
+3.916368	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350256	4096	524288	
+3.919347	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	12	12824	
+3.919396	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.920775	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	0	4096	20480	
+3.920828	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	12288	4096	20480	
+3.920858	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db	1	
+3.922713	[WO]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	0	28	12824	
+3.922744	[FS]	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	1	
+3.940831	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354352	24	524288	
+3.940885	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354376	4096	524288	
+3.940913	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358472	24	524288	
+3.940928	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358496	4096	524288	
+3.940951	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362592	24	524288	
+3.940965	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362616	4096	524288	
+3.940989	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366712	24	524288	
+3.941002	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366736	4096	524288	
+3.959157	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/play_metalog.log	0	3	0	
+3.959429	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/logs_upload_attempt.log	0	68	0	
+3.975756	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370832	24	524288	
+3.975804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370856	4096	524288	
+3.975838	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374952	24	524288	
+3.975857	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374976	4096	524288	
+3.975888	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379072	24	524288	
+3.975906	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379096	4096	524288	
+3.975936	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383192	24	524288	
+3.975954	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383216	4096	524288	
+3.986529	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387312	24	524288	
+3.986576	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387336	4096	524288	
+3.986605	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391432	24	524288	
+3.986620	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391456	4096	524288	
+3.986646	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395552	24	524288	
+3.986661	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395576	4096	524288	
+3.986686	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399672	24	524288	
+3.986700	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399696	4096	524288	
+3.990128	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403792	24	524288	
+3.990166	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403816	4096	524288	
+3.990194	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407912	24	524288	
+3.990208	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407936	4096	524288	
+3.990233	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412032	24	524288	
+3.990248	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412056	4096	524288	
+3.990273	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416152	24	524288	
+3.990287	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416176	4096	524288	
+3.990397	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+4.002590	[WO]	/data/com.google.android.gms/databases/playlog.db	0	4096	270336	
+4.002668	[WO]	/data/com.google.android.gms/databases/playlog.db	4096	4096	270336	
+4.002704	[WO]	/data/com.google.android.gms/databases/playlog.db	16384	4096	270336	
+4.002739	[WO]	/data/com.google.android.gms/databases/playlog.db	20480	4096	270336	
+4.002773	[WO]	/data/com.google.android.gms/databases/playlog.db	28672	4096	270336	
+4.002808	[WO]	/data/com.google.android.gms/databases/playlog.db	45056	4096	270336	
+4.002845	[WA]	/data/com.google.android.gms/databases/playlog.db	270336	4096	270336	
+4.002912	[WA]	/data/com.google.android.gms/databases/playlog.db	274432	4096	274432	
+4.003041	[FS]	/data/com.google.android.gms/databases/playlog.db	1	
+4.669625	[UN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	
+4.670618	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	16	4	4096	
+4.681626	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	20	537	4096	
+4.684696	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+4.686088	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	557	4	4096	
+4.687119	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	561	538	4096	
+4.688182	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+4.689555	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1099	4	4096	
+4.692908	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1103	523	4096	
+4.693899	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+5.294907	[CR]	/system/recent_tasks/6_task.xml	
+5.295135	[WA]	/system/recent_tasks/6_task.xml	0	835	0	
+5.295307	[WA]	/system/recent_tasks/6_task.xml	835	1	835	
+5.295443	[FS]	/system/recent_tasks/6_task.xml	0	
+5.850801	[RN]	/system/recent_tasks/6_task.xml	/system/recent_tasks/6_task.xml.bak	
+5.851389	[CR]	/system/recent_tasks/6_task.xml	
+5.851711	[WA]	/system/recent_tasks/6_task.xml	0	835	0	
+5.851900	[WA]	/system/recent_tasks/6_task.xml	835	1	835	
+5.852006	[FS]	/system/recent_tasks/6_task.xml	0	
+5.870147	[UN]	/system/recent_tasks/6_task.xml.bak	

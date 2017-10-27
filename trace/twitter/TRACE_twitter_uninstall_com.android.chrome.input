@@ -1,0 +1,97 @@
+7.365450	[CR]	/data/com.android.chrome/app_chrome/RELRO:libchrome.so	
+7.475200	[WA]	/data/com.android.chrome/app_chrome/RELRO:libchrome.so	0	1957888	0	
+7.546887	[UN]	/data/com.android.chrome/app_chrome/RELRO:libchrome.so	
+8.481869	[RN]	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG.old	
+8.482246	[CR]	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG	
+8.488966	[RN]	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG.old	
+8.490441	[CR]	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG	
+8.490784	[RN]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG.old	
+8.491070	[CR]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG	
+8.506447	[WA]	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG	0	138	0	
+8.511027	[WA]	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG	0	131	0	
+8.523421	[WA]	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG	131	47	131	
+8.525381	[WA]	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG	138	47	138	
+8.525586	[WA]	/data/com.android.chrome/app_chrome/Default/Download Service/EntryDB/LOG	185	133	185	
+8.528106	[WA]	/data/com.android.chrome/app_chrome/Default/Sync Data/LevelDB/LOG	178	126	178	
+8.539583	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG	0	49	0	
+8.539936	[CR]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000125.log	
+8.541307	[CR]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	
+8.541370	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	0	7	0	
+8.541500	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	7	28	7	
+8.541547	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	35	7	35	
+8.541582	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	42	8	42	
+8.541624	[FS]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000124	1	
+8.552826	[RN]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG.old	
+8.553164	[CR]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG	
+8.557111	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	0	512	0	
+8.559830	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	512	4	512	
+8.559870	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	516	2048	516	
+8.559897	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	2564	4	2564	
+8.559939	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	2568	4	2568	
+8.559943	[FS]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb	1	
+8.559963	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	2572	2048	2572	
+8.560011	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	4620	4	4620	
+8.560583	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	4624	4	4624	
+8.560614	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	4628	2048	4628	
+8.560641	[WA]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	6676	4	6676	
+8.560675	[FS]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	1	
+8.575574	[FS]	/data/com.android.chrome/app_chrome/Default	1	
+8.575743	[CR]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000124.dbtmp	
+8.575800	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000124.dbtmp	0	16	0	
+8.575880	[FS]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000124.dbtmp	1	
+8.581207	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG	0	134	0	
+8.585706	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG	134	47	134	
+8.589700	[WO]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	0	12	6680	
+8.589752	[FS]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	1	
+8.589849	[RN]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000124.dbtmp	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/CURRENT	
+8.590606	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG	49	48	49	
+8.590714	[UN]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/000123.log	
+8.590804	[WO]	/data/com.android.chrome/app_chrome/Default/Login Data	0	2048	20480	
+8.590829	[WA]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/LOG	97	48	97	
+8.590855	[WO]	/data/com.android.chrome/app_chrome/Default/Login Data	4096	2048	20480	
+8.590885	[WO]	/data/com.android.chrome/app_chrome/Default/Login Data	6144	2048	20480	
+8.590913	[FS]	/data/com.android.chrome/app_chrome/Default/Login Data	1	
+8.590926	[UN]	/data/com.android.chrome/app_chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000122	
+8.592770	[FS]	/data/com.android.chrome/app_chrome/Default/Login Data-journal	1	
+8.602060	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/LOG	181	129	181	
+8.632646	[RN]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG.old	
+8.632988	[CR]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG	
+8.637774	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG	0	132	0	
+8.638564	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG	132	47	132	
+8.642068	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/LOG	179	127	179	
+8.670456	[RN]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml.bak	
+8.670707	[CR]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	
+8.671881	[WA]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	0	4966	0	
+8.672005	[FS]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	0	
+8.682872	[UN]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml.bak	
+9.064145	[CR]	/data/com.android.chrome/cache/.com.google.Chrome.8InGvg	
+9.159337	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	0	512	0	
+9.159434	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	512	4	512	
+9.159461	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	516	2048	516	
+9.159488	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	2564	4	2564	
+9.159597	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	2568	4	2568	
+9.159623	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	2572	2048	2572	
+9.159834	[WA]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	4620	4	4620	
+9.159879	[FS]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	1	
+9.164225	[FS]	/data/com.android.chrome/app_chrome/Default	1	
+9.165145	[WO]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	0	12	4624	
+9.165183	[FS]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	1	
+9.166256	[WO]	/data/com.android.chrome/app_chrome/Default/Web Data	0	2048	69632	
+9.166326	[WO]	/data/com.android.chrome/app_chrome/Default/Web Data	65536	2048	69632	
+9.166366	[FS]	/data/com.android.chrome/app_chrome/Default/Web Data	1	
+9.168475	[FS]	/data/com.android.chrome/app_chrome/Default/Web Data-journal	1	
+9.192540	[RN]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml.bak	
+9.192785	[CR]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	
+9.193767	[WA]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	0	4966	0	
+9.193886	[FS]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml	0	
+9.202951	[WO]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	0	7	10959	
+9.203060	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	10966	12	10966	
+9.203107	[FS]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	1	
+9.203496	[UN]	/data/com.android.chrome/shared_prefs/com.android.chrome_preferences.xml.bak	
+9.204167	[WO]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/000003.log	0	7	145682	
+9.204236	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/000003.log	145689	12	145689	
+9.204280	[FS]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/snippets/000003.log	1	
+9.297670	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	10978	7	10978	
+9.297756	[WA]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	10985	12	10985	
+9.297802	[FS]	/data/com.android.chrome/app_chrome/Default/NTPSnippets/images/000003.log	1	
+9.855159	[CR]	/data/com.android.chrome/cache/.com.google.Chrome.6wRxZd	
