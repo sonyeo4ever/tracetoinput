@@ -1,0 +1,126 @@
+0.024639	[CR]	/data/com.google.android.youtube/cache/1496809943795.dex	
+0.024889	[WA]	/data/com.google.android.youtube/cache/1496809943795.dex	0	45488	0	
+0.028504	[CR]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	
+0.125839	[UN]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	
+0.125937	[FS]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	1	
+0.126947	[UN]	/data/com.google.android.youtube/cache/1496809943795.jar	
+0.127296	[UN]	/data/com.google.android.youtube/cache/1496809943795.dex	
+0.129069	[RN]	/data/com.google.android.youtube/shared_prefs/youtube.xml	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.129343	[CR]	/data/com.google.android.youtube/shared_prefs/youtube.xml	
+0.130747	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	3748	0	
+0.131037	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	3748	8192	3748	
+0.131429	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	11940	8190	11940	
+0.131752	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	20130	6324	20130	
+0.131876	[FS]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	
+0.141235	[UN]	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.211599	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	512	53864	
+0.211658	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	512	4	53864	
+0.211680	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	516	4096	53864	
+0.212997	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4612	4	53864	
+0.213039	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4616	4	53864	
+0.213060	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4620	4096	53864	
+0.213094	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8716	4	53864	
+0.213534	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8720	4	53864	
+0.213556	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8724	4096	53864	
+0.213804	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	12820	4	53864	
+0.214603	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.217706	[FS]	/data/com.google.android.youtube/databases	1	
+0.225038	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	12	53864	
+0.225105	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.226381	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	0	4096	20480	
+0.226423	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	12288	4096	20480	
+0.226451	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	16384	4096	20480	
+0.226486	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	1	
+0.228244	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	28	53864	
+0.228292	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.270833	[RN]	/data/com.google.android.youtube/shared_prefs/youtube.xml	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.271320	[CR]	/data/com.google.android.youtube/shared_prefs/youtube.xml	
+0.277986	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	3748	0	
+0.278330	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	3748	8192	3748	
+0.278779	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	11940	8190	11940	
+0.279158	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	20130	6324	20130	
+0.279293	[FS]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	
+0.288561	[UN]	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.615184	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	512	12824	
+0.615249	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	512	4	12824	
+0.615273	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	516	4096	12824	
+0.615309	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4612	4	12824	
+0.615366	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4616	4	12824	
+0.615432	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+0.615465	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	8716	4	12824	
+0.615498	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+0.617659	[FS]	/data/com.google.android.youtube/databases	1	
+0.624235	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	12	12824	
+0.624266	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+0.630243	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	0	4096	20480	
+0.630312	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	12288	4096	20480	
+0.630350	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	1	
+0.632436	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	28	12824	
+0.632489	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+70.328774	[CR]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	
+70.329075	[WA]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	0	3689	0	
+70.329299	[FS]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	1	
+70.342834	[RN]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/local_prefs.json	
+0.024639	[CR]	/data/com.google.android.youtube/cache/1496809943795.dex	
+0.024889	[WA]	/data/com.google.android.youtube/cache/1496809943795.dex	0	45488	0	
+0.028504	[CR]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	
+0.125839	[UN]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	
+0.125937	[FS]	/data/com.google.android.youtube/cache/1496809943795.dex.flock	1	
+0.126947	[UN]	/data/com.google.android.youtube/cache/1496809943795.jar	
+0.127296	[UN]	/data/com.google.android.youtube/cache/1496809943795.dex	
+0.129069	[RN]	/data/com.google.android.youtube/shared_prefs/youtube.xml	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.129343	[CR]	/data/com.google.android.youtube/shared_prefs/youtube.xml	
+0.130747	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	3748	0	
+0.131037	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	3748	8192	3748	
+0.131429	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	11940	8190	11940	
+0.131752	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	20130	6324	20130	
+0.131876	[FS]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	
+0.141235	[UN]	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.211599	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	512	53864	
+0.211658	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	512	4	53864	
+0.211680	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	516	4096	53864	
+0.212997	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4612	4	53864	
+0.213039	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4616	4	53864	
+0.213060	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	4620	4096	53864	
+0.213094	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8716	4	53864	
+0.213534	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8720	4	53864	
+0.213556	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	8724	4096	53864	
+0.213804	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	12820	4	53864	
+0.214603	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.217706	[FS]	/data/com.google.android.youtube/databases	1	
+0.225038	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	12	53864	
+0.225105	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.226381	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	0	4096	20480	
+0.226423	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	12288	4096	20480	
+0.226451	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	16384	4096	20480	
+0.226486	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore	1	
+0.228244	[WO]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	0	28	53864	
+0.228292	[FS]	/data/com.google.android.youtube/databases/com.google.android.libraries.youtube.net.delayedevents.DelayedEventStore-journal	1	
+0.270833	[RN]	/data/com.google.android.youtube/shared_prefs/youtube.xml	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.271320	[CR]	/data/com.google.android.youtube/shared_prefs/youtube.xml	
+0.277986	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	3748	0	
+0.278330	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	3748	8192	3748	
+0.278779	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	11940	8190	11940	
+0.279158	[WA]	/data/com.google.android.youtube/shared_prefs/youtube.xml	20130	6324	20130	
+0.279293	[FS]	/data/com.google.android.youtube/shared_prefs/youtube.xml	0	
+0.288561	[UN]	/data/com.google.android.youtube/shared_prefs/youtube.xml.bak	
+0.615184	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	512	12824	
+0.615249	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	512	4	12824	
+0.615273	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	516	4096	12824	
+0.615309	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4612	4	12824	
+0.615366	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4616	4	12824	
+0.615432	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	4620	4096	12824	
+0.615465	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	8716	4	12824	
+0.615498	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+0.617659	[FS]	/data/com.google.android.youtube/databases	1	
+0.624235	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	12	12824	
+0.624266	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+0.630243	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	0	4096	20480	
+0.630312	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	12288	4096	20480	
+0.630350	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db	1	
+0.632436	[WO]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	0	28	12824	
+0.632489	[FS]	/data/com.google.android.youtube/databases/google_conversion_tracking.db-journal	1	
+70.328774	[CR]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	
+70.329075	[WA]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	0	3689	0	
+70.329299	[FS]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	1	
+70.342834	[RN]	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/.org.chromium.Chromium.gQeG7L	/data/com.google.android.youtube/cache/cronet_metadata_cache/prefs/local_prefs.json	

@@ -1,0 +1,527 @@
+23.418454	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+23.423533	[CR]	/system/install_sessions.xml	
+23.427188	[WA]	/system/install_sessions.xml	0	443	0	
+23.427307	[FS]	/system/install_sessions.xml	0	
+23.442132	[UN]	/system/install_sessions.xml.bak	
+23.535791	[MD]	/app/vmdl14736852.tmp	
+23.536597	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+23.536807	[CR]	/system/install_sessions.xml	
+23.537672	[WA]	/system/install_sessions.xml	0	442	0	
+23.537771	[FS]	/system/install_sessions.xml	0	
+23.549903	[UN]	/system/install_sessions.xml.bak	
+24.145426	[WO]	/system/notification_log.db-journal	0	512	49760	
+24.145483	[WO]	/system/notification_log.db-journal	512	4	49760	
+24.145505	[WO]	/system/notification_log.db-journal	516	4096	49760	
+24.145540	[WO]	/system/notification_log.db-journal	4612	4	49760	
+24.145573	[WO]	/system/notification_log.db-journal	4616	4	49760	
+24.145593	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+24.145625	[WO]	/system/notification_log.db-journal	8716	4	49760	
+24.145680	[WO]	/system/notification_log.db-journal	8720	4	49760	
+24.145701	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+24.145734	[WO]	/system/notification_log.db-journal	12820	4	49760	
+24.145765	[FS]	/system/notification_log.db-journal	1	
+24.208148	[FS]	/system	1	
+24.211310	[WO]	/system/notification_log.db-journal	0	12	49760	
+24.211359	[FS]	/system/notification_log.db-journal	1	
+24.216452	[WO]	/system/notification_log.db	0	4096	61440	
+24.216519	[WO]	/system/notification_log.db	16384	4096	61440	
+24.216547	[WO]	/system/notification_log.db	57344	4096	61440	
+24.216583	[FS]	/system/notification_log.db	1	
+24.220376	[WO]	/system/notification_log.db-journal	0	28	49760	
+24.220436	[FS]	/system/notification_log.db-journal	1	
+24.607208	[RN]	/system/recent_tasks/2_task.xml	/system/recent_tasks/2_task.xml.bak	
+24.607471	[CR]	/system/recent_tasks/2_task.xml	
+24.607630	[WA]	/system/recent_tasks/2_task.xml	0	908	0	
+24.607719	[WA]	/system/recent_tasks/2_task.xml	908	1	908	
+24.607770	[FS]	/system/recent_tasks/2_task.xml	0	
+24.616721	[UN]	/system/recent_tasks/2_task.xml.bak	
+24.864574	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+24.864805	[CR]	/system/netstats/dev.1507273242475-	
+24.866491	[WA]	/system/netstats/dev.1507273242475-	0	4379	0	
+24.866620	[FS]	/system/netstats/dev.1507273242475-	0	
+24.870961	[UN]	/system/netstats/dev.1507273242475-.backup	
+24.874994	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+24.875165	[CR]	/system/netstats/xt.1507273242475-	
+24.876531	[WA]	/system/netstats/xt.1507273242475-	0	4434	0	
+24.876646	[FS]	/system/netstats/xt.1507273242475-	0	
+24.882673	[UN]	/system/netstats/xt.1507273242475-.backup	
+25.157461	[RN]	/system/recent_tasks/2_task.xml	/system/recent_tasks/2_task.xml.bak	
+25.157652	[CR]	/system/recent_tasks/2_task.xml	
+25.157786	[WA]	/system/recent_tasks/2_task.xml	0	908	0	
+25.157861	[WA]	/system/recent_tasks/2_task.xml	908	1	908	
+25.157914	[FS]	/system/recent_tasks/2_task.xml	0	
+25.167141	[UN]	/system/recent_tasks/2_task.xml.bak	
+25.331596	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+25.331889	[CR]	/system/netstats/dev.1507273242475-	
+25.333364	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+25.333480	[FS]	/system/netstats/dev.1507273242475-	0	
+25.364350	[UN]	/system/netstats/dev.1507273242475-.backup	
+25.369977	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+25.370323	[CR]	/system/netstats/xt.1507273242475-	
+25.372389	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+25.372504	[FS]	/system/netstats/xt.1507273242475-	0	
+25.378035	[UN]	/system/netstats/xt.1507273242475-.backup	
+25.856199	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+25.857615	[CR]	/system/netstats/dev.1507273242475-	
+25.859377	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+25.859493	[FS]	/system/netstats/dev.1507273242475-	0	
+25.869462	[UN]	/system/netstats/dev.1507273242475-.backup	
+25.880653	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+25.880879	[CR]	/system/netstats/xt.1507273242475-	
+25.882592	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+25.882725	[FS]	/system/netstats/xt.1507273242475-	0	
+25.888513	[UN]	/system/netstats/xt.1507273242475-.backup	
+26.383052	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+26.383277	[CR]	/system/netstats/dev.1507273242475-	
+26.384755	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+26.384882	[FS]	/system/netstats/dev.1507273242475-	0	
+26.392580	[UN]	/system/netstats/dev.1507273242475-.backup	
+26.397540	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+26.397747	[CR]	/system/netstats/xt.1507273242475-	
+26.399249	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+26.399375	[FS]	/system/netstats/xt.1507273242475-	0	
+26.410016	[UN]	/system/netstats/xt.1507273242475-.backup	
+27.070889	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+27.071164	[CR]	/system/netstats/dev.1507273242475-	
+27.072995	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+27.073137	[FS]	/system/netstats/dev.1507273242475-	0	
+27.081079	[UN]	/system/netstats/dev.1507273242475-.backup	
+27.087226	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+27.087452	[CR]	/system/netstats/xt.1507273242475-	
+27.089276	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+27.089399	[FS]	/system/netstats/xt.1507273242475-	0	
+27.094873	[UN]	/system/netstats/xt.1507273242475-.backup	
+27.658643	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+27.660731	[CR]	/system/netstats/dev.1507273242475-	
+27.662677	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+27.662820	[FS]	/system/netstats/dev.1507273242475-	0	
+27.676313	[UN]	/system/netstats/dev.1507273242475-.backup	
+27.681572	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+27.681817	[CR]	/system/netstats/xt.1507273242475-	
+27.685229	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+27.685358	[FS]	/system/netstats/xt.1507273242475-	0	
+27.692657	[UN]	/system/netstats/xt.1507273242475-.backup	
+28.186111	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+28.188161	[CR]	/system/netstats/dev.1507273242475-	
+28.190931	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+28.191134	[FS]	/system/netstats/dev.1507273242475-	0	
+28.208538	[UN]	/system/netstats/dev.1507273242475-.backup	
+28.213418	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+28.213605	[CR]	/system/netstats/xt.1507273242475-	
+28.215107	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+28.215215	[FS]	/system/netstats/xt.1507273242475-	0	
+28.219533	[UN]	/system/netstats/xt.1507273242475-.backup	
+28.668922	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+28.669114	[CR]	/system/netstats/dev.1507273242475-	
+28.670685	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+28.670804	[FS]	/system/netstats/dev.1507273242475-	0	
+28.805363	[UN]	/system/netstats/dev.1507273242475-.backup	
+28.809103	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+28.809287	[CR]	/system/netstats/xt.1507273242475-	
+28.810663	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+28.813168	[FS]	/system/netstats/xt.1507273242475-	0	
+28.818491	[UN]	/system/netstats/xt.1507273242475-.backup	
+29.346880	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+29.347080	[CR]	/system/netstats/dev.1507273242475-	
+29.349491	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+29.349601	[FS]	/system/netstats/dev.1507273242475-	0	
+29.368468	[UN]	/system/netstats/dev.1507273242475-.backup	
+29.372445	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+29.372705	[CR]	/system/netstats/xt.1507273242475-	
+29.374095	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+29.374209	[FS]	/system/netstats/xt.1507273242475-	0	
+29.379978	[UN]	/system/netstats/xt.1507273242475-.backup	
+30.062551	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+30.062745	[CR]	/system/netstats/dev.1507273242475-	
+30.063933	[WA]	/system/netstats/dev.1507273242475-	0	4381	0	
+30.064041	[FS]	/system/netstats/dev.1507273242475-	0	
+30.074320	[UN]	/system/netstats/dev.1507273242475-.backup	
+30.078869	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+30.079056	[CR]	/system/netstats/xt.1507273242475-	
+30.080616	[WA]	/system/netstats/xt.1507273242475-	0	4436	0	
+30.080722	[FS]	/system/netstats/xt.1507273242475-	0	
+30.087344	[UN]	/system/netstats/xt.1507273242475-.backup	
+30.598102	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+30.598337	[CR]	/system/netstats/dev.1507273242475-	
+30.599578	[WA]	/system/netstats/dev.1507273242475-	0	4382	0	
+30.599691	[FS]	/system/netstats/dev.1507273242475-	0	
+30.610418	[UN]	/system/netstats/dev.1507273242475-.backup	
+30.614360	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+30.614537	[CR]	/system/netstats/xt.1507273242475-	
+30.615838	[WA]	/system/netstats/xt.1507273242475-	0	4437	0	
+30.615948	[FS]	/system/netstats/xt.1507273242475-	0	
+30.620136	[UN]	/system/netstats/xt.1507273242475-.backup	
+31.129225	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+31.129484	[CR]	/system/netstats/dev.1507273242475-	
+31.132147	[WA]	/system/netstats/dev.1507273242475-	0	4382	0	
+31.132601	[FS]	/system/netstats/dev.1507273242475-	0	
+31.144326	[UN]	/system/netstats/dev.1507273242475-.backup	
+31.149810	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+31.150018	[CR]	/system/netstats/xt.1507273242475-	
+31.151400	[WA]	/system/netstats/xt.1507273242475-	0	4437	0	
+31.151521	[FS]	/system/netstats/xt.1507273242475-	0	
+31.158386	[UN]	/system/netstats/xt.1507273242475-.backup	
+31.610895	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+31.615234	[CR]	/system/netstats/dev.1507273242475-	
+31.616757	[WA]	/system/netstats/dev.1507273242475-	0	4382	0	
+31.616916	[FS]	/system/netstats/dev.1507273242475-	0	
+31.623441	[UN]	/system/netstats/dev.1507273242475-.backup	
+31.632717	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+31.632952	[CR]	/system/netstats/xt.1507273242475-	
+31.638405	[WA]	/system/netstats/xt.1507273242475-	0	4437	0	
+31.638575	[FS]	/system/netstats/xt.1507273242475-	0	
+31.643871	[UN]	/system/netstats/xt.1507273242475-.backup	
+32.088742	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+32.088972	[CR]	/system/netstats/dev.1507273242475-	
+32.090387	[WA]	/system/netstats/dev.1507273242475-	0	4382	0	
+32.090512	[FS]	/system/netstats/dev.1507273242475-	0	
+32.097615	[UN]	/system/netstats/dev.1507273242475-.backup	
+32.101903	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+32.102107	[CR]	/system/netstats/xt.1507273242475-	
+32.103915	[WA]	/system/netstats/xt.1507273242475-	0	4437	0	
+32.104040	[FS]	/system/netstats/xt.1507273242475-	0	
+32.109630	[UN]	/system/netstats/xt.1507273242475-.backup	
+32.338435	[WO]	/system/notification_log.db-journal	0	512	49760	
+32.338501	[WO]	/system/notification_log.db-journal	512	4	49760	
+32.338525	[WO]	/system/notification_log.db-journal	516	4096	49760	
+32.338564	[WO]	/system/notification_log.db-journal	4612	4	49760	
+32.338601	[WO]	/system/notification_log.db-journal	4616	4	49760	
+32.338623	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+32.338660	[WO]	/system/notification_log.db-journal	8716	4	49760	
+32.338717	[WO]	/system/notification_log.db-journal	8720	4	49760	
+32.338740	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+32.338779	[WO]	/system/notification_log.db-journal	12820	4	49760	
+32.338812	[FS]	/system/notification_log.db-journal	1	
+32.342294	[FS]	/system	1	
+32.347967	[WO]	/system/notification_log.db-journal	0	12	49760	
+32.348032	[FS]	/system/notification_log.db-journal	1	
+32.349194	[WO]	/system/notification_log.db	0	4096	61440	
+32.349236	[WO]	/system/notification_log.db	16384	4096	61440	
+32.349347	[WO]	/system/notification_log.db	57344	4096	61440	
+32.349379	[FS]	/system/notification_log.db	1	
+32.351982	[WO]	/system/notification_log.db-journal	0	28	49760	
+32.352016	[FS]	/system/notification_log.db-journal	1	
+32.427042	[CR]	/app/vmdl14736852.tmp/com.discord	
+35.411478	[WO]	/system/notification_log.db-journal	0	512	49760	
+35.411532	[WO]	/system/notification_log.db-journal	512	4	49760	
+35.411552	[WO]	/system/notification_log.db-journal	516	4096	49760	
+35.411585	[WO]	/system/notification_log.db-journal	4612	4	49760	
+35.411616	[WO]	/system/notification_log.db-journal	4616	4	49760	
+35.411635	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+35.412304	[WO]	/system/notification_log.db-journal	8716	4	49760	
+35.412357	[WO]	/system/notification_log.db-journal	8720	4	49760	
+35.412377	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+35.412408	[WO]	/system/notification_log.db-journal	12820	4	49760	
+35.412438	[FS]	/system/notification_log.db-journal	1	
+35.416362	[FS]	/system	1	
+35.419418	[WO]	/system/notification_log.db-journal	0	12	49760	
+35.419476	[FS]	/system/notification_log.db-journal	1	
+35.420427	[WO]	/system/notification_log.db	0	4096	61440	
+35.420467	[WO]	/system/notification_log.db	16384	4096	61440	
+35.420495	[WO]	/system/notification_log.db	57344	4096	61440	
+35.420527	[FS]	/system/notification_log.db	1	
+35.421081	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+35.421310	[CR]	/system/install_sessions.xml	
+35.422551	[WA]	/system/users/0/runtime-permissions.xml	0	441	0	
+35.422648	[FS]	/system/install_sessions.xml	0	
+35.423999	[WO]	/system/notification_log.db-journal	0	28	49760	
+35.424034	[FS]	/system/notification_log.db-journal	1	
+35.433194	[UN]	/system/install_sessions.xml.bak	
+39.438069	[RN]	/app/vmdl14736852.tmp/com.discord	/app/vmdl14736852.tmp/base.apk	
+39.450120	[MD]	/app/vmdl14736852.tmp/lib	
+39.451394	[MD]	/app/vmdl14736852.tmp/lib/arm	
+39.452091	[CR]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	
+39.453622	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	0	32768	374560	
+39.454400	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	32768	32768	374560	
+39.454913	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	65536	32768	374560	
+39.455783	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	98304	32768	374560	
+39.456653	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	131072	32768	374560	
+39.457664	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	163840	32768	374560	
+39.458470	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	196608	32768	374560	
+39.459253	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	229376	32768	374560	
+39.459997	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	262144	32768	374560	
+39.460865	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	294912	32768	374560	
+39.461498	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	327680	32768	374560	
+39.461842	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	360448	14112	374560	
+39.462228	[RN]	/app/vmdl14736852.tmp/lib/arm/tmp.x9qOKL	/app/vmdl14736852.tmp/lib/arm/libstatic-webp.so	
+39.462847	[CR]	/app/vmdl14736852.tmp/lib/arm/tmp.2e9U5K	
+39.464310	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.2e9U5K	0	32768	95908	
+39.465015	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.2e9U5K	32768	32768	95908	
+39.465776	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.2e9U5K	65536	30372	95908	
+39.466278	[RN]	/app/vmdl14736852.tmp/lib/arm/tmp.2e9U5K	/app/vmdl14736852.tmp/lib/arm/libgifimage.so	
+39.466771	[CR]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	
+39.468101	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	0	32768	243220	
+39.468947	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	32768	32768	243220	
+39.469579	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	65536	32768	243220	
+39.470348	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	98304	32768	243220	
+39.471010	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	131072	32768	243220	
+39.471797	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	163840	32768	243220	
+39.472428	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	196608	32768	243220	
+39.472765	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	229376	13844	243220	
+39.473136	[RN]	/app/vmdl14736852.tmp/lib/arm/tmp.WKWQeY	/app/vmdl14736852.tmp/lib/arm/libimagepipeline.so	
+39.473649	[CR]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	
+39.474909	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	0	32768	4593932	
+39.475382	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	32768	32768	4593932	
+39.475888	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	65536	32768	4593932	
+39.476338	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	98304	32768	4593932	
+39.476901	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	131072	32768	4593932	
+39.477554	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	163840	32768	4593932	
+39.478296	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	196608	32768	4593932	
+39.478934	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	229376	32768	4593932	
+39.479788	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	262144	32768	4593932	
+39.480484	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	294912	32768	4593932	
+39.481256	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	327680	32768	4593932	
+39.481958	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	360448	32768	4593932	
+39.482809	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	393216	32768	4593932	
+39.483486	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	425984	32768	4593932	
+39.484238	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	458752	32768	4593932	
+39.485045	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	491520	32768	4593932	
+39.485775	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	524288	32768	4593932	
+39.486635	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	557056	32768	4593932	
+39.487379	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	589824	32768	4593932	
+39.488198	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	622592	32768	4593932	
+39.489028	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	655360	32768	4593932	
+39.489583	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	688128	32768	4593932	
+39.490135	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	720896	32768	4593932	
+39.490910	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	753664	32768	4593932	
+39.491578	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	786432	32768	4593932	
+39.492316	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	819200	32768	4593932	
+39.493022	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	851968	32768	4593932	
+39.493803	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	884736	32768	4593932	
+39.494569	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	917504	32768	4593932	
+39.495335	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	950272	32768	4593932	
+39.496227	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	983040	32768	4593932	
+39.496858	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1015808	32768	4593932	
+39.497636	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1048576	32768	4593932	
+39.498475	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1081344	32768	4593932	
+39.499241	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1114112	32768	4593932	
+39.500108	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1146880	32768	4593932	
+39.500964	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1179648	32768	4593932	
+39.501727	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1212416	32768	4593932	
+39.502567	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1245184	32768	4593932	
+39.503401	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1277952	32768	4593932	
+39.504127	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1310720	32768	4593932	
+39.505016	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1343488	32768	4593932	
+39.505924	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1376256	32768	4593932	
+39.506588	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1409024	32768	4593932	
+39.507247	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1441792	32768	4593932	
+39.507901	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1474560	32768	4593932	
+39.508743	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1507328	32768	4593932	
+39.509468	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1540096	32768	4593932	
+39.510314	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1572864	32768	4593932	
+39.511110	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1605632	32768	4593932	
+39.511871	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1638400	32768	4593932	
+39.512732	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1671168	32768	4593932	
+39.513610	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1703936	32768	4593932	
+39.514450	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1736704	32768	4593932	
+39.515210	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1769472	32768	4593932	
+39.516072	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1802240	32768	4593932	
+39.516914	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1835008	32768	4593932	
+39.517646	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1867776	32768	4593932	
+39.518511	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1900544	32768	4593932	
+39.519316	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1933312	32768	4593932	
+39.520120	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1966080	32768	4593932	
+39.520984	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	1998848	32768	4593932	
+39.521880	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2031616	32768	4593932	
+39.522659	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2064384	32768	4593932	
+39.523492	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2097152	32768	4593932	
+39.524304	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2129920	32768	4593932	
+39.524939	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2162688	32768	4593932	
+39.525863	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2195456	32768	4593932	
+39.526715	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2228224	32768	4593932	
+39.527484	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2260992	32768	4593932	
+39.528328	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2293760	32768	4593932	
+39.529220	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2326528	32768	4593932	
+39.529989	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2359296	32768	4593932	
+39.530736	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2392064	32768	4593932	
+39.531577	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2424832	32768	4593932	
+39.532436	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2457600	32768	4593932	
+39.533261	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2490368	32768	4593932	
+39.534053	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2523136	32768	4593932	
+39.534907	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2555904	32768	4593932	
+39.535680	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2588672	32768	4593932	
+39.536618	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2621440	32768	4593932	
+39.537465	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2654208	32768	4593932	
+39.538056	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2686976	32768	4593932	
+39.538883	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2719744	32768	4593932	
+39.540017	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2752512	32768	4593932	
+39.540990	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2785280	32768	4593932	
+39.541899	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2818048	32768	4593932	
+39.542721	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2850816	32768	4593932	
+39.543762	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2883584	32768	4593932	
+39.544577	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2916352	32768	4593932	
+39.545425	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2949120	32768	4593932	
+39.546358	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	2981888	32768	4593932	
+39.547265	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3014656	32768	4593932	
+39.548035	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3047424	32768	4593932	
+39.548652	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3080192	32768	4593932	
+39.549453	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3112960	32768	4593932	
+39.550289	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3145728	32768	4593932	
+39.551173	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3178496	32768	4593932	
+39.551979	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3211264	32768	4593932	
+39.552683	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3244032	32768	4593932	
+39.553544	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3276800	32768	4593932	
+39.554396	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3309568	32768	4593932	
+39.555180	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3342336	32768	4593932	
+39.556122	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3375104	32768	4593932	
+39.556974	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3407872	32768	4593932	
+39.557851	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3440640	32768	4593932	
+39.558627	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3473408	32768	4593932	
+39.559892	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3506176	32768	4593932	
+39.560724	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3538944	32768	4593932	
+39.561428	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3571712	32768	4593932	
+39.562175	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3604480	32768	4593932	
+39.562844	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3637248	32768	4593932	
+39.563583	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3670016	32768	4593932	
+39.564081	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3702784	32768	4593932	
+39.564652	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3735552	32768	4593932	
+39.565211	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3768320	32768	4593932	
+39.565803	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3801088	32768	4593932	
+39.566355	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3833856	32768	4593932	
+39.566913	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3866624	32768	4593932	
+39.567495	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3899392	32768	4593932	
+39.568064	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3932160	32768	4593932	
+39.568562	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3964928	32768	4593932	
+39.569165	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	3997696	32768	4593932	
+39.569579	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4030464	32768	4593932	
+39.569984	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4063232	32768	4593932	
+39.570446	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4096000	32768	4593932	
+39.571088	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4128768	32768	4593932	
+39.572486	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4161536	32768	4593932	
+39.573411	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4194304	32768	4593932	
+39.574107	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4227072	32768	4593932	
+39.574728	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4259840	32768	4593932	
+39.575488	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4292608	32768	4593932	
+39.576758	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4325376	32768	4593932	
+39.577409	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4358144	32768	4593932	
+39.578190	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4390912	32768	4593932	
+39.578954	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4423680	32768	4593932	
+39.579579	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4456448	32768	4593932	
+39.580166	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4489216	32768	4593932	
+39.580781	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4521984	32768	4593932	
+39.581513	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4554752	32768	4593932	
+39.581770	[WO]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	4587520	6412	4593932	
+39.582112	[RN]	/app/vmdl14736852.tmp/lib/arm/tmp.mwnsSn	/app/vmdl14736852.tmp/lib/arm/libdiscord.so	
+44.873619	[MD]	/app/vmdl14736852.tmp/oat	
+44.883124	[MD]	/app/vmdl14736852.tmp/oat/arm	
+44.883890	[CR]	/app/vmdl14736852.tmp/oat/arm/base.odex	
+44.887978	[CR]	/dalvik-cache/profiles/com.discord	
+56.232645	[MD]	/data/com.discord	
+56.688924	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+56.689138	[CR]	/system/install_sessions.xml	
+56.689512	[WA]	/system/install_sessions.xml	0	70	0	
+56.689610	[FS]	/system/install_sessions.xml	0	
+56.703071	[UN]	/system/install_sessions.xml.bak	
+56.927737	[WO]	/system/notification_log.db-journal	0	512	49760	
+56.927798	[WO]	/system/notification_log.db-journal	512	4	49760	
+56.927821	[WO]	/system/notification_log.db-journal	516	4096	49760	
+56.927855	[WO]	/system/notification_log.db-journal	4612	4	49760	
+56.927894	[WO]	/system/notification_log.db-journal	4616	4	49760	
+56.927915	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+56.927948	[WO]	/system/notification_log.db-journal	8716	4	49760	
+56.928000	[WO]	/system/notification_log.db-journal	8720	4	49760	
+56.928021	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+56.928053	[WO]	/system/notification_log.db-journal	12820	4	49760	
+56.928085	[FS]	/system/notification_log.db-journal	1	
+56.933025	[FS]	/system	1	
+56.941015	[WO]	/system/notification_log.db-journal	0	12	49760	
+56.941791	[FS]	/system/notification_log.db-journal	1	
+56.942837	[WO]	/system/notification_log.db	0	4096	61440	
+56.942885	[WO]	/system/notification_log.db	16384	4096	61440	
+56.942911	[WO]	/system/notification_log.db	57344	4096	61440	
+56.942943	[FS]	/system/notification_log.db	1	
+56.946667	[WO]	/system/notification_log.db-journal	0	28	49760	
+56.946726	[FS]	/system/notification_log.db-journal	1	
+56.950534	[WO]	/system/notification_log.db-journal	0	512	49760	
+56.950564	[WO]	/system/notification_log.db-journal	512	4	49760	
+56.950585	[WO]	/system/notification_log.db-journal	516	4096	49760	
+56.950618	[WO]	/system/notification_log.db-journal	4612	4	49760	
+56.950653	[WO]	/system/notification_log.db-journal	4616	4	49760	
+56.950674	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+56.950706	[WO]	/system/notification_log.db-journal	8716	4	49760	
+56.950759	[WO]	/system/notification_log.db-journal	8720	4	49760	
+56.950782	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+56.950817	[WO]	/system/notification_log.db-journal	12820	4	49760	
+56.950850	[FS]	/system/notification_log.db-journal	1	
+56.957148	[FS]	/system	1	
+56.971633	[WO]	/system/notification_log.db-journal	0	12	49760	
+56.972787	[FS]	/system/notification_log.db-journal	1	
+56.974798	[WO]	/system/notification_log.db	0	4096	61440	
+56.974848	[WO]	/system/notification_log.db	16384	4096	61440	
+56.974876	[WO]	/system/notification_log.db	57344	4096	61440	
+56.974908	[FS]	/system/notification_log.db	1	
+56.979580	[WO]	/system/notification_log.db-journal	0	28	49760	
+56.979753	[FS]	/system/notification_log.db-journal	1	
+57.061281	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+57.061585	[CR]	/system/users/0/runtime-permissions.xml	
+57.071168	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+57.081216	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+57.081370	[FS]	/system/users/0/runtime-permissions.xml	0	
+57.088064	[UN]	/system/users/0/runtime-permissions.xml.bak	
+62.618495	[CR]	/system/recent_images/2_task_thumbnail.png	
+62.619547	[WA]	/system/recent_images/2_task_thumbnail.png	0	8	0	
+62.619872	[WA]	/system/recent_images/2_task_thumbnail.png	8	8	8	
+62.620062	[WA]	/system/recent_images/2_task_thumbnail.png	16	13	16	
+62.620246	[WA]	/system/recent_images/2_task_thumbnail.png	29	4	29	
+62.620423	[WA]	/system/recent_images/2_task_thumbnail.png	33	8	33	
+62.620600	[WA]	/system/recent_images/2_task_thumbnail.png	41	4	41	
+62.620776	[WA]	/system/recent_images/2_task_thumbnail.png	45	4	45	
+62.691643	[WA]	/system/recent_images/2_task_thumbnail.png	49	8	49	
+62.691731	[WA]	/system/recent_images/2_task_thumbnail.png	57	4096	57	
+62.691815	[WA]	/system/recent_images/2_task_thumbnail.png	4153	4096	4153	
+62.691925	[WA]	/system/recent_images/2_task_thumbnail.png	8249	4	8249	
+62.692092	[WA]	/system/recent_images/2_task_thumbnail.png	8253	8	8253	
+62.692141	[WA]	/system/recent_images/2_task_thumbnail.png	8261	4096	8261	
+62.692215	[WA]	/system/recent_images/2_task_thumbnail.png	12357	4096	12357	
+62.692318	[WA]	/system/recent_images/2_task_thumbnail.png	16453	4	16453	
+62.756491	[WA]	/system/recent_images/2_task_thumbnail.png	16457	8	16457	
+62.756574	[WA]	/system/recent_images/2_task_thumbnail.png	16465	4096	16465	
+62.756662	[WA]	/system/recent_images/2_task_thumbnail.png	20561	4096	20561	
+62.756772	[WA]	/system/recent_images/2_task_thumbnail.png	24657	4	24657	
+62.756973	[WA]	/system/recent_images/2_task_thumbnail.png	24661	8	24661	
+62.757022	[WA]	/system/recent_images/2_task_thumbnail.png	24669	4096	24669	
+62.757098	[WA]	/system/recent_images/2_task_thumbnail.png	28765	4096	28765	
+62.757202	[WA]	/system/recent_images/2_task_thumbnail.png	32861	4	32861	
+62.801762	[WA]	/system/recent_images/2_task_thumbnail.png	32865	8	32865	
+62.801855	[WA]	/system/recent_images/2_task_thumbnail.png	32873	4096	32873	
+62.801946	[WA]	/system/recent_images/2_task_thumbnail.png	36969	4096	36969	
+62.802057	[WA]	/system/recent_images/2_task_thumbnail.png	41065	4	41065	
+62.802262	[WA]	/system/recent_images/2_task_thumbnail.png	41069	8	41069	
+62.802311	[WA]	/system/recent_images/2_task_thumbnail.png	41077	4096	41077	
+62.802387	[WA]	/system/recent_images/2_task_thumbnail.png	45173	4096	45173	
+62.802490	[WA]	/system/recent_images/2_task_thumbnail.png	49269	4	49269	
+62.825000	[WA]	/system/recent_images/2_task_thumbnail.png	49273	8	49273	
+62.825072	[WA]	/system/recent_images/2_task_thumbnail.png	49281	4096	49281	
+62.825161	[WA]	/system/recent_images/2_task_thumbnail.png	53377	4096	53377	
+62.825268	[WA]	/system/recent_images/2_task_thumbnail.png	57473	4	57473	
+62.847259	[WA]	/system/recent_images/2_task_thumbnail.png	57477	8	57477	
+62.847323	[WA]	/system/recent_images/2_task_thumbnail.png	57485	4096	57485	
+62.847400	[WA]	/system/recent_images/2_task_thumbnail.png	61581	4096	61581	
+62.847505	[WA]	/system/recent_images/2_task_thumbnail.png	65677	4	65677	
+62.847707	[WA]	/system/recent_images/2_task_thumbnail.png	65681	8	65681	
+62.847755	[WA]	/system/recent_images/2_task_thumbnail.png	65689	4096	65689	
+62.847830	[WA]	/system/recent_images/2_task_thumbnail.png	69785	4096	69785	
+62.847934	[WA]	/system/recent_images/2_task_thumbnail.png	73881	4	73881	
+62.876243	[WA]	/system/recent_images/2_task_thumbnail.png	73885	8	73885	
+62.876343	[WA]	/system/recent_images/2_task_thumbnail.png	73893	4096	73893	
+62.876456	[WA]	/system/recent_images/2_task_thumbnail.png	77989	4096	77989	
+62.876573	[WA]	/system/recent_images/2_task_thumbnail.png	82085	4	82085	
+62.876627	[WA]	/system/recent_images/2_task_thumbnail.png	82089	8	82089	
+62.876679	[WA]	/system/recent_images/2_task_thumbnail.png	82097	4096	82097	
+62.876758	[WA]	/system/recent_images/2_task_thumbnail.png	86193	4096	86193	
+62.876865	[WA]	/system/recent_images/2_task_thumbnail.png	90289	4	90289	
+62.876917	[WA]	/system/recent_images/2_task_thumbnail.png	90293	8	90293	
+62.876967	[WA]	/system/recent_images/2_task_thumbnail.png	90301	1607	90301	
+62.877025	[WA]	/system/recent_images/2_task_thumbnail.png	91908	4	91908	
+62.877077	[WA]	/system/recent_images/2_task_thumbnail.png	91912	8	91912	
+62.877128	[WA]	/system/recent_images/2_task_thumbnail.png	91920	4	91920	
+63.416621	[RN]	/system/recent_tasks/2_task.xml	/system/recent_tasks/2_task.xml.bak	
+63.416905	[CR]	/system/recent_tasks/2_task.xml	
+63.417040	[WA]	/system/recent_tasks/2_task.xml	0	908	0	
+63.417134	[WA]	/system/recent_tasks/2_task.xml	908	1	908	
+63.417187	[FS]	/system/recent_tasks/2_task.xml	0	
+63.425540	[UN]	/system/recent_tasks/2_task.xml.bak	
+63.966631	[CR]	/system/recent_tasks/3_task.xml	
+63.966752	[WA]	/system/recent_tasks/3_task.xml	0	843	0	
+63.966841	[WA]	/system/recent_tasks/3_task.xml	843	1	843	
+63.966895	[FS]	/system/recent_tasks/3_task.xml	0	

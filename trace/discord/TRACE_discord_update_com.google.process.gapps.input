@@ -1,0 +1,1446 @@
+1.458146	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+1.458192	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+1.458221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+1.458237	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+1.458264	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+1.458278	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+1.458304	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+1.458318	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+1.462116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+1.462135	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+1.462164	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+1.462179	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+1.462205	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+1.462220	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+1.462246	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+1.462261	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+1.504177	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	512	99008	
+1.504228	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	512	4	99008	
+1.504242	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	516	4096	99008	
+1.504266	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4612	4	99008	
+1.504297	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4616	4	99008	
+1.504312	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4620	4096	99008	
+1.504336	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8716	4	99008	
+1.504354	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8720	4	99008	
+1.504369	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8724	4096	99008	
+1.504392	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12820	4	99008	
+1.504416	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12824	4	99008	
+1.504431	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12828	4096	99008	
+1.504456	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16924	4	99008	
+1.505364	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16928	4	99008	
+1.505386	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16932	4096	99008	
+1.505411	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21028	4	99008	
+1.516545	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21032	4	99008	
+1.516588	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21036	4096	99008	
+1.516714	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	25132	4	99008	
+1.516744	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.520849	[FS]	/data/com.google.android.gms/databases	1	
+1.525189	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	12	99008	
+1.525222	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.526251	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	0	4096	147456	
+1.526297	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	24576	4096	147456	
+1.526318	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	86016	4096	147456	
+1.526339	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	135168	4096	147456	
+1.526360	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	139264	4096	147456	
+1.526379	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	143360	4096	147456	
+1.526405	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	1	
+1.530254	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	28	99008	
+1.530290	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.590832	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+1.590876	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+1.590904	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+1.590920	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+1.590946	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+1.590960	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+1.590986	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+1.591001	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+1.593855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+1.593880	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+1.593908	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+1.593923	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+1.593948	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+1.593965	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+1.593990	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+1.594004	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+1.620190	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+1.622853	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+1.622887	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+1.622904	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+1.622932	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+1.622947	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+1.622972	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+1.622986	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+1.627724	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+1.627768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+1.627796	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+1.627812	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+1.627837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+1.627851	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+1.627876	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+1.627890	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	
+1.630469	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181312	24	524288	
+1.630497	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181336	4096	524288	
+1.630547	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185432	24	524288	
+1.630563	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185456	4096	524288	
+1.630590	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189552	24	524288	
+1.630605	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189576	4096	524288	
+1.630631	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193672	24	524288	
+1.630646	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193696	4096	524288	
+1.635138	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197792	24	524288	
+1.635166	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197816	4096	524288	
+1.635196	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201912	24	524288	
+1.635211	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201936	4096	524288	
+1.635237	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206032	24	524288	
+1.635252	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206056	4096	524288	
+1.635279	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210152	24	524288	
+1.635294	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210176	4096	524288	
+1.639137	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214272	24	524288	
+1.639173	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214296	4096	524288	
+1.639202	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218392	24	524288	
+1.639272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218416	4096	524288	
+1.639299	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222512	24	524288	
+1.639314	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222536	4096	524288	
+1.639340	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226632	24	524288	
+1.639354	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226656	4096	524288	
+1.640572	[RN]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml.bak	
+1.641577	[CR]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	
+1.642022	[WA]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	0	128	0	
+1.642088	[FS]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	0	
+1.645124	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230752	24	524288	
+1.645145	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230776	4096	524288	
+1.645173	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234872	24	524288	
+1.645188	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234896	4096	524288	
+1.645213	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	238992	24	524288	
+1.645227	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	239016	4096	524288	
+1.645251	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243112	24	524288	
+1.645266	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243136	4096	524288	
+1.649030	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247232	24	524288	
+1.649063	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247256	4096	524288	
+1.649092	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251352	24	524288	
+1.649107	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251376	4096	524288	
+1.649134	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255472	24	524288	
+1.649149	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255496	4096	524288	
+1.649175	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259592	24	524288	
+1.649189	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259616	4096	524288	
+1.649216	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263712	24	524288	
+1.649230	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263736	4096	524288	
+1.649255	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267832	24	524288	
+1.649270	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267856	4096	524288	
+1.650411	[UN]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml.bak	
+1.653485	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271952	24	524288	
+1.653514	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271976	4096	524288	
+1.653542	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276072	24	524288	
+1.653558	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276096	4096	524288	
+1.653584	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280192	24	524288	
+1.653598	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280216	4096	524288	
+1.653624	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284312	24	524288	
+1.653638	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284336	4096	524288	
+1.656169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288432	24	524288	
+1.656206	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288456	4096	524288	
+1.656234	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292552	24	524288	
+1.656249	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292576	4096	524288	
+1.656275	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296672	24	524288	
+1.656290	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296696	4096	524288	
+1.656316	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300792	24	524288	
+1.656331	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300816	4096	524288	
+1.660552	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304912	24	524288	
+1.660586	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304936	4096	524288	
+1.660616	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309032	24	524288	
+1.660631	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309056	4096	524288	
+1.660658	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313152	24	524288	
+1.660673	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313176	4096	524288	
+1.660699	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317272	24	524288	
+1.660714	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317296	4096	524288	
+1.664352	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321392	24	524288	
+1.664378	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321416	4096	524288	
+1.664406	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325512	24	524288	
+1.664422	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325536	4096	524288	
+1.664448	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329632	24	524288	
+1.664462	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329656	4096	524288	
+1.664488	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333752	24	524288	
+1.664502	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333776	4096	524288	
+1.669053	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337872	24	524288	
+1.669099	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337896	4096	524288	
+1.669128	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	341992	24	524288	
+1.669144	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	342016	4096	524288	
+1.669169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346112	24	524288	
+1.669184	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346136	4096	524288	
+1.669210	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350232	24	524288	
+1.669224	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350256	4096	524288	
+1.673435	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354352	24	524288	
+1.673462	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354376	4096	524288	
+1.674272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358472	24	524288	
+1.674291	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358496	4096	524288	
+1.674319	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362592	24	524288	
+1.674334	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362616	4096	524288	
+1.674361	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366712	24	524288	
+1.674375	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366736	4096	524288	
+1.678804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370832	24	524288	
+1.678849	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370856	4096	524288	
+1.678878	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374952	24	524288	
+1.678893	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374976	4096	524288	
+1.678919	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379072	24	524288	
+1.678932	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379096	4096	524288	
+1.678954	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383192	24	524288	
+1.678967	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383216	4096	524288	
+1.681952	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387312	24	524288	
+1.681977	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387336	4096	524288	
+1.682052	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391432	24	524288	
+1.682066	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391456	4096	524288	
+1.682090	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395552	24	524288	
+1.682105	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395576	4096	524288	
+1.682131	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399672	24	524288	
+1.682145	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399696	4096	524288	
+1.685309	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403792	24	524288	
+1.685340	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403816	4096	524288	
+1.685372	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407912	24	524288	
+1.685387	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407936	4096	524288	
+1.685411	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412032	24	524288	
+1.685426	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412056	4096	524288	
+1.685566	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416152	24	524288	
+1.685579	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416176	4096	524288	
+1.685678	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+1.709249	[WO]	/data/com.google.android.gms/databases/playlog.db	0	4096	151552	
+1.709307	[WO]	/data/com.google.android.gms/databases/playlog.db	16384	4096	151552	
+1.709334	[WO]	/data/com.google.android.gms/databases/playlog.db	20480	4096	151552	
+1.709361	[WO]	/data/com.google.android.gms/databases/playlog.db	28672	4096	151552	
+1.709385	[WO]	/data/com.google.android.gms/databases/playlog.db	45056	4096	151552	
+1.709411	[WO]	/data/com.google.android.gms/databases/playlog.db	147456	4096	151552	
+1.709436	[WA]	/data/com.google.android.gms/databases/playlog.db	151552	4096	151552	
+1.709538	[FS]	/data/com.google.android.gms/databases/playlog.db	1	
+1.723750	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+1.723804	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+1.725577	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+1.725601	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+1.725629	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+1.725644	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+1.725670	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+1.725684	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+1.725710	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+1.725724	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+1.730313	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+1.730356	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+1.730385	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+1.730400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+1.730426	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+1.730440	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+1.730466	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+1.730480	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+1.732957	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+1.733102	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+1.733132	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+1.733146	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+1.733172	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+1.733187	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+1.733213	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+1.733228	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+1.736176	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49472	24	524288	
+1.736221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49496	4096	524288	
+1.736249	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53592	24	524288	
+1.736263	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53616	4096	524288	
+1.736289	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57712	24	524288	
+1.736303	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57736	4096	524288	
+1.736329	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61832	24	524288	
+1.736343	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61856	4096	524288	
+1.738589	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+1.738611	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+1.738639	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+1.738653	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+1.738681	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+1.738696	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+1.738722	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+1.738737	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+1.740835	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+1.740855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+1.740882	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+1.740897	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+1.740922	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+1.740937	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+1.740962	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+1.740977	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+1.742974	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98912	24	524288	
+1.742994	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98936	4096	524288	
+1.743021	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103032	24	524288	
+1.743036	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103056	4096	524288	
+1.743061	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107152	24	524288	
+1.743075	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107176	4096	524288	
+1.743101	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111272	24	524288	
+1.743116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111296	4096	524288	
+1.745582	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+1.745604	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+1.745632	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+1.745647	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+1.745672	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+1.745687	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+1.745712	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+1.745727	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+1.750075	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+1.750116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+1.750144	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+1.750160	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+1.750186	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+1.750201	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+1.750227	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+1.750241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+1.752768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+1.752791	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+1.752819	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+1.752834	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+1.752861	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+1.752875	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+1.752901	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+1.752916	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+1.752941	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+1.752956	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+1.752981	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+1.752996	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+1.755301	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+1.755321	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+1.755349	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+1.755364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	
+1.755390	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181312	24	524288	
+1.755405	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181336	4096	524288	
+1.755432	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185432	24	524288	
+1.755446	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185456	4096	524288	
+1.757837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189552	24	524288	
+1.770505	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189576	4096	524288	
+1.770553	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193672	24	524288	
+1.770569	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193696	4096	524288	
+1.770595	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197792	24	524288	
+1.770609	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197816	4096	524288	
+1.770635	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201912	24	524288	
+1.770650	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201936	4096	524288	
+1.773011	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206032	24	524288	
+1.773031	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206056	4096	524288	
+1.773058	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210152	24	524288	
+1.773073	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210176	4096	524288	
+1.773099	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214272	24	524288	
+1.773113	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214296	4096	524288	
+1.773139	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218392	24	524288	
+1.773153	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218416	4096	524288	
+1.775396	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222512	24	524288	
+1.775416	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222536	4096	524288	
+1.775444	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226632	24	524288	
+1.775459	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226656	4096	524288	
+1.775485	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230752	24	524288	
+1.775499	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230776	4096	524288	
+1.775525	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234872	24	524288	
+1.775539	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234896	4096	524288	
+1.777704	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	238992	24	524288	
+1.777734	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	239016	4096	524288	
+1.777761	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243112	24	524288	
+1.777776	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243136	4096	524288	
+1.777802	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247232	24	524288	
+1.777817	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247256	4096	524288	
+1.777843	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251352	24	524288	
+1.777857	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251376	4096	524288	
+1.783504	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255472	24	524288	
+1.783528	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255496	4096	524288	
+1.783557	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259592	24	524288	
+1.783572	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259616	4096	524288	
+1.783598	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263712	24	524288	
+1.783612	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263736	4096	524288	
+1.783639	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267832	24	524288	
+1.783653	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267856	4096	524288	
+5.155523	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304912	24	524288	
+5.155568	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304936	4096	524288	
+5.155597	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309032	24	524288	
+5.155611	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309056	4096	524288	
+5.155637	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313152	24	524288	
+5.155651	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313176	4096	524288	
+5.155676	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317272	24	524288	
+5.155691	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317296	4096	524288	
+5.159260	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321392	24	524288	
+5.159292	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321416	4096	524288	
+5.159320	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325512	24	524288	
+5.159335	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325536	4096	524288	
+5.159361	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329632	24	524288	
+5.159376	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329656	4096	524288	
+5.159402	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333752	24	524288	
+5.159417	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333776	4096	524288	
+9.350058	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337872	24	524288	
+9.350095	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337896	4096	524288	
+9.350122	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	341992	24	524288	
+9.350137	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	342016	4096	524288	
+9.350163	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346112	24	524288	
+9.350178	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346136	4096	524288	
+9.350204	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350232	24	524288	
+9.350218	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350256	4096	524288	
+9.367665	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354352	24	524288	
+9.367704	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354376	4096	524288	
+9.367732	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358472	24	524288	
+9.367746	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358496	4096	524288	
+9.367771	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362592	24	524288	
+9.367785	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362616	4096	524288	
+9.367811	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366712	24	524288	
+9.368371	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366736	4096	524288	
+9.373272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370832	24	524288	
+9.373535	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370856	4096	524288	
+9.373565	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374952	24	524288	
+9.373580	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374976	4096	524288	
+9.373604	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379072	24	524288	
+9.373616	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379096	4096	524288	
+9.373638	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383192	24	524288	
+9.373650	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383216	4096	524288	
+9.375762	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387312	24	524288	
+9.375780	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387336	4096	524288	
+9.375804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391432	24	524288	
+9.375817	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391456	4096	524288	
+9.375841	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395552	24	524288	
+9.375855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395576	4096	524288	
+9.375881	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399672	24	524288	
+9.375896	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399696	4096	524288	
+9.383103	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403792	24	524288	
+9.383141	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403816	4096	524288	
+9.383169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407912	24	524288	
+9.383184	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407936	4096	524288	
+9.383207	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412032	24	524288	
+9.383220	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412056	4096	524288	
+9.383241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416152	24	524288	
+9.383254	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416176	4096	524288	
+9.383342	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+9.395240	[WO]	/data/com.google.android.gms/databases/playlog.db	0	4096	155648	
+9.395298	[WO]	/data/com.google.android.gms/databases/playlog.db	16384	4096	155648	
+9.395325	[WO]	/data/com.google.android.gms/databases/playlog.db	20480	4096	155648	
+9.395352	[WO]	/data/com.google.android.gms/databases/playlog.db	28672	4096	155648	
+9.395376	[WO]	/data/com.google.android.gms/databases/playlog.db	45056	4096	155648	
+9.395401	[WO]	/data/com.google.android.gms/databases/playlog.db	151552	4096	155648	
+9.395426	[WA]	/data/com.google.android.gms/databases/playlog.db	155648	4096	155648	
+9.395605	[FS]	/data/com.google.android.gms/databases/playlog.db	1	
+9.431217	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+9.431270	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+9.432537	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+9.432558	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+9.432587	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+9.432602	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+9.432627	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+9.432641	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+9.432666	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+9.432680	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+9.450288	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+9.450331	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+9.450360	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+9.450374	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+9.450400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+9.450414	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+9.450439	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+9.450454	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+9.450479	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+9.450493	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+9.450518	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+9.450532	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+9.452789	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+9.452809	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+9.452837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+9.452851	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+9.452877	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49472	24	524288	
+9.452891	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49496	4096	524288	
+9.452916	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53592	24	524288	
+9.452930	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53616	4096	524288	
+9.455106	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57712	24	524288	
+9.455127	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57736	4096	524288	
+9.455154	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61832	24	524288	
+9.455169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61856	4096	524288	
+9.455194	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+9.455208	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+9.455235	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+9.455250	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+9.457767	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+9.457804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+9.457833	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+9.457847	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+9.457873	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+9.457887	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+9.457911	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+9.457925	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+9.460221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+9.460244	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+9.460272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+9.460287	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+9.460314	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98912	24	524288	
+9.460328	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98936	4096	524288	
+9.460355	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103032	24	524288	
+9.460369	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103056	4096	524288	
+47.480475	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	512	8720	
+47.480736	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	512	4	8720	
+47.480811	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	516	4096	8720	
+47.480951	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4612	4	8720	
+47.481129	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4616	4	8720	
+47.481208	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4620	4096	8720	
+47.481337	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	8716	4	8720	
+47.481439	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.489371	[FS]	/data/com.google.android.gms/databases	1	
+47.507757	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	12	8720	
+47.507901	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.509510	[WO]	/data/com.google.android.gms/databases/rmq.db	0	4096	24576	
+47.509668	[WO]	/data/com.google.android.gms/databases/rmq.db	20480	4096	24576	
+47.509788	[FS]	/data/com.google.android.gms/databases/rmq.db	1	
+47.512273	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	28	8720	
+47.512360	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.675178	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	512	37448	
+47.675206	[WO]	/data/com.google.android.gms/databases/ns.db-journal	512	4	37448	
+47.675219	[WO]	/data/com.google.android.gms/databases/ns.db-journal	516	4096	37448	
+47.675238	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4612	4	37448	
+47.675254	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4616	4	37448	
+47.675265	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4620	4096	37448	
+47.675284	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8716	4	37448	
+47.675316	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8720	4	37448	
+47.675327	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8724	4096	37448	
+47.675346	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12820	4	37448	
+47.675366	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.677632	[FS]	/data/com.google.android.gms/databases	1	
+47.679257	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	12	37448	
+47.679282	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.680053	[WO]	/data/com.google.android.gms/databases/ns.db	0	4096	73728	
+47.680076	[WO]	/data/com.google.android.gms/databases/ns.db	61440	4096	73728	
+47.680091	[WO]	/data/com.google.android.gms/databases/ns.db	69632	4096	73728	
+47.680108	[FS]	/data/com.google.android.gms/databases/ns.db	1	
+47.682208	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	28	37448	
+47.682223	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.686010	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	512	37448	
+47.686028	[WO]	/data/com.google.android.gms/databases/ns.db-journal	512	4	37448	
+47.686041	[WO]	/data/com.google.android.gms/databases/ns.db-journal	516	4096	37448	
+47.686060	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4612	4	37448	
+47.696237	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4616	4	37448	
+47.696252	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4620	4096	37448	
+47.696272	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8716	4	37448	
+47.696294	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8720	4	37448	
+47.696306	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8724	4096	37448	
+47.696327	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12820	4	37448	
+47.696366	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12824	4	37448	
+47.696377	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12828	4096	37448	
+47.696397	[WO]	/data/com.google.android.gms/databases/ns.db-journal	16924	4	37448	
+47.696418	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.699730	[FS]	/data/com.google.android.gms/databases	1	
+47.701349	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	12	37448	
+47.701368	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.702160	[WO]	/data/com.google.android.gms/databases/ns.db	0	4096	73728	
+47.702186	[WO]	/data/com.google.android.gms/databases/ns.db	16384	4096	73728	
+47.702202	[WO]	/data/com.google.android.gms/databases/ns.db	61440	4096	73728	
+47.702218	[WO]	/data/com.google.android.gms/databases/ns.db	69632	4096	73728	
+47.702239	[FS]	/data/com.google.android.gms/databases/ns.db	1	
+47.704856	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	28	37448	
+47.704872	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+50.400321	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	512	41552	
+50.400359	[WO]	/data/com.google.android.gms/databases/herrevad-journal	512	4	41552	
+50.400370	[WO]	/data/com.google.android.gms/databases/herrevad-journal	516	4096	41552	
+50.400386	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4612	4	41552	
+50.400423	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4616	4	41552	
+50.400435	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4620	4096	41552	
+50.400450	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8716	4	41552	
+50.400485	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8720	4	41552	
+50.400496	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8724	4096	41552	
+50.400512	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12820	4	41552	
+50.400527	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12824	4	41552	
+50.400538	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12828	4096	41552	
+50.400555	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16924	4	41552	
+50.400575	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16928	4	41552	
+50.400587	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16932	4096	41552	
+50.400607	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21028	4	41552	
+50.400639	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21032	4	41552	
+50.400651	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21036	4096	41552	
+50.400670	[WO]	/data/com.google.android.gms/databases/herrevad-journal	25132	4	41552	
+50.400691	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.404127	[FS]	/data/com.google.android.gms/databases	1	
+50.408857	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	12	41552	
+50.408882	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.410917	[WO]	/data/com.google.android.gms/databases/herrevad	0	4096	163840	
+50.410946	[WO]	/data/com.google.android.gms/databases/herrevad	16384	4096	163840	
+50.410962	[WO]	/data/com.google.android.gms/databases/herrevad	106496	4096	163840	
+50.410975	[WO]	/data/com.google.android.gms/databases/herrevad	147456	4096	163840	
+50.410988	[WO]	/data/com.google.android.gms/databases/herrevad	155648	4096	163840	
+50.411001	[WO]	/data/com.google.android.gms/databases/herrevad	159744	4096	163840	
+50.411021	[FS]	/data/com.google.android.gms/databases/herrevad	1	
+50.416920	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	28	41552	
+50.416945	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.418915	[WO]	/data/com.google.android.gms/files/network_quality_report	0	319	7985	
+51.570297	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	512	41552	
+51.570336	[WO]	/data/com.google.android.gms/databases/herrevad-journal	512	4	41552	
+51.570347	[WO]	/data/com.google.android.gms/databases/herrevad-journal	516	4096	41552	
+51.570364	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4612	4	41552	
+51.570384	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4616	4	41552	
+51.570395	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4620	4096	41552	
+51.570411	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8716	4	41552	
+51.570430	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8720	4	41552	
+51.570440	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8724	4096	41552	
+51.570457	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12820	4	41552	
+51.570472	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12824	4	41552	
+51.570482	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12828	4096	41552	
+51.570501	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16924	4	41552	
+51.570521	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16928	4	41552	
+51.570532	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16932	4096	41552	
+51.570552	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21028	4	41552	
+51.570586	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21032	4	41552	
+51.570597	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21036	4096	41552	
+51.570617	[WO]	/data/com.google.android.gms/databases/herrevad-journal	25132	4	41552	
+51.570638	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.577105	[FS]	/data/com.google.android.gms/databases	1	
+51.582280	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	12	41552	
+51.582313	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.584662	[WO]	/data/com.google.android.gms/databases/herrevad	0	4096	163840	
+51.584689	[WO]	/data/com.google.android.gms/databases/herrevad	16384	4096	163840	
+51.584706	[WO]	/data/com.google.android.gms/databases/herrevad	106496	4096	163840	
+51.584721	[WO]	/data/com.google.android.gms/databases/herrevad	147456	4096	163840	
+51.584736	[WO]	/data/com.google.android.gms/databases/herrevad	155648	4096	163840	
+51.584751	[WO]	/data/com.google.android.gms/databases/herrevad	159744	4096	163840	
+51.584773	[FS]	/data/com.google.android.gms/databases/herrevad	1	
+51.589642	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	28	41552	
+51.589666	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.591045	[WA]	/data/com.google.android.gms/files/network_quality_report	8304	319	8304	
+51.870443	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.870656	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+51.870908	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+51.870967	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+51.880676	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.883103	[WO]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.usage	9728	38	9732	
+51.883746	[WO]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.usage	9762	38	9766	
+51.891591	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.891936	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+51.892256	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+51.892386	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+51.897835	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+52.950710	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs	13817769	580	13817769	
+52.951660	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs	13818349	2760	13818349	
+54.935320	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107152	24	524288	
+54.935364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107176	4096	524288	
+54.935388	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111272	24	524288	
+54.935400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111296	4096	524288	
+54.935421	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+54.935433	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+54.935454	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+54.935466	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+54.935487	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+54.935499	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+54.935519	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+54.935531	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+54.935552	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+54.935564	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+54.935585	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+54.935597	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+58.308655	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	512	41552	
+58.308687	[WO]	/data/com.google.android.gms/databases/cast.db-journal	512	4	41552	
+58.308700	[WO]	/data/com.google.android.gms/databases/cast.db-journal	516	4096	41552	
+58.308720	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4612	4	41552	
+58.308747	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4616	4	41552	
+58.308759	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4620	4096	41552	
+58.308778	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8716	4	41552	
+58.308873	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8720	4	41552	
+58.308885	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8724	4096	41552	
+58.308904	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12820	4	41552	
+58.308928	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12824	4	41552	
+58.308941	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12828	4096	41552	
+58.308960	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16924	4	41552	
+58.309051	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16928	4	41552	
+58.309063	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16932	4096	41552	
+58.309082	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21028	4	41552	
+58.309175	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21032	4	41552	
+58.309187	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21036	4096	41552	
+58.309206	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25132	4	41552	
+58.309229	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25136	4	41552	
+58.309241	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25140	4096	41552	
+58.309260	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29236	4	41552	
+58.309356	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29240	4	41552	
+58.309368	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29244	4096	41552	
+58.309386	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33340	4	41552	
+58.309411	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33344	4	41552	
+58.309423	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33348	4096	41552	
+58.309441	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37444	4	41552	
+58.309545	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37448	4	41552	
+58.309557	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37452	4096	41552	
+58.309577	[WO]	/data/com.google.android.gms/databases/cast.db-journal	41548	4	41552	
+58.309593	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	12	41552	
+58.309606	[FS]	/data/com.google.android.gms/databases/cast.db-journal	1	
+58.315697	[FS]	/data/com.google.android.gms/databases	1	
+58.319377	[WO]	/data/com.google.android.gms/databases/cast.db	0	4096	53248	
+58.319404	[WO]	/data/com.google.android.gms/databases/cast.db	12288	4096	53248	
+58.319419	[WO]	/data/com.google.android.gms/databases/cast.db	16384	4096	53248	
+58.319433	[WO]	/data/com.google.android.gms/databases/cast.db	20480	4096	53248	
+58.319447	[WO]	/data/com.google.android.gms/databases/cast.db	24576	4096	53248	
+58.319461	[WO]	/data/com.google.android.gms/databases/cast.db	28672	4096	53248	
+58.319475	[WO]	/data/com.google.android.gms/databases/cast.db	36864	4096	53248	
+58.319489	[WO]	/data/com.google.android.gms/databases/cast.db	40960	4096	53248	
+58.319503	[WO]	/data/com.google.android.gms/databases/cast.db	45056	4096	53248	
+58.319516	[WO]	/data/com.google.android.gms/databases/cast.db	49152	4096	53248	
+58.319536	[FS]	/data/com.google.android.gms/databases/cast.db	1	
+58.336943	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	28	41552	
+58.336965	[FS]	/data/com.google.android.gms/databases/cast.db-journal	1	
+119.312773	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status	0	1319	0	
+119.312820	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status	1319	4	1319	
+119.313666	[WA]	/user/0/com.google.android.gms/files/AppDataSearch/main/AppDataSearch-main-config-corpus-scratch-data.tmp	0	685	0	
+119.377265	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin	0	65	1131	
+119.377721	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_component_names.txt	0	47	2814	
+119.378012	[RN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.378212	[CR]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	
+119.378468	[WA]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	268	0	
+119.378528	[FS]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	
+119.402495	[UN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.456723	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.456944	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.457250	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.457312	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.465388	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.476511	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.476702	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.477167	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.481363	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.487325	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.492051	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin	0	65	1196	
+119.492500	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_component_names.txt	0	47	2861	
+119.492785	[RN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.492948	[CR]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	
+119.493166	[WA]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	268	0	
+119.493232	[FS]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	
+119.507989	[UN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.518919	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.526715	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.527201	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.527286	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.532307	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.539456	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.539657	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.539927	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.539988	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.543978	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.844567	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+119.844610	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+119.844633	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+119.844646	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+119.844668	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+119.844681	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+119.844703	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+119.844715	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+119.844737	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+119.844749	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+120.008691	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+120.008731	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+120.008755	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+120.008768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+120.008790	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+120.008803	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+120.008825	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+120.008837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+120.008860	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+120.008872	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	
+1.458146	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+1.458192	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+1.458221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+1.458237	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+1.458264	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+1.458278	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+1.458304	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+1.458318	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+1.462116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+1.462135	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+1.462164	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+1.462179	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+1.462205	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+1.462220	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+1.462246	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+1.462261	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+1.504177	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	512	99008	
+1.504228	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	512	4	99008	
+1.504242	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	516	4096	99008	
+1.504266	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4612	4	99008	
+1.504297	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4616	4	99008	
+1.504312	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	4620	4096	99008	
+1.504336	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8716	4	99008	
+1.504354	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8720	4	99008	
+1.504369	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	8724	4096	99008	
+1.504392	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12820	4	99008	
+1.504416	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12824	4	99008	
+1.504431	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	12828	4096	99008	
+1.504456	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16924	4	99008	
+1.505364	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16928	4	99008	
+1.505386	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	16932	4096	99008	
+1.505411	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21028	4	99008	
+1.516545	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21032	4	99008	
+1.516588	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	21036	4096	99008	
+1.516714	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	25132	4	99008	
+1.516744	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.520849	[FS]	/data/com.google.android.gms/databases	1	
+1.525189	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	12	99008	
+1.525222	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.526251	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	0	4096	147456	
+1.526297	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	24576	4096	147456	
+1.526318	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	86016	4096	147456	
+1.526339	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	135168	4096	147456	
+1.526360	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	139264	4096	147456	
+1.526379	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	143360	4096	147456	
+1.526405	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	1	
+1.530254	[WO]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	0	28	99008	
+1.530290	[FS]	/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db-journal	1	
+1.590832	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+1.590876	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+1.590904	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+1.590920	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+1.590946	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+1.590960	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+1.590986	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+1.591001	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+1.593855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+1.593880	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+1.593908	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+1.593923	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+1.593948	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+1.593965	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+1.593990	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+1.594004	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+1.620190	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+1.622853	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+1.622887	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+1.622904	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+1.622932	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+1.622947	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+1.622972	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+1.622986	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+1.627724	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+1.627768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+1.627796	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+1.627812	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+1.627837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+1.627851	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+1.627876	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+1.627890	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	
+1.630469	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181312	24	524288	
+1.630497	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181336	4096	524288	
+1.630547	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185432	24	524288	
+1.630563	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185456	4096	524288	
+1.630590	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189552	24	524288	
+1.630605	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189576	4096	524288	
+1.630631	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193672	24	524288	
+1.630646	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193696	4096	524288	
+1.635138	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197792	24	524288	
+1.635166	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197816	4096	524288	
+1.635196	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201912	24	524288	
+1.635211	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201936	4096	524288	
+1.635237	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206032	24	524288	
+1.635252	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206056	4096	524288	
+1.635279	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210152	24	524288	
+1.635294	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210176	4096	524288	
+1.639137	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214272	24	524288	
+1.639173	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214296	4096	524288	
+1.639202	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218392	24	524288	
+1.639272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218416	4096	524288	
+1.639299	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222512	24	524288	
+1.639314	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222536	4096	524288	
+1.639340	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226632	24	524288	
+1.639354	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226656	4096	524288	
+1.640572	[RN]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml.bak	
+1.641577	[CR]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	
+1.642022	[WA]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	0	128	0	
+1.642088	[FS]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml	0	
+1.645124	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230752	24	524288	
+1.645145	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230776	4096	524288	
+1.645173	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234872	24	524288	
+1.645188	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234896	4096	524288	
+1.645213	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	238992	24	524288	
+1.645227	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	239016	4096	524288	
+1.645251	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243112	24	524288	
+1.645266	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243136	4096	524288	
+1.649030	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247232	24	524288	
+1.649063	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247256	4096	524288	
+1.649092	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251352	24	524288	
+1.649107	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251376	4096	524288	
+1.649134	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255472	24	524288	
+1.649149	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255496	4096	524288	
+1.649175	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259592	24	524288	
+1.649189	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259616	4096	524288	
+1.649216	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263712	24	524288	
+1.649230	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263736	4096	524288	
+1.649255	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267832	24	524288	
+1.649270	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267856	4096	524288	
+1.650411	[UN]	/data/com.google.android.gms/shared_prefs/AppUsageEventWatcher.xml.bak	
+1.653485	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271952	24	524288	
+1.653514	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	271976	4096	524288	
+1.653542	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276072	24	524288	
+1.653558	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	276096	4096	524288	
+1.653584	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280192	24	524288	
+1.653598	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	280216	4096	524288	
+1.653624	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284312	24	524288	
+1.653638	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	284336	4096	524288	
+1.656169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288432	24	524288	
+1.656206	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	288456	4096	524288	
+1.656234	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292552	24	524288	
+1.656249	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	292576	4096	524288	
+1.656275	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296672	24	524288	
+1.656290	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	296696	4096	524288	
+1.656316	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300792	24	524288	
+1.656331	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	300816	4096	524288	
+1.660552	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304912	24	524288	
+1.660586	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304936	4096	524288	
+1.660616	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309032	24	524288	
+1.660631	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309056	4096	524288	
+1.660658	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313152	24	524288	
+1.660673	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313176	4096	524288	
+1.660699	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317272	24	524288	
+1.660714	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317296	4096	524288	
+1.664352	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321392	24	524288	
+1.664378	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321416	4096	524288	
+1.664406	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325512	24	524288	
+1.664422	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325536	4096	524288	
+1.664448	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329632	24	524288	
+1.664462	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329656	4096	524288	
+1.664488	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333752	24	524288	
+1.664502	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333776	4096	524288	
+1.669053	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337872	24	524288	
+1.669099	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337896	4096	524288	
+1.669128	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	341992	24	524288	
+1.669144	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	342016	4096	524288	
+1.669169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346112	24	524288	
+1.669184	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346136	4096	524288	
+1.669210	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350232	24	524288	
+1.669224	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350256	4096	524288	
+1.673435	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354352	24	524288	
+1.673462	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354376	4096	524288	
+1.674272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358472	24	524288	
+1.674291	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358496	4096	524288	
+1.674319	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362592	24	524288	
+1.674334	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362616	4096	524288	
+1.674361	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366712	24	524288	
+1.674375	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366736	4096	524288	
+1.678804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370832	24	524288	
+1.678849	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370856	4096	524288	
+1.678878	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374952	24	524288	
+1.678893	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374976	4096	524288	
+1.678919	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379072	24	524288	
+1.678932	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379096	4096	524288	
+1.678954	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383192	24	524288	
+1.678967	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383216	4096	524288	
+1.681952	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387312	24	524288	
+1.681977	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387336	4096	524288	
+1.682052	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391432	24	524288	
+1.682066	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391456	4096	524288	
+1.682090	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395552	24	524288	
+1.682105	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395576	4096	524288	
+1.682131	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399672	24	524288	
+1.682145	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399696	4096	524288	
+1.685309	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403792	24	524288	
+1.685340	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403816	4096	524288	
+1.685372	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407912	24	524288	
+1.685387	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407936	4096	524288	
+1.685411	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412032	24	524288	
+1.685426	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412056	4096	524288	
+1.685566	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416152	24	524288	
+1.685579	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416176	4096	524288	
+1.685678	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+1.709249	[WO]	/data/com.google.android.gms/databases/playlog.db	0	4096	151552	
+1.709307	[WO]	/data/com.google.android.gms/databases/playlog.db	16384	4096	151552	
+1.709334	[WO]	/data/com.google.android.gms/databases/playlog.db	20480	4096	151552	
+1.709361	[WO]	/data/com.google.android.gms/databases/playlog.db	28672	4096	151552	
+1.709385	[WO]	/data/com.google.android.gms/databases/playlog.db	45056	4096	151552	
+1.709411	[WO]	/data/com.google.android.gms/databases/playlog.db	147456	4096	151552	
+1.709436	[WA]	/data/com.google.android.gms/databases/playlog.db	151552	4096	151552	
+1.709538	[FS]	/data/com.google.android.gms/databases/playlog.db	1	
+1.723750	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+1.723804	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+1.725577	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+1.725601	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+1.725629	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+1.725644	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+1.725670	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+1.725684	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+1.725710	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+1.725724	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+1.730313	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+1.730356	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+1.730385	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+1.730400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+1.730426	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+1.730440	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+1.730466	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+1.730480	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+1.732957	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+1.733102	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+1.733132	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+1.733146	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+1.733172	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+1.733187	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+1.733213	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+1.733228	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+1.736176	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49472	24	524288	
+1.736221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49496	4096	524288	
+1.736249	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53592	24	524288	
+1.736263	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53616	4096	524288	
+1.736289	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57712	24	524288	
+1.736303	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57736	4096	524288	
+1.736329	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61832	24	524288	
+1.736343	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61856	4096	524288	
+1.738589	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+1.738611	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+1.738639	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+1.738653	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+1.738681	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+1.738696	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+1.738722	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+1.738737	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+1.740835	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+1.740855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+1.740882	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+1.740897	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+1.740922	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+1.740937	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+1.740962	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+1.740977	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+1.742974	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98912	24	524288	
+1.742994	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98936	4096	524288	
+1.743021	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103032	24	524288	
+1.743036	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103056	4096	524288	
+1.743061	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107152	24	524288	
+1.743075	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107176	4096	524288	
+1.743101	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111272	24	524288	
+1.743116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111296	4096	524288	
+1.745582	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+1.745604	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+1.745632	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+1.745647	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+1.745672	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+1.745687	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+1.745712	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+1.745727	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+1.750075	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+1.750116	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+1.750144	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+1.750160	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+1.750186	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+1.750201	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+1.750227	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+1.750241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+1.752768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+1.752791	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+1.752819	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+1.752834	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+1.752861	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+1.752875	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+1.752901	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+1.752916	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+1.752941	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+1.752956	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+1.752981	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+1.752996	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+1.755301	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+1.755321	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+1.755349	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+1.755364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	
+1.755390	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181312	24	524288	
+1.755405	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	181336	4096	524288	
+1.755432	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185432	24	524288	
+1.755446	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	185456	4096	524288	
+1.757837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189552	24	524288	
+1.770505	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	189576	4096	524288	
+1.770553	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193672	24	524288	
+1.770569	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	193696	4096	524288	
+1.770595	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197792	24	524288	
+1.770609	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	197816	4096	524288	
+1.770635	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201912	24	524288	
+1.770650	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	201936	4096	524288	
+1.773011	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206032	24	524288	
+1.773031	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	206056	4096	524288	
+1.773058	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210152	24	524288	
+1.773073	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	210176	4096	524288	
+1.773099	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214272	24	524288	
+1.773113	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	214296	4096	524288	
+1.773139	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218392	24	524288	
+1.773153	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	218416	4096	524288	
+1.775396	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222512	24	524288	
+1.775416	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	222536	4096	524288	
+1.775444	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226632	24	524288	
+1.775459	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	226656	4096	524288	
+1.775485	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230752	24	524288	
+1.775499	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	230776	4096	524288	
+1.775525	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234872	24	524288	
+1.775539	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	234896	4096	524288	
+1.777704	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	238992	24	524288	
+1.777734	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	239016	4096	524288	
+1.777761	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243112	24	524288	
+1.777776	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	243136	4096	524288	
+1.777802	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247232	24	524288	
+1.777817	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	247256	4096	524288	
+1.777843	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251352	24	524288	
+1.777857	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	251376	4096	524288	
+1.783504	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255472	24	524288	
+1.783528	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	255496	4096	524288	
+1.783557	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259592	24	524288	
+1.783572	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	259616	4096	524288	
+1.783598	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263712	24	524288	
+1.783612	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	263736	4096	524288	
+1.783639	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267832	24	524288	
+1.783653	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	267856	4096	524288	
+5.155523	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304912	24	524288	
+5.155568	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	304936	4096	524288	
+5.155597	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309032	24	524288	
+5.155611	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	309056	4096	524288	
+5.155637	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313152	24	524288	
+5.155651	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	313176	4096	524288	
+5.155676	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317272	24	524288	
+5.155691	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	317296	4096	524288	
+5.159260	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321392	24	524288	
+5.159292	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	321416	4096	524288	
+5.159320	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325512	24	524288	
+5.159335	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	325536	4096	524288	
+5.159361	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329632	24	524288	
+5.159376	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	329656	4096	524288	
+5.159402	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333752	24	524288	
+5.159417	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	333776	4096	524288	
+9.350058	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337872	24	524288	
+9.350095	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	337896	4096	524288	
+9.350122	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	341992	24	524288	
+9.350137	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	342016	4096	524288	
+9.350163	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346112	24	524288	
+9.350178	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	346136	4096	524288	
+9.350204	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350232	24	524288	
+9.350218	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	350256	4096	524288	
+9.367665	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354352	24	524288	
+9.367704	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	354376	4096	524288	
+9.367732	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358472	24	524288	
+9.367746	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	358496	4096	524288	
+9.367771	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362592	24	524288	
+9.367785	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	362616	4096	524288	
+9.367811	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366712	24	524288	
+9.368371	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	366736	4096	524288	
+9.373272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370832	24	524288	
+9.373535	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	370856	4096	524288	
+9.373565	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374952	24	524288	
+9.373580	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	374976	4096	524288	
+9.373604	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379072	24	524288	
+9.373616	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	379096	4096	524288	
+9.373638	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383192	24	524288	
+9.373650	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	383216	4096	524288	
+9.375762	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387312	24	524288	
+9.375780	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	387336	4096	524288	
+9.375804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391432	24	524288	
+9.375817	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	391456	4096	524288	
+9.375841	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395552	24	524288	
+9.375855	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	395576	4096	524288	
+9.375881	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399672	24	524288	
+9.375896	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	399696	4096	524288	
+9.383103	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403792	24	524288	
+9.383141	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	403816	4096	524288	
+9.383169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407912	24	524288	
+9.383184	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	407936	4096	524288	
+9.383207	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412032	24	524288	
+9.383220	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	412056	4096	524288	
+9.383241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416152	24	524288	
+9.383254	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	416176	4096	524288	
+9.383342	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+9.395240	[WO]	/data/com.google.android.gms/databases/playlog.db	0	4096	155648	
+9.395298	[WO]	/data/com.google.android.gms/databases/playlog.db	16384	4096	155648	
+9.395325	[WO]	/data/com.google.android.gms/databases/playlog.db	20480	4096	155648	
+9.395352	[WO]	/data/com.google.android.gms/databases/playlog.db	28672	4096	155648	
+9.395376	[WO]	/data/com.google.android.gms/databases/playlog.db	45056	4096	155648	
+9.395401	[WO]	/data/com.google.android.gms/databases/playlog.db	151552	4096	155648	
+9.395426	[WA]	/data/com.google.android.gms/databases/playlog.db	155648	4096	155648	
+9.395605	[FS]	/data/com.google.android.gms/databases/playlog.db	1	
+9.431217	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+9.431270	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+9.432537	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+9.432558	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+9.432587	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+9.432602	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+9.432627	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+9.432641	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+9.432666	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+9.432680	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+9.450288	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+9.450331	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+9.450360	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+9.450374	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+9.450400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+9.450414	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+9.450439	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+9.450454	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+9.450479	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+9.450493	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+9.450518	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+9.450532	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+9.452789	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+9.452809	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+9.452837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+9.452851	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+9.452877	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49472	24	524288	
+9.452891	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	49496	4096	524288	
+9.452916	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53592	24	524288	
+9.452930	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	53616	4096	524288	
+9.455106	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57712	24	524288	
+9.455127	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	57736	4096	524288	
+9.455154	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61832	24	524288	
+9.455169	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	61856	4096	524288	
+9.455194	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65952	24	524288	
+9.455208	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	65976	4096	524288	
+9.455235	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70072	24	524288	
+9.455250	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	70096	4096	524288	
+9.457767	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74192	24	524288	
+9.457804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	74216	4096	524288	
+9.457833	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78312	24	524288	
+9.457847	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	78336	4096	524288	
+9.457873	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82432	24	524288	
+9.457887	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	82456	4096	524288	
+9.457911	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86552	24	524288	
+9.457925	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	86576	4096	524288	
+9.460221	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90672	24	524288	
+9.460244	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	90696	4096	524288	
+9.460272	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94792	24	524288	
+9.460287	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	94816	4096	524288	
+9.460314	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98912	24	524288	
+9.460328	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	98936	4096	524288	
+9.460355	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103032	24	524288	
+9.460369	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	103056	4096	524288	
+47.480475	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	512	8720	
+47.480736	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	512	4	8720	
+47.480811	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	516	4096	8720	
+47.480951	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4612	4	8720	
+47.481129	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4616	4	8720	
+47.481208	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	4620	4096	8720	
+47.481337	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	8716	4	8720	
+47.481439	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.489371	[FS]	/data/com.google.android.gms/databases	1	
+47.507757	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	12	8720	
+47.507901	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.509510	[WO]	/data/com.google.android.gms/databases/rmq.db	0	4096	24576	
+47.509668	[WO]	/data/com.google.android.gms/databases/rmq.db	20480	4096	24576	
+47.509788	[FS]	/data/com.google.android.gms/databases/rmq.db	1	
+47.512273	[WO]	/data/com.google.android.gms/databases/rmq.db-journal	0	28	8720	
+47.512360	[FS]	/data/com.google.android.gms/databases/rmq.db-journal	1	
+47.675178	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	512	37448	
+47.675206	[WO]	/data/com.google.android.gms/databases/ns.db-journal	512	4	37448	
+47.675219	[WO]	/data/com.google.android.gms/databases/ns.db-journal	516	4096	37448	
+47.675238	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4612	4	37448	
+47.675254	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4616	4	37448	
+47.675265	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4620	4096	37448	
+47.675284	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8716	4	37448	
+47.675316	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8720	4	37448	
+47.675327	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8724	4096	37448	
+47.675346	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12820	4	37448	
+47.675366	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.677632	[FS]	/data/com.google.android.gms/databases	1	
+47.679257	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	12	37448	
+47.679282	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.680053	[WO]	/data/com.google.android.gms/databases/ns.db	0	4096	73728	
+47.680076	[WO]	/data/com.google.android.gms/databases/ns.db	61440	4096	73728	
+47.680091	[WO]	/data/com.google.android.gms/databases/ns.db	69632	4096	73728	
+47.680108	[FS]	/data/com.google.android.gms/databases/ns.db	1	
+47.682208	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	28	37448	
+47.682223	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.686010	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	512	37448	
+47.686028	[WO]	/data/com.google.android.gms/databases/ns.db-journal	512	4	37448	
+47.686041	[WO]	/data/com.google.android.gms/databases/ns.db-journal	516	4096	37448	
+47.686060	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4612	4	37448	
+47.696237	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4616	4	37448	
+47.696252	[WO]	/data/com.google.android.gms/databases/ns.db-journal	4620	4096	37448	
+47.696272	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8716	4	37448	
+47.696294	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8720	4	37448	
+47.696306	[WO]	/data/com.google.android.gms/databases/ns.db-journal	8724	4096	37448	
+47.696327	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12820	4	37448	
+47.696366	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12824	4	37448	
+47.696377	[WO]	/data/com.google.android.gms/databases/ns.db-journal	12828	4096	37448	
+47.696397	[WO]	/data/com.google.android.gms/databases/ns.db-journal	16924	4	37448	
+47.696418	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.699730	[FS]	/data/com.google.android.gms/databases	1	
+47.701349	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	12	37448	
+47.701368	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+47.702160	[WO]	/data/com.google.android.gms/databases/ns.db	0	4096	73728	
+47.702186	[WO]	/data/com.google.android.gms/databases/ns.db	16384	4096	73728	
+47.702202	[WO]	/data/com.google.android.gms/databases/ns.db	61440	4096	73728	
+47.702218	[WO]	/data/com.google.android.gms/databases/ns.db	69632	4096	73728	
+47.702239	[FS]	/data/com.google.android.gms/databases/ns.db	1	
+47.704856	[WO]	/data/com.google.android.gms/databases/ns.db-journal	0	28	37448	
+47.704872	[FS]	/data/com.google.android.gms/databases/ns.db-journal	1	
+50.400321	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	512	41552	
+50.400359	[WO]	/data/com.google.android.gms/databases/herrevad-journal	512	4	41552	
+50.400370	[WO]	/data/com.google.android.gms/databases/herrevad-journal	516	4096	41552	
+50.400386	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4612	4	41552	
+50.400423	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4616	4	41552	
+50.400435	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4620	4096	41552	
+50.400450	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8716	4	41552	
+50.400485	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8720	4	41552	
+50.400496	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8724	4096	41552	
+50.400512	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12820	4	41552	
+50.400527	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12824	4	41552	
+50.400538	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12828	4096	41552	
+50.400555	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16924	4	41552	
+50.400575	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16928	4	41552	
+50.400587	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16932	4096	41552	
+50.400607	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21028	4	41552	
+50.400639	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21032	4	41552	
+50.400651	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21036	4096	41552	
+50.400670	[WO]	/data/com.google.android.gms/databases/herrevad-journal	25132	4	41552	
+50.400691	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.404127	[FS]	/data/com.google.android.gms/databases	1	
+50.408857	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	12	41552	
+50.408882	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.410917	[WO]	/data/com.google.android.gms/databases/herrevad	0	4096	163840	
+50.410946	[WO]	/data/com.google.android.gms/databases/herrevad	16384	4096	163840	
+50.410962	[WO]	/data/com.google.android.gms/databases/herrevad	106496	4096	163840	
+50.410975	[WO]	/data/com.google.android.gms/databases/herrevad	147456	4096	163840	
+50.410988	[WO]	/data/com.google.android.gms/databases/herrevad	155648	4096	163840	
+50.411001	[WO]	/data/com.google.android.gms/databases/herrevad	159744	4096	163840	
+50.411021	[FS]	/data/com.google.android.gms/databases/herrevad	1	
+50.416920	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	28	41552	
+50.416945	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+50.418915	[WO]	/data/com.google.android.gms/files/network_quality_report	0	319	7985	
+51.570297	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	512	41552	
+51.570336	[WO]	/data/com.google.android.gms/databases/herrevad-journal	512	4	41552	
+51.570347	[WO]	/data/com.google.android.gms/databases/herrevad-journal	516	4096	41552	
+51.570364	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4612	4	41552	
+51.570384	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4616	4	41552	
+51.570395	[WO]	/data/com.google.android.gms/databases/herrevad-journal	4620	4096	41552	
+51.570411	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8716	4	41552	
+51.570430	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8720	4	41552	
+51.570440	[WO]	/data/com.google.android.gms/databases/herrevad-journal	8724	4096	41552	
+51.570457	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12820	4	41552	
+51.570472	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12824	4	41552	
+51.570482	[WO]	/data/com.google.android.gms/databases/herrevad-journal	12828	4096	41552	
+51.570501	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16924	4	41552	
+51.570521	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16928	4	41552	
+51.570532	[WO]	/data/com.google.android.gms/databases/herrevad-journal	16932	4096	41552	
+51.570552	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21028	4	41552	
+51.570586	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21032	4	41552	
+51.570597	[WO]	/data/com.google.android.gms/databases/herrevad-journal	21036	4096	41552	
+51.570617	[WO]	/data/com.google.android.gms/databases/herrevad-journal	25132	4	41552	
+51.570638	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.577105	[FS]	/data/com.google.android.gms/databases	1	
+51.582280	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	12	41552	
+51.582313	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.584662	[WO]	/data/com.google.android.gms/databases/herrevad	0	4096	163840	
+51.584689	[WO]	/data/com.google.android.gms/databases/herrevad	16384	4096	163840	
+51.584706	[WO]	/data/com.google.android.gms/databases/herrevad	106496	4096	163840	
+51.584721	[WO]	/data/com.google.android.gms/databases/herrevad	147456	4096	163840	
+51.584736	[WO]	/data/com.google.android.gms/databases/herrevad	155648	4096	163840	
+51.584751	[WO]	/data/com.google.android.gms/databases/herrevad	159744	4096	163840	
+51.584773	[FS]	/data/com.google.android.gms/databases/herrevad	1	
+51.589642	[WO]	/data/com.google.android.gms/databases/herrevad-journal	0	28	41552	
+51.589666	[FS]	/data/com.google.android.gms/databases/herrevad-journal	1	
+51.591045	[WA]	/data/com.google.android.gms/files/network_quality_report	8304	319	8304	
+51.870443	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.870656	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+51.870908	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+51.870967	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+51.880676	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.883103	[WO]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.usage	9728	38	9732	
+51.883746	[WO]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.usage	9762	38	9766	
+51.891591	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+51.891936	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+51.892256	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+51.892386	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+51.897835	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+52.950710	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs	13817769	580	13817769	
+52.951660	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs	13818349	2760	13818349	
+54.935320	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107152	24	524288	
+54.935364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	107176	4096	524288	
+54.935388	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111272	24	524288	
+54.935400	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	111296	4096	524288	
+54.935421	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115392	24	524288	
+54.935433	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	115416	4096	524288	
+54.935454	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119512	24	524288	
+54.935466	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	119536	4096	524288	
+54.935487	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123632	24	524288	
+54.935499	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	123656	4096	524288	
+54.935519	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127752	24	524288	
+54.935531	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	127776	4096	524288	
+54.935552	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131872	24	524288	
+54.935564	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	131896	4096	524288	
+54.935585	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	135992	24	524288	
+54.935597	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	136016	4096	524288	
+58.308655	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	512	41552	
+58.308687	[WO]	/data/com.google.android.gms/databases/cast.db-journal	512	4	41552	
+58.308700	[WO]	/data/com.google.android.gms/databases/cast.db-journal	516	4096	41552	
+58.308720	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4612	4	41552	
+58.308747	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4616	4	41552	
+58.308759	[WO]	/data/com.google.android.gms/databases/cast.db-journal	4620	4096	41552	
+58.308778	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8716	4	41552	
+58.308873	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8720	4	41552	
+58.308885	[WO]	/data/com.google.android.gms/databases/cast.db-journal	8724	4096	41552	
+58.308904	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12820	4	41552	
+58.308928	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12824	4	41552	
+58.308941	[WO]	/data/com.google.android.gms/databases/cast.db-journal	12828	4096	41552	
+58.308960	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16924	4	41552	
+58.309051	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16928	4	41552	
+58.309063	[WO]	/data/com.google.android.gms/databases/cast.db-journal	16932	4096	41552	
+58.309082	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21028	4	41552	
+58.309175	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21032	4	41552	
+58.309187	[WO]	/data/com.google.android.gms/databases/cast.db-journal	21036	4096	41552	
+58.309206	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25132	4	41552	
+58.309229	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25136	4	41552	
+58.309241	[WO]	/data/com.google.android.gms/databases/cast.db-journal	25140	4096	41552	
+58.309260	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29236	4	41552	
+58.309356	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29240	4	41552	
+58.309368	[WO]	/data/com.google.android.gms/databases/cast.db-journal	29244	4096	41552	
+58.309386	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33340	4	41552	
+58.309411	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33344	4	41552	
+58.309423	[WO]	/data/com.google.android.gms/databases/cast.db-journal	33348	4096	41552	
+58.309441	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37444	4	41552	
+58.309545	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37448	4	41552	
+58.309557	[WO]	/data/com.google.android.gms/databases/cast.db-journal	37452	4096	41552	
+58.309577	[WO]	/data/com.google.android.gms/databases/cast.db-journal	41548	4	41552	
+58.309593	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	12	41552	
+58.309606	[FS]	/data/com.google.android.gms/databases/cast.db-journal	1	
+58.315697	[FS]	/data/com.google.android.gms/databases	1	
+58.319377	[WO]	/data/com.google.android.gms/databases/cast.db	0	4096	53248	
+58.319404	[WO]	/data/com.google.android.gms/databases/cast.db	12288	4096	53248	
+58.319419	[WO]	/data/com.google.android.gms/databases/cast.db	16384	4096	53248	
+58.319433	[WO]	/data/com.google.android.gms/databases/cast.db	20480	4096	53248	
+58.319447	[WO]	/data/com.google.android.gms/databases/cast.db	24576	4096	53248	
+58.319461	[WO]	/data/com.google.android.gms/databases/cast.db	28672	4096	53248	
+58.319475	[WO]	/data/com.google.android.gms/databases/cast.db	36864	4096	53248	
+58.319489	[WO]	/data/com.google.android.gms/databases/cast.db	40960	4096	53248	
+58.319503	[WO]	/data/com.google.android.gms/databases/cast.db	45056	4096	53248	
+58.319516	[WO]	/data/com.google.android.gms/databases/cast.db	49152	4096	53248	
+58.319536	[FS]	/data/com.google.android.gms/databases/cast.db	1	
+58.336943	[WO]	/data/com.google.android.gms/databases/cast.db-journal	0	28	41552	
+58.336965	[FS]	/data/com.google.android.gms/databases/cast.db-journal	1	
+119.312773	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status	0	1319	0	
+119.312820	[WA]	/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.status	1319	4	1319	
+119.313666	[WA]	/user/0/com.google.android.gms/files/AppDataSearch/main/AppDataSearch-main-config-corpus-scratch-data.tmp	0	685	0	
+119.377265	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin	0	65	1131	
+119.377721	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_component_names.txt	0	47	2814	
+119.378012	[RN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.378212	[CR]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	
+119.378468	[WA]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	268	0	
+119.378528	[FS]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	
+119.402495	[UN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.456723	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.456944	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.457250	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.457312	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.465388	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.476511	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.476702	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.477167	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.481363	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.487325	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.492051	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_entries.bin	0	65	1196	
+119.492500	[WO]	/user/0/com.google.android.gms/files/icing_apps_corpus_component_names.txt	0	47	2861	
+119.492785	[RN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.492948	[CR]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	
+119.493166	[WA]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	268	0	
+119.493232	[FS]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml	0	
+119.507989	[UN]	/data/com.google.android.gms/shared_prefs/proxy-apps-corpus.xml.bak	
+119.518919	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.526715	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.527201	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.527286	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.532307	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.539456	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.539657	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+119.539927	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+119.539988	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+119.543978	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+119.844567	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140112	24	524288	
+119.844610	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	140136	4096	524288	
+119.844633	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144232	24	524288	
+119.844646	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	144256	4096	524288	
+119.844668	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148352	24	524288	
+119.844681	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	148376	4096	524288	
+119.844703	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152472	24	524288	
+119.844715	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	152496	4096	524288	
+119.844737	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156592	24	524288	
+119.844749	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	156616	4096	524288	
+120.008691	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160712	24	524288	
+120.008731	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	160736	4096	524288	
+120.008755	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164832	24	524288	
+120.008768	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	164856	4096	524288	
+120.008790	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168952	24	524288	
+120.008803	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	168976	4096	524288	
+120.008825	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173072	24	524288	
+120.008837	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	173096	4096	524288	
+120.008860	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177192	24	524288	
+120.008872	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	177216	4096	524288	

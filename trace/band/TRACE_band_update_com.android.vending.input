@@ -1,12 +1,13 @@
-1.449724	[CR]	/data/com.android.vending/cache/logs/null_account/eventlog.store-1048202158.log	
-1.450469	[UN]	/data/com.android.vending/cache/logs/null_account/eventlog.store-1086022808.log	
 1.672442	[UN]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store-39940589.log	
 1.673995	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
 1.674209	[CR]	/data/com.android.vending/shared_prefs/finsky.xml	
 1.674275	[CR]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	
 1.675088	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	0	1	0	
 1.675174	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	1	1	1	
+1.675221	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	3547	0	
 1.675234	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	2	3943	2	
+1.675501	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	3547	8180	3547	
+1.675674	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	11727	552	11727	
 1.675729	[FS]	/data/com.android.vending/shared_prefs/finsky.xml	0	
 1.691629	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
 2.453806	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
@@ -20,23 +21,54 @@
 2.463671	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
 2.464239	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
 2.464445	[CR]	/data/com.android.vending/shared_prefs/finsky.xml	
+2.465152	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	3547	0	
+2.465417	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	3547	8179	3547	
+2.465580	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	11726	552	11726	
 2.465633	[FS]	/data/com.android.vending/shared_prefs/finsky.xml	0	
 2.471495	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
 3.494192	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/play_metalog.log	0	3	0	
 3.494497	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/logs_upload_attempt.log	0	62	0	
 4.500720	[WA]	/user/0/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	12	0	
-5.315317	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	4096	0	
-120.235149	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	75	0	
-120.235198	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	75	17	75	
-120.749085	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	75	0	
-120.749130	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	75	17	75	
 120.808404	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4031	1	4031	
 120.808468	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4032	1	4032	
 120.808507	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4033	129	4033	
-120.841783	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	75	0	
-120.841833	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	75	17	75	
-120.981440	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	134	0	
-121.034601	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	134	0	
+122.346960	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4162	1	4162	
+122.347050	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4163	1	4163	
+122.347097	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4164	171	4164	
+1.672442	[UN]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store-39940589.log	
+1.673995	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+1.674209	[CR]	/data/com.android.vending/shared_prefs/finsky.xml	
+1.674275	[CR]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	
+1.675088	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	0	1	0	
+1.675174	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	1	1	1	
+1.675221	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	3547	0	
+1.675234	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	2	3943	2	
+1.675501	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	3547	8180	3547	
+1.675674	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	11727	552	11727	
+1.675729	[FS]	/data/com.android.vending/shared_prefs/finsky.xml	0	
+1.691629	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+2.453806	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+2.454723	[CR]	/data/com.android.vending/shared_prefs/finsky.xml	
+2.455418	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	3547	0	
+2.455688	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	3547	8180	3547	
+2.455850	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	11727	552	11727	
+2.455902	[FS]	/data/com.android.vending/shared_prefs/finsky.xml	0	
+2.457987	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	3945	1	3945	
+2.458592	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	3946	85	3946	
+2.463671	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+2.464239	[RN]	/data/com.android.vending/shared_prefs/finsky.xml	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+2.464445	[CR]	/data/com.android.vending/shared_prefs/finsky.xml	
+2.465152	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	3547	0	
+2.465417	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	3547	8179	3547	
+2.465580	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	11726	552	11726	
+2.465633	[FS]	/data/com.android.vending/shared_prefs/finsky.xml	0	
+2.471495	[UN]	/data/com.android.vending/shared_prefs/finsky.xml.bak	
+3.494192	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/play_metalog.log	0	3	0	
+3.494497	[WA]	/user/0/com.android.vending/cache/logs/null_account.metalog/logs_upload_attempt.log	0	62	0	
+4.500720	[WA]	/user/0/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	12	0	
+120.808404	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4031	1	4031	
+120.808468	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4032	1	4032	
+120.808507	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4033	129	4033	
 122.346960	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4162	1	4162	
 122.347050	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4163	1	4163	
 122.347097	[WA]	/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store1020644674.log	4164	171	4164	

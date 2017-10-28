@@ -1,5 +1,23 @@
-0.000000	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	7179	1	7179	
-0.000341	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	7180	92	7180	
+581.494848	[CR]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	
+581.508462	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	4095	1	0	
+581.508498	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	8191	1	4096	
+581.508521	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	12287	1	8192	
+581.508552	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	16383	1	12288	
+581.508575	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	20479	1	16384	
+581.508599	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	24575	1	20480	
+581.508622	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	28671	1	24576	
+581.508644	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	32767	1	28672	
+581.640687	[WO]	/data/com.google.android.videos/cache/applogcat/log_0	0	113	1538	
+581.648094	[WA]	/data/com.google.android.videos/cache/applogcat/log_0	1651	93	1651	
+581.662981	[WA]	/data/com.google.android.videos/cache/applogcat/log_0	1744	111	1744	
+581.664708	[WA]	/data/com.google.android.videos/cache/applogcat/log_0	1855	72	1855	
+581.700032	[WA]	/data/com.google.android.videos/cache/applogcat/log_0	1927	86	1927	
+581.766978	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	0	1	0	
+581.767050	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	1	95	1	
+583.537814	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	9	0	
+583.538771	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/logs_upload_attempt.log	0	2	0	
+881.849921	[UN]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store-227435435.log	
+883.876173	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	9	0	
 581.494848	[CR]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1137141616.log	
 581.508462	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	4095	1	0	
 581.508498	[WO]	/data/com.google.android.videos/databases/purchase_store.db-shm	8191	1	4096	

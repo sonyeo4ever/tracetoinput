@@ -1,0 +1,1242 @@
+           <...>-6267  [000] ....  1309.537822: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6267  [000] ....  1309.537907: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6267  [000] ....  1309.538898: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6267  [000] ....  1309.539239: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6267  [000] ....  1309.539552: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6267  [000] ....  1309.558678: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6268  [000] ....  1309.571149: do_filp_open: [OP]	mmcblk0p25	/system/bin/am	268
+           <...>-6268  [000] ....  1309.571275: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6268  [000] ....  1309.571301: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6268  [000] ....  1309.572060: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6268  [000] ....  1309.572435: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6268  [000] ....  1309.572752: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6268  [000] ....  1309.577654: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6268  [000] ....  1309.601340: do_filp_open: [OP]	mmcblk0p25	/system/bin/am	268
+           <...>-6268  [000] ....  1309.601627: do_filp_open: [OP]	mmcblk0p25	/system/bin/app_process	270
+           <...>-6268  [000] ....  1309.601729: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6268  [000] ....  1309.602585: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6268  [000] ....  1309.602930: do_filp_open: [OP]	mmcblk0p25	/system/lib/libutils.so	1341
+           <...>-6268  [000] ....  1309.603242: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6268  [000] ....  1309.603540: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbinder.so	1114
+           <...>-6268  [000] ....  1309.603854: do_filp_open: [OP]	mmcblk0p25	/system/lib/libandroid_runtime.so	1093
+           <...>-6268  [000] ....  1309.604175: do_filp_open: [OP]	mmcblk0p25	/system/lib/libwilhelm.so	1348
+           <...>-6268  [000] ....  1309.604485: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6268  [000] ....  1309.604797: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6268  [000] ....  1309.605120: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6268  [000] ....  1309.605460: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbacktrace.so	1110
+           <...>-6268  [000] ....  1309.605791: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmemtrack.so	1215
+           <...>-6268  [000] ....  1309.606097: do_filp_open: [OP]	mmcblk0p25	/system/lib/libandroidfw.so	1095
+           <...>-6268  [000] ....  1309.606404: do_filp_open: [OP]	mmcblk0p25	/system/lib/libexpat.so	1157
+           <...>-6268  [000] ....  1309.606706: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnativehelper.so	1230
+           <...>-6268  [000] ....  1309.607018: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetutils.so	1234
+           <...>-6268  [000] ....  1309.607326: do_filp_open: [OP]	mmcblk0p25	/system/lib/libui.so	1338
+           <...>-6268  [000] ....  1309.607644: do_filp_open: [OP]	mmcblk0p25	/system/lib/libgui.so	1176
+           <...>-6268  [000] ....  1309.607961: do_filp_open: [OP]	mmcblk0p25	/system/lib/libinput.so	1185
+           <...>-6268  [000] ....  1309.608293: do_filp_open: [OP]	mmcblk0p25	/system/lib/libinputflinger.so	1186
+           <...>-6268  [000] ....  1309.608623: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcamera_client.so	1120
+           <...>-6268  [000] ....  1309.608945: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcamera_metadata.so	1121
+           <...>-6268  [000] ....  1309.609259: do_filp_open: [OP]	mmcblk0p25	/system/lib/libskia.so	1283
+           <...>-6268  [000] ....  1309.609591: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsqlite.so	1294
+           <...>-6268  [000] ....  1309.609918: do_filp_open: [OP]	mmcblk0p25	/system/lib/libEGL.so	1066
+           <...>-6268  [000] ....  1309.610239: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLESv1_CM.so	1071
+           <...>-6268  [000] ....  1309.610558: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLESv2.so	1072
+           <...>-6268  [000] ....  1309.610919: do_filp_open: [OP]	mmcblk0p25	/system/lib/libETC1.so	1067
+           <...>-6268  [000] ....  1309.611869: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6268  [000] ....  1309.612206: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware_legacy.so	1178
+           <...>-6268  [000] ....  1309.612537: do_filp_open: [OP]	mmcblk0p25	/system/lib/libselinux.so	1279
+           <...>-6268  [000] ....  1309.612862: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsonivox.so	1287
+           <...>-6268  [000] ....  1309.613203: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcrypto.so	1137
+           <...>-6268  [000] ....  1309.613531: do_filp_open: [OP]	mmcblk0p25	/system/lib/libssl.so	1297
+           <...>-6268  [000] ....  1309.613855: do_filp_open: [OP]	mmcblk0p25	/system/lib/libicuuc.so	1183
+           <...>-6268  [000] ....  1309.614190: do_filp_open: [OP]	mmcblk0p25	/system/lib/libicui18n.so	1182
+           <...>-6268  [000] ....  1309.614518: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmedia.so	1208
+           <...>-6268  [000] ....  1309.614872: do_filp_open: [OP]	mmcblk0p25	/system/lib/libjpeg.so	1197
+           <...>-6268  [000] ....  1309.615196: do_filp_open: [OP]	mmcblk0p25	/system/lib/libusbhost.so	1340
+           <...>-6268  [000] ....  1309.615520: do_filp_open: [OP]	mmcblk0p25	/system/lib/libharfbuzz_ng.so	1179
+           <...>-6268  [000] ....  1309.615872: do_filp_open: [OP]	mmcblk0p25	/system/lib/libz.so	1351
+           <...>-6268  [000] ....  1309.616206: do_filp_open: [OP]	mmcblk0p25	/system/lib/libaudioutils.so	1109
+           <...>-6268  [000] ....  1309.616538: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpdfium.so	1256
+           <...>-6268  [000] ....  1309.616880: do_filp_open: [OP]	mmcblk0p25	/system/lib/libimg_utils.so	1184
+           <...>-6268  [000] ....  1309.617202: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6268  [000] ....  1309.617527: do_filp_open: [OP]	mmcblk0p25	/system/lib/libradio.so	1268
+           <...>-6268  [000] ....  1309.617871: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsoundtrigger.so	1289
+           <...>-6268  [000] ....  1309.618195: do_filp_open: [OP]	mmcblk0p25	/system/lib/libminikin.so	1216
+           <...>-6268  [000] ....  1309.618529: do_filp_open: [OP]	mmcblk0p25	/system/lib/libprocessgroup.so	1262
+           <...>-6268  [000] ....  1309.618849: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnativebridge.so	1229
+           <...>-6268  [000] ....  1309.619171: do_filp_open: [OP]	mmcblk0p25	/system/lib/libradio_metadata.so	1269
+           <...>-6268  [000] ....  1309.619489: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhwui.so	1181
+           <...>-6268  [000] ....  1309.619845: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright.so	1298
+           <...>-6268  [000] ....  1309.620191: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_foundation.so	1302
+           <...>-6268  [000] ....  1309.620521: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_http_support.so	1304
+           <...>-6268  [000] ....  1309.621183: do_filp_open: [OP]	mmcblk0p25	/system/lib/libeffects.so	1148
+           <...>-6268  [000] ....  1309.621526: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbase.so	1111
+           <...>-6268  [000] ....  1309.621860: do_filp_open: [OP]	mmcblk0p25	/system/lib/libunwind.so	1339
+           <...>-6268  [000] ....  1309.622223: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstdc++.so	1330
+           <...>-6268  [000] ....  1309.622571: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsync.so	1334
+           <...>-6268  [000] ....  1309.622995: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpng.so	1258
+           <...>-6268  [000] ....  1309.623351: do_filp_open: [OP]	mmcblk0p25	/system/lib/libft2.so	1172
+           <...>-6268  [000] ....  1309.623723: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLES_trace.so	1070
+           <...>-6268  [000] ....  1309.624090: do_filp_open: [OP]	mmcblk0p25	/system/lib/libwpa_client.so	1349
+           <...>-6268  [000] ....  1309.624475: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpcre.so	1255
+           <...>-6268  [000] ....  1309.624885: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnbaio.so	1231
+           <...>-6268  [000] ....  1309.625252: do_filp_open: [OP]	mmcblk0p25	/system/lib/libspeexresampler.so	1292
+           <...>-6268  [000] ....  1309.625695: do_filp_open: [OP]	mmcblk0p25	/system/lib/libRS.so	1082
+           <...>-6268  [000] ....  1309.626057: do_filp_open: [OP]	mmcblk0p25	/system/lib/libRScpp.so	1085
+           <...>-6268  [000] ....  1309.626410: do_filp_open: [OP]	mmcblk0p25	/system/lib/libdrmframework.so	1144
+           <...>-6268  [000] ....  1309.626765: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmediautils.so	1213
+           <...>-6268  [000] ....  1309.627108: do_filp_open: [OP]	mmcblk0p25	/system/lib/libopus.so	1251
+           <...>-6268  [000] ....  1309.627453: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_omx.so	1306
+           <...>-6268  [000] ....  1309.627824: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_yuv.so	1328
+           <...>-6268  [000] ....  1309.628176: do_filp_open: [OP]	mmcblk0p25	/system/lib/libvorbisidec.so	1343
+           <...>-6268  [000] ....  1309.628517: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpowermanager.so	1260
+           <...>-6268  [000] ....  1309.628853: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_enc_common.so	1301
+           <...>-6268  [000] ....  1309.629573: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_avc_common.so	1300
+           <...>-6268  [000] ....  1309.630033: do_filp_open: [OP]	mmcblk0p25	/system/lib/libprotobuf-cpp-lite.so	1263
+           <...>-6268  [000] ....  1309.630423: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcommon_time_client.so	1135
+           <...>-6268  [000] ....  1309.630850: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbcc.so	1112
+           <...>-6268  [000] ....  1309.631200: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbcinfo.so	1113
+           <...>-6268  [000] ....  1309.631570: do_filp_open: [OP]	mmcblk0p25	/system/lib/libLLVM.so	1075
+           <...>-6257  [001] ....  1310.101846: do_filp_open: [OP]	mmcblk0p25	/system/lib/libart.so	1098
+           <...>-6257  [001] ....  1310.102339: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsigchain.so	1282
+           <...>-6257  [001] ....  1310.111977: do_filp_open: [OP]	mmcblk0p25	/system/framework/arm/boot.art	950
+           <...>-6257  [001] ....  1310.112025: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6257  [001] ....  1310.112120: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6257  [001] ....  1310.112400: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.oat	49157
+           <...>-6257  [001] ....  1310.147821: do_filp_open: [OP]	mmcblk0p25	/system/lib/libjavacore.so	1191
+           <...>-6257  [001] ....  1310.151229: do_filp_open: [OP]	mmcblk0p25	/system/usr/icu/icudt55l.dat	1664
+           <...>-6257  [001] ....  1310.163372: do_filp_open: [OP]	mmcblk0p25	/system/framework/am.jar	944
+           <...>-6257  [001] ....  1310.163615: do_filp_open: [OP]	mmcblk0p25	/system/framework/oat/arm/am.odex	983
+           <...>-6257  [001] ....  1310.191571: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/memtrack.msm8974.so	1060
+           <...>-6257  [001] ....  1310.202859: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6257  [001] ....  1310.204221: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-5682  [000] ....  1310.274416: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6268  [002] ....  1310.306752: do_filp_open: [OP]	mmcblk0p25	/system/lib/libart.so	1098
+           <...>-6268  [002] ....  1310.307477: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsigchain.so	1282
+           <...>-6268  [002] ....  1310.317506: do_filp_open: [OP]	mmcblk0p25	/system/framework/arm/boot.art	950
+           <...>-6268  [002] ....  1310.317553: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6268  [002] ....  1310.317650: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6268  [002] ....  1310.317922: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.oat	49157
+           <...>-6268  [002] ....  1310.355781: do_filp_open: [OP]	mmcblk0p25	/system/lib/libjavacore.so	1191
+           <...>-6268  [002] ....  1310.359657: do_filp_open: [OP]	mmcblk0p25	/system/usr/icu/icudt55l.dat	1664
+           <...>-6268  [000] ....  1310.373169: do_filp_open: [OP]	mmcblk0p25	/system/framework/am.jar	944
+           <...>-6268  [000] ....  1310.373427: do_filp_open: [OP]	mmcblk0p25	/system/framework/oat/arm/am.odex	983
+           <...>-6268  [003] ....  1310.411543: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/memtrack.msm8974.so	1060
+           <...>-6268  [003] ....  1310.426814: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6268  [003] ....  1310.428700: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6316  [001] ....  1312.310240: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6316  [001] ....  1312.310376: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6316  [001] ....  1312.311131: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6316  [001] ....  1312.311491: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6316  [001] ....  1312.311793: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6316  [001] ....  1312.316920: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-5682  [001] ....  1312.345888: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6326  [002] ....  1312.390189: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6326  [002] ....  1312.390347: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6326  [002] ....  1312.391498: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6326  [002] ....  1312.392270: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6326  [002] ....  1312.392859: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6326  [002] ....  1312.407060: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6326  [002] ....  1312.411339: do_filp_open: [OP]	loop0	/su/bin/su	17
+           <...>-6326  [000] ....  1312.411482: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6326  [000] ....  1312.412603: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstdc++.so	1330
+           <...>-6326  [000] ....  1312.412960: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6326  [000] ....  1312.413245: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6330  [002] ....  1312.414227: vfs_mkdir: [MD]	cgroup	/uid_10087/pid_6330	45991
+           <...>-6326  [000] ....  1312.417707: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6326  [000] ....  1312.418067: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6326  [000] ....  1312.425705: do_filp_open: [OP]	mmcblk0p25	/system/build.prop	523
+           <...>-3565  [001] ....  1312.432588: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.google.android.googlequicksearchbox/app_prediction	114951
+           <...>-6343  [000] ....  1312.435456: do_filp_open: [OP]	mmcblk0p25	/system/build.prop	523
+           <...>-6343  [000] ....  1312.436659: do_filp_open: [OP]	mmcblk0p28	/data/user/0/eu.chainfire.supersu/files/supersu.cfg	180226
+           <...>-6343  [000] ....  1312.436777: do_filp_open: [OP]	mmcblk0p25	/system/build.prop	523
+           <...>-6343  [000] ....  1312.436834: do_filp_open: [OP]	mmcblk0p25	/system/build.prop	523
+           <...>-3565  [000] ....  1312.437533: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.google.android.googlequicksearchbox/app_prediction/events_2493	115043
+           <...>-3565  [000] ....  1312.437660: ext4_file_write: [W]	mmcblk0p28	115043	0	130	2342
+           <...>-6343  [002] ....  1312.439107: vfs_create.part.13: [CR]	mmcblk0p28	/data/eu.chainfire.supersu/logs/L15081425670000.GRANTED.ADB shell	180452
+           <...>-6343  [002] ....  1312.439125: do_filp_open: [OP]	mmcblk0p28	/data/user/0/eu.chainfire.supersu/logs/L15081425670000.GRANTED.ADB shell	180452
+           <...>-3565  [000] ....  1312.439200: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.google.android.googlequicksearchbox/files/engine_16	114930
+           <...>-6347  [000] ....  1312.447625: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6347  [001] ....  1312.448493: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-3565  [000] ....  1312.448805: ext4_file_write: [W]	mmcblk0p28	114930	0	5139	0
+           <...>-6347  [000] ....  1312.450962: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6347  [000] ....  1312.451323: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6349  [002] ....  1312.451344: do_filp_open: [OP]	loop0	/su/bin/sush	23
+           <...>-6349  [002] ....  1312.451468: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6347  [000] ....  1312.451655: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6349  [002] ....  1312.452292: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6349  [002] ....  1312.452616: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6349  [002] ....  1312.452912: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6347  [000] ....  1312.458313: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6349  [001] .N..  1312.460668: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6350  [002] ....  1312.462293: do_filp_open: [OP]	mmcblk0p25	/system/bin/am	268
+           <...>-6350  [002] ....  1312.462435: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6350  [002] ....  1312.462461: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6350  [002] ....  1312.463384: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6350  [002] ....  1312.463894: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6350  [002] ....  1312.464238: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6349  [000] ....  1312.469160: do_filp_open: [OP]	mmcblk0p28	/data/lookOpenFile_arm	17
+           <...>-6350  [001] ....  1312.477893: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6330  [001] ....  1312.482208: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1312.489115: do_filp_open: [OP]	mmcblk0p25	/system/etc/event-log-tags	550
+           <...>-6330  [001] ....  1312.493817: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6350  [003] ....  1312.498144: do_filp_open: [OP]	mmcblk0p25	/system/bin/am	268
+           <...>-6350  [003] ....  1312.498565: do_filp_open: [OP]	mmcblk0p25	/system/bin/app_process	270
+           <...>-6350  [001] ....  1312.498850: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6330  [001] ....  1312.500175: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/oat/arm/base.odex	163923
+           <...>-6330  [001] ....  1312.502088: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6350  [001] ....  1312.505193: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6350  [001] ....  1312.505548: do_filp_open: [OP]	mmcblk0p25	/system/lib/libutils.so	1341
+           <...>-6350  [001] ....  1312.505874: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6350  [001] ....  1312.506199: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbinder.so	1114
+           <...>-6350  [001] ....  1312.506530: do_filp_open: [OP]	mmcblk0p25	/system/lib/libandroid_runtime.so	1093
+           <...>-6350  [001] ....  1312.506862: do_filp_open: [OP]	mmcblk0p25	/system/lib/libwilhelm.so	1348
+           <...>-6350  [001] ....  1312.507317: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6350  [001] ....  1312.507650: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6350  [001] ....  1312.508002: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6350  [001] ....  1312.508365: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbacktrace.so	1110
+           <...>-6350  [001] ....  1312.508714: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmemtrack.so	1215
+           <...>-6350  [001] ....  1312.509027: do_filp_open: [OP]	mmcblk0p25	/system/lib/libandroidfw.so	1095
+           <...>-6350  [000] ....  1312.510877: do_filp_open: [OP]	mmcblk0p25	/system/lib/libexpat.so	1157
+           <...>-6330  [001] ....  1312.510910: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6350  [000] ....  1312.511287: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnativehelper.so	1230
+           <...>-6350  [000] ....  1312.511681: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetutils.so	1234
+           <...>-6350  [000] ....  1312.512141: do_filp_open: [OP]	mmcblk0p25	/system/lib/libui.so	1338
+           <...>-6350  [000] ....  1312.512534: do_filp_open: [OP]	mmcblk0p25	/system/lib/libgui.so	1176
+           <...>-6350  [000] ....  1312.512922: do_filp_open: [OP]	mmcblk0p25	/system/lib/libinput.so	1185
+           <...>-6350  [000] ....  1312.513329: do_filp_open: [OP]	mmcblk0p25	/system/lib/libinputflinger.so	1186
+           <...>-6350  [000] ....  1312.513683: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcamera_client.so	1120
+           <...>-6350  [000] ....  1312.514010: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcamera_metadata.so	1121
+           <...>-6350  [000] ....  1312.514432: do_filp_open: [OP]	mmcblk0p25	/system/lib/libskia.so	1283
+           <...>-6350  [000] ....  1312.514784: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsqlite.so	1294
+           <...>-6350  [000] ....  1312.515124: do_filp_open: [OP]	mmcblk0p25	/system/lib/libEGL.so	1066
+           <...>-6350  [000] ....  1312.515522: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLESv1_CM.so	1071
+           <...>-6350  [000] ....  1312.515859: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLESv2.so	1072
+           <...>-6350  [000] ....  1312.516387: do_filp_open: [OP]	mmcblk0p25	/system/lib/libETC1.so	1067
+           <...>-6350  [000] ....  1312.516872: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6350  [000] ....  1312.517269: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware_legacy.so	1178
+           <...>-6350  [000] ....  1312.517666: do_filp_open: [OP]	mmcblk0p25	/system/lib/libselinux.so	1279
+           <...>-6350  [000] ....  1312.518061: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsonivox.so	1287
+           <...>-6350  [000] ....  1312.518424: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcrypto.so	1137
+           <...>-6350  [000] ....  1312.518770: do_filp_open: [OP]	mmcblk0p25	/system/lib/libssl.so	1297
+           <...>-6350  [000] ....  1312.519134: do_filp_open: [OP]	mmcblk0p25	/system/lib/libicuuc.so	1183
+           <...>-6350  [000] ....  1312.519582: do_filp_open: [OP]	mmcblk0p25	/system/lib/libicui18n.so	1182
+           <...>-6350  [000] ....  1312.519931: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmedia.so	1208
+           <...>-6350  [000] ....  1312.520299: do_filp_open: [OP]	mmcblk0p25	/system/lib/libjpeg.so	1197
+           <...>-6350  [000] ....  1312.520650: do_filp_open: [OP]	mmcblk0p25	/system/lib/libusbhost.so	1340
+           <...>-6350  [000] ....  1312.521034: do_filp_open: [OP]	mmcblk0p25	/system/lib/libharfbuzz_ng.so	1179
+           <...>-6350  [000] ....  1312.521393: do_filp_open: [OP]	mmcblk0p25	/system/lib/libz.so	1351
+           <...>-6350  [000] ....  1312.521729: do_filp_open: [OP]	mmcblk0p25	/system/lib/libaudioutils.so	1109
+           <...>-6350  [000] ....  1312.522201: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpdfium.so	1256
+           <...>-6350  [000] ....  1312.522902: do_filp_open: [OP]	mmcblk0p25	/system/lib/libimg_utils.so	1184
+           <...>-6349  [002] ....  1312.523502: do_filp_open: [OP]	mmcblk0p25	/system/etc/qcril.db	619
+           <...>-6350  [000] ....  1312.525226: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6350  [000] ....  1312.530147: do_filp_open: [OP]	mmcblk0p25	/system/lib/libradio.so	1268
+           <...>-6350  [000] ....  1312.531516: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsoundtrigger.so	1289
+           <...>-6350  [000] ....  1312.532107: do_filp_open: [OP]	mmcblk0p25	/system/lib/libminikin.so	1216
+           <...>-6350  [000] ....  1312.533313: do_filp_open: [OP]	mmcblk0p25	/system/lib/libprocessgroup.so	1262
+           <...>-6350  [000] ....  1312.533800: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnativebridge.so	1229
+           <...>-6350  [000] ....  1312.534150: do_filp_open: [OP]	mmcblk0p25	/system/lib/libradio_metadata.so	1269
+           <...>-6350  [000] ....  1312.534800: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhwui.so	1181
+           <...>-6350  [000] ....  1312.535217: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright.so	1298
+           <...>-6350  [000] ....  1312.535608: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_foundation.so	1302
+           <...>-6350  [000] ....  1312.535955: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_http_support.so	1304
+           <...>-6350  [000] ....  1312.536333: do_filp_open: [OP]	mmcblk0p25	/system/lib/libeffects.so	1148
+           <...>-6350  [000] ....  1312.536682: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbase.so	1111
+           <...>-6350  [000] ....  1312.537020: do_filp_open: [OP]	mmcblk0p25	/system/lib/libunwind.so	1339
+           <...>-6350  [000] ....  1312.537392: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstdc++.so	1330
+           <...>-6350  [000] ....  1312.537750: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsync.so	1334
+           <...>-6350  [000] ....  1312.538179: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpng.so	1258
+           <...>-6350  [000] ....  1312.538539: do_filp_open: [OP]	mmcblk0p25	/system/lib/libft2.so	1172
+           <...>-6350  [000] ....  1312.539106: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLES_trace.so	1070
+           <...>-6350  [000] ....  1312.539622: do_filp_open: [OP]	mmcblk0p25	/system/lib/libwpa_client.so	1349
+           <...>-6350  [000] ....  1312.540139: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpcre.so	1255
+           <...>-6350  [000] ....  1312.540572: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnbaio.so	1231
+           <...>-6350  [000] ....  1312.541028: do_filp_open: [OP]	mmcblk0p25	/system/lib/libspeexresampler.so	1292
+           <...>-6350  [000] ....  1312.542366: do_filp_open: [OP]	mmcblk0p25	/system/lib/libRS.so	1082
+           <...>-6350  [000] ....  1312.542780: do_filp_open: [OP]	mmcblk0p25	/system/lib/libRScpp.so	1085
+           <...>-6350  [000] ....  1312.543190: do_filp_open: [OP]	mmcblk0p25	/system/lib/libdrmframework.so	1144
+           <...>-6349  [002] ....  1312.543275: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6350  [000] ....  1312.543560: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmediautils.so	1213
+           <...>-6350  [000] ....  1312.543953: do_filp_open: [OP]	mmcblk0p25	/system/lib/libopus.so	1251
+           <...>-6349  [002] ....  1312.544381: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6350  [000] ....  1312.544390: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_omx.so	1306
+           <...>-6350  [000] ....  1312.545215: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_yuv.so	1328
+           <...>-6350  [000] ....  1312.545914: do_filp_open: [OP]	mmcblk0p25	/system/lib/libvorbisidec.so	1343
+           <...>-6350  [000] ....  1312.546327: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpowermanager.so	1260
+           <...>-6350  [000] ....  1312.546810: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_enc_common.so	1301
+           <...>-6350  [000] ....  1312.547157: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstagefright_avc_common.so	1300
+           <...>-6350  [000] ....  1312.547612: do_filp_open: [OP]	mmcblk0p25	/system/lib/libprotobuf-cpp-lite.so	1263
+           <...>-6350  [000] ....  1312.547995: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcommon_time_client.so	1135
+           <...>-6350  [000] ....  1312.548390: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbcc.so	1112
+           <...>-6350  [000] ....  1312.548743: do_filp_open: [OP]	mmcblk0p25	/system/lib/libbcinfo.so	1113
+           <...>-6349  [002] ....  1312.550432: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6350  [003] ....  1312.550959: do_filp_open: [OP]	mmcblk0p25	/system/lib/libLLVM.so	1075
+           <...>-6349  [002] ....  1312.552021: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.554811: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/SettingsProvider/SettingsProvider.apk	1576
+           <...>-6349  [002] ....  1312.556786: do_filp_open: [OP]	mmcblk0p28	/data/app/com.android.vending-2/base.apk	254073
+           <...>-6349  [002] ....  1312.559347: do_filp_open: [OP]	mmcblk0p28	/data/system/locksettings.db	98353
+           <...>-6349  [002] ....  1312.560526: do_filp_open: [OP]	mmcblk0p28	/data/system/locksettings.db-wal	98354
+           <...>-6349  [002] ....  1312.561499: do_filp_open: [OP]	mmcblk0p28	/data/system/locksettings.db-shm	98355
+           <...>-6349  [002] ....  1312.562431: do_filp_open: [OP]	mmcblk0p28	/data/system/locksettings.db	98353
+           <...>-6349  [002] ....  1312.563328: do_filp_open: [OP]	mmcblk0p28	/data/system/locksettings.db-wal	98354
+           <...>-6349  [002] ....  1312.565040: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1312.566040: do_filp_open: [OP]	mmcblk0p28	/data/app/com.campmobile.snow-1/base.apk	163925
+           <...>-6349  [002] ....  1312.567108: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.googlequicksearchbox-1/base.apk	286756
+           <...>-6349  [002] ....  1312.568798: do_filp_open: [OP]	mmcblk0p28	/data/system/notification_log.db	98360
+           <...>-6349  [002] ....  1312.569827: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/Telecom/Telecom.apk	1618
+           <...>-6349  [002] ....  1312.571068: do_filp_open: [OP]	mmcblk0p28	/data/system/users/0/accounts.db	98364
+           <...>-6349  [002] ....  1312.572126: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/SystemUI/SystemUI.apk	1603
+           <...>-1013  [001] ....  1312.572246: do_filp_open: [OP]	mmcblk0p28	/data/media/0/Android/data/com.nhn.android.band/cache	491572
+           <...>-6349  [002] ....  1312.574288: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-1013  [001] ....  1312.574561: do_filp_open: [OP]	mmcblk0p28	/data/media/0/Android/data/com.nhn.android.band/cache	491572
+           <...>-1013  [001] ....  1312.574891: do_filp_open: [OP]	mmcblk0p28	/data/media/0/Android/data/com.nhn.android.band/cache	491572
+           <...>-6349  [002] ....  1312.575686: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.576817: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/MediaProvider/MediaProvider.apk	1545
+           <...>-6349  [002] ....  1312.579489: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/DownloadProvider/DownloadProvider.apk	1472
+           <...>-6349  [002] ....  1312.581817: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db	114894
+           <...>-6349  [002] ....  1312.582743: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db-wal	115726
+           <...>-6349  [002] ....  1312.583671: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db-shm	115778
+           <...>-6349  [002] ....  1312.584634: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db	114894
+           <...>-6349  [002] ....  1312.585646: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db-wal	115726
+           <...>-6349  [002] ....  1312.586730: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.downloads/databases/downloads.db	114992
+           <...>-6349  [002] ....  1312.587725: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/internal.db	115444
+           <...>-6349  [002] ....  1312.588638: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/internal.db-wal	115448
+           <...>-6349  [002] ....  1312.589532: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/internal.db-shm	115449
+           <...>-6349  [002] ....  1312.590523: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/internal.db	115444
+           <...>-6349  [002] ....  1312.591433: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/internal.db-wal	115448
+           <...>-6349  [002] ....  1312.592805: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db	114894
+           <...>-6349  [002] ....  1312.598132: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.media/databases/external.db-wal	115726
+           <...>-6349  [002] ....  1312.599760: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.600796: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.601992: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/SystemUI/SystemUI.apk	1603
+           <...>-6349  [002] ....  1312.603898: do_filp_open: [OP]	mmcblk0p28	/data/app/eu.chainfire.supersu-2/base.apk	180270
+           <...>-6349  [002] ....  1312.604995: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.606382: do_filp_open: [OP]	mmcblk0p28	/data/app/com.android.vending-2/base.apk	254073
+           <...>-6349  [002] ....  1312.607376: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.googlequicksearchbox-1/base.apk	286756
+           <...>-6359  [000] ....  1312.607717: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml	123136
+           <...>-6349  [002] ....  1312.608363: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gm-2/base.apk	254045
+           <...>-6349  [002] ....  1312.614698: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.616732: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.618692: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/OmaDmclient/OmaDmclient.apk	1560
+           <...>-6349  [000] ....  1312.622273: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.624267: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.626801: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/ContactsProvider/ContactsProvider.apk	1459
+           <...>-6349  [000] ....  1312.628941: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.contacts/databases/contacts2.db	114830
+           <...>-6349  [000] ....  1312.631582: do_filp_open: [OP]	mmcblk0p25	/system/app/UserDictionaryProvider/UserDictionaryProvider.apk	214
+           <...>-6349  [000] ....  1312.633470: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.contacts/databases/profile.db	114832
+           <...>-6349  [000] ....  1312.635466: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.userdictionary/databases/user_dict.db	115022
+           <...>-6349  [000] ....  1312.638510: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.640593: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.642629: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.googlequicksearchbox-1/base.apk	286756
+           <...>-6363  [003] ....  1312.642689: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6349  [000] ....  1312.645970: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.647901: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.649467: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.inputmethod.korean-1/base.apk	172183
+           <...>-6349  [000] ....  1312.651071: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/contacts_dict_4_0	115457
+           <...>-6349  [000] ....  1312.652152: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/contacts_dict_3_3_english	115868
+           <...>-6349  [000] ....  1312.653581: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/personal/Contacts.dict	122923
+           <...>-6349  [000] ....  1312.656116: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/personal/UserHistory.en.dict	123014
+           <...>-6349  [002] ....  1312.659252: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/personal/Personal.en.dict	123031
+           <...>-6349  [000] ....  1312.660780: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.korean/files/shortcuts_dict_4_0	115926
+           <...>-6349  [000] ....  1312.665110: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.666609: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.668531: do_filp_open: [OP]	mmcblk0p25	/system/app/NfcNci/NfcNci.apk	150
+           <...>-6349  [000] ....  1312.670556: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/TagGoogle/TagGoogle.apk	1608
+           <...>-6367  [002] ....  1312.672105: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.facebook.sdk.appEventPreferences.xml	123139
+           <...>-6349  [000] ....  1312.672226: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [000] ....  1312.674989: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.676131: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.677981: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/TeleService/TeleService.apk	1613
+           <...>-6349  [001] ....  1312.681546: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/TelephonyProvider/TelephonyProvider.apk	1623
+           <...>-6330  [001] ....  1312.683077: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/lib/arm/librealm-jni.so	163918
+           <...>-6330  [001] ....  1312.683353: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/lib/arm/librealm-jni.so	163918
+           <...>-6330  [001] ....  1312.684113: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.685761: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.telephony/databases/HbpcdLookup.db	114911
+           <...>-6349  [000] ....  1312.687479: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.telephony/databases/telephony.db	114940
+           <...>-6349  [000] ....  1312.689922: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.telephony/databases/mmssms.db	115307
+           <...>-6330  [002] ....  1312.689958: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6330  [002] ....  1312.690075: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.692372: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.talk-2/base.apk	253981
+           <...>-6349  [000] ....  1312.693429: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.apps.messaging-1/base.apk	163854
+           <...>-6349  [000] ....  1312.695019: do_filp_open: [OP]	mmcblk0p25	/system/app/Stk/Stk.apk	197
+           <...>-6349  [000] ....  1312.696677: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6330  [002] ....  1312.697551: do_filp_open: [OP]	mmcblk0p25	/system/lib/libandroid.so	1092
+           <...>-6330  [002] ....  1312.697656: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.697753: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6358  [001] ....  1312.697825: do_filp_open: [OP]	mmcblk0p25	/system/etc/security/cacerts/81b9768f.0	703
+           <...>-6349  [000] ....  1312.699016: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.googlequicksearchbox-1/base.apk	286756
+           <...>-6349  [000] ....  1312.700263: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/databases/launcher.db	115467
+           <...>-6330  [002] ....  1312.701084: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6330  [002] ....  1312.701190: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.701632: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/databases/app_icons.db	115708
+           <...>-6349  [000] ....  1312.703310: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/databases/widgetpreviews.db	115756
+           <...>-6330  [002] ....  1312.704544: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6349  [000] ....  1312.705073: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6358  [001] .N..  1312.705828: do_filp_open: [OP]	mmcblk0p28	/data/misc/keychain/pins	24624
+           <...>-6349  [000] ....  1312.706298: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.707585: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk	1529
+           <...>-6349  [000] ....  1312.708831: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gsf/databases/gservices.db	114868
+           <...>-6349  [000] ....  1312.710094: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gsf/databases/subscribedfeeds.db	114880
+           <...>-6349  [000] ....  1312.711311: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gsf/databases/googlesettings.db	114923
+           <...>-6349  [000] ....  1312.713919: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.715302: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.716716: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [000] ....  1312.718220: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/locale-filtered-resources--1350188483-ko.zip	115691
+           <...>-6349  [000] ....  1312.719865: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/google_analytics_v4.db	115010
+           <...>-6349  [000] ....  1312.721469: do_filp_open: [OP]	mmcblk0p28	/data/app/com.campmobile.snow-1/base.apk	163925
+           <...>-6349  [000] ....  1312.723237: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tag.corpusid-17	123040
+           <...>-6349  [000] ....  1312.725119: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.play.games-1/base.apk	172122
+           <...>-6349  [000] ....  1312.726360: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/auth.proximity.permit_store	115061
+           <...>-6349  [000] ....  1312.727531: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/chromesync.data_store	115718
+           <...>-6349  [000] ....  1312.728932: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/downloads.db	115079
+           <...>-6349  [000] ....  1312.730641: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/auth.credentials.credential_store	115740
+           <...>-6349  [000] ....  1312.732494: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/games_7c105512.db	115542
+           <...>-1013  [001] ....  1312.732727: do_filp_open: [OP]	mmcblk0p28	/data/media/0	491521
+           <...>-6330  [001] ....  1312.733361: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/lib/arm/libnative-lib.so	163916
+           <...>-6349  [000] ....  1312.733646: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/DocList.db	115839
+           <...>-6330  [001] ....  1312.733824: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/lib/arm/libnative-lib.so	163916
+           <...>-6330  [001] ....  1312.734349: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.735195: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/google_app_measurement.db	115932
+           <...>-6349  [000] ....  1312.736782: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/icing_contacts.db	115938
+           <...>-6349  [000] ....  1312.738191: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/matchstickv9.db	116004
+           <...>-6349  [000] ....  1312.739763: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/icing_mmssms.db	115044
+           <...>-6330  [001] ....  1312.740666: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6330  [001] ....  1312.740848: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.740977: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/herrevad	115470
+           <...>-6349  [000] ....  1312.742510: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/reminders.db	114883
+           <...>-6349  [000] ....  1312.743833: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docids	122922
+           <...>-6358  [001] ....  1312.744963: do_filp_open: [OP]	mmcblk0p28	/data/misc/keychain/pubkey_blacklist.txt	24622
+           <...>-6349  [000] ....  1312.745416: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/pluscontacts.db	114985
+           <...>-6358  [001] ....  1312.745912: do_filp_open: [OP]	mmcblk0p28	/data/misc/keychain/serial_blacklist.txt	24614
+           <...>-6349  [000] ....  1312.746811: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/css/log	115949
+           <...>-6349  [000] ....  1312.748259: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.perdocdata	122928
+           <...>-6330  [001] ....  1312.748387: do_filp_open: [OP]	mmcblk0p25	/system/lib/libstdc++.so	1330
+           <...>-6330  [001] ....  1312.748509: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [000] ....  1312.749790: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.cscoring	122932
+           <...>-6349  [000] ....  1312.751254: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.docs	123022
+           <...>-6349  [000] ....  1312.752724: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.tags.h	122949
+           <...>-6330  [002] ....  1312.753988: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6349  [000] ....  1312.754519: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.tags.n	122958
+           <...>-6349  [000] ....  1312.756025: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.tags.x	123005
+           <...>-6349  [000] ....  1312.757493: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.tags.s	123007
+           <...>-6368  [002] ....  1312.757629: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/USER.xml	123150
+           <...>-6349  [000] ....  1312.759081: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.tags.deleted	123008
+           <...>-6349  [000] ....  1312.760749: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.tagacct.counts	123012
+           <...>-6349  [000] ....  1312.762250: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.urifps.h	123016
+           <...>-6349  [000] ....  1312.763628: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.urifps.n	123019
+           <...>-6330  [002] ....  1312.765049: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/nelo2_install.id	123128
+           <...>-6349  [000] ....  1312.765168: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.urifps.x	123020
+           <...>-6349  [000] ....  1312.766543: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.urifps.s	123021
+           <...>-6349  [000] ....  1312.767886: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.urifps.deleted	123027
+           <...>-6330  [002] ....  1312.768546: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/nelo2_app_version_Band_android.id	123129
+           <...>-6349  [000] ....  1312.769542: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.usage	123029
+           <...>-6349  [000] ....  1312.771303: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/ds.delusage	123039
+           <...>-6349  [001] ....  1312.773693: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.h	123077
+           <...>-6349  [001] ....  1312.773897: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.n	123078
+           <...>-6349  [001] ....  1312.774079: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.x	123079
+           <...>-6349  [001] ....  1312.774249: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.s	123080
+           <...>-6349  [001] ....  1312.774422: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.0	123082
+           <...>-6349  [001] ....  1312.774594: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.1	123083
+           <...>-6349  [001] ....  1312.774756: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.41	123084
+           <...>-6349  [001] ....  1312.774931: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.19	123085
+           <...>-6349  [001] ....  1312.777046: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.71	123086
+           <...>-6349  [001] ....  1312.778422: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.21	123087
+           <...>-6349  [001] ....  1312.779006: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.22	123088
+           <...>-6349  [001] ....  1312.779555: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.25	123089
+           <...>-6349  [001] ....  1312.780833: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.28	123091
+           <...>-6349  [001] ....  1312.781765: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.29	123092
+           <...>-6349  [001] ....  1312.782721: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.26	123093
+           <...>-6349  [001] ....  1312.783654: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.69	123094
+           <...>-6349  [001] ....  1312.784571: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.70	123095
+           <...>-6349  [001] ....  1312.787932: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.66	123096
+           <...>-6349  [001] ....  1312.788986: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.67	123097
+           <...>-6349  [001] ....  1312.789949: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.36	123098
+           <...>-6349  [001] ....  1312.791055: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.prop.40	123099
+           <...>-6330  [002] ....  1312.791404: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/6d5a1f549a1872882e0d1fe476062628.1_0.nelolog	123130
+           <...>-6349  [001] ....  1312.793782: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lexicon.deleted	123081
+           <...>-6349  [001] ....  1312.795659: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.display.h	123100
+           <...>-6349  [001] ....  1312.796601: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.display.n	123101
+           <...>-6349  [001] ....  1312.797526: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.display.x	123102
+           <...>-6349  [001] ....  1312.798441: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.display.s	123103
+           <...>-6349  [001] ....  1312.799353: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.display.deleted	123104
+           <...>-6349  [001] ....  1312.800272: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.index	123076
+           <...>-6349  [001] ....  1312.800879: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.h	123105
+           <...>-6349  [001] ....  1312.801048: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.n	123106
+           <...>-6349  [001] ....  1312.801206: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.x	123107
+           <...>-6349  [001] ....  1312.801367: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.s	123108
+           <...>-6349  [001] ....  1312.801525: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.41	123033
+           <...>-6349  [001] ....  1312.801686: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.0	123034
+           <...>-6349  [001] ....  1312.801843: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.19	123157
+           <...>-6349  [001] ....  1312.802002: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.prop.40	123090
+           <...>-6349  [001] ....  1312.802160: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.lexicon.deleted	123109
+           <...>-6349  [001] ....  1312.802321: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.display.h	123110
+           <...>-6349  [000] ....  1312.804997: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.display.n	123111
+           <...>-6349  [000] ....  1312.805399: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.display.x	123112
+           <...>-6349  [000] ....  1312.805605: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.display.s	123113
+           <...>-6349  [000] ....  1312.805792: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.display.deleted	123114
+           <...>-6349  [000] ....  1312.806179: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/AppDataSearch/main/cur/idx.lite.hb	123115
+           <...>-6349  [000] ....  1312.806394: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_1/LOG	163864
+           <...>-6349  [000] ....  1312.806579: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_1/LOCK	164019
+           <...>-6349  [000] ....  1312.806966: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_1/000028.log	163897
+           <...>-6349  [000] ....  1312.807293: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_1/MANIFEST-000027	163899
+           <...>-6349  [000] ....  1312.807659: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_1/000005.ldb	163896
+           <...>-6349  [000] ....  1312.807884: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_3/LOG	155658
+           <...>-6349  [000] ....  1312.808078: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_3/LOCK	155690
+           <...>-6349  [000] ....  1312.808474: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_3/000132.log	155663
+           <...>-6371  [001] ....  1312.808487: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123164
+           <...>-6349  [000] ....  1312.808663: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_3/MANIFEST-000131	155665
+           <...>-6349  [000] ....  1312.809459: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_3/000005.ldb	155693
+           <...>-6349  [000] ....  1312.809638: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_4/LOG	163871
+           <...>-6349  [000] ....  1312.809999: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_4/LOCK	163877
+           <...>-6349  [000] ....  1312.810200: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_4/000003.log	163900
+           <...>-6349  [000] ....  1312.810381: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_4/MANIFEST-000002	163913
+           <...>-6349  [000] ....  1312.810868: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_5/LOG	163873
+           <...>-6349  [000] ....  1312.811085: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_5/LOCK	163876
+           <...>-6349  [000] ....  1312.811266: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_5/000003.log	163883
+           <...>-6349  [000] ....  1312.811624: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_5/MANIFEST-000002	163884
+           <...>-6349  [000] ....  1312.811917: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_12/LOG	163874
+           <...>-6349  [000] ....  1312.812110: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_12/LOCK	164313
+           <...>-6349  [000] ....  1312.812512: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_12/000028.log	163886
+           <...>-6372  [001] ....  1312.812566: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	123164
+           <...>-6349  [000] ....  1312.812708: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_12/MANIFEST-000027	163903
+           <...>-6372  [001] ....  1312.812779: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123219
+           <...>-6372  [001] ....  1312.812790: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123219
+           <...>-6349  [000] ....  1312.812878: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_12/000005.ldb	164059
+           <...>-6349  [000] ....  1312.813059: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_13/LOG	180228
+           <...>-6372  [001] ....  1312.813179: ext4_file_write: [W]	mmcblk0p28	123219	0	447	0
+           <...>-6372  [001] ....  1312.813262: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123219	0
+           <...>-6373  [002] ....  1312.813450: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/PUSH_PREFS.xml	123134
+           <...>-6349  [000] ....  1312.813469: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_13/LOCK	180249
+           <...>-6349  [000] ....  1312.813773: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_13/000132.log	180350
+           <...>-6349  [000] ....  1312.814230: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_13/MANIFEST-000131	180449
+           <...>-6349  [000] ....  1312.815099: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/snet/leveldb/snet_sb_blacklist_13/000005.ldb	180313
+           <...>-6349  [000] ....  1312.815425: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/iu.upload.db	115410
+           <...>-6349  [000] ....  1312.816582: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.816768: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [000] ....  1312.817292: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.googlequicksearchbox-1/base.apk	286756
+           <...>-6349  [000] ....  1312.817735: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/files/velour/verified_jars/JSRvoDRvSpSnEisOuyF6L2g_1.jar	115666
+           <...>-6349  [000] ....  1312.818157: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	122927
+           <...>-6349  [000] ....  1312.818559: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	122898
+           <...>-6349  [000] ....  1312.818829: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-shm	122902
+           <...>-6349  [000] ....  1312.819013: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	122927
+           <...>-6349  [000] ....  1312.819635: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	122898
+           <...>-6349  [000] ....  1312.819894: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	116504
+           <...>-6349  [000] ....  1312.820087: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-shm	115456
+           <...>-6349  [000] ....  1312.820493: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	114885
+           <...>-6349  [000] ....  1312.820790: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	116504
+           <...>-6349  [000] ....  1312.820982: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	114885
+           <...>-6374  [002] ....  1312.823338: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [000] ....  1312.823595: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [000] ....  1312.824605: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6372  [001] ....  1312.825423: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	123164
+           <...>-6349  [000] ....  1312.825872: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [000] ....  1312.828952: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/locale-filtered-resources--1350188483-ko.zip	115691
+           <...>-6349  [000] ....  1312.830557: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/phenotype.db	114932
+           <...>-6349  [000] ....  1312.832405: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/phenotype.db-wal	114935
+           <...>-6349  [000] ....  1312.833440: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/phenotype.db-shm	115331
+           <...>-6349  [000] ....  1312.834663: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/phenotype.db	114932
+           <...>-6349  [000] ....  1312.835654: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/phenotype.db-wal	114935
+           <...>-6349  [000] ....  1312.837044: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/android_pay	114966
+           <...>-6349  [000] ....  1312.838482: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/context___ContextManagerNullAccount__.db	116541
+           <...>-6349  [000] ....  1312.840391: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/gcm_registrar.db	114956
+           <...>-6376  [002] .N..  1312.841900: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123132
+           <...>-6349  [002] ....  1312.853541: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l1/LOG	147472
+           <...>-6349  [002] ....  1312.854175: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/rmq.db	114959
+           <...>-6349  [002] ....  1312.854984: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/playlog.db	114937
+           <...>-6349  [002] ....  1312.855626: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/playlog.db-wal	115578
+           <...>-6349  [002] ....  1312.856223: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/playlog.db-shm	115782
+           <...>-6349  [002] ....  1312.856821: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/playlog.db	114937
+           <...>-6349  [002] ....  1312.857390: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/playlog.db-wal	115578
+           <...>-6349  [002] ....  1312.858015: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/LOG	115314
+           <...>-6349  [002] ....  1312.858592: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/LOCK	115958
+           <...>-6349  [002] ....  1312.859179: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l1/LOCK	147479
+           <...>-6349  [002] ....  1312.859746: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/LOG	114976
+           <...>-6349  [002] ....  1312.860294: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/LOCK	115285
+           <...>-6377  [001] ....  1312.860527: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml	115900
+           <...>-6349  [002] ....  1312.860944: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/context_eslabskku_gmail.com.db	115665
+           <...>-6349  [002] ....  1312.861532: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000297.ldb	115838
+           <...>-6349  [002] ....  1312.865588: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/000211.ldb	115818
+           <...>-6349  [002] ....  1312.866661: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/000212.log	115828
+           <...>-6349  [002] ....  1312.867637: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/MANIFEST-000210	115908
+           <...>-6349  [002] ....  1312.868610: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l1/000218.log	147497
+           <...>-6349  [002] ....  1312.869538: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000298.log	116351
+           <...>-6349  [002] ....  1312.871058: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/MANIFEST-000296	116353
+           <...>-6349  [002] ....  1312.872061: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/metadataDatabase/LOG	115338
+           <...>-6349  [002] ....  1312.872997: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/metadataDatabase/LOCK	115964
+           <...>-6349  [002] ....  1312.873918: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/metadataDatabase/000135.log	115700
+           <...>-6349  [002] ....  1312.874979: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l1/MANIFEST-000217	147499
+           <...>-6349  [002] ....  1312.875925: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/000048.ldb	147570
+           <...>-6349  [002] ....  1312.876846: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000294.ldb	115896
+           <...>-6349  [002] ....  1312.877897: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000291.ldb	116345
+           <...>-6349  [002] ....  1312.878832: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000213.ldb	115819
+           <...>-6349  [002] ....  1312.880256: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000242.ldb	115977
+           <...>-6349  [002] ....  1312.881188: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000248.ldb	115989
+           <...>-6349  [002] ....  1312.882113: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000232.ldb	115917
+           <...>-6349  [002] ....  1312.883039: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000211.ldb	115625
+           <...>-6349  [002] ....  1312.883980: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000205.ldb	115797
+           <...>-6349  [002] ....  1312.884908: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000203.ldb	115565
+           <...>-6349  [002] ....  1312.885836: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000196.ldb	115901
+           <...>-6349  [002] ....  1312.886778: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000194.ldb	115867
+           <...>-6349  [002] ....  1312.887787: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000192.ldb	115837
+           <...>-6349  [002] ....  1312.888820: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000190.ldb	115779
+           <...>-6349  [002] ....  1312.889823: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000157.ldb	115794
+           <...>-6349  [002] ....  1312.890837: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000068.ldb	116532
+           <...>-6349  [002] ....  1312.891757: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000289.ldb	115849
+           <...>-6349  [002] ....  1312.892673: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/metadataDatabase/MANIFEST-000134	115957
+           <...>-6378  [000] ....  1312.893310: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/volley	123133
+           <...>-6349  [002] ....  1312.893321: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/instantAppDataDb/LOG	115075
+           <...>-6349  [002] ....  1312.893827: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/instantAppDataDb/LOCK	115970
+           <...>-6349  [002] ....  1312.894751: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/instantAppDataDb/000135.log	116295
+           <...>-6349  [002] ....  1312.895306: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/instantAppDataDb/MANIFEST-000134	116297
+           <...>-6349  [002] ....  1312.896145: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l1/000074.ldb	147573
+           <...>-6349  [002] ....  1312.897035: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/LOG	147476
+           <...>-6378  [000] ....  1312.897318: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/volley/14019171311989050065	123148
+           <...>-6349  [002] ....  1312.897559: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/LOCK	147477
+           <...>-6349  [002] ....  1312.898083: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/000217.log	147493
+           <...>-6349  [002] ....  1312.898612: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/MANIFEST-000216	147494
+           <...>-6349  [002] ....  1312.899129: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_place_inference_data_index/l2/000005.ldb	147498
+           <...>-6349  [002] ....  1312.899729: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/netrec	116724
+           <...>-6349  [002] ....  1312.900404: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/device_connections.db	115291
+           <...>-6349  [002] ....  1312.900996: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/000208.ldb	115598
+           <...>-6349  [002] ....  1312.901560: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/gms.notifications.db	116018
+           <...>-6349  [002] ....  1312.902506: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/cache/beacon_message_cache.db/LOG	122976
+           <...>-6349  [002] ....  1312.903199: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/cache/beacon_message_cache.db/000003.log	123074
+           <...>-6349  [002] .N..  1312.903760: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/cache/beacon_message_cache.db/LOCK	122987
+           <...>-6349  [002] ....  1312.905111: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/cache/beacon_message_cache.db/MANIFEST-000002	123117
+           <...>-6349  [002] ....  1312.905652: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/databases/herrevad	115470
+           <...>-6349  [002] ....  1312.906175: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_ulr_db/000250.ldb	115802
+           <...>-6349  [002] ....  1312.906709: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_instantapps/domainFilterInfoDb/000206.ldb	115534
+           <...>-6389  [000] ....  1312.909881: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/volley	123133
+           <...>-6389  [000] ....  1312.910289: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/volley/14019171311989050065	123148
+           <...>-6387  [003] ....  1312.910910: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6387  [003] ....  1312.911019: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6387  [003] ....  1312.911729: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6387  [003] ....  1312.912080: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6387  [003] ....  1312.912387: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6349  [002] ....  1312.912454: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.913562: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.914704: do_filp_open: [OP]	mmcblk0p25	/system/app/Bluetooth/Bluetooth.apk	19
+           <...>-6387  [003] ....  1312.917684: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6349  [002] ....  1312.917693: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.918694: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.919855: do_filp_open: [OP]	mmcblk0p25	/system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk	258
+           <...>-6387  [003] ....  1312.919884: do_filp_open: [OP]	mmcblk0p25	/system/bin/ps	494
+           <...>-6387  [000] ....  1312.920017: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6349  [002] ....  1312.921737: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.922710: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6387  [000] ....  1312.922941: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6387  [000] ....  1312.923543: do_filp_open: [OP]	mmcblk0p25	/system/lib/libselinux.so	1279
+           <...>-6349  [002] ....  1312.923820: do_filp_open: [OP]	mmcblk0p28	/data/app/com.android.vending-2/base.apk	254073
+           <...>-6387  [000] ....  1312.924732: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6387  [000] ....  1312.925666: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6349  [002] ....  1312.925722: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/library.db	115626
+           <...>-6349  [002] ....  1312.926755: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/scheduler	115612
+           <...>-6387  [000] ....  1312.927133: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6387  [000] ....  1312.927676: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6349  [002] ....  1312.927682: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/localappstate.db	115008
+           <...>-6387  [000] ....  1312.928204: do_filp_open: [OP]	mmcblk0p25	/system/lib/libpcre.so	1255
+           <...>-6349  [002] ....  1312.928622: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/phenotype.db	115861
+           <...>-6349  [002] ....  1312.929674: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/fetch_suggestions.db	115824
+           <...>-6349  [002] ....  1312.930840: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/cache/logs/null_account/eventlog.store-226587390.log	221651
+           <...>-6349  [002] ....  1312.931783: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/databases/suggestions.db	116809
+           <...>-6349  [002] ....  1312.932752: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.933919: do_filp_open: [OP]	mmcblk0p28	/data/app/com.campmobile.snow-1/base.apk	163925
+           <...>-6349  [002] ....  1312.934906: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.vending/cache/logs/com.google.eslabskku%40gmail.com/eventlog.store754828742.log	221191
+           <...>-6349  [002] ....  1312.935896: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_chimera/m/0000000e/DynamiteModulesA_GmsCore_prodmnc_xxhdpi_release.apk	147534
+           <...>-6349  [002] ....  1312.937205: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.938147: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.939254: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.apps.gcs-2/base.apk	270338
+           <...>-6387  [000] ....  1312.940206: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6349  [002] ....  1312.940231: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.apps.gcs/databases/google_analytics_v4.db	122888
+           <...>-6349  [002] ....  1312.941676: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.942639: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.943727: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.videos-2/base.apk	180307
+           <...>-6349  [002] ....  1312.944665: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/cache/applogcat/log_6	221198
+           <...>-6349  [002] ....  1312.945732: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1653252843.log	221188
+           <...>-6349  [002] ....  1312.946641: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/databases/purchase_store.db	115495
+           <...>-6349  [002] ....  1312.947607: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/databases/purchase_store.db-wal	115496
+           <...>-6349  [002] ....  1312.948549: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/databases/purchase_store.db-shm	116426
+           <...>-6349  [002] ....  1312.949493: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/databases/purchase_store.db	115495
+           <...>-6349  [002] ....  1312.950420: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.videos/databases/purchase_store.db-wal	115496
+           <...>-6349  [002] ....  1312.951759: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.952983: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.954131: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/CalendarProvider/CalendarProvider.apk	1434
+           <...>-6400  [001] ....  1312.954390: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6349  [002] ....  1312.955094: do_filp_open: [OP]	mmcblk0p28	/data/data/com.android.providers.calendar/databases/calendar.db	115340
+           <...>-6349  [002] ....  1312.956334: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.957281: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.958396: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.apps.messaging-1/base.apk	163854
+           <...>-6349  [002] ....  1312.959709: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.960659: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.961831: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.inputmethod.latin-1/base.apk	254106
+           <...>-6349  [002] ....  1312.963037: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.inputmethod.latin/databases/superpacks.db	116206
+           <...>-6349  [002] ....  1312.964298: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.965255: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.966378: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.instantapps.supervisor-2/base.apk	180243
+           <...>-6349  [002] ....  1312.967412: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.instantapps.supervisor/cache/logs/null_account/eventlog.store1180796518.log	221475
+           <...>-6349  [002] ....  1312.968922: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.969875: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.971047: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gm-2/base.apk	254045
+           <...>-6349  [002] ....  1312.972101: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/EmailProvider.db	114863
+           <...>-6349  [002] ....  1312.973074: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/EmailProviderBody.db	114872
+           <...>-6349  [002] ....  1312.974025: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/EmailProviderBody.db	114872
+           <...>-6349  [002] ....  1312.975265: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/internal.eslabskku@gmail.com.db	115643
+           <...>-6349  [002] ....  1312.976241: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db	115646
+           <...>-6349  [002] ....  1312.977191: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db-wal	115647
+           <...>-6349  [002] ....  1312.978148: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db-shm	115650
+           <...>-6349  [002] ....  1312.979094: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db	115646
+           <...>-6349  [002] ....  1312.980030: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db-wal	115647
+           <...>-6349  [002] ....  1312.981114: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.982261: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db	115646
+           <...>-6349  [002] ....  1312.983213: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gm/databases/mailstore.eslabskku@gmail.com.db-wal	115647
+           <...>-6349  [002] ....  1312.984454: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.985409: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.986501: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.987574: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/locale-filtered-resources--1350188483-ko.zip	115691
+           <...>-6349  [002] ....  1312.988874: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.989820: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1312.990971: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.991977: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/files/locale-filtered-resources--1350188483-ko.zip	115691
+           <...>-6349  [002] ....  1312.992981: do_filp_open: [OP]	mmcblk0p25	/system/framework/com.android.location.provider.jar	956
+           <...>-6349  [002] ....  1312.993912: do_filp_open: [OP]	mmcblk0p25	/system/framework/com.android.media.remotedisplay.jar	957
+           <...>-6349  [002] ....  1312.994835: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1312.995766: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_dg_cache/D12564FA84855276CB7D261D56DA6950A06175F8/the.apk	115504
+           <...>-6349  [002] ....  1312.996697: do_filp_open: [OP]	mmcblk0p28	/data/data/com.google.android.gms/app_dg_cache/D12564FA84855276CB7D261D56DA6950A06175F8/the.apk	115504
+           <...>-6349  [002] ....  1312.998243: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1312.999178: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.000267: do_filp_open: [OP]	mmcblk0p28	/data/app/eu.chainfire.supersu-2/base.apk	180270
+           <...>-6349  [002] ....  1313.002034: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1313.002975: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.004060: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/DefaultContainerService/DefaultContainerService.apk	1464
+           <...>-6349  [002] ....  1313.005288: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1313.006232: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.007350: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk	1524
+           <...>-6349  [002] ....  1313.008570: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1313.009510: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.010624: do_filp_open: [OP]	mmcblk0p25	/system/priv-app/MusicFX/MusicFX.apk	1555
+           <...>-6349  [002] ....  1313.012385: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1313.013354: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.014475: do_filp_open: [OP]	mmcblk0p28	/data/app/com.campmobile.snow-1/base.apk	163925
+           <...>-6349  [002] ....  1313.015634: do_filp_open: [OP]	mmcblk0p28	/data/data/com.campmobile.snow/databases/voip.db	123199
+           <...>-6330  [001] ....  1313.015692: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6330  [001] ....  1313.016382: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1313.016575: do_filp_open: [OP]	mmcblk0p28	/data/data/com.campmobile.snow/databases/snow_app.db	123196
+           <...>-6349  [002] ....  1313.017512: do_filp_open: [OP]	mmcblk0p28	/data/data/com.campmobile.snow/files/72d629ed317c5a266e2db9a7beb1e2b9.1_0.nelolog	123192
+           <...>-6349  [002] ....  1313.018524: do_filp_open: [OP]	mmcblk0p28	/data/data/com.campmobile.snow/databases/2eqbm8myjbpq0b3e6gvbo64ib.db	123215
+           <...>-6330  [001] ....  1313.019414: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6330  [001] ....  1313.019500: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1313.020596: do_filp_open: [OP]	mmcblk0p25	/system/framework/framework-res.apk	972
+           <...>-6349  [002] ....  1313.021591: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6349  [002] ....  1313.022732: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [001] ....  1313.022782: do_filp_open: [OP]	mmcblk0p25	/system/lib/libutils.so	1341
+           <...>-6330  [001] ....  1313.022876: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1313.023787: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/6d5a1f549a1872882e0d1fe476062628.1_0.nelolog	123130
+           <...>-6349  [002] ....  1313.024762: do_filp_open: [OP]	mmcblk0p28	/data/app/com.google.android.gms-1/base.apk	163842
+           <...>-6349  [002] ....  1313.025882: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [001] ....  1313.026068: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6330  [001] ....  1313.026146: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6349  [002] ....  1313.027109: do_filp_open: [OP]	mmcblk0p28	/data/data/eu.chainfire.supersu/logs/L15081425670000.GRANTED.ADB shell	180452
+           <...>-6330  [001] ....  1313.029168: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6330  [001] ....  1313.029256: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [001] ....  1313.033397: do_filp_open: [OP]	mmcblk0p25	/system/lib/libmemalloc.so	1214
+           <...>-6330  [001] ....  1313.037295: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6407  [002] ....  1313.041338: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123180
+           <...>-6330  [001] ....  1313.043573: do_filp_open: [OP]	mmcblk0p25	/system/lib/libqdutils.so	1265
+           <...>-6330  [001] ....  1313.045864: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [001] ....  1313.050177: do_filp_open: [OP]	mmcblk0p25	/system/lib/libGLESv1_CM.so	1071
+           <...>-6330  [001] ....  1313.050300: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [001] ....  1313.053388: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6330  [001] ....  1313.053479: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.056922: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6330  [002] ....  1313.057013: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.060023: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6330  [002] ....  1313.060105: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.063294: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6330  [002] ....  1313.063383: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.066997: do_filp_open: [OP]	mmcblk0p25	/system/lib/libutils.so	1341
+           <...>-6330  [002] ....  1313.067089: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.070081: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6330  [002] ....  1313.070148: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.073397: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6330  [002] ....  1313.073501: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.076521: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6330  [002] ....  1313.076599: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.079585: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6330  [002] ....  1313.079661: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.082735: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6330  [002] ....  1313.082821: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.085823: do_filp_open: [OP]	mmcblk0p25	/system/lib/liblog.so	1204
+           <...>-6330  [002] ....  1313.085894: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.088843: do_filp_open: [OP]	mmcblk0p25	/system/lib/libutils.so	1341
+           <...>-6330  [002] ....  1313.088912: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6381  [002] ....  1313.093662: do_filp_open: [OP]	mmcblk0p25	/system/etc/security/cacerts/d4c339cb.0	756
+           <...>-6330  [002] ....  1313.102034: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6330  [002] ....  1313.102129: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.105231: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6408  [001] ....  1313.105281: do_filp_open: [OP]	mmcblk0p25	/system/bin/sh	466
+           <...>-6408  [002] ....  1313.105406: do_filp_open: [OP]	mmcblk0p25	/system/bin/linker	366
+           <...>-6408  [002] ....  1313.106096: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6408  [002] ....  1313.106451: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6408  [002] ....  1313.106759: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6408  [002] ....  1313.111966: do_filp_open: [OP]	mmcblk0p25	/system/lib/libnetd_client.so	1232
+           <...>-6330  [002] ....  1313.114504: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.117628: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6330  [002] ....  1313.117723: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.120830: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6330  [002] ....  1313.120908: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6330  [002] ....  1313.123894: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6381  [002] ....  1313.126466: do_filp_open: [OP]	mmcblk0p28	/data/misc/keychain/pins	24624
+           <...>-6405  [002] ....  1313.153743: do_filp_open: [OP]	mmcblk0p25	/vendor/lib/egl/eglsubAndroid.so	1822
+           <...>-6405  [002] ....  1313.154516: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [002] ....  1313.157533: do_filp_open: [OP]	mmcblk0p25	/system/lib/libcutils.so	1138
+           <...>-6405  [002] ....  1313.157617: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6410  [002] ....  1313.158821: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/Ad.xml	123138
+           <...>-6372  [001] ....  1313.159980: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123132
+           <...>-6372  [001] ....  1313.160184: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164
+           <...>-6372  [001] ....  1313.160196: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164
+           <...>-6372  [002] ....  1313.161042: ext4_file_write: [W]	mmcblk0p28	123164	0	1240	0
+           <...>-6372  [002] ....  1313.161127: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164	0
+           <...>-6405  [001] .N..  1313.163344: do_filp_open: [OP]	mmcblk0p25	/vendor/lib/libgsl.so	1856
+           <...>-6405  [001] ....  1313.163503: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [001] ....  1313.168143: do_filp_open: [OP]	mmcblk0p25	/system/lib/libhardware.so	1177
+           <...>-6405  [001] ....  1313.168258: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [001] ....  1313.172273: do_filp_open: [OP]	mmcblk0p25	/system/lib/libui.so	1338
+           <...>-6405  [001] ....  1313.172382: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6372  [002] ....  1313.172639: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123132
+           <...>-6405  [001] ....  1313.176271: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [001] ....  1313.180026: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsync.so	1334
+           <...>-6405  [002] ....  1313.180720: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [002] ....  1313.183970: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc++.so	1117
+           <...>-6405  [002] ....  1313.184062: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [002] ....  1313.187147: do_filp_open: [OP]	mmcblk0p25	/system/lib/libc.so	1118
+           <...>-6405  [002] ....  1313.187222: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [002] ....  1313.190254: do_filp_open: [OP]	mmcblk0p25	/system/lib/libm.so	1206
+           <...>-6405  [002] ....  1313.191161: do_filp_open: [OP]	mmcblk0p25	/vendor/lib/egl/libGLESv2_adreno.so	1825
+           <...>-6405  [003] ....  1313.202657: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [003] ....  1313.202928: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6405  [003] ....  1313.205893: do_filp_open: [OP]	mmcblk0p25	/vendor/lib/libadreno_utils.so	1843
+           <...>-6372  [002] ....  1313.252316: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123164
+           <...>-6405  [003] ....  1313.252331: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/code_cache/com.android.opengl.shaders_cache	123142
+           <...>-6372  [002] ....  1313.252506: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123132
+           <...>-6372  [002] ....  1313.252517: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123132
+           <...>-6372  [002] ....  1313.253023: ext4_file_write: [W]	mmcblk0p28	123132	0	1240	0
+           <...>-6372  [002] ....  1313.253097: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123132	0
+           <...>-6413  [000] ....  1313.258913: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.facebook.sdk.attributionTracking.xml	123147
+           <...>-6372  [002] ....  1313.259480: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123164
+           <...>-6372  [002] ....  1313.292150: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123132
+           <...>-6372  [002] ....  1313.292320: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164
+           <...>-6372  [002] ....  1313.292332: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164
+           <...>-6372  [002] ....  1313.292808: ext4_file_write: [W]	mmcblk0p28	123164	0	1240	0
+           <...>-6372  [002] ....  1313.292886: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	123164	0
+           <...>-6372  [002] ....  1313.298455: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	123132
+           <...>-6372  [002] ....  1313.298764: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	123180
+           <...>-6372  [002] ....  1313.298920: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123132
+           <...>-6372  [002] ....  1313.298931: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123132
+           <...>-6372  [002] ....  1313.300349: ext4_file_write: [W]	mmcblk0p28	123132	0	448	0
+           <...>-6372  [002] ....  1313.300437: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123132	0
+           <...>-6372  [000] ....  1313.308891: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	123180
+           <...>-6417  [003] ....  1313.310496: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.lock	123152
+           <...>-6417  [003] ....  1313.310628: ext4_file_write: [W]	mmcblk0p28	123152	0	1184	0
+           <...>-6417  [000] ....  1313.318141: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.write.mx	123153
+           <...>-6417  [000] ....  1313.318217: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.control.mx	123154
+           <...>-6417  [001] ....  1313.318979: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm	123155
+           <...>-6417  [001] ....  1313.319303: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.new_commit.cv	123156
+           <...>-6417  [001] ....  1313.319342: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.pick_writer.cv	123158
+           <...>-6416  [000] ....  1313.321107: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics	123145
+           <...>-6418  [001] ....  1313.321353: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6416  [001] ....  1313.326828: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.328099: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.328395: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.328922: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.329195: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.330662: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics	123145
+           <...>-6416  [001] ....  1313.331630: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.332982: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.333279: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6416  [001] ....  1313.333712: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6417  [001] ....  1313.337045: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.lock	123152
+           <...>-6417  [001] ....  1313.337133: ext4_file_write: [W]	mmcblk0p28	123152	0	1184	0
+           <...>-6417  [001] ....  1313.337352: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.write.mx	123153
+           <...>-6417  [001] ....  1313.337422: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.control.mx	123154
+           <...>-6417  [001] ....  1313.337505: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm	123155
+           <...>-6417  [001] ....  1313.337640: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.new_commit.cv	123156
+           <...>-6417  [001] ....  1313.337675: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.pick_writer.cv	123158
+           <...>-6417  [001] ....  1313.337837: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.realm.temp/2236354103_realm.note	123159
+           <...>-6416  [001] ....  1313.340377: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6417  [001] ....  1313.356166: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/files/jackpotlog.realm	123155	0
+           <...>-6417  [001] ....  1313.361963: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/files/jackpotlog.realm	123155	0
+           <...>-6350  [002] ....  1313.394391: do_filp_open: [OP]	mmcblk0p25	/system/lib/libart.so	1098
+           <...>-6350  [002] ....  1313.394891: do_filp_open: [OP]	mmcblk0p25	/system/lib/libsigchain.so	1282
+           <...>-6427  [003] ....  1313.402398: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics	123145
+           <...>-6427  [003] ....  1313.403210: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6427  [003] ....  1313.404880: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6427  [003] ....  1313.405213: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6350  [002] ....  1313.405330: do_filp_open: [OP]	mmcblk0p25	/system/framework/arm/boot.art	950
+           <...>-6350  [002] ....  1313.405374: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6350  [002] ....  1313.405473: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.art	49156
+           <...>-6427  [003] ....  1313.405687: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6350  [002] ....  1313.405772: do_filp_open: [OP]	mmcblk0p28	/data/dalvik-cache/arm/system@framework@boot.oat	49157
+           <...>-6427  [003] ....  1313.405927: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6427  [003] ....  1313.407190: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/statistics-journal	123146
+           <...>-6427  [003] ....  1313.407458: ext4_file_write: [W]	mmcblk0p28	123146	0	512	12824
+           <...>-6427  [003] ....  1313.407495: ext4_file_write: [W]	mmcblk0p28	123146	512	4	12824
+           <...>-6427  [003] ....  1313.407510: ext4_file_write: [W]	mmcblk0p28	123146	516	4096	12824
+           <...>-6427  [003] ....  1313.407535: ext4_file_write: [W]	mmcblk0p28	123146	4612	4	12824
+           <...>-6427  [003] ....  1313.407558: ext4_file_write: [W]	mmcblk0p28	123146	4616	4	12824
+           <...>-6427  [003] ....  1313.407573: ext4_file_write: [W]	mmcblk0p28	123146	4620	4096	12824
+           <...>-6427  [003] ....  1313.408147: ext4_file_write: [W]	mmcblk0p28	123146	8716	4	12824
+           <...>-6427  [003] ....  1313.408266: ext4_file_write: [W]	mmcblk0p28	123146	8720	4	12824
+           <...>-6427  [003] ....  1313.408282: ext4_file_write: [W]	mmcblk0p28	123146	8724	4096	12824
+           <...>-6427  [003] ....  1313.408305: ext4_file_write: [W]	mmcblk0p28	123146	12820	4	12824
+           <...>-6427  [003] ....  1313.408327: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/statistics-journal	123146	1
+           <...>-6427  [003] ....  1313.410577: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases	123140
+           <...>-6427  [003] ....  1313.410585: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases	123140	1
+           <...>-6427  [003] ....  1313.413663: ext4_file_write: [W]	mmcblk0p28	123146	0	12	12824
+           <...>-6427  [003] ....  1313.413703: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/statistics-journal	123146	1
+           <...>-6427  [003] ....  1313.414550: ext4_file_write: [W]	mmcblk0p28	123145	0	4096	20480
+           <...>-6427  [003] ....  1313.414578: ext4_file_write: [W]	mmcblk0p28	123145	12288	4096	20480
+           <...>-6427  [003] ....  1313.414600: ext4_file_write: [W]	mmcblk0p28	123145	16384	4096	20480
+           <...>-6427  [003] ....  1313.414624: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/statistics	123145	1
+           <...>-6427  [001] ....  1313.416178: ext4_file_write: [W]	mmcblk0p28	123146	0	28	12824
+           <...>-6427  [001] ....  1313.416199: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/statistics-journal	123146	1
+           <...>-6433  [001] ....  1313.423201: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/TwitterAdvertisingInfoPreferences.xml	123167
+           <...>-6428  [000] ....  1313.428038: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6434  [003] ....  1313.439978: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml	123160
+           <...>-6350  [002] ....  1313.445430: do_filp_open: [OP]	mmcblk0p25	/system/lib/libjavacore.so	1191
+           <...>-6350  [002] ....  1313.448982: do_filp_open: [OP]	mmcblk0p25	/system/usr/icu/icudt55l.dat	1664
+           <...>-6350  [002] ....  1313.461534: do_filp_open: [OP]	mmcblk0p25	/system/framework/am.jar	944
+           <...>-6350  [002] ....  1313.461794: do_filp_open: [OP]	mmcblk0p25	/system/framework/oat/arm/am.odex	983
+           <...>-6440  [003] ....  1313.467245: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.crashlytics.prefs.xml	123168
+           <...>-6350  [002] ....  1313.495201: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/memtrack.msm8974.so	1060
+           <...>-6435  [003] ....  1313.499066: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	123171
+           <...>-6435  [001] ....  1313.502194: ext4_file_write: [W]	mmcblk0p28	123171	16	4	4096
+           <...>-6443  [003] ....  1313.505085: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/io.fabric.sdk.android:fabric:io.a.a.a.m.xml	123178
+           <...>-6435  [000] ....  1313.505470: ext4_file_write: [W]	mmcblk0p28	123171	20	510	4096
+           <...>-6435  [000] ....  1313.506566: ext4_file_write: [W]	mmcblk0p28	123171	0	16	4096
+           <...>-6350  [002] ....  1313.508132: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6350  [002] ....  1313.509564: do_filp_open: [OP]	mmcblk0p25	/system/framework/core-libart.jar	968
+           <...>-6429  [002] ....  1313.518210: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/io.fabric.sdk.android:fabric/com.crashlytics.settings.json	123176
+           <...>-6330  [001] ....  1313.533171: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/uil-images/journal	123162
+           <...>-6330  [001] ....  1313.534559: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/uil-images/journal	123162
+           <...>-6435  [003] ....  1313.536955: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	123171
+           <...>-6435  [003] ....  1313.537670: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	123180
+           <...>-6435  [003] ....  1313.537684: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	123180
+           <...>-6435  [003] ....  1313.538313: ext4_file_write: [W]	mmcblk0p28	123180	0	1	0
+           <...>-6435  [003] ....  1313.538386: ext4_file_write: [W]	mmcblk0p28	123180	1	1	1
+           <...>-6435  [003] ....  1313.538421: ext4_file_write: [W]	mmcblk0p28	123180	2	1	2
+           <...>-6435  [003] ....  1313.538454: ext4_file_write: [W]	mmcblk0p28	123180	3	1	3
+           <...>-6435  [003] ....  1313.538488: ext4_file_write: [W]	mmcblk0p28	123180	4	1	4
+           <...>-6435  [003] ....  1313.538520: ext4_file_write: [W]	mmcblk0p28	123180	5	1	5
+           <...>-6435  [003] ....  1313.538553: ext4_file_write: [W]	mmcblk0p28	123180	6	1	6
+           <...>-6435  [003] ....  1313.538585: ext4_file_write: [W]	mmcblk0p28	123180	7	1	7
+           <...>-6435  [003] ....  1313.538618: ext4_file_write: [W]	mmcblk0p28	123180	8	1	8
+           <...>-6435  [003] ....  1313.538650: ext4_file_write: [W]	mmcblk0p28	123180	9	1	9
+           <...>-6435  [003] ....  1313.539255: ext4_file_write: [W]	mmcblk0p28	123180	10	386	10
+           <...>-6435  [003] ....  1313.539294: ext4_file_write: [W]	mmcblk0p28	123180	396	1	396
+           <...>-6435  [003] ....  1313.539328: ext4_file_write: [W]	mmcblk0p28	123180	397	1	397
+           <...>-6435  [003] ....  1313.539361: ext4_file_write: [W]	mmcblk0p28	123180	398	1	398
+           <...>-6435  [003] ....  1313.539393: ext4_file_write: [W]	mmcblk0p28	123180	399	1	399
+           <...>-6435  [003] ....  1313.539424: ext4_file_write: [W]	mmcblk0p28	123180	400	1	400
+           <...>-6435  [003] ....  1313.539457: ext4_file_write: [W]	mmcblk0p28	123180	401	1	401
+           <...>-6435  [003] ....  1313.539489: ext4_file_write: [W]	mmcblk0p28	123180	402	1	402
+           <...>-6435  [003] ....  1313.539521: ext4_file_write: [W]	mmcblk0p28	123180	403	1	403
+           <...>-6435  [003] ....  1313.539629: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	123171
+           <...>-6435  [003] ....  1313.540027: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	123171
+           <...>-6435  [003] ....  1313.540479: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	123171
+           <...>-6435  [003] ....  1313.540592: ext4_file_write: [W]	mmcblk0p28	123171	0	16	4096
+           <...>-6435  [003] ....  1313.549112: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	123171
+           <...>-6435  [003] ....  1313.549234: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	123171
+           <...>-6435  [003] ....  1313.550200: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send	123172
+           <...>-6435  [003] ....  1313.552390: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	123180
+           <...>-6446  [003] ....  1313.553472: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6448  [000] ....  1313.558194: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/uil-images/4f7hpjkl3air6mnp8zu9mra32.0	123166
+           <...>-6448  [000] ....  1313.561174: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/cache/uil-images/4f7hpjkl3air6mnp8zu9mra32.0	123166
+           <...>-6372  [000] ....  1313.564615: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	123132
+           <...>-6372  [000] ....  1313.564825: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123220
+           <...>-6372  [000] ....  1313.564837: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123220
+           <...>-6372  [000] ....  1313.565183: ext4_file_write: [W]	mmcblk0p28	123220	0	448	0
+           <...>-6372  [000] ....  1313.565258: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	123220	0
+           <...>-6372  [002] ....  1313.570892: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	123132
+           <...>-6372  [002] ....  1313.571240: ext4_rename: [RN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	123219
+           <...>-6372  [002] ....  1313.571395: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123132
+           <...>-6372  [002] ....  1313.571407: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123132
+           <...>-6372  [002] ....  1313.571750: ext4_file_write: [W]	mmcblk0p28	123132	0	448	0
+           <...>-6372  [002] ....  1313.571818: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	123132	0
+           <...>-6372  [002] ....  1313.575532: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	123219
+           <...>-6424  [000] ....  1313.586169: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db	123165
+           <...>-6424  [003] ....  1313.587163: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.588875: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.589179: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.589643: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.590183: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.590391: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.590406: ext4_file_write: [W]	mmcblk0p28	123151	0	512	12824
+           <...>-6424  [003] ....  1313.590445: ext4_file_write: [W]	mmcblk0p28	123151	512	4	12824
+           <...>-6424  [003] ....  1313.590461: ext4_file_write: [W]	mmcblk0p28	123151	516	4096	12824
+           <...>-6424  [003] ....  1313.590487: ext4_file_write: [W]	mmcblk0p28	123151	4612	4	12824
+           <...>-6424  [003] ....  1313.590511: ext4_file_write: [W]	mmcblk0p28	123151	4616	4	12824
+           <...>-6424  [003] ....  1313.590529: ext4_file_write: [W]	mmcblk0p28	123151	4620	4096	12824
+           <...>-6424  [003] ....  1313.590552: ext4_file_write: [W]	mmcblk0p28	123151	8716	4	12824
+           <...>-6424  [003] ....  1313.590592: ext4_file_write: [W]	mmcblk0p28	123151	8720	4	12824
+           <...>-6424  [003] ....  1313.590607: ext4_file_write: [W]	mmcblk0p28	123151	8724	4096	12824
+           <...>-6424  [003] ....  1313.590632: ext4_file_write: [W]	mmcblk0p28	123151	12820	4	12824
+           <...>-6424  [003] ....  1313.590654: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6424  [003] ....  1313.593138: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases	123140
+           <...>-6424  [003] ....  1313.593146: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases	123140	1
+           <...>-6424  [003] ....  1313.597815: ext4_file_write: [W]	mmcblk0p28	123151	0	12	12824
+           <...>-6424  [003] ....  1313.597857: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6424  [003] ....  1313.599113: ext4_file_write: [W]	mmcblk0p28	123165	0	4096	20480
+           <...>-6424  [003] ....  1313.599148: ext4_file_write: [W]	mmcblk0p28	123165	12288	4096	20480
+           <...>-6424  [003] ....  1313.599168: ext4_file_write: [W]	mmcblk0p28	123165	16384	4096	20480
+           <...>-6424  [003] ....  1313.599194: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db	123165	1
+           <...>-6424  [003] ....  1313.600755: ext4_file_write: [W]	mmcblk0p28	123151	0	28	12824
+           <...>-6424  [003] ....  1313.600782: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6424  [003] ....  1313.602109: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6424  [003] ....  1313.606481: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6405  [003] ....  1313.607688: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6426  [002] ....  1313.608164: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6426  [002] ....  1313.608318: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6426  [002] ....  1313.608333: ext4_file_write: [W]	mmcblk0p28	123151	0	512	12824
+           <...>-6426  [002] ....  1313.608362: ext4_file_write: [W]	mmcblk0p28	123151	512	4	12824
+           <...>-6426  [002] ....  1313.608378: ext4_file_write: [W]	mmcblk0p28	123151	516	4096	12824
+           <...>-6426  [002] ....  1313.608404: ext4_file_write: [W]	mmcblk0p28	123151	4612	4	12824
+           <...>-6426  [002] ....  1313.608428: ext4_file_write: [W]	mmcblk0p28	123151	4616	4	12824
+           <...>-6426  [002] ....  1313.608443: ext4_file_write: [W]	mmcblk0p28	123151	4620	4096	12824
+           <...>-6426  [002] ....  1313.608468: ext4_file_write: [W]	mmcblk0p28	123151	8716	4	12824
+           <...>-6426  [002] ....  1313.608506: ext4_file_write: [W]	mmcblk0p28	123151	8720	4	12824
+           <...>-6426  [002] ....  1313.608521: ext4_file_write: [W]	mmcblk0p28	123151	8724	4096	12824
+           <...>-6426  [002] ....  1313.608545: ext4_file_write: [W]	mmcblk0p28	123151	12820	4	12824
+           <...>-6426  [002] ....  1313.608568: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6426  [002] ....  1313.610924: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases	123140
+           <...>-6426  [002] ....  1313.610932: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases	123140	1
+           <...>-6426  [002] ....  1313.612934: ext4_file_write: [W]	mmcblk0p28	123151	0	12	12824
+           <...>-6426  [002] ....  1313.612977: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6426  [002] ....  1313.614014: ext4_file_write: [W]	mmcblk0p28	123165	0	4096	20480
+           <...>-6426  [002] ....  1313.614048: ext4_file_write: [W]	mmcblk0p28	123165	12288	4096	20480
+           <...>-6426  [002] ....  1313.614067: ext4_file_write: [W]	mmcblk0p28	123165	16384	4096	20480
+           <...>-6426  [002] ....  1313.614095: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db	123165	1
+           <...>-6426  [002] ....  1313.616055: ext4_file_write: [W]	mmcblk0p28	123151	0	28	12824
+           <...>-6426  [002] ....  1313.616077: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6426  [002] ....  1313.617358: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6426  [002] ....  1313.617845: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6453  [000] ....  1313.621032: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6330  [000] ....  1313.642868: do_filp_open: [OP]	mmcblk0p28	/data/app/com.nhn.android.band-1/base.apk	163882
+           <...>-6358  [003] ....  1313.659513: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.lock	123152
+           <...>-6358  [003] ....  1313.659618: ext4_file_write: [W]	mmcblk0p28	123152	0	1184	0
+           <...>-6358  [003] ....  1313.659857: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.write.mx	123153
+           <...>-6358  [003] ....  1313.660034: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.control.mx	123154
+           <...>-6358  [003] ....  1313.660116: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm	123155
+           <...>-6358  [003] ....  1313.660230: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.new_commit.cv	123156
+           <...>-6358  [003] ....  1313.660268: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.pick_writer.cv	123158
+           <...>-6358  [003] ....  1313.660601: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.lock	123152
+           <...>-6358  [003] ....  1313.660666: ext4_file_write: [W]	mmcblk0p28	123152	0	1184	0
+           <...>-6358  [003] ....  1313.660838: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.write.mx	123153
+           <...>-6358  [003] ....  1313.660905: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.control.mx	123154
+           <...>-6358  [003] ....  1313.660986: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm	123155
+           <...>-6358  [003] ....  1313.661100: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.new_commit.cv	123156
+           <...>-6358  [003] ....  1313.661134: do_filp_open: [OP]	mmcblk0p28	/data/data/com.nhn.android.band/files/jackpotlog.realm.management/access_control.pick_writer.cv	123158
+           <...>-6358  [003] ....  1313.661270: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.realm.temp/2236354103_realm.note	123159
+           <...>-6358  [003] ....  1313.664177: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/files/jackpotlog.realm	123155	0
+           <...>-6358  [003] .N..  1313.672195: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/files/jackpotlog.realm	123155	0
+           <...>-6358  [003] ....  1313.677318: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/files/jackpotlog.realm	123155	0
+           <...>-6449  [002] ....  1313.698455: do_filp_open: [OP]	mmcblk0p25	/system/etc/security/cacerts/7999be0d.0	699
+           <...>-6366  [000] ....  1313.747542: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	123219
+           <...>-6366  [000] ....  1313.747556: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/AppEventsLogger.persistedevents	123219
+           <...>-6461  [000] ....  1313.759709: do_filp_open: [OP]	mmcblk0p25	/vendor/firmware/venus.mdt	1812
+           <...>-6366  [002] ....  1313.762412: ext4_file_write: [W]	mmcblk0p28	123219	0	178	0
+           <...>-6463  [002] ....  1313.776309: do_filp_open: [OP]	mmcblk0p25	/vendor/firmware/venus.b02	1809
+           <...>-6464  [000] ....  1313.778462: do_filp_open: [OP]	mmcblk0p25	/system/etc/hosts	563
+           <...>-6466  [000] .N..  1313.794881: do_filp_open: [OP]	mmcblk0p25	/vendor/firmware/venus.b03	1810
+           <...>-6467  [002] ....  1313.802342: do_filp_open: [OP]	mmcblk0p25	/vendor/firmware/venus.b04	1811
+           <...>-6449  [002] ....  1313.916801: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6449  [002] ....  1313.917183: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6449  [002] ....  1313.917199: ext4_file_write: [W]	mmcblk0p28	123151	0	512	12824
+           <...>-6449  [002] ....  1313.917254: ext4_file_write: [W]	mmcblk0p28	123151	512	4	12824
+           <...>-6449  [002] ....  1313.917271: ext4_file_write: [W]	mmcblk0p28	123151	516	4096	12824
+           <...>-6449  [002] ....  1313.917297: ext4_file_write: [W]	mmcblk0p28	123151	4612	4	12824
+           <...>-6449  [002] ....  1313.917341: ext4_file_write: [W]	mmcblk0p28	123151	4616	4	12824
+           <...>-6449  [002] ....  1313.917357: ext4_file_write: [W]	mmcblk0p28	123151	4620	4096	12824
+           <...>-6449  [002] ....  1313.917384: ext4_file_write: [W]	mmcblk0p28	123151	8716	4	12824
+           <...>-6449  [002] ....  1313.917410: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6449  [000] ....  1313.919775: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases	123140
+           <...>-6449  [000] ....  1313.919786: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases	123140	1
+           <...>-6449  [002] ....  1313.925961: ext4_file_write: [W]	mmcblk0p28	123151	0	12	12824
+           <...>-6449  [002] ....  1313.926028: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6449  [002] ....  1313.927037: ext4_file_write: [W]	mmcblk0p28	123165	0	4096	20480
+           <...>-6449  [002] ....  1313.927077: ext4_file_write: [W]	mmcblk0p28	123165	12288	4096	20480
+           <...>-6449  [002] ....  1313.927108: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db	123165	1
+           <...>-6449  [002] ....  1313.928797: ext4_file_write: [W]	mmcblk0p28	123151	0	28	12824
+           <...>-6449  [002] ....  1313.928835: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-2454  [002] ....  1313.948296: vfs_create.part.13: [CR]	mmcblk0p28	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	115564
+           <...>-2454  [002] ....  1313.948310: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	115564
+           <...>-2454  [002] ....  1313.948453: ext4_file_write: [W]	mmcblk0p28	115564	0	4097	0
+           <...>-2454  [002] ....  1313.948550: vfs_fsync: [FS]	mmcblk0p28	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	115564	0
+           <...>-2454  [002] ....  1313.954703: ext4_rename: [RN]	mmcblk0p28	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	115564
+           <...>-2824  [000] ....  1313.969772: ext4_file_write: [W]	mmcblk0p28	115578	226632	24	524288
+           <...>-2824  [000] ....  1313.969831: ext4_file_write: [W]	mmcblk0p28	115578	226656	4096	524288
+           <...>-2824  [000] ....  1313.969865: ext4_file_write: [W]	mmcblk0p28	115578	230752	24	524288
+           <...>-2824  [000] ....  1313.969882: ext4_file_write: [W]	mmcblk0p28	115578	230776	4096	524288
+           <...>-2824  [000] ....  1313.969912: ext4_file_write: [W]	mmcblk0p28	115578	234872	24	524288
+           <...>-2824  [000] ....  1313.969929: ext4_file_write: [W]	mmcblk0p28	115578	234896	4096	524288
+           <...>-2824  [000] ....  1313.969959: ext4_file_write: [W]	mmcblk0p28	115578	238992	24	524288
+           <...>-2824  [000] ....  1313.969976: ext4_file_write: [W]	mmcblk0p28	115578	239016	4096	524288
+           <...>-2824  [001] ....  1313.979011: ext4_file_write: [W]	mmcblk0p28	115578	243112	24	524288
+           <...>-2824  [001] ....  1313.979061: ext4_file_write: [W]	mmcblk0p28	115578	243136	4096	524288
+           <...>-2824  [001] ....  1313.979096: ext4_file_write: [W]	mmcblk0p28	115578	247232	24	524288
+           <...>-2824  [001] ....  1313.979115: ext4_file_write: [W]	mmcblk0p28	115578	247256	4096	524288
+           <...>-2824  [001] ....  1313.979146: ext4_file_write: [W]	mmcblk0p28	115578	251352	24	524288
+           <...>-2824  [001] ....  1313.979164: ext4_file_write: [W]	mmcblk0p28	115578	251376	4096	524288
+           <...>-2824  [001] ....  1313.979195: ext4_file_write: [W]	mmcblk0p28	115578	255472	24	524288
+           <...>-2824  [001] ....  1313.979212: ext4_file_write: [W]	mmcblk0p28	115578	255496	4096	524288
+           <...>-2824  [001] ....  1313.987656: ext4_file_write: [W]	mmcblk0p28	115578	259592	24	524288
+           <...>-2824  [001] ....  1313.987703: ext4_file_write: [W]	mmcblk0p28	115578	259616	4096	524288
+           <...>-2824  [001] ....  1313.987737: ext4_file_write: [W]	mmcblk0p28	115578	263712	24	524288
+           <...>-2824  [001] ....  1313.987754: ext4_file_write: [W]	mmcblk0p28	115578	263736	4096	524288
+           <...>-2824  [001] ....  1313.987786: ext4_file_write: [W]	mmcblk0p28	115578	267832	24	524288
+           <...>-2824  [001] ....  1313.987803: ext4_file_write: [W]	mmcblk0p28	115578	267856	4096	524288
+           <...>-2824  [001] ....  1313.987833: ext4_file_write: [W]	mmcblk0p28	115578	271952	24	524288
+           <...>-2824  [001] ....  1313.987850: ext4_file_write: [W]	mmcblk0p28	115578	271976	4096	524288
+           <...>-6405  [001] ....  1313.993626: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-2824  [001] ....  1314.000261: ext4_file_write: [W]	mmcblk0p28	115578	276072	24	524288
+           <...>-2824  [001] .N..  1314.000318: ext4_file_write: [W]	mmcblk0p28	115578	276096	4096	524288
+           <...>-2824  [001] ....  1314.000509: ext4_file_write: [W]	mmcblk0p28	115578	280192	24	524288
+           <...>-2824  [001] ....  1314.000527: ext4_file_write: [W]	mmcblk0p28	115578	280216	4096	524288
+           <...>-2824  [001] ....  1314.000559: ext4_file_write: [W]	mmcblk0p28	115578	284312	24	524288
+           <...>-2824  [001] ....  1314.000576: ext4_file_write: [W]	mmcblk0p28	115578	284336	4096	524288
+           <...>-2824  [001] ....  1314.000606: ext4_file_write: [W]	mmcblk0p28	115578	288432	24	524288
+           <...>-2824  [001] ....  1314.000623: ext4_file_write: [W]	mmcblk0p28	115578	288456	4096	524288
+           <...>-6405  [001] ....  1314.010864: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [001] ....  1314.014781: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-2824  [000] ....  1314.015617: ext4_file_write: [W]	mmcblk0p28	115578	292552	24	524288
+           <...>-2824  [000] .N..  1314.015662: ext4_file_write: [W]	mmcblk0p28	115578	292576	4096	524288
+           <...>-2824  [000] ....  1314.015845: ext4_file_write: [W]	mmcblk0p28	115578	296672	24	524288
+           <...>-2824  [000] ....  1314.015863: ext4_file_write: [W]	mmcblk0p28	115578	296696	4096	524288
+           <...>-2824  [000] ....  1314.015894: ext4_file_write: [W]	mmcblk0p28	115578	300792	24	524288
+           <...>-2824  [000] ....  1314.015911: ext4_file_write: [W]	mmcblk0p28	115578	300816	4096	524288
+           <...>-2824  [000] ....  1314.015941: ext4_file_write: [W]	mmcblk0p28	115578	304912	24	524288
+           <...>-2824  [000] ....  1314.015958: ext4_file_write: [W]	mmcblk0p28	115578	304936	4096	524288
+           <...>-6449  [002] ....  1314.021043: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6449  [002] ....  1314.021196: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151
+           <...>-6449  [002] ....  1314.021212: ext4_file_write: [W]	mmcblk0p28	123151	0	512	12824
+           <...>-6449  [002] ....  1314.021263: ext4_file_write: [W]	mmcblk0p28	123151	512	4	12824
+           <...>-6449  [002] ....  1314.021282: ext4_file_write: [W]	mmcblk0p28	123151	516	4096	12824
+           <...>-6449  [002] ....  1314.021312: ext4_file_write: [W]	mmcblk0p28	123151	4612	4	12824
+           <...>-6449  [002] ....  1314.021358: ext4_file_write: [W]	mmcblk0p28	123151	4616	4	12824
+           <...>-6449  [002] ....  1314.021375: ext4_file_write: [W]	mmcblk0p28	123151	4620	4096	12824
+           <...>-6449  [002] ....  1314.021402: ext4_file_write: [W]	mmcblk0p28	123151	8716	4	12824
+           <...>-6449  [002] ....  1314.021430: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-2824  [003] ....  1314.023062: ext4_file_write: [W]	mmcblk0p28	115578	309032	24	524288
+           <...>-2824  [003] ....  1314.023111: ext4_file_write: [W]	mmcblk0p28	115578	309056	4096	524288
+           <...>-2824  [003] ....  1314.023151: ext4_file_write: [W]	mmcblk0p28	115578	313152	24	524288
+           <...>-2824  [003] ....  1314.023172: ext4_file_write: [W]	mmcblk0p28	115578	313176	4096	524288
+           <...>-2824  [003] ....  1314.023210: ext4_file_write: [W]	mmcblk0p28	115578	317272	24	524288
+           <...>-2824  [003] ....  1314.023229: ext4_file_write: [W]	mmcblk0p28	115578	317296	4096	524288
+           <...>-2824  [003] ....  1314.023265: ext4_file_write: [W]	mmcblk0p28	115578	321392	24	524288
+           <...>-2824  [003] ....  1314.023285: ext4_file_write: [W]	mmcblk0p28	115578	321416	4096	524288
+           <...>-2824  [003] ....  1314.023316: ext4_file_write: [W]	mmcblk0p28	115578	325512	24	524288
+           <...>-2824  [003] ....  1314.023335: ext4_file_write: [W]	mmcblk0p28	115578	325536	4096	524288
+           <...>-2824  [003] ....  1314.023367: ext4_file_write: [W]	mmcblk0p28	115578	329632	24	524288
+           <...>-2824  [003] ....  1314.023385: ext4_file_write: [W]	mmcblk0p28	115578	329656	4096	524288
+           <...>-2824  [003] ....  1314.023416: ext4_file_write: [W]	mmcblk0p28	115578	333752	24	524288
+           <...>-2824  [003] ....  1314.023434: ext4_file_write: [W]	mmcblk0p28	115578	333776	4096	524288
+           <...>-6449  [000] ....  1314.023637: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/databases	123140
+           <...>-6449  [000] ....  1314.023647: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases	123140	1
+           <...>-6405  [001] ....  1314.027693: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-2824  [003] ....  1314.028187: ext4_file_write: [W]	mmcblk0p28	115578	337872	24	524288
+           <...>-2824  [003] ....  1314.028228: ext4_file_write: [W]	mmcblk0p28	115578	337896	4096	524288
+           <...>-2824  [003] ....  1314.028267: ext4_file_write: [W]	mmcblk0p28	115578	341992	24	524288
+           <...>-2824  [003] ....  1314.028289: ext4_file_write: [W]	mmcblk0p28	115578	342016	4096	524288
+           <...>-2824  [003] ....  1314.028326: ext4_file_write: [W]	mmcblk0p28	115578	346112	24	524288
+           <...>-2824  [003] ....  1314.028345: ext4_file_write: [W]	mmcblk0p28	115578	346136	4096	524288
+           <...>-2824  [003] ....  1314.028375: ext4_file_write: [W]	mmcblk0p28	115578	350232	24	524288
+           <...>-2824  [003] ....  1314.028393: ext4_file_write: [W]	mmcblk0p28	115578	350256	4096	524288
+           <...>-6405  [001] ....  1314.030114: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6449  [000] ....  1314.031372: ext4_file_write: [W]	mmcblk0p28	123151	0	12	12824
+           <...>-6449  [000] ....  1314.031421: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-6449  [000] ....  1314.032800: ext4_file_write: [W]	mmcblk0p28	123165	0	4096	20480
+           <...>-6449  [000] ....  1314.032853: ext4_file_write: [W]	mmcblk0p28	123165	12288	4096	20480
+           <...>-6449  [000] ....  1314.032883: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db	123165	1
+           <...>-6449  [000] ....  1314.034738: ext4_file_write: [W]	mmcblk0p28	123151	0	28	12824
+           <...>-6449  [000] ....  1314.034769: vfs_fsync: [FS]	mmcblk0p28	/data/com.nhn.android.band/databases/google_conversion_tracking.db-journal	123151	1
+           <...>-2824  [002] ....  1314.052856: ext4_file_write: [W]	mmcblk0p28	115578	354352	24	524288
+           <...>-2824  [002] ....  1314.052910: ext4_file_write: [W]	mmcblk0p28	115578	354376	4096	524288
+           <...>-2824  [002] ....  1314.052938: ext4_file_write: [W]	mmcblk0p28	115578	358472	24	524288
+           <...>-2824  [002] ....  1314.052953: ext4_file_write: [W]	mmcblk0p28	115578	358496	4096	524288
+           <...>-2824  [002] ....  1314.052976: ext4_file_write: [W]	mmcblk0p28	115578	362592	24	524288
+           <...>-2824  [002] ....  1314.052990: ext4_file_write: [W]	mmcblk0p28	115578	362616	4096	524288
+           <...>-2824  [002] ....  1314.053014: ext4_file_write: [W]	mmcblk0p28	115578	366712	24	524288
+           <...>-2824  [002] ....  1314.053027: ext4_file_write: [W]	mmcblk0p28	115578	366736	4096	524288
+           <...>-6405  [002] ....  1314.060740: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-3927  [000] ....  1314.071114: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.android.vending/cache/logs/null_account.metalog/play_metalog.log	221220
+           <...>-3927  [000] ....  1314.071182: ext4_file_write: [W]	mmcblk0p28	221220	0	3	0
+           <...>-3927  [000] ....  1314.071407: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.android.vending/cache/logs/null_account.metalog/logs_upload_attempt.log	221221
+           <...>-3927  [000] ....  1314.071454: ext4_file_write: [W]	mmcblk0p28	221221	0	68	0
+           <...>-6405  [002] ....  1314.077700: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [002] ....  1314.079090: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6435  [000] ....  1314.081493: do_filp_open: [OP]	mmcblk0p25	/system/etc/security/cacerts/d4c339cb.0	756
+           <...>-6472  [003] ....  1314.087781: ext4_file_write: [W]	mmcblk0p28	115578	370832	24	524288
+           <...>-6472  [003] ....  1314.087829: ext4_file_write: [W]	mmcblk0p28	115578	370856	4096	524288
+           <...>-6472  [003] ....  1314.087863: ext4_file_write: [W]	mmcblk0p28	115578	374952	24	524288
+           <...>-6472  [003] ....  1314.087882: ext4_file_write: [W]	mmcblk0p28	115578	374976	4096	524288
+           <...>-6472  [003] ....  1314.087913: ext4_file_write: [W]	mmcblk0p28	115578	379072	24	524288
+           <...>-6472  [003] ....  1314.087931: ext4_file_write: [W]	mmcblk0p28	115578	379096	4096	524288
+           <...>-6472  [003] ....  1314.087961: ext4_file_write: [W]	mmcblk0p28	115578	383192	24	524288
+           <...>-6472  [003] ....  1314.087979: ext4_file_write: [W]	mmcblk0p28	115578	383216	4096	524288
+           <...>-6472  [000] ....  1314.098554: ext4_file_write: [W]	mmcblk0p28	115578	387312	24	524288
+           <...>-6472  [000] ....  1314.098601: ext4_file_write: [W]	mmcblk0p28	115578	387336	4096	524288
+           <...>-6472  [000] ....  1314.098630: ext4_file_write: [W]	mmcblk0p28	115578	391432	24	524288
+           <...>-6472  [000] ....  1314.098645: ext4_file_write: [W]	mmcblk0p28	115578	391456	4096	524288
+           <...>-6472  [000] ....  1314.098671: ext4_file_write: [W]	mmcblk0p28	115578	395552	24	524288
+           <...>-6472  [000] ....  1314.098686: ext4_file_write: [W]	mmcblk0p28	115578	395576	4096	524288
+           <...>-6472  [000] ....  1314.098711: ext4_file_write: [W]	mmcblk0p28	115578	399672	24	524288
+           <...>-6472  [000] ....  1314.098725: ext4_file_write: [W]	mmcblk0p28	115578	399696	4096	524288
+           <...>-6472  [000] ....  1314.102153: ext4_file_write: [W]	mmcblk0p28	115578	403792	24	524288
+           <...>-6472  [000] ....  1314.102191: ext4_file_write: [W]	mmcblk0p28	115578	403816	4096	524288
+           <...>-6472  [000] ....  1314.102219: ext4_file_write: [W]	mmcblk0p28	115578	407912	24	524288
+           <...>-6472  [000] ....  1314.102233: ext4_file_write: [W]	mmcblk0p28	115578	407936	4096	524288
+           <...>-6472  [000] ....  1314.102258: ext4_file_write: [W]	mmcblk0p28	115578	412032	24	524288
+           <...>-6472  [000] ....  1314.102273: ext4_file_write: [W]	mmcblk0p28	115578	412056	4096	524288
+           <...>-6472  [000] ....  1314.102298: ext4_file_write: [W]	mmcblk0p28	115578	416152	24	524288
+           <...>-6472  [000] ....  1314.102312: ext4_file_write: [W]	mmcblk0p28	115578	416176	4096	524288
+           <...>-6472  [000] ....  1314.102422: vfs_fsync: [FS]	mmcblk0p28	/data/com.google.android.gms/databases/playlog.db-wal	115578	1
+           <...>-6405  [002] ....  1314.111380: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6472  [003] ....  1314.114615: ext4_file_write: [W]	mmcblk0p28	114937	0	4096	270336
+           <...>-6472  [003] ....  1314.114693: ext4_file_write: [W]	mmcblk0p28	114937	4096	4096	270336
+           <...>-6472  [003] ....  1314.114729: ext4_file_write: [W]	mmcblk0p28	114937	16384	4096	270336
+           <...>-6472  [003] ....  1314.114764: ext4_file_write: [W]	mmcblk0p28	114937	20480	4096	270336
+           <...>-6472  [003] ....  1314.114798: ext4_file_write: [W]	mmcblk0p28	114937	28672	4096	270336
+           <...>-6472  [003] ....  1314.114833: ext4_file_write: [W]	mmcblk0p28	114937	45056	4096	270336
+           <...>-6472  [003] ....  1314.114870: ext4_file_write: [W]	mmcblk0p28	114937	270336	4096	270336
+           <...>-6472  [003] ....  1314.114937: ext4_file_write: [W]	mmcblk0p28	114937	274432	4096	274432
+           <...>-6472  [003] ....  1314.115066: vfs_fsync: [FS]	mmcblk0p28	/data/com.google.android.gms/databases/playlog.db	114937	1
+           <...>-6405  [002] ....  1314.128210: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [002] ....  1314.145078: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [002] ....  1314.162102: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6405  [000] ....  1314.212641: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-5682  [000] ....  1314.299860: do_filp_open: [OP]	mmcblk0p25	/system/lib/hw/gralloc.msm8974.so	1054
+           <...>-6435  [001] ....  1314.781650: vfs_unlink: [UN]	mmcblk0p28	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9dfec8c0-a3c7-4b47-8592-5cd851657e88_1508142568272.tap	123180
+           <...>-6435  [001] ....  1314.781835: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send	123172
+           <...>-6435  [001] ....  1314.782643: ext4_file_write: [W]	mmcblk0p28	123171	16	4	4096
+           <...>-6435  [000] ....  1314.793651: ext4_file_write: [W]	mmcblk0p28	123171	20	537	4096
+           <...>-6435  [000] ....  1314.796721: ext4_file_write: [W]	mmcblk0p28	123171	0	16	4096
+           <...>-6435  [000] ....  1314.798113: ext4_file_write: [W]	mmcblk0p28	123171	557	4	4096
+           <...>-6435  [000] ....  1314.799144: ext4_file_write: [W]	mmcblk0p28	123171	561	538	4096
+           <...>-6435  [000] ....  1314.800207: ext4_file_write: [W]	mmcblk0p28	123171	0	16	4096
+           <...>-6435  [000] ....  1314.801580: ext4_file_write: [W]	mmcblk0p28	123171	1099	4	4096
+           <...>-6435  [000] ....  1314.804933: ext4_file_write: [W]	mmcblk0p28	123171	1103	523	4096
+           <...>-6435  [000] ....  1314.805924: ext4_file_write: [W]	mmcblk0p28	123171	0	16	4096
+           <...>-996   [000] ....  1315.406932: vfs_create.part.13: [CR]	mmcblk0p28	/system/recent_tasks/6_task.xml	98586
+           <...>-996   [000] ....  1315.406963: do_filp_open: [OP]	mmcblk0p28	/data/system/recent_tasks/6_task.xml	98586
+           <...>-996   [000] ....  1315.407160: ext4_file_write: [W]	mmcblk0p28	98586	0	835	0
+           <...>-996   [000] ....  1315.407332: ext4_file_write: [W]	mmcblk0p28	98586	835	1	835
+           <...>-996   [000] ....  1315.407468: vfs_fsync: [FS]	mmcblk0p28	/system/recent_tasks/6_task.xml	98586	0
+           <...>-6482  [001] ....  1315.779482: do_filp_open: [OP]	mmcblk0p28	/data/user/0/com.nhn.android.band/files/AFRequestCache	123144
+           <...>-996   [000] ....  1315.962826: ext4_rename: [RN]	mmcblk0p28	/system/recent_tasks/6_task.xml	/system/recent_tasks/6_task.xml.bak	98586
+           <...>-996   [000] ....  1315.963414: vfs_create.part.13: [CR]	mmcblk0p28	/system/recent_tasks/6_task.xml	98587
+           <...>-996   [000] ....  1315.963442: do_filp_open: [OP]	mmcblk0p28	/data/system/recent_tasks/6_task.xml	98587
+           <...>-996   [000] ....  1315.963736: ext4_file_write: [W]	mmcblk0p28	98587	0	835	0
+           <...>-996   [000] ....  1315.963925: ext4_file_write: [W]	mmcblk0p28	98587	835	1	835
+           <...>-996   [000] ....  1315.964031: vfs_fsync: [FS]	mmcblk0p28	/system/recent_tasks/6_task.xml	98587	0
+           <...>-996   [000] ....  1315.982172: vfs_unlink: [UN]	mmcblk0p28	/system/recent_tasks/6_task.xml.bak	98586
+           <...>-996   [000] ....  1315.982590: do_filp_open: [OP]	mmcblk0p28	/data/system/recent_tasks	98312
+           <...>-996   [000] ....  1315.982822: do_filp_open: [OP]	mmcblk0p28	/data/system/recent_images	98313

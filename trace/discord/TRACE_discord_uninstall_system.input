@@ -1,0 +1,227 @@
+26.992566	[UN]	/dalvik-cache/profiles/com.discord	
+26.992856	[UN]	/data/com.discord/lib	
+26.993024	[RD]	/data/com.discord/cache/bugsnag-errors	
+26.993479	[RD]	/data/com.discord/cache/WebView/SafeBrowsing	
+26.993583	[RD]	/data/com.discord/cache/WebView	
+26.993692	[RD]	/data/com.discord/cache	
+26.993831	[RD]	/data/com.discord/code_cache	
+26.993960	[UN]	/data/com.discord/no_backup/com.google.android.gms.appid-no-backup	
+26.994061	[RD]	/data/com.discord/no_backup	
+26.994185	[UN]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	
+26.994306	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+26.994418	[UN]	/data/com.discord/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml	
+26.994527	[UN]	/data/com.discord/shared_prefs/prefsSessionDurable.xml	
+26.994632	[UN]	/data/com.discord/shared_prefs/CookiePersistence.xml	
+26.994739	[UN]	/data/com.discord/shared_prefs/com.google.android.gms.appid.xml	
+26.994839	[UN]	/data/com.discord/shared_prefs/WebViewChromiumPrefs.xml	
+26.994937	[UN]	/data/com.discord/shared_prefs/com.facebook.sdk.appEventPreferences.xml	
+26.995036	[UN]	/data/com.discord/shared_prefs/com.facebook.sdk.attributionTracking.xml	
+26.995142	[RD]	/data/com.discord/shared_prefs	
+26.995330	[UN]	/data/com.discord/files/PREF_K_READ_STATES_UNREAD_CHANNEL_IDS_V1	
+26.995434	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_NAMES_V4	
+26.995536	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_IDS_V4	
+26.995634	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNELS_PRIVATE_V15	
+26.995731	[UN]	/data/com.discord/files/PREF_K_STORE_SETTINGS_USER_GUILD_V4	
+26.995831	[UN]	/data/com.discord/files/PREF_K_MOST_RECENT_MESSAGE_IDS	
+26.995929	[UN]	/data/com.discord/files/PREF_K_STORE_SHOW_HIDE_MUTED_CHANNELS_V2	
+26.996023	[UN]	/data/com.discord/files/PREF_K_STORE_USERS_ME_ID_V4	
+26.996119	[UN]	/data/com.discord/files/PREF_K_STORE_SETTINGS_POSITIONS_V3	
+26.996216	[UN]	/data/com.discord/files/PREF_K_STORE_USERS_ME_V7	
+26.996311	[UN]	/data/com.discord/files/PREF_K_RESTRICTED_GUILD_IDS	
+26.996404	[UN]	/data/com.discord/files/PREF_K_STORE_USER_RELATIONSHIPS_V7	
+26.996500	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_V3	
+26.996599	[UN]	/data/com.discord/files/PREF_K_STORE_EMOJI_AVAILABLE_V2	
+26.996695	[UN]	/data/com.discord/files/PREF_K_CHANNEL_MENTION_COUNTS_V3	
+26.996791	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_PERMISSIONS_V3	
+26.996886	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_BY_GUILD_V3	
+26.996980	[UN]	/data/com.discord/files/PREF_K_MOST_RECENT_ACKS_V3	
+26.997074	[UN]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_WAKE_UP_DEVICE	
+26.997169	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_VIBRATE_DISABLED	
+26.997305	[UN]	/data/com.discord/files/PREF_K_STORE_REGISTRATION_TOKEN	
+26.997402	[UN]	/data/com.discord/files/PREF_K_UNREAD_MESSAGE_MARKER_V3	
+26.997501	[UN]	/data/com.discord/files/PREF_K_SEARCH_HISTORY_V2	
+26.997591	[UN]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_ENABLED	
+26.997686	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_LIGHT_DISABLED	
+26.997785	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_SOUND_DISABLED	
+26.997879	[UN]	/data/com.discord/files/PREF_K_VIDEO_IS_SUPPORTED	
+26.997973	[UN]	/data/com.discord/files/PREF_K_KEYBOARD_HEIGHTS	
+26.998068	[UN]	/data/com.discord/files/PREF_K_STORE_SELECTED_CHANNELS_V5	
+26.998163	[UN]	/data/com.discord/files/PREF_K_VOICE_CONFIGURATION_V3	
+27.000563	[UN]	/data/com.discord/files/PREF_K_MUTED_USERS	
+27.000675	[UN]	/data/com.discord/files/PREF_K_STORE_COLLAPSED_CATEGORIES_V1	
+27.000772	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_SELECTED_V4	
+27.000867	[UN]	/data/com.discord/files/PREF_K_EMOJI_HISTORY_V1	
+27.000966	[UN]	/data/com.discord/files/PREF_K_USER_OUTPUT_VOLUMES	
+27.001062	[UN]	/data/com.discord/files/PREF_K_TRIGGERED_EXPERIMENTS_V3	
+27.001154	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNELS_V15	
+27.001245	[UN]	/data/com.discord/files/PREF_K_NOTIFICATION_CLIENT_SETTINGS	
+27.001345	[UN]	/data/com.discord/files/PREF_K_STORE_MESSAGES_CACHE_V17	
+27.001443	[UN]	/data/com.discord/files/PREF_K_STORE_GUILDS_V13	
+27.001537	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_ROLES_V4	
+27.001632	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_JOINED_AT_V4	
+27.001726	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_MEMBERS_COMPUTED_V7	
+27.001823	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_HAS_ROLE_V4	
+27.001919	[UN]	/data/com.discord/files/PREF_K_STORE_GUILDS_LARGE_V4	
+27.002014	[UN]	/data/com.discord/files/PREF_K_STORE_USERS_MAP_V7	
+27.002115	[UN]	/data/com.discord/files/PREF_K_STORE_USER_PRESENCES_V8	
+27.002241	[RD]	/data/com.discord/files	
+27.003782	[UN]	/data/com.discord/app_webview/webview_data.lock	
+27.003864	[UN]	/data/com.discord/app_webview/Web Data	
+27.004033	[UN]	/data/com.discord/app_webview/Web Data-journal	
+27.004097	[UN]	/data/com.discord/app_webview/metrics_guid	
+27.004209	[RD]	/data/com.discord/app_webview	
+27.004368	[RD]	/data/com.discord/app_textures	
+27.004507	[RD]	/data/com.discord/app_download_internal	
+27.004702	[UN]	/data/com.discord/databases/google_app_measurement_local.db	
+27.004833	[UN]	/data/com.discord/databases/google_app_measurement_local.db-journal	
+27.004966	[UN]	/data/com.discord/databases/google_app_measurement.db	
+27.005256	[UN]	/data/com.discord/databases/google_app_measurement.db-journal	
+27.005389	[RD]	/data/com.discord/databases	
+27.005528	[RD]	/data/com.discord	
+27.024478	[RN]	/system/packages.xml	/system/packages-backup.xml	
+27.024688	[CR]	/system/packages.xml	
+27.025568	[WA]	/system/packages.xml	0	8168	0	
+27.025933	[WA]	/system/packages.xml	8168	8191	8168	
+27.026261	[WA]	/system/packages.xml	16359	8171	16359	
+27.026589	[WA]	/system/packages.xml	24530	8192	24530	
+27.026927	[WA]	/system/packages.xml	32722	8173	32722	
+27.027291	[WA]	/system/packages.xml	40895	8169	40895	
+27.027619	[WA]	/system/packages.xml	49064	8178	49064	
+27.028220	[WA]	/system/packages.xml	57242	8185	57242	
+27.028723	[WA]	/system/packages.xml	65427	6578	65427	
+27.029165	[WA]	/system/packages.xml	72005	8189	72005	
+27.031542	[WA]	/system/packages.xml	80194	8177	80194	
+27.032190	[WA]	/system/packages.xml	88371	8192	88371	
+27.033183	[WA]	/system/packages.xml	96563	8178	96563	
+27.033769	[WA]	/system/packages.xml	104741	8186	104741	
+27.034429	[WA]	/system/packages.xml	112927	8178	112927	
+27.035096	[WA]	/system/packages.xml	121105	8192	121105	
+27.035725	[WA]	/system/packages.xml	129297	8191	129297	
+27.036361	[WA]	/system/packages.xml	137488	8188	137488	
+27.036929	[WA]	/system/packages.xml	145676	8189	145676	
+27.037755	[WA]	/system/packages.xml	153865	8189	153865	
+27.038392	[WA]	/system/packages.xml	162054	6503	162054	
+27.038951	[WA]	/system/packages.xml	168557	8189	168557	
+27.039617	[WA]	/system/packages.xml	176746	8184	176746	
+27.040199	[WA]	/system/packages.xml	184930	8189	184930	
+27.040903	[WA]	/system/packages.xml	193119	8187	193119	
+27.041513	[WA]	/system/packages.xml	201306	7955	201306	
+27.042044	[WA]	/system/packages.xml	209261	8189	209261	
+27.042752	[WA]	/system/packages.xml	217450	8172	217450	
+27.043357	[WA]	/system/packages.xml	225622	8191	225622	
+27.043938	[WA]	/system/packages.xml	233813	8190	233813	
+27.044520	[WA]	/system/packages.xml	242003	8192	242003	
+27.045083	[WA]	/system/packages.xml	250195	8169	250195	
+27.045715	[WA]	/system/packages.xml	258364	8150	258364	
+27.046164	[WA]	/system/packages.xml	266514	8190	266514	
+27.047186	[WA]	/system/packages.xml	274704	8167	274704	
+27.048058	[WA]	/system/packages.xml	282871	8192	282871	
+27.048839	[WA]	/system/packages.xml	291063	7650	291063	
+27.049447	[WA]	/system/packages.xml	298713	8183	298713	
+27.050115	[WA]	/system/packages.xml	306896	8191	306896	
+27.050732	[WA]	/system/packages.xml	315087	8188	315087	
+27.051190	[WA]	/system/packages.xml	323275	8150	323275	
+27.051757	[WA]	/system/packages.xml	331425	8189	331425	
+27.052308	[WA]	/system/packages.xml	339614	8192	339614	
+27.052940	[WA]	/system/packages.xml	347806	8188	347806	
+27.053587	[WA]	/system/packages.xml	355994	8191	355994	
+27.054243	[WA]	/system/packages.xml	364185	8188	364185	
+27.054827	[WA]	/system/packages.xml	372373	8190	372373	
+27.055397	[WA]	/system/packages.xml	380563	8163	380563	
+27.056014	[WA]	/system/packages.xml	388726	8177	388726	
+27.056694	[WA]	/system/packages.xml	396903	8190	396903	
+27.057720	[WA]	/system/packages.xml	405093	8161	405093	
+27.058369	[WA]	/system/packages.xml	413254	8163	413254	
+27.058927	[WA]	/system/packages.xml	421417	8192	421417	
+27.059533	[WA]	/system/packages.xml	429609	8189	429609	
+27.060093	[WA]	/system/packages.xml	437798	8191	437798	
+27.060660	[WA]	/system/packages.xml	445989	8191	445989	
+27.061272	[WA]	/system/packages.xml	454180	8192	454180	
+27.061858	[WA]	/system/packages.xml	462372	8191	462372	
+27.062418	[WA]	/system/packages.xml	470563	8189	470563	
+27.063105	[WA]	/system/packages.xml	478752	8192	478752	
+27.063926	[WA]	/system/packages.xml	486944	8189	486944	
+27.064401	[WA]	/system/packages.xml	495133	8183	495133	
+27.065023	[WA]	/system/packages.xml	503316	8177	503316	
+27.065629	[WA]	/system/packages.xml	511493	8190	511493	
+27.066358	[WA]	/system/packages.xml	519683	8164	519683	
+27.068279	[WA]	/system/packages.xml	527847	7859	527847	
+27.068869	[WA]	/system/packages.xml	535706	4724	535706	
+27.069045	[FS]	/system/packages.xml	0	
+27.100408	[UN]	/system/packages-backup.xml	
+27.101836	[CR]	/system/packages.list.tmp	
+27.116109	[WA]	/system/packages.list.tmp	0	8178	0	
+27.120528	[WA]	/system/packages.list.tmp	8178	2450	8178	
+27.120648	[FS]	/system/packages.list.tmp	0	
+27.126425	[RN]	/system/packages.list.tmp	/system/packages.list	
+27.127823	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+27.128006	[CR]	/system/users/0/package-restrictions.xml	
+27.128720	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+27.129119	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+27.129446	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+27.129819	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+27.130205	[WA]	/system/users/0/package-restrictions.xml	32716	5992	32716	
+27.130297	[FS]	/system/users/0/package-restrictions.xml	0	
+27.138012	[UN]	/system/users/0/package-restrictions-backup.xml	
+27.267117	[UN]	/app/com.discord-2/base.apk	
+27.267387	[UN]	/app/com.discord-2/lib/arm/libstatic-webp.so	
+27.268147	[UN]	/app/com.discord-2/lib/arm/libgifimage.so	
+27.268409	[UN]	/app/com.discord-2/lib/arm/libimagepipeline.so	
+27.268871	[UN]	/app/com.discord-2/lib/arm/libdiscord.so	
+27.277063	[RD]	/app/com.discord-2/lib/arm	
+27.277237	[RD]	/app/com.discord-2/lib	
+27.278687	[UN]	/app/com.discord-2/oat/arm/base.odex	
+27.308405	[RD]	/app/com.discord-2/oat/arm	
+27.308941	[RD]	/app/com.discord-2/oat	
+27.309049	[RD]	/app/com.discord-2	
+27.494387	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+27.494883	[CR]	/system/netpolicy.xml	
+27.495814	[WA]	/system/netpolicy.xml	0	113	0	
+27.495916	[FS]	/system/netpolicy.xml	0	
+27.519205	[UN]	/system/netpolicy.xml.bak	
+27.535285	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+27.535439	[CR]	/system/netstats/uid.1507300282106-	
+27.537378	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+27.538877	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+27.539907	[WA]	/system/netstats/uid.1507300282106-	16384	5528	16384	
+27.539981	[FS]	/system/netstats/uid.1507300282106-	0	
+27.564403	[UN]	/system/netstats/uid.1507300282106-.backup	
+27.573445	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+27.573591	[CR]	/system/netstats/uid_tag.1507783616261-	
+27.575224	[WA]	/system/netstats/uid_tag.1507783616261-	0	8192	0	
+27.584977	[WA]	/system/netstats/uid_tag.1507783616261-	8192	5685	8192	
+27.599898	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+27.626771	[WO]	/system/notification_log.db-journal	0	512	49760	
+27.626829	[WO]	/system/notification_log.db-journal	512	4	49760	
+27.626844	[WO]	/system/notification_log.db-journal	516	4096	49760	
+27.626869	[WO]	/system/notification_log.db-journal	4612	4	49760	
+27.626893	[WO]	/system/notification_log.db-journal	4616	4	49760	
+27.626908	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+27.626932	[WO]	/system/notification_log.db-journal	8716	4	49760	
+27.626970	[WO]	/system/notification_log.db-journal	8720	4	49760	
+27.626984	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+27.627146	[WO]	/system/notification_log.db-journal	12820	4	49760	
+27.627170	[FS]	/system/notification_log.db-journal	1	
+27.640929	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+27.645398	[FS]	/system	1	
+27.664562	[WO]	/system/notification_log.db-journal	0	12	49760	
+27.664708	[FS]	/system/notification_log.db-journal	1	
+27.668645	[WO]	/system/notification_log.db	0	4096	61440	
+27.668700	[WO]	/system/notification_log.db	16384	4096	61440	
+27.668723	[WO]	/system/notification_log.db	57344	4096	61440	
+27.668749	[FS]	/system/notification_log.db	1	
+27.673211	[WO]	/system/notification_log.db-journal	0	28	49760	
+27.673253	[FS]	/system/notification_log.db-journal	1	
+27.704384	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+27.704602	[CR]	/system/netstats/uid.1507300282106-	
+27.706340	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+27.708916	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+27.710006	[WA]	/system/netstats/uid.1507300282106-	16384	5423	16384	
+27.710111	[FS]	/system/netstats/uid.1507300282106-	0	
+27.723668	[UN]	/system/netstats/uid.1507300282106-.backup	
+27.733516	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+27.733675	[CR]	/system/netstats/uid_tag.1507783616261-	
+27.735317	[WA]	/system/netstats/uid_tag.1507783616261-	0	8192	0	
+27.736235	[WA]	/system/netstats/uid_tag.1507783616261-	8192	5637	8192	
+27.736314	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+27.744817	[UN]	/system/netstats/uid_tag.1507783616261-.backup	

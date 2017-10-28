@@ -260,6 +260,8 @@ static int get_ps(char* file, map<int, int> *pid_map, map<int, string> *ppid_map
 			user_num = atoi(user_p);
 		}
 
+		memset(name, 0, PATH_MAX+1);
+
 		if (user_num == -1)
 			strncpy(name, "system", strlen("system"));
 		else 
@@ -682,8 +684,15 @@ static int print_trace(char *file, map<int, struct Namemap*> *namemap,
 			if (ptr == NULL)
 				continue;
 			inode_num = atoll(ptr);	
-			uid = pid_map->find(pid)->second;
-			OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			if(pid_map->find(pid) == pid_map->end())
+			{
+				OUTPUT_NAME(output_name, file, "");
+			}
+			else
+			{
+				uid = pid_map->find(pid)->second;
+				OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			}
 			output_fp = fopen(output_name, "a+");
 			fprintf(output_fp, "%lf\t%s\t%s\t\n", time, type, path);
 			fclose(output_fp);
@@ -705,8 +714,15 @@ static int print_trace(char *file, map<int, struct Namemap*> *namemap,
 			if (ptr == NULL)
 					continue;
 			sync_option = atoi(ptr);
-			uid = pid_map->find(pid)->second;
-			OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			if(pid_map->find(pid) == pid_map->end())
+			{
+				OUTPUT_NAME(output_name, file, "");
+			}
+			else
+			{
+				uid = pid_map->find(pid)->second;
+				OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			}
 			output_fp = fopen(output_name, "a+");
 			fprintf(output_fp, "%lf\t%s\t%s\t%d\t\n", time, type, path, sync_option);
 			fclose(output_fp);
@@ -729,8 +745,15 @@ static int print_trace(char *file, map<int, struct Namemap*> *namemap,
 			if (ptr == NULL)
 					continue;
 			inode_num = atoll(ptr);
-			uid = pid_map->find(pid)->second;
-			OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			if(pid_map->find(pid) == pid_map->end())
+			{
+				OUTPUT_NAME(output_name, file, "");
+			}
+			else
+			{
+				uid = pid_map->find(pid)->second;
+				OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			}
 			output_fp = fopen(output_name, "a+");
 			fprintf(output_fp, "%lf\t%s\t%s\t%s\t\n", time, type, path, path2);
 			fclose(output_fp);
@@ -786,8 +809,15 @@ static int print_trace(char *file, map<int, struct Namemap*> *namemap,
 					strncpy(path, entry->arrName[cnt].name, strlen(entry->arrName[cnt].name));
 					path[strlen(entry->arrName[cnt].name)] = 0x00;		
 			}
-			uid = pid_map->find(pid)->second;
-			OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			if(pid_map->find(pid) == pid_map->end())
+			{
+				OUTPUT_NAME(output_name, file, "");
+			}
+			else
+			{
+				uid = pid_map->find(pid)->second;
+				OUTPUT_NAME(output_name, file, ppid_map->find(uid)->second.c_str());
+			}
 			output_fp = fopen(output_name, "a+");
 
 			if (write_off == file_size)

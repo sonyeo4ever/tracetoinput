@@ -20,3 +20,25 @@
 1227.648962	[WO]	/data/com.facebook.katana/databases/prefs_db	36864	4096	204800	
 1227.649030	[WO]	/data/com.facebook.katana/databases/prefs_db	200704	4096	204800	
 1227.649137	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	28	51200	
+601.933921	[UN]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418786/batch-1507632354889.json	
+601.934095	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418786	
+601.934273	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932	
+601.934423	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana	
+694.133016	[WA]	/data/com.facebook.katana/files/fbdns.store	0	904	0	
+694.133058	[FS]	/data/com.facebook.katana/files/fbdns.store	1	
+694.326105	[WA]	/data/com.facebook.katana/files/fbzeroscfg.store	0	57702	0	
+694.326330	[FS]	/data/com.facebook.katana/files/fbzeroscfg.store	1	
+1227.646698	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	512	51200	
+1227.646847	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	512	4	51200	
+1227.646906	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	516	4096	51200	
+1227.647014	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4612	4	51200	
+1227.647095	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4616	4	51200	
+1227.647150	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4620	4096	51200	
+1227.647247	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8716	4	51200	
+1227.648606	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8720	4	51200	
+1227.648665	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8724	4096	51200	
+1227.648771	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	12820	4	51200	
+1227.648834	[WO]	/data/com.facebook.katana/databases/prefs_db	0	4096	204800	
+1227.648962	[WO]	/data/com.facebook.katana/databases/prefs_db	36864	4096	204800	
+1227.649030	[WO]	/data/com.facebook.katana/databases/prefs_db	200704	4096	204800	
+1227.649137	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	28	51200	

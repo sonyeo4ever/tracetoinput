@@ -1,0 +1,233 @@
+101.759620	[UN]	/data/com.discord/files/AppEventsLogger.persistedevents	
+102.068837	[WA]	/user/0/com.discord/files/PREF_K_STORE_USERS_ME_V7	0	1	0	
+102.068897	[WA]	/user/0/com.discord/files/PREF_K_STORE_CHANNEL_IDS_V4	0	21	0	
+102.068905	[WA]	/user/0/com.discord/files/PREF_K_MOST_RECENT_MESSAGE_IDS	0	21	0	
+102.069472	[WA]	/user/0/com.discord/files/PREF_K_STORE_USERS_ME_ID_V4	0	1	0	
+102.069807	[WA]	/user/0/com.discord/files/PREF_K_STORE_SHOW_HIDE_MUTED_CHANNELS_V2	0	21	0	
+102.069956	[WA]	/user/0/com.discord/files/PREF_K_STORE_CHANNELS_PRIVATE_V15	0	21	0	
+102.070092	[WA]	/user/0/com.discord/files/PREF_K_RESTRICTED_GUILD_IDS	0	23	0	
+102.070268	[WA]	/user/0/com.discord/files/PREF_K_STORE_SETTINGS_USER_GUILD_V4	0	21	0	
+102.070421	[WA]	/user/0/com.discord/files/PREF_K_STORE_CHANNEL_NAMES_V4	0	21	0	
+102.070540	[WA]	/user/0/com.discord/files/PREF_K_STORE_SETTINGS_POSITIONS_V3	0	1	0	
+102.070604	[WA]	/user/0/com.discord/files/PREF_K_STORE_USER_RELATIONSHIPS_V7	0	21	0	
+102.070870	[WA]	/user/0/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_V3	0	21	0	
+102.070969	[WA]	/user/0/com.discord/files/PREF_K_STORE_GUILD_PERMISSIONS_V3	0	21	0	
+102.071018	[WA]	/user/0/com.discord/files/PREF_K_STORE_EMOJI_AVAILABLE_V2	0	21	0	
+102.071349	[WA]	/user/0/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_BY_GUILD_V3	0	21	0	
+102.076817	[WA]	/user/0/com.discord/files/PREF_K_CHANNEL_MENTION_COUNTS_V3	0	21	0	
+102.078244	[WA]	/user/0/com.discord/files/PREF_K_MOST_RECENT_ACKS_V3	0	21	0	
+102.092399	[WA]	/user/0/com.discord/files/PREF_K_SEARCH_HISTORY_V2	0	24	0	
+102.093526	[WA]	/user/0/com.discord/files/PREF_K_VIDEO_IS_SUPPORTED	0	2	0	
+102.167540	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_NAMES_V4	
+102.167800	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_IDS_V4	
+102.168020	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNELS_PRIVATE_V15	
+102.168231	[UN]	/data/com.discord/files/PREF_K_STORE_SETTINGS_USER_GUILD_V4	
+102.168435	[UN]	/data/com.discord/files/PREF_K_STORE_USERS_ME_V7	
+102.168637	[UN]	/data/com.discord/files/PREF_K_STORE_USERS_ME_ID_V4	
+102.168839	[UN]	/data/com.discord/files/PREF_K_RESTRICTED_GUILD_IDS	
+102.169040	[UN]	/data/com.discord/files/PREF_K_STORE_USER_RELATIONSHIPS_V7	
+102.169252	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_V3	
+102.169525	[UN]	/data/com.discord/files/PREF_K_STORE_EMOJI_AVAILABLE_V2	
+102.169725	[UN]	/data/com.discord/files/PREF_K_CHANNEL_MENTION_COUNTS_V3	
+102.169927	[UN]	/data/com.discord/files/PREF_K_SEARCH_HISTORY_V2	
+102.170124	[UN]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_ENABLED	
+102.170380	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_LIGHT_DISABLED	
+102.170624	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_SOUND_DISABLED	
+102.170867	[UN]	/data/com.discord/files/PREF_K_STORE_SHOW_HIDE_MUTED_CHANNELS_V2	
+102.171078	[UN]	/data/com.discord/files/PREF_K_STORE_SETTINGS_POSITIONS_V3	
+102.171286	[UN]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_BY_GUILD_V3	
+102.171489	[UN]	/data/com.discord/files/PREF_K_MOST_RECENT_ACKS_V3	
+102.171693	[UN]	/data/com.discord/files/PREF_K_MOST_RECENT_MESSAGE_IDS	
+102.171898	[UN]	/data/com.discord/files/PREF_K_VIDEO_IS_SUPPORTED	
+102.172100	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_PERMISSIONS_V3	
+102.172302	[UN]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_WAKE_UP_DEVICE	
+102.172543	[UN]	/data/com.discord/files/PREF_K_S_NOTIF_VIBRATE_DISABLED	
+102.172791	[UN]	/data/com.discord/files/PREF_K_STORE_REGISTRATION_TOKEN	
+102.173040	[UN]	/data/com.discord/files/PREF_K_READ_STATES_UNREAD_CHANNEL_IDS_V1	
+102.173287	[UN]	/data/com.discord/files/PREF_K_UNREAD_MESSAGE_MARKER_V3	
+102.173530	[UN]	/data/com.discord/files/PREF_K_NOTIFICATION_CLIENT_SETTINGS	
+102.173767	[UN]	/data/com.discord/files/PREF_K_STORE_SELECTED_CHANNELS_V5	
+102.174010	[UN]	/data/com.discord/files/PREF_K_STORE_GUILD_SELECTED_V4	
+102.174246	[UN]	/data/com.discord/files/PREF_K_KEYBOARD_HEIGHTS	
+102.174493	[UN]	/data/com.discord/files/PREF_K_EMOJI_HISTORY_V1	
+102.174730	[UN]	/data/com.discord/files/PREF_K_VOICE_CONFIGURATION_V3	
+102.174963	[UN]	/data/com.discord/files/PREF_K_USER_OUTPUT_VOLUMES	
+102.175226	[UN]	/data/com.discord/files/PREF_K_MUTED_USERS	
+102.175477	[UN]	/data/com.discord/files/PREF_K_STORE_COLLAPSED_CATEGORIES_V1	
+102.175717	[UN]	/data/com.discord/files/PREF_K_TRIGGERED_EXPERIMENTS_V3	
+102.176195	[RN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+102.176397	[CR]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+102.176854	[WA]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	65	0	
+102.176923	[FS]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	
+102.186118	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+102.206198	[CR]	/data/com.discord/files/PREF_K_READ_STATES_UNREAD_CHANNEL_IDS_V1	
+102.206939	[WA]	/data/com.discord/files/PREF_K_READ_STATES_UNREAD_CHANNEL_IDS_V1	0	21	0	
+102.265891	[CR]	/data/com.discord/files/PREF_K_STORE_CHANNEL_NAMES_V4	
+102.266037	[WA]	/data/com.discord/files/PREF_K_STORE_CHANNEL_NAMES_V4	0	21	0	
+102.266126	[CR]	/data/com.discord/files/PREF_K_STORE_CHANNEL_IDS_V4	
+102.266245	[WA]	/data/com.discord/files/PREF_K_STORE_CHANNEL_IDS_V4	0	21	0	
+102.266289	[CR]	/data/com.discord/files/PREF_K_STORE_CHANNELS_PRIVATE_V15	
+102.266403	[WA]	/data/com.discord/files/PREF_K_STORE_CHANNELS_PRIVATE_V15	0	21	0	
+102.266627	[CR]	/data/com.discord/files/PREF_K_STORE_SETTINGS_USER_GUILD_V4	
+102.266737	[WA]	/data/com.discord/files/PREF_K_STORE_SETTINGS_USER_GUILD_V4	0	21	0	
+102.266960	[CR]	/data/com.discord/files/PREF_K_MOST_RECENT_MESSAGE_IDS	
+102.267072	[WA]	/data/com.discord/files/PREF_K_MOST_RECENT_MESSAGE_IDS	0	21	0	
+102.267293	[CR]	/data/com.discord/files/PREF_K_STORE_SHOW_HIDE_MUTED_CHANNELS_V2	
+102.267408	[WA]	/data/com.discord/files/PREF_K_STORE_SHOW_HIDE_MUTED_CHANNELS_V2	0	21	0	
+102.267505	[CR]	/data/com.discord/files/PREF_K_STORE_USERS_ME_ID_V4	
+102.267605	[WA]	/data/com.discord/files/PREF_K_STORE_USERS_ME_ID_V4	0	1	0	
+102.267630	[CR]	/data/com.discord/files/PREF_K_STORE_SETTINGS_POSITIONS_V3	
+102.267727	[WA]	/data/com.discord/files/PREF_K_STORE_SETTINGS_POSITIONS_V3	0	1	0	
+102.267824	[CR]	/data/com.discord/files/PREF_K_STORE_USERS_ME_V7	
+102.267932	[WA]	/data/com.discord/files/PREF_K_STORE_USERS_ME_V7	0	1	0	
+102.267964	[CR]	/data/com.discord/files/PREF_K_RESTRICTED_GUILD_IDS	
+102.268168	[CR]	/data/com.discord/files/PREF_K_STORE_USER_RELATIONSHIPS_V7	
+102.268286	[WA]	/data/com.discord/files/PREF_K_STORE_USER_RELATIONSHIPS_V7	0	21	0	
+102.268486	[WA]	/data/com.discord/files/PREF_K_RESTRICTED_GUILD_IDS	0	23	0	
+102.268522	[CR]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_V3	
+102.268640	[WA]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_V3	0	21	0	
+102.268721	[CR]	/data/com.discord/files/PREF_K_STORE_EMOJI_AVAILABLE_V2	
+102.268837	[WA]	/data/com.discord/files/PREF_K_STORE_EMOJI_AVAILABLE_V2	0	21	0	
+102.268865	[CR]	/data/com.discord/files/PREF_K_CHANNEL_MENTION_COUNTS_V3	
+102.268985	[WA]	/data/com.discord/files/PREF_K_CHANNEL_MENTION_COUNTS_V3	0	21	0	
+102.269484	[CR]	/data/com.discord/files/PREF_K_STORE_GUILD_PERMISSIONS_V3	
+102.269606	[WA]	/data/com.discord/files/PREF_K_STORE_GUILD_PERMISSIONS_V3	0	21	0	
+102.269841	[CR]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_BY_GUILD_V3	
+102.269956	[WA]	/data/com.discord/files/PREF_K_STORE_CHANNEL_PERMISSIONS_BY_GUILD_V3	0	21	0	
+102.270186	[CR]	/data/com.discord/files/PREF_K_MOST_RECENT_ACKS_V3	
+102.270292	[CR]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_WAKE_UP_DEVICE	
+102.270297	[WA]	/data/com.discord/files/PREF_K_MOST_RECENT_ACKS_V3	0	21	0	
+102.270401	[WA]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_WAKE_UP_DEVICE	0	2	0	
+102.270525	[CR]	/data/com.discord/files/PREF_K_S_NOTIF_VIBRATE_DISABLED	
+102.270623	[CR]	/data/com.discord/files/PREF_K_STORE_REGISTRATION_TOKEN	
+102.270628	[WA]	/data/com.discord/files/PREF_K_S_NOTIF_VIBRATE_DISABLED	0	2	0	
+102.270722	[WA]	/data/com.discord/files/PREF_K_STORE_REGISTRATION_TOKEN	0	1	0	
+102.270852	[CR]	/data/com.discord/files/PREF_K_UNREAD_MESSAGE_MARKER_V3	
+102.270943	[CR]	/data/com.discord/files/PREF_K_SEARCH_HISTORY_V2	
+102.271056	[WA]	/data/com.discord/files/PREF_K_UNREAD_MESSAGE_MARKER_V3	0	123	0	
+102.271285	[CR]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_ENABLED	
+102.271390	[WA]	/data/com.discord/files/PREF_K_STORE_NOTIFICATIONS_ENABLED	0	2	0	
+102.271419	[WA]	/data/com.discord/files/PREF_K_SEARCH_HISTORY_V2	0	24	0	
+102.271619	[CR]	/data/com.discord/files/PREF_K_S_NOTIF_LIGHT_DISABLED	
+102.271726	[WA]	/data/com.discord/files/PREF_K_S_NOTIF_LIGHT_DISABLED	0	2	0	
+102.271766	[CR]	/data/com.discord/files/PREF_K_S_NOTIF_SOUND_DISABLED	
+102.271872	[WA]	/data/com.discord/files/PREF_K_S_NOTIF_SOUND_DISABLED	0	2	0	
+102.272116	[CR]	/data/com.discord/files/PREF_K_VIDEO_IS_SUPPORTED	
+102.272229	[WA]	/data/com.discord/files/PREF_K_VIDEO_IS_SUPPORTED	0	2	0	
+102.509750	[WA]	/data/com.discord/files/PREF_K_UNREAD_MESSAGE_MARKER_V3	0	123	0	
+102.838961	[RN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+102.839257	[CR]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+102.840468	[WA]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	448	0	
+102.841032	[FS]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	
+102.849016	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+102.869910	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	512	8720	
+102.869949	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	512	4	8720	
+102.869966	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	516	4096	8720	
+102.869990	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4612	4	8720	
+102.870141	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4616	4	8720	
+102.870156	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4620	4096	8720	
+102.870179	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	8716	4	8720	
+102.870200	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+102.872055	[FS]	/data/com.discord/databases	1	
+102.876692	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	12	8720	
+102.876729	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+102.877606	[WO]	/data/com.discord/databases/google_app_measurement_local.db	0	4096	16384	
+102.877636	[WO]	/data/com.discord/databases/google_app_measurement_local.db	12288	4096	16384	
+102.877661	[FS]	/data/com.discord/databases/google_app_measurement_local.db	1	
+102.879165	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	28	8720	
+102.879184	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.070801	[RN]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak	
+103.071014	[CR]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	
+103.071343	[WA]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	0	859	0	
+103.071412	[FS]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	0	
+103.077115	[UN]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak	
+103.077429	[RN]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak	
+103.077589	[CR]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	
+103.077907	[WA]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	0	859	0	
+103.077970	[FS]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml	0	
+103.083944	[UN]	/data/com.discord/shared_prefs/com.google.android.gms.measurement.prefs.xml.bak	
+103.084263	[RN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.084416	[CR]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+103.084851	[WA]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	448	0	
+103.084916	[FS]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	
+103.089108	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.152003	[RN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.152164	[CR]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+103.152675	[WA]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	497	0	
+103.152744	[FS]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	
+103.156026	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	512	8720	
+103.159242	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	512	4	8720	
+103.159262	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	516	4096	8720	
+103.159287	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4612	4	8720	
+103.159411	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4616	4	8720	
+103.159427	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4620	4096	8720	
+103.159455	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	8716	4	8720	
+103.159485	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.160378	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.164274	[FS]	/data/com.discord/databases	1	
+103.167948	[CR]	/data/com.discord/files/PREF_K_KEYBOARD_HEIGHTS	
+103.168042	[CR]	/data/com.discord/files/PREF_K_STORE_SELECTED_CHANNELS_V5	
+103.168094	[WA]	/data/com.discord/files/PREF_K_KEYBOARD_HEIGHTS	0	1	0	
+103.168187	[WA]	/data/com.discord/files/PREF_K_STORE_SELECTED_CHANNELS_V5	0	21	0	
+103.168369	[CR]	/data/com.discord/files/PREF_K_VOICE_CONFIGURATION_V3	
+103.168531	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	12	8720	
+103.168560	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.169579	[WO]	/data/com.discord/databases/google_app_measurement_local.db	0	4096	16384	
+103.169617	[WO]	/data/com.discord/databases/google_app_measurement_local.db	12288	4096	16384	
+103.169642	[FS]	/data/com.discord/databases/google_app_measurement_local.db	1	
+103.169957	[WA]	/data/com.discord/files/PREF_K_VOICE_CONFIGURATION_V3	0	75	0	
+103.170238	[CR]	/data/com.discord/files/PREF_K_MUTED_USERS	
+103.170363	[WA]	/data/com.discord/files/PREF_K_MUTED_USERS	0	21	0	
+103.170608	[CR]	/data/com.discord/files/PREF_K_STORE_COLLAPSED_CATEGORIES_V1	
+103.170727	[WA]	/data/com.discord/files/PREF_K_STORE_COLLAPSED_CATEGORIES_V1	0	21	0	
+103.170905	[CR]	/data/com.discord/files/PREF_K_STORE_GUILD_SELECTED_V4	
+103.171031	[WA]	/data/com.discord/files/PREF_K_STORE_GUILD_SELECTED_V4	0	2	0	
+103.171203	[CR]	/data/com.discord/files/PREF_K_EMOJI_HISTORY_V1	
+103.171313	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	28	8720	
+103.171334	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.171892	[CR]	/data/com.discord/files/PREF_K_USER_OUTPUT_VOLUMES	
+103.173775	[WA]	/data/com.discord/files/PREF_K_EMOJI_HISTORY_V1	0	75	0	
+103.174153	[WA]	/data/com.discord/files/PREF_K_USER_OUTPUT_VOLUMES	0	21	0	
+103.179829	[CR]	/data/com.discord/files/PREF_K_TRIGGERED_EXPERIMENTS_V3	
+103.179990	[WA]	/data/com.discord/files/PREF_K_TRIGGERED_EXPERIMENTS_V3	0	21	0	
+103.259073	[RN]	/data/com.discord/shared_prefs/com.discord_preferences.xml	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.259345	[CR]	/data/com.discord/shared_prefs/com.discord_preferences.xml	
+103.259982	[WA]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	497	0	
+103.260058	[FS]	/data/com.discord/shared_prefs/com.discord_preferences.xml	0	
+103.266409	[UN]	/data/com.discord/shared_prefs/com.discord_preferences.xml.bak	
+103.267853	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	512	8720	
+103.267884	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	512	4	8720	
+103.267903	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	516	4096	8720	
+103.267928	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4612	4	8720	
+103.268008	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4616	4	8720	
+103.268023	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4620	4096	8720	
+103.268049	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	8716	4	8720	
+103.268070	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.269674	[FS]	/data/com.discord/databases	1	
+103.274254	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	12	8720	
+103.274282	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.275484	[WO]	/data/com.discord/databases/google_app_measurement_local.db	0	4096	16384	
+103.275541	[WO]	/data/com.discord/databases/google_app_measurement_local.db	12288	4096	16384	
+103.275572	[FS]	/data/com.discord/databases/google_app_measurement_local.db	1	
+103.278575	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	28	8720	
+103.278621	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.288246	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	512	8720	
+103.288284	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	512	4	8720	
+103.288300	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	516	4096	8720	
+103.288324	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4612	4	8720	
+103.288406	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4616	4	8720	
+103.288421	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	4620	4096	8720	
+103.288445	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	8716	4	8720	
+103.288467	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.292364	[FS]	/data/com.discord/databases	1	
+103.294162	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	12	8720	
+103.294201	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.295090	[WO]	/data/com.discord/databases/google_app_measurement_local.db	0	4096	16384	
+103.295211	[WO]	/data/com.discord/databases/google_app_measurement_local.db	12288	4096	16384	
+103.295248	[FS]	/data/com.discord/databases/google_app_measurement_local.db	1	
+103.296985	[WO]	/data/com.discord/databases/google_app_measurement_local.db-journal	0	28	8720	
+103.297019	[FS]	/data/com.discord/databases/google_app_measurement_local.db-journal	1	
+103.506486	[CR]	/data/com.discord/files/AppEventsLogger.persistedevents	
+103.515358	[WA]	/data/com.discord/files/AppEventsLogger.persistedevents	0	315	0	
+103.836799	[CR]	/data/com.discord/files/PREF_K_NOTIFICATION_CLIENT_SETTINGS	
+103.837535	[WA]	/data/com.discord/files/PREF_K_NOTIFICATION_CLIENT_SETTINGS	0	62	0	

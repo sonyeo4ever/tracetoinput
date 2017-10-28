@@ -1,0 +1,30 @@
+16.107761	[CR]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.tmp	
+16.108007	[WA]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.tmp	0	130	0	
+16.108210	[UN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.old	
+16.108479	[RN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.old	
+16.108601	[RN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.tmp	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state	
+16.127023	[CR]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	
+16.127848	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	0	8163	0	
+16.128600	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	8163	8167	8163	
+16.129354	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	16330	8141	16330	
+16.130132	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	24471	8164	24471	
+16.130902	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	32635	7632	32635	
+16.131709	[RN]	/data/com.facebook.orca/app_gatekeepers/gk_names.tmp	/data/com.facebook.orca/app_gatekeepers/gk_names	
+16.132620	[CR]	/data/com.facebook.orca/app_gatekeepers/gk_state.tmp	
+16.132785	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_state.tmp	0	60	0	
+16.132954	[WA]	/data/com.facebook.orca/app_gatekeepers/gk_state.tmp	60	1078	60	
+16.133359	[RN]	/data/com.facebook.orca/app_gatekeepers/gk_state.tmp	/data/com.facebook.orca/app_gatekeepers/gk_state	
+16.135362	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	0	512	16928	
+16.135412	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	512	4	16928	
+16.135432	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	516	4096	16928	
+16.135464	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	4612	4	16928	
+16.135491	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	4616	4	16928	
+16.135510	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	4620	4096	16928	
+16.135542	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	8716	4	16928	
+16.135701	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	8720	4	16928	
+16.135722	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	8724	4096	16928	
+16.135753	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	12820	4	16928	
+16.135776	[WO]	/user/0/com.facebook.orca/databases/prefs_db	0	4096	36864	
+16.135809	[WO]	/user/0/com.facebook.orca/databases/prefs_db	24576	4096	36864	
+16.135832	[WO]	/user/0/com.facebook.orca/databases/prefs_db	32768	4096	36864	
+16.135860	[WO]	/user/0/com.facebook.orca/databases/prefs_db-journal	0	28	16928	

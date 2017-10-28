@@ -1,0 +1,348 @@
+0.000000	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+0.000269	[CR]	/system/users/0/package-restrictions.xml	
+0.001377	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+0.001838	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+0.002193	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+0.002605	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+0.003147	[WA]	/system/users/0/package-restrictions.xml	32716	7303	32716	
+0.003253	[FS]	/system/users/0/package-restrictions.xml	0	
+0.042046	[UN]	/system/users/0/package-restrictions-backup.xml	
+22.066497	[CR]	/data/eu.chainfire.supersu/logs/L15081438890000.GRANTED.ADB shell	
+22.221628	[CR]	/data/eu.chainfire.supersu/logs/L15081438890001.GRANTED.ADB shell	
+25.392424	[CR]	/data/eu.chainfire.supersu/logs/L15081438930000.GRANTED.ADB shell	
+28.364592	[RN]	/system/packages.xml	/system/packages-backup.xml	
+28.364963	[CR]	/system/packages.xml	
+28.366138	[WA]	/system/packages.xml	0	8168	0	
+28.366647	[WA]	/system/packages.xml	8168	8191	8168	
+28.367337	[WA]	/system/packages.xml	16359	8171	16359	
+28.367857	[WA]	/system/packages.xml	24530	8192	24530	
+28.368392	[WA]	/system/packages.xml	32722	8173	32722	
+28.368838	[WA]	/system/packages.xml	40895	8169	40895	
+28.371913	[WA]	/system/packages.xml	49064	8178	49064	
+28.372736	[WA]	/system/packages.xml	57242	8185	57242	
+28.373584	[WA]	/system/packages.xml	65427	6578	65427	
+28.374192	[WA]	/system/packages.xml	72005	8189	72005	
+28.374991	[WA]	/system/packages.xml	80194	8177	80194	
+28.375648	[WA]	/system/packages.xml	88371	8192	88371	
+28.376468	[WA]	/system/packages.xml	96563	8178	96563	
+28.377140	[WA]	/system/packages.xml	104741	8186	104741	
+28.377941	[WA]	/system/packages.xml	112927	8178	112927	
+28.378735	[WA]	/system/packages.xml	121105	8192	121105	
+28.379497	[WA]	/system/packages.xml	129297	8191	129297	
+28.380368	[WA]	/system/packages.xml	137488	8188	137488	
+28.381133	[WA]	/system/packages.xml	145676	8189	145676	
+28.381906	[WA]	/system/packages.xml	153865	8189	153865	
+28.382732	[WA]	/system/packages.xml	162054	6503	162054	
+28.383494	[WA]	/system/packages.xml	168557	8189	168557	
+28.384368	[WA]	/system/packages.xml	176746	8184	176746	
+28.385153	[WA]	/system/packages.xml	184930	8189	184930	
+28.385866	[WA]	/system/packages.xml	193119	8187	193119	
+28.386635	[WA]	/system/packages.xml	201306	7955	201306	
+28.387260	[WA]	/system/packages.xml	209261	8189	209261	
+28.387936	[WA]	/system/packages.xml	217450	8172	217450	
+28.388671	[WA]	/system/packages.xml	225622	8191	225622	
+28.389491	[WA]	/system/packages.xml	233813	8190	233813	
+28.390276	[WA]	/system/packages.xml	242003	8192	242003	
+28.391080	[WA]	/system/packages.xml	250195	8169	250195	
+28.391938	[WA]	/system/packages.xml	258364	8150	258364	
+28.392492	[WA]	/system/packages.xml	266514	8190	266514	
+28.393196	[WA]	/system/packages.xml	274704	8167	274704	
+28.393849	[WA]	/system/packages.xml	282871	8192	282871	
+28.394644	[WA]	/system/packages.xml	291063	7650	291063	
+28.395253	[WA]	/system/packages.xml	298713	8183	298713	
+28.396063	[WA]	/system/packages.xml	306896	8191	306896	
+28.396770	[WA]	/system/packages.xml	315087	8188	315087	
+28.397362	[WA]	/system/packages.xml	323275	8150	323275	
+28.398137	[WA]	/system/packages.xml	331425	8189	331425	
+28.398812	[WA]	/system/packages.xml	339614	8192	339614	
+28.399499	[WA]	/system/packages.xml	347806	8188	347806	
+28.400280	[WA]	/system/packages.xml	355994	8191	355994	
+28.401133	[WA]	/system/packages.xml	364185	8188	364185	
+28.401943	[WA]	/system/packages.xml	372373	8190	372373	
+28.402921	[WA]	/system/packages.xml	380563	8163	380563	
+28.403709	[WA]	/system/packages.xml	388726	8177	388726	
+28.404415	[WA]	/system/packages.xml	396903	8190	396903	
+28.405161	[WA]	/system/packages.xml	405093	8161	405093	
+28.405926	[WA]	/system/packages.xml	413254	8163	413254	
+28.406629	[WA]	/system/packages.xml	421417	8192	421417	
+28.407436	[WA]	/system/packages.xml	429609	8189	429609	
+28.408234	[WA]	/system/packages.xml	437798	8191	437798	
+28.408974	[WA]	/system/packages.xml	445989	8191	445989	
+28.409831	[WA]	/system/packages.xml	454180	8192	454180	
+28.410616	[WA]	/system/packages.xml	462372	8191	462372	
+28.411398	[WA]	/system/packages.xml	470563	8189	470563	
+28.412114	[WA]	/system/packages.xml	478752	8192	478752	
+28.412934	[WA]	/system/packages.xml	486944	8189	486944	
+28.413836	[WA]	/system/packages.xml	495133	8183	495133	
+28.414614	[WA]	/system/packages.xml	503316	8177	503316	
+28.415323	[WA]	/system/packages.xml	511493	8190	511493	
+28.416062	[WA]	/system/packages.xml	519683	8164	519683	
+28.417576	[WA]	/system/packages.xml	527847	7859	527847	
+28.418307	[WA]	/system/packages.xml	535706	4724	535706	
+28.418417	[FS]	/system/packages.xml	0	
+28.449248	[UN]	/system/packages-backup.xml	
+28.450619	[CR]	/system/packages.list.tmp	
+28.465267	[WA]	/system/packages.list.tmp	0	8178	0	
+28.470125	[WA]	/system/packages.list.tmp	8178	2450	8178	
+28.470246	[FS]	/system/packages.list.tmp	0	
+28.477350	[RN]	/system/packages.list.tmp	/system/packages.list	
+28.478234	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+28.478580	[CR]	/system/users/0/package-restrictions.xml	
+28.480259	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+28.480769	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+28.481133	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+28.481600	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+28.482116	[WA]	/system/users/0/package-restrictions.xml	32716	6400	32716	
+28.482261	[FS]	/system/users/0/package-restrictions.xml	0	
+28.501020	[UN]	/system/users/0/package-restrictions-backup.xml	
+29.800842	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.808465	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+29.815455	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+29.815566	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+29.824270	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.875030	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.875350	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+29.876008	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+29.879977	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+29.889581	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+30.162539	[UN]	/data/eu.chainfire.supersu/files/supersu.cfg	
+30.184058	[CR]	/data/eu.chainfire.supersu/files/supersu.cfg	
+30.198446	[WA]	/data/eu.chainfire.supersu/files/supersu.cfg	0	161	0	
+31.387517	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.387765	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.388448	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.388552	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.396617	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.397062	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.397277	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.397738	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.397831	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.406300	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.406712	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.406915	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.407418	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.407506	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.412675	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.490242	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	4095	1	0	
+31.490314	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	8191	1	4096	
+31.490355	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	12287	1	8192	
+31.490395	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	16383	1	12288	
+31.490432	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	20479	1	16384	
+31.490470	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	24575	1	20480	
+31.490506	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	28671	1	24576	
+31.490545	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	32767	1	28672	
+31.512766	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-shm	
+31.513082	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-wal	
+31.513582	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-journal	
+31.513849	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	512	0	
+31.513922	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	512	4	512	
+31.513953	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	516	4096	516	
+31.514019	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	4612	4	4612	
+31.514086	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.520111	[FS]	/data/com.google.android.apps.docs/databases	1	
+31.526978	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	12	4616	
+31.527040	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.529450	[WO]	/data/com.google.android.apps.docs/databases/DocList.db	0	4096	647168	
+31.529517	[FS]	/data/com.google.android.apps.docs/databases/DocList.db	1	
+31.531439	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	28	4616	
+31.531483	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.553971	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	512	4616	
+31.554027	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	512	4	4616	
+31.554049	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	516	4096	4616	
+31.554085	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	4612	4	4616	
+31.554134	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.560100	[FS]	/data/com.google.android.apps.docs/databases	1	
+31.565377	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	12	4616	
+31.565441	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.569755	[WO]	/data/com.google.android.apps.docs/databases/DocList.db	0	4096	647168	
+31.569812	[FS]	/data/com.google.android.apps.docs/databases/DocList.db	1	
+31.572344	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-journal	
+31.573790	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-wal	
+31.573987	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-shm	
+31.574112	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	4095	1	0	
+31.574171	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	8191	1	4096	
+31.574214	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	12287	1	8192	
+31.574252	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	16383	1	12288	
+31.574290	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	20479	1	16384	
+31.574337	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	24575	1	20480	
+31.574374	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	28671	1	24576	
+31.574410	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	32767	1	28672	
+31.749561	[RN]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml.bak	
+31.749797	[CR]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	
+31.750168	[WA]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	0	316	0	
+31.750260	[FS]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	0	
+31.756874	[UN]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml.bak	
+0.000000	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+0.000269	[CR]	/system/users/0/package-restrictions.xml	
+0.001377	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+0.001838	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+0.002193	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+0.002605	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+0.003147	[WA]	/system/users/0/package-restrictions.xml	32716	7303	32716	
+0.003253	[FS]	/system/users/0/package-restrictions.xml	0	
+0.042046	[UN]	/system/users/0/package-restrictions-backup.xml	
+22.066497	[CR]	/data/eu.chainfire.supersu/logs/L15081438890000.GRANTED.ADB shell	
+22.221628	[CR]	/data/eu.chainfire.supersu/logs/L15081438890001.GRANTED.ADB shell	
+25.392424	[CR]	/data/eu.chainfire.supersu/logs/L15081438930000.GRANTED.ADB shell	
+28.364592	[RN]	/system/packages.xml	/system/packages-backup.xml	
+28.364963	[CR]	/system/packages.xml	
+28.366138	[WA]	/system/packages.xml	0	8168	0	
+28.366647	[WA]	/system/packages.xml	8168	8191	8168	
+28.367337	[WA]	/system/packages.xml	16359	8171	16359	
+28.367857	[WA]	/system/packages.xml	24530	8192	24530	
+28.368392	[WA]	/system/packages.xml	32722	8173	32722	
+28.368838	[WA]	/system/packages.xml	40895	8169	40895	
+28.371913	[WA]	/system/packages.xml	49064	8178	49064	
+28.372736	[WA]	/system/packages.xml	57242	8185	57242	
+28.373584	[WA]	/system/packages.xml	65427	6578	65427	
+28.374192	[WA]	/system/packages.xml	72005	8189	72005	
+28.374991	[WA]	/system/packages.xml	80194	8177	80194	
+28.375648	[WA]	/system/packages.xml	88371	8192	88371	
+28.376468	[WA]	/system/packages.xml	96563	8178	96563	
+28.377140	[WA]	/system/packages.xml	104741	8186	104741	
+28.377941	[WA]	/system/packages.xml	112927	8178	112927	
+28.378735	[WA]	/system/packages.xml	121105	8192	121105	
+28.379497	[WA]	/system/packages.xml	129297	8191	129297	
+28.380368	[WA]	/system/packages.xml	137488	8188	137488	
+28.381133	[WA]	/system/packages.xml	145676	8189	145676	
+28.381906	[WA]	/system/packages.xml	153865	8189	153865	
+28.382732	[WA]	/system/packages.xml	162054	6503	162054	
+28.383494	[WA]	/system/packages.xml	168557	8189	168557	
+28.384368	[WA]	/system/packages.xml	176746	8184	176746	
+28.385153	[WA]	/system/packages.xml	184930	8189	184930	
+28.385866	[WA]	/system/packages.xml	193119	8187	193119	
+28.386635	[WA]	/system/packages.xml	201306	7955	201306	
+28.387260	[WA]	/system/packages.xml	209261	8189	209261	
+28.387936	[WA]	/system/packages.xml	217450	8172	217450	
+28.388671	[WA]	/system/packages.xml	225622	8191	225622	
+28.389491	[WA]	/system/packages.xml	233813	8190	233813	
+28.390276	[WA]	/system/packages.xml	242003	8192	242003	
+28.391080	[WA]	/system/packages.xml	250195	8169	250195	
+28.391938	[WA]	/system/packages.xml	258364	8150	258364	
+28.392492	[WA]	/system/packages.xml	266514	8190	266514	
+28.393196	[WA]	/system/packages.xml	274704	8167	274704	
+28.393849	[WA]	/system/packages.xml	282871	8192	282871	
+28.394644	[WA]	/system/packages.xml	291063	7650	291063	
+28.395253	[WA]	/system/packages.xml	298713	8183	298713	
+28.396063	[WA]	/system/packages.xml	306896	8191	306896	
+28.396770	[WA]	/system/packages.xml	315087	8188	315087	
+28.397362	[WA]	/system/packages.xml	323275	8150	323275	
+28.398137	[WA]	/system/packages.xml	331425	8189	331425	
+28.398812	[WA]	/system/packages.xml	339614	8192	339614	
+28.399499	[WA]	/system/packages.xml	347806	8188	347806	
+28.400280	[WA]	/system/packages.xml	355994	8191	355994	
+28.401133	[WA]	/system/packages.xml	364185	8188	364185	
+28.401943	[WA]	/system/packages.xml	372373	8190	372373	
+28.402921	[WA]	/system/packages.xml	380563	8163	380563	
+28.403709	[WA]	/system/packages.xml	388726	8177	388726	
+28.404415	[WA]	/system/packages.xml	396903	8190	396903	
+28.405161	[WA]	/system/packages.xml	405093	8161	405093	
+28.405926	[WA]	/system/packages.xml	413254	8163	413254	
+28.406629	[WA]	/system/packages.xml	421417	8192	421417	
+28.407436	[WA]	/system/packages.xml	429609	8189	429609	
+28.408234	[WA]	/system/packages.xml	437798	8191	437798	
+28.408974	[WA]	/system/packages.xml	445989	8191	445989	
+28.409831	[WA]	/system/packages.xml	454180	8192	454180	
+28.410616	[WA]	/system/packages.xml	462372	8191	462372	
+28.411398	[WA]	/system/packages.xml	470563	8189	470563	
+28.412114	[WA]	/system/packages.xml	478752	8192	478752	
+28.412934	[WA]	/system/packages.xml	486944	8189	486944	
+28.413836	[WA]	/system/packages.xml	495133	8183	495133	
+28.414614	[WA]	/system/packages.xml	503316	8177	503316	
+28.415323	[WA]	/system/packages.xml	511493	8190	511493	
+28.416062	[WA]	/system/packages.xml	519683	8164	519683	
+28.417576	[WA]	/system/packages.xml	527847	7859	527847	
+28.418307	[WA]	/system/packages.xml	535706	4724	535706	
+28.418417	[FS]	/system/packages.xml	0	
+28.449248	[UN]	/system/packages-backup.xml	
+28.450619	[CR]	/system/packages.list.tmp	
+28.465267	[WA]	/system/packages.list.tmp	0	8178	0	
+28.470125	[WA]	/system/packages.list.tmp	8178	2450	8178	
+28.470246	[FS]	/system/packages.list.tmp	0	
+28.477350	[RN]	/system/packages.list.tmp	/system/packages.list	
+28.478234	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+28.478580	[CR]	/system/users/0/package-restrictions.xml	
+28.480259	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+28.480769	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+28.481133	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+28.481600	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+28.482116	[WA]	/system/users/0/package-restrictions.xml	32716	6400	32716	
+28.482261	[FS]	/system/users/0/package-restrictions.xml	0	
+28.501020	[UN]	/system/users/0/package-restrictions-backup.xml	
+29.800842	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.808465	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+29.815455	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+29.815566	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+29.824270	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.875030	[RN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+29.875350	[CR]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	
+29.876008	[WA]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	134	0	
+29.879977	[FS]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml	0	
+29.889581	[UN]	/data/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml.bak	
+30.162539	[UN]	/data/eu.chainfire.supersu/files/supersu.cfg	
+30.184058	[CR]	/data/eu.chainfire.supersu/files/supersu.cfg	
+30.198446	[WA]	/data/eu.chainfire.supersu/files/supersu.cfg	0	161	0	
+31.387517	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.387765	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.388448	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.388552	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.396617	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.397062	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.397277	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.397738	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.397831	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.406300	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.406712	[RN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.406915	[CR]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+31.407418	[WA]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	420	0	
+31.407506	[FS]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+31.412675	[UN]	/data/com.google.android.apps.docs/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+31.490242	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	4095	1	0	
+31.490314	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	8191	1	4096	
+31.490355	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	12287	1	8192	
+31.490395	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	16383	1	12288	
+31.490432	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	20479	1	16384	
+31.490470	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	24575	1	20480	
+31.490506	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	28671	1	24576	
+31.490545	[WO]	/user/0/com.google.android.apps.docs/databases/DocList.db-shm	32767	1	28672	
+31.512766	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-shm	
+31.513082	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-wal	
+31.513582	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-journal	
+31.513849	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	512	0	
+31.513922	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	512	4	512	
+31.513953	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	516	4096	516	
+31.514019	[WA]	/data/com.google.android.apps.docs/databases/DocList.db-journal	4612	4	4612	
+31.514086	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.520111	[FS]	/data/com.google.android.apps.docs/databases	1	
+31.526978	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	12	4616	
+31.527040	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.529450	[WO]	/data/com.google.android.apps.docs/databases/DocList.db	0	4096	647168	
+31.529517	[FS]	/data/com.google.android.apps.docs/databases/DocList.db	1	
+31.531439	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	28	4616	
+31.531483	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.553971	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	512	4616	
+31.554027	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	512	4	4616	
+31.554049	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	516	4096	4616	
+31.554085	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	4612	4	4616	
+31.554134	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.560100	[FS]	/data/com.google.android.apps.docs/databases	1	
+31.565377	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-journal	0	12	4616	
+31.565441	[FS]	/data/com.google.android.apps.docs/databases/DocList.db-journal	1	
+31.569755	[WO]	/data/com.google.android.apps.docs/databases/DocList.db	0	4096	647168	
+31.569812	[FS]	/data/com.google.android.apps.docs/databases/DocList.db	1	
+31.572344	[UN]	/data/com.google.android.apps.docs/databases/DocList.db-journal	
+31.573790	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-wal	
+31.573987	[CR]	/data/com.google.android.apps.docs/databases/DocList.db-shm	
+31.574112	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	4095	1	0	
+31.574171	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	8191	1	4096	
+31.574214	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	12287	1	8192	
+31.574252	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	16383	1	12288	
+31.574290	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	20479	1	16384	
+31.574337	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	24575	1	20480	
+31.574374	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	28671	1	24576	
+31.574410	[WO]	/data/com.google.android.apps.docs/databases/DocList.db-shm	32767	1	28672	
+31.749561	[RN]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml.bak	
+31.749797	[CR]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	
+31.750168	[WA]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	0	316	0	
+31.750260	[FS]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml	0	
+31.756874	[UN]	/data/com.google.android.apps.docs/shared_prefs/phenotype_com.google.apps.drive.android.xml.bak	

@@ -1,0 +1,1472 @@
+26.923705	[RN]	/system/sync/pending.xml	/system/sync/pending.xml.bak	
+26.923985	[CR]	/system/sync/pending.xml	
+26.924714	[WA]	/system/sync/pending.xml	0	161	0	
+26.924813	[FS]	/system/sync/pending.xml	0	
+26.985748	[UN]	/system/sync/pending.xml.bak	
+48.405132	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+48.405419	[CR]	/system/install_sessions.xml	
+48.407486	[WA]	/system/install_sessions.xml	0	427	0	
+48.407620	[FS]	/system/install_sessions.xml	0	
+48.416014	[UN]	/system/install_sessions.xml.bak	
+48.455104	[MD]	/app/vmdl1527403271.tmp	
+48.456493	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+48.456752	[CR]	/system/install_sessions.xml	
+48.459429	[WA]	/system/install_sessions.xml	0	426	0	
+48.459547	[FS]	/system/install_sessions.xml	0	
+48.486961	[UN]	/system/install_sessions.xml.bak	
+49.078350	[WO]	/system/notification_log.db-journal	0	512	49760	
+49.078407	[WO]	/system/notification_log.db-journal	512	4	49760	
+49.078428	[WO]	/system/notification_log.db-journal	516	4096	49760	
+49.078462	[WO]	/system/notification_log.db-journal	4612	4	49760	
+49.078495	[WO]	/system/notification_log.db-journal	4616	4	49760	
+49.078516	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+49.078577	[WO]	/system/notification_log.db-journal	8716	4	49760	
+49.078711	[WO]	/system/notification_log.db-journal	8720	4	49760	
+49.078731	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+49.078764	[WO]	/system/notification_log.db-journal	12820	4	49760	
+49.078794	[FS]	/system/notification_log.db-journal	1	
+49.193774	[FS]	/system	1	
+49.196853	[WO]	/system/notification_log.db-journal	0	12	49760	
+49.196901	[FS]	/system/notification_log.db-journal	1	
+49.205535	[WO]	/system/notification_log.db	0	4096	57344	
+49.205598	[WO]	/system/notification_log.db	16384	4096	57344	
+49.205635	[WO]	/system/notification_log.db	53248	4096	57344	
+49.205682	[FS]	/system/notification_log.db	1	
+49.208714	[WO]	/system/notification_log.db-journal	0	28	49760	
+49.208789	[FS]	/system/notification_log.db-journal	1	
+50.041505	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+50.042290	[CR]	/system/netstats/dev.1507273242475-	
+50.045063	[WA]	/system/netstats/dev.1507273242475-	0	4354	0	
+50.045202	[FS]	/system/netstats/dev.1507273242475-	0	
+50.052311	[UN]	/system/netstats/dev.1507273242475-.backup	
+50.058006	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+50.058226	[CR]	/system/netstats/xt.1507273242475-	
+50.059907	[WA]	/system/netstats/xt.1507273242475-	0	4409	0	
+50.060032	[FS]	/system/netstats/xt.1507273242475-	0	
+50.067083	[UN]	/system/netstats/xt.1507273242475-.backup	
+50.713975	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+50.714221	[CR]	/system/netstats/dev.1507273242475-	
+50.715600	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+50.715733	[FS]	/system/netstats/dev.1507273242475-	0	
+50.728389	[UN]	/system/netstats/dev.1507273242475-.backup	
+50.735766	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+50.735954	[CR]	/system/netstats/xt.1507273242475-	
+50.737623	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+50.737738	[FS]	/system/netstats/xt.1507273242475-	0	
+50.745062	[UN]	/system/netstats/xt.1507273242475-.backup	
+50.883035	[RN]	/system/recent_tasks/4_task.xml	/system/recent_tasks/4_task.xml.bak	
+50.883435	[CR]	/system/recent_tasks/4_task.xml	
+50.883662	[WA]	/system/recent_tasks/4_task.xml	0	876	0	
+50.883756	[WA]	/system/recent_tasks/4_task.xml	876	1	876	
+50.883818	[FS]	/system/recent_tasks/4_task.xml	0	
+50.890712	[UN]	/system/recent_tasks/4_task.xml.bak	
+51.379646	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+51.379878	[CR]	/system/netstats/dev.1507273242475-	
+51.381240	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+51.381385	[FS]	/system/netstats/dev.1507273242475-	0	
+51.396573	[UN]	/system/netstats/dev.1507273242475-.backup	
+51.403645	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+51.403837	[CR]	/system/netstats/xt.1507273242475-	
+51.405064	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+51.405181	[FS]	/system/netstats/xt.1507273242475-	0	
+51.411779	[UN]	/system/netstats/xt.1507273242475-.backup	
+51.429271	[RN]	/system/recent_tasks/4_task.xml	/system/recent_tasks/4_task.xml.bak	
+51.429748	[CR]	/system/recent_tasks/4_task.xml	
+51.430062	[WA]	/system/recent_tasks/4_task.xml	0	876	0	
+51.430247	[WA]	/system/recent_tasks/4_task.xml	876	1	876	
+51.430372	[FS]	/system/recent_tasks/4_task.xml	0	
+51.439188	[UN]	/system/recent_tasks/4_task.xml.bak	
+52.543107	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+52.543380	[CR]	/system/netstats/dev.1507273242475-	
+52.545925	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+52.546039	[FS]	/system/netstats/dev.1507273242475-	0	
+52.556292	[UN]	/system/netstats/dev.1507273242475-.backup	
+52.560337	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+52.560519	[CR]	/system/netstats/xt.1507273242475-	
+52.561824	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+52.561944	[FS]	/system/netstats/xt.1507273242475-	0	
+52.567380	[UN]	/system/netstats/xt.1507273242475-.backup	
+54.093310	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+54.093516	[CR]	/system/netstats/dev.1507273242475-	
+54.094713	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+54.094828	[FS]	/system/netstats/dev.1507273242475-	0	
+54.100825	[UN]	/system/netstats/dev.1507273242475-.backup	
+54.104371	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+54.104541	[CR]	/system/netstats/xt.1507273242475-	
+54.105714	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+54.105816	[FS]	/system/netstats/xt.1507273242475-	0	
+54.112378	[UN]	/system/netstats/xt.1507273242475-.backup	
+54.893296	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+54.893487	[CR]	/system/netstats/dev.1507273242475-	
+54.894632	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+54.894753	[FS]	/system/netstats/dev.1507273242475-	0	
+54.904925	[UN]	/system/netstats/dev.1507273242475-.backup	
+54.908963	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+54.909146	[CR]	/system/netstats/xt.1507273242475-	
+54.910313	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+54.910429	[FS]	/system/netstats/xt.1507273242475-	0	
+54.917245	[UN]	/system/netstats/xt.1507273242475-.backup	
+56.088600	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+56.088875	[CR]	/system/netstats/dev.1507273242475-	
+56.090373	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+56.090508	[FS]	/system/netstats/dev.1507273242475-	0	
+56.097998	[UN]	/system/netstats/dev.1507273242475-.backup	
+56.102120	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+56.102340	[CR]	/system/netstats/xt.1507273242475-	
+56.103649	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+56.103767	[FS]	/system/netstats/xt.1507273242475-	0	
+56.109401	[UN]	/system/netstats/xt.1507273242475-.backup	
+57.414468	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+57.414943	[CR]	/system/netstats/dev.1507273242475-	
+57.417573	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+57.417811	[FS]	/system/netstats/dev.1507273242475-	0	
+57.428277	[UN]	/system/netstats/dev.1507273242475-.backup	
+57.434531	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+57.434713	[CR]	/system/netstats/xt.1507273242475-	
+57.435908	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+57.436024	[FS]	/system/netstats/xt.1507273242475-	0	
+57.442235	[UN]	/system/netstats/xt.1507273242475-.backup	
+58.184322	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+58.184632	[CR]	/system/netstats/dev.1507273242475-	
+58.186009	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+58.186139	[FS]	/system/netstats/dev.1507273242475-	0	
+58.193601	[UN]	/system/netstats/dev.1507273242475-.backup	
+58.198525	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+58.198740	[CR]	/system/netstats/xt.1507273242475-	
+58.200145	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+58.200280	[FS]	/system/netstats/xt.1507273242475-	0	
+58.277742	[UN]	/system/netstats/xt.1507273242475-.backup	
+60.537035	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+60.537280	[CR]	/system/netstats/dev.1507273242475-	
+60.538392	[WA]	/system/netstats/dev.1507273242475-	0	4356	0	
+60.538499	[FS]	/system/netstats/dev.1507273242475-	0	
+60.549090	[UN]	/system/netstats/dev.1507273242475-.backup	
+60.552666	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+60.552831	[CR]	/system/netstats/xt.1507273242475-	
+60.554011	[WA]	/system/netstats/xt.1507273242475-	0	4411	0	
+60.554114	[FS]	/system/netstats/xt.1507273242475-	0	
+60.558179	[UN]	/system/netstats/xt.1507273242475-.backup	
+62.736330	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+62.736586	[CR]	/system/netstats/dev.1507273242475-	
+62.737700	[WA]	/system/netstats/dev.1507273242475-	0	4357	0	
+62.737819	[FS]	/system/netstats/dev.1507273242475-	0	
+62.747424	[UN]	/system/netstats/dev.1507273242475-.backup	
+62.751836	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+62.752011	[CR]	/system/netstats/xt.1507273242475-	
+62.753145	[WA]	/system/netstats/xt.1507273242475-	0	4412	0	
+62.753257	[FS]	/system/netstats/xt.1507273242475-	0	
+62.757008	[UN]	/system/netstats/xt.1507273242475-.backup	
+64.540285	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+64.540545	[CR]	/system/netstats/dev.1507273242475-	
+64.542236	[WA]	/system/netstats/dev.1507273242475-	0	4357	0	
+64.542360	[FS]	/system/netstats/dev.1507273242475-	0	
+64.554513	[UN]	/system/netstats/dev.1507273242475-.backup	
+64.558305	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+64.558489	[CR]	/system/netstats/xt.1507273242475-	
+64.559754	[WA]	/system/netstats/xt.1507273242475-	0	4412	0	
+64.559869	[FS]	/system/netstats/xt.1507273242475-	0	
+64.565634	[UN]	/system/netstats/xt.1507273242475-.backup	
+65.222600	[RN]	/system/netstats/dev.1507273242475-	/system/netstats/dev.1507273242475-.backup	
+65.222835	[CR]	/system/netstats/dev.1507273242475-	
+65.224154	[WA]	/system/netstats/dev.1507273242475-	0	4357	0	
+65.224291	[FS]	/system/netstats/dev.1507273242475-	0	
+65.232264	[UN]	/system/netstats/dev.1507273242475-.backup	
+65.236045	[RN]	/system/netstats/xt.1507273242475-	/system/netstats/xt.1507273242475-.backup	
+65.236225	[CR]	/system/netstats/xt.1507273242475-	
+65.237433	[WA]	/system/netstats/xt.1507273242475-	0	4412	0	
+65.237539	[FS]	/system/netstats/xt.1507273242475-	0	
+65.243695	[UN]	/system/netstats/xt.1507273242475-.backup	
+65.576037	[WO]	/system/notification_log.db-journal	0	512	49760	
+65.576102	[WO]	/system/notification_log.db-journal	512	4	49760	
+65.576126	[WO]	/system/notification_log.db-journal	516	4096	49760	
+65.576164	[WO]	/system/notification_log.db-journal	4612	4	49760	
+65.576201	[WO]	/system/notification_log.db-journal	4616	4	49760	
+65.576223	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+65.576259	[WO]	/system/notification_log.db-journal	8716	4	49760	
+65.576316	[WO]	/system/notification_log.db-journal	8720	4	49760	
+65.576339	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+65.576375	[WO]	/system/notification_log.db-journal	12820	4	49760	
+65.576409	[FS]	/system/notification_log.db-journal	1	
+65.585316	[FS]	/system	1	
+65.589495	[WO]	/system/notification_log.db-journal	0	12	49760	
+65.589588	[FS]	/system/notification_log.db-journal	1	
+65.590696	[WO]	/system/notification_log.db	0	4096	57344	
+65.590742	[WO]	/system/notification_log.db	16384	4096	57344	
+65.590770	[WO]	/system/notification_log.db	53248	4096	57344	
+65.590798	[FS]	/system/notification_log.db	1	
+65.615749	[WO]	/system/notification_log.db-journal	0	28	49760	
+65.615799	[FS]	/system/notification_log.db-journal	1	
+65.663443	[CR]	/app/vmdl1527403271.tmp/com.instagram.android	
+67.842174	[WO]	/system/notification_log.db-journal	0	512	49760	
+67.842235	[WO]	/system/notification_log.db-journal	512	4	49760	
+67.842259	[WO]	/system/notification_log.db-journal	516	4096	49760	
+67.842298	[WO]	/system/notification_log.db-journal	4612	4	49760	
+67.842334	[WO]	/system/notification_log.db-journal	4616	4	49760	
+67.842357	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+67.843147	[WO]	/system/notification_log.db-journal	8716	4	49760	
+67.843212	[WO]	/system/notification_log.db-journal	8720	4	49760	
+67.843235	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+67.843272	[WO]	/system/notification_log.db-journal	12820	4	49760	
+67.843309	[FS]	/system/notification_log.db-journal	1	
+67.848903	[FS]	/system	1	
+67.855026	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+67.855306	[CR]	/system/install_sessions.xml	
+67.860348	[WA]	/system/install_sessions.xml	0	425	0	
+67.860488	[FS]	/system/install_sessions.xml	0	
+67.864635	[WO]	/system/notification_log.db-journal	0	12	49760	
+67.864694	[FS]	/system/notification_log.db-journal	1	
+67.865568	[UN]	/system/install_sessions.xml.bak	
+67.872221	[WO]	/system/notification_log.db	0	4096	57344	
+67.872287	[WO]	/system/notification_log.db	16384	4096	57344	
+67.872317	[WO]	/system/notification_log.db	53248	4096	57344	
+67.872354	[FS]	/system/notification_log.db	1	
+67.878203	[WO]	/system/notification_log.db-journal	0	28	49760	
+67.878574	[FS]	/system/notification_log.db-journal	1	
+70.945801	[RN]	/app/vmdl1527403271.tmp/com.instagram.android	/app/vmdl1527403271.tmp/base.apk	
+71.092483	[MD]	/app/vmdl1527403271.tmp/lib	
+71.093982	[MD]	/app/vmdl1527403271.tmp/lib/arm	
+71.094652	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.jYM3yN	
+71.095764	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.jYM3yN	0	17920	17920	
+71.096153	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.jYM3yN	/app/vmdl1527403271.tmp/lib/arm/libfbreact-i18nassetsmodule.so	
+71.096403	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.H3oTQX	
+71.097280	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.H3oTQX	0	9624	9624	
+71.097609	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.H3oTQX	/app/vmdl1527403271.tmp/lib/arm/libasyncexecutor.so	
+71.097841	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.RiszDR	
+71.098912	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.RiszDR	0	17816	17816	
+71.099285	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.RiszDR	/app/vmdl1527403271.tmp/lib/arm/libcj.so	
+71.099511	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.M2YwoX	
+71.100618	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.M2YwoX	0	22148	22148	
+71.100999	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.M2YwoX	/app/vmdl1527403271.tmp/lib/arm/libigbitmap_runtime_for_v23.so	
+71.101221	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	
+71.102587	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	0	32768	517372	
+71.103326	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	32768	32768	517372	
+71.104122	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	65536	32768	517372	
+71.104793	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	98304	32768	517372	
+71.105646	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	131072	32768	517372	
+71.106490	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	163840	32768	517372	
+71.107279	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	196608	32768	517372	
+71.108084	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	229376	32768	517372	
+71.108895	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	262144	32768	517372	
+71.109754	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	294912	32768	517372	
+71.110631	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	327680	32768	517372	
+71.111372	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	360448	32768	517372	
+71.112145	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	393216	32768	517372	
+71.112816	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	425984	32768	517372	
+71.113326	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	458752	32768	517372	
+71.113912	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	491520	25852	517372	
+71.114337	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.uGWJzh	/app/vmdl1527403271.tmp/lib/arm/libvpx.so	
+71.114606	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Hef6wm	
+71.115690	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Hef6wm	0	21960	21960	
+71.116081	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Hef6wm	/app/vmdl1527403271.tmp/lib/arm/libconcealcpp.so	
+71.116336	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.GCwhXd	
+71.118054	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.GCwhXd	0	32768	95748	
+71.118756	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.GCwhXd	32768	32768	95748	
+71.119326	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.GCwhXd	65536	30212	95748	
+71.119756	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.GCwhXd	/app/vmdl1527403271.tmp/lib/arm/libhalide.so	
+71.120034	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	
+71.121224	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	0	32768	140712	
+71.122132	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	32768	32768	140712	
+71.122958	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	65536	32768	140712	
+71.123548	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	98304	32768	140712	
+71.123823	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	131072	9640	140712	
+71.124180	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.NH7f58	/app/vmdl1527403271.tmp/lib/arm/libfb_jpegturbo.so	
+71.124428	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	
+71.125696	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	0	32768	718696	
+71.126315	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	32768	32768	718696	
+71.126739	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	65536	32768	718696	
+71.127218	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	98304	32768	718696	
+71.127558	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	131072	32768	718696	
+71.127890	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	163840	32768	718696	
+71.128229	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	196608	32768	718696	
+71.128722	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	229376	32768	718696	
+71.129204	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	262144	32768	718696	
+71.130654	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	294912	32768	718696	
+71.132164	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	327680	32768	718696	
+71.133249	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	360448	32768	718696	
+71.134322	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	393216	32768	718696	
+71.135797	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	425984	32768	718696	
+71.136590	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	458752	32768	718696	
+71.137352	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	491520	32768	718696	
+71.138058	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	524288	32768	718696	
+71.138897	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	557056	32768	718696	
+71.139703	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	589824	32768	718696	
+71.140551	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	622592	32768	718696	
+71.141320	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	655360	32768	718696	
+71.142561	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	688128	30568	718696	
+71.143107	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Ak4wz8	/app/vmdl1527403271.tmp/lib/arm/libgnustl_shared.so	
+71.143422	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.czYqSl	
+71.150094	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.czYqSl	0	32768	67104	
+71.150876	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.czYqSl	32768	32768	67104	
+71.151077	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.czYqSl	65536	1568	67104	
+71.151378	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.czYqSl	/app/vmdl1527403271.tmp/lib/arm/libfb.so	
+71.151634	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.QYBIG3	
+71.152594	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.QYBIG3	0	9616	9616	
+71.152922	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.QYBIG3	/app/vmdl1527403271.tmp/lib/arm/libfbreactjnifb.so	
+71.153154	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	
+71.154353	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	0	32768	2660792	
+71.154812	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	32768	32768	2660792	
+71.155291	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	65536	32768	2660792	
+71.155800	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	98304	32768	2660792	
+71.156542	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	131072	32768	2660792	
+71.157298	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	163840	32768	2660792	
+71.157971	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	196608	32768	2660792	
+71.158719	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	229376	32768	2660792	
+71.159453	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	262144	32768	2660792	
+71.160216	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	294912	32768	2660792	
+71.161003	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	327680	32768	2660792	
+71.161701	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	360448	32768	2660792	
+71.162426	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	393216	32768	2660792	
+71.163616	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	425984	32768	2660792	
+71.164380	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	458752	32768	2660792	
+71.165235	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	491520	32768	2660792	
+71.166030	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	524288	32768	2660792	
+71.166780	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	557056	32768	2660792	
+71.167571	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	589824	32768	2660792	
+71.168368	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	622592	32768	2660792	
+71.169103	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	655360	32768	2660792	
+71.169904	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	688128	32768	2660792	
+71.170760	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	720896	32768	2660792	
+71.171545	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	753664	32768	2660792	
+71.172352	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	786432	32768	2660792	
+71.173185	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	819200	32768	2660792	
+71.173967	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	851968	32768	2660792	
+71.174818	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	884736	32768	2660792	
+71.175569	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	917504	32768	2660792	
+71.176282	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	950272	32768	2660792	
+71.177134	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	983040	32768	2660792	
+71.177949	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1015808	32768	2660792	
+71.178690	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1048576	32768	2660792	
+71.179487	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1081344	32768	2660792	
+71.180310	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1114112	32768	2660792	
+71.181077	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1146880	32768	2660792	
+71.181977	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1179648	32768	2660792	
+71.182801	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1212416	32768	2660792	
+71.183421	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1245184	32768	2660792	
+71.184161	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1277952	32768	2660792	
+71.184814	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1310720	32768	2660792	
+71.185623	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1343488	32768	2660792	
+71.186412	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1376256	32768	2660792	
+71.187171	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1409024	32768	2660792	
+71.188687	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1441792	32768	2660792	
+71.189435	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1474560	32768	2660792	
+71.190203	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1507328	32768	2660792	
+71.190985	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1540096	32768	2660792	
+71.191703	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1572864	32768	2660792	
+71.192462	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1605632	32768	2660792	
+71.192959	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1638400	32768	2660792	
+71.193656	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1671168	32768	2660792	
+71.194343	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1703936	32768	2660792	
+71.195125	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1736704	32768	2660792	
+71.195917	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1769472	32768	2660792	
+71.196636	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1802240	32768	2660792	
+71.197332	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1835008	32768	2660792	
+71.198008	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1867776	32768	2660792	
+71.198557	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1900544	32768	2660792	
+71.199127	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1933312	32768	2660792	
+71.199668	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1966080	32768	2660792	
+71.200263	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	1998848	32768	2660792	
+71.200946	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2031616	32768	2660792	
+71.201765	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2064384	32768	2660792	
+71.202599	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2097152	32768	2660792	
+71.203554	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2129920	32768	2660792	
+71.204314	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2162688	32768	2660792	
+71.205006	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2195456	32768	2660792	
+71.205701	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2228224	32768	2660792	
+71.206332	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2260992	32768	2660792	
+71.206790	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2293760	32768	2660792	
+71.207221	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2326528	32768	2660792	
+71.207575	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2359296	32768	2660792	
+71.208010	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2392064	32768	2660792	
+71.208376	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2424832	32768	2660792	
+71.208839	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2457600	32768	2660792	
+71.209388	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2490368	32768	2660792	
+71.209913	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2523136	32768	2660792	
+71.210385	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2555904	32768	2660792	
+71.210903	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2588672	32768	2660792	
+71.211345	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2621440	32768	2660792	
+71.211654	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	2654208	6584	2660792	
+71.212031	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.MM1Lxc	/app/vmdl1527403271.tmp/lib/arm/libfbjsc.so	
+71.212342	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.A9N1Vt	
+71.213786	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.A9N1Vt	0	32768	67012	
+71.214336	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.A9N1Vt	32768	32768	67012	
+71.214527	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.A9N1Vt	65536	1476	67012	
+71.214816	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.A9N1Vt	/app/vmdl1527403271.tmp/lib/arm/libyoga.so	
+71.215052	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.MOel55	
+71.215885	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MOel55	0	5476	5476	
+71.216195	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.MOel55	/app/vmdl1527403271.tmp/lib/arm/libjava_com_facebook_catalyst_js_react-native-github_ReactCommon_privatedata_privatedata.so	
+71.216433	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.jfy6IQ	
+71.217496	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.jfy6IQ	0	17860	17860	
+71.217869	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.jfy6IQ	/app/vmdl1527403271.tmp/lib/arm/libxplat_LiveStreaming_LiveStreaming.so	
+71.218094	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.MvUTTb	
+71.219349	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MvUTTb	0	32768	38340	
+71.219589	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MvUTTb	32768	5572	38340	
+71.219894	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.MvUTTb	/app/vmdl1527403271.tmp/lib/arm/libxplat_RtmpSSL_LigerRtmpSSL.so	
+71.220137	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	
+71.221381	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	0	32768	124360	
+71.222398	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	32768	32768	124360	
+71.223214	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	65536	32768	124360	
+71.223763	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	98304	26056	124360	
+71.224230	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.7YAX6k	/app/vmdl1527403271.tmp/lib/arm/libfilters-native-android.so	
+71.224576	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.ZUPN6R	
+71.225556	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ZUPN6R	0	9520	9520	
+71.225881	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.ZUPN6R	/app/vmdl1527403271.tmp/lib/arm/libogg.so	
+71.226113	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.8eGsC6	
+71.227398	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.8eGsC6	0	30232	30232	
+71.227818	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.8eGsC6	/app/vmdl1527403271.tmp/lib/arm/libglog.so	
+71.228062	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.ugQ3ft	
+71.229422	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ugQ3ft	0	32768	91588	
+71.230258	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ugQ3ft	32768	32768	91588	
+71.230768	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ugQ3ft	65536	26052	91588	
+71.231167	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.ugQ3ft	/app/vmdl1527403271.tmp/lib/arm/libxplat_LiveStreaming_LiveStreamingRTMP.so	
+71.231394	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	
+71.232663	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	0	32768	3757140	
+71.233126	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	32768	32768	3757140	
+71.233594	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	65536	32768	3757140	
+71.234020	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	98304	32768	3757140	
+71.234671	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	131072	32768	3757140	
+71.235281	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	163840	32768	3757140	
+71.236090	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	196608	32768	3757140	
+71.236734	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	229376	32768	3757140	
+71.238155	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	262144	32768	3757140	
+71.238882	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	294912	32768	3757140	
+71.239652	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	327680	32768	3757140	
+71.240442	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	360448	32768	3757140	
+71.241227	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	393216	32768	3757140	
+71.242087	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	425984	32768	3757140	
+71.242979	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	458752	32768	3757140	
+71.243614	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	491520	32768	3757140	
+71.244381	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	524288	32768	3757140	
+71.245089	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	557056	32768	3757140	
+71.245890	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	589824	32768	3757140	
+71.246644	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	622592	32768	3757140	
+71.247457	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	655360	32768	3757140	
+71.248257	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	688128	32768	3757140	
+71.249022	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	720896	32768	3757140	
+71.249698	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	753664	32768	3757140	
+71.250253	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	786432	32768	3757140	
+71.251100	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	819200	32768	3757140	
+71.251622	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	851968	32768	3757140	
+71.252265	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	884736	32768	3757140	
+71.253014	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	917504	32768	3757140	
+71.253857	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	950272	32768	3757140	
+71.254602	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	983040	32768	3757140	
+71.255428	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1015808	32768	3757140	
+71.256297	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1048576	32768	3757140	
+71.257061	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1081344	32768	3757140	
+71.257848	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1114112	32768	3757140	
+71.258647	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1146880	32768	3757140	
+71.259418	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1179648	32768	3757140	
+71.260268	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1212416	32768	3757140	
+71.260976	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1245184	32768	3757140	
+71.261536	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1277952	32768	3757140	
+71.262281	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1310720	32768	3757140	
+71.263143	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1343488	32768	3757140	
+71.264254	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1376256	32768	3757140	
+71.265020	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1409024	32768	3757140	
+71.265811	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1441792	32768	3757140	
+71.266591	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1474560	32768	3757140	
+71.267390	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1507328	32768	3757140	
+71.268156	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1540096	32768	3757140	
+71.268981	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1572864	32768	3757140	
+71.269807	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1605632	32768	3757140	
+71.270577	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1638400	32768	3757140	
+71.271421	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1671168	32768	3757140	
+71.272324	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1703936	32768	3757140	
+71.273183	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1736704	32768	3757140	
+71.273987	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1769472	32768	3757140	
+71.274730	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1802240	32768	3757140	
+71.275443	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1835008	32768	3757140	
+71.276219	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1867776	32768	3757140	
+71.276906	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1900544	32768	3757140	
+71.277703	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1933312	32768	3757140	
+71.278546	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1966080	32768	3757140	
+71.279302	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	1998848	32768	3757140	
+71.280082	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2031616	32768	3757140	
+71.280735	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2064384	32768	3757140	
+71.281559	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2097152	32768	3757140	
+71.282448	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2129920	32768	3757140	
+71.283221	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2162688	32768	3757140	
+71.284068	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2195456	32768	3757140	
+71.284891	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2228224	32768	3757140	
+71.285675	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2260992	32768	3757140	
+71.287228	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2293760	32768	3757140	
+71.288094	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2326528	32768	3757140	
+71.288963	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2359296	32768	3757140	
+71.289777	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2392064	32768	3757140	
+71.290613	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2424832	32768	3757140	
+71.291357	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2457600	32768	3757140	
+71.292204	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2490368	32768	3757140	
+71.292881	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2523136	32768	3757140	
+71.293616	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2555904	32768	3757140	
+71.294274	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2588672	32768	3757140	
+71.294981	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2621440	32768	3757140	
+71.295622	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2654208	32768	3757140	
+71.296319	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2686976	32768	3757140	
+71.296980	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2719744	32768	3757140	
+71.297709	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2752512	32768	3757140	
+71.298287	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2785280	32768	3757140	
+71.298794	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2818048	32768	3757140	
+71.299287	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2850816	32768	3757140	
+71.299719	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2883584	32768	3757140	
+71.300136	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2916352	32768	3757140	
+71.300550	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2949120	32768	3757140	
+71.301036	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	2981888	32768	3757140	
+71.301576	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3014656	32768	3757140	
+71.301943	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3047424	32768	3757140	
+71.302284	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3080192	32768	3757140	
+71.302580	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3112960	32768	3757140	
+71.302862	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3145728	32768	3757140	
+71.303133	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3178496	32768	3757140	
+71.303401	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3211264	32768	3757140	
+71.303672	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3244032	32768	3757140	
+71.304148	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3276800	32768	3757140	
+71.304892	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3309568	32768	3757140	
+71.305684	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3342336	32768	3757140	
+71.306360	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3375104	32768	3757140	
+71.306820	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3407872	32768	3757140	
+71.307393	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3440640	32768	3757140	
+71.308018	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3473408	32768	3757140	
+71.308672	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3506176	32768	3757140	
+71.309289	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3538944	32768	3757140	
+71.309956	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3571712	32768	3757140	
+71.310691	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3604480	32768	3757140	
+71.311257	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3637248	32768	3757140	
+71.311915	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3670016	32768	3757140	
+71.312587	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3702784	32768	3757140	
+71.312854	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	3735552	21588	3757140	
+71.313282	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.BLlLUi	/app/vmdl1527403271.tmp/lib/arm/libxplat_effects-framework_graphics-engine.so	
+71.313579	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.LqerR0	
+71.314628	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.LqerR0	0	13712	13712	
+71.314973	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.LqerR0	/app/vmdl1527403271.tmp/lib/arm/libfb_xzdecoder.so	
+71.315191	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	
+71.316468	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	0	32768	222628	
+71.317220	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	32768	32768	222628	
+71.318016	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	65536	32768	222628	
+71.318756	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	98304	32768	222628	
+71.319139	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	131072	32768	222628	
+71.319501	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	163840	32768	222628	
+71.319914	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	196608	26020	222628	
+71.320326	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.lTcswX	/app/vmdl1527403271.tmp/lib/arm/libfb_mozjpeg.so	
+71.321067	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.4XzUFA	
+71.322399	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.4XzUFA	0	32768	83456	
+71.323271	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.4XzUFA	32768	32768	83456	
+71.323720	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.4XzUFA	65536	17920	83456	
+71.324084	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.4XzUFA	/app/vmdl1527403271.tmp/lib/arm/libxplat_rtc_tslog_tslog.so	
+71.324337	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	
+71.325499	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	0	32768	1603100	
+71.326298	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	32768	32768	1603100	
+71.327087	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	65536	32768	1603100	
+71.327455	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	98304	32768	1603100	
+71.327801	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	131072	32768	1603100	
+71.328122	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	163840	32768	1603100	
+71.328406	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	196608	32768	1603100	
+71.328703	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	229376	32768	1603100	
+71.329064	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	262144	32768	1603100	
+71.329397	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	294912	32768	1603100	
+71.329724	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	327680	32768	1603100	
+71.330040	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	360448	32768	1603100	
+71.330383	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	393216	32768	1603100	
+71.330728	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	425984	32768	1603100	
+71.331064	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	458752	32768	1603100	
+71.331408	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	491520	32768	1603100	
+71.331818	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	524288	32768	1603100	
+71.332185	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	557056	32768	1603100	
+71.334559	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	589824	32768	1603100	
+71.334915	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	622592	32768	1603100	
+71.335565	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	655360	32768	1603100	
+71.336013	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	688128	32768	1603100	
+71.336349	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	720896	32768	1603100	
+71.339073	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	753664	32768	1603100	
+71.339405	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	786432	32768	1603100	
+71.339765	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	819200	32768	1603100	
+71.340155	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	851968	32768	1603100	
+71.340508	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	884736	32768	1603100	
+71.340857	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	917504	32768	1603100	
+71.341215	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	950272	32768	1603100	
+71.341565	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	983040	32768	1603100	
+71.341986	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1015808	32768	1603100	
+71.342342	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1048576	32768	1603100	
+71.342761	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1081344	32768	1603100	
+71.343079	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1114112	32768	1603100	
+71.343416	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1146880	32768	1603100	
+71.343771	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1179648	32768	1603100	
+71.344126	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1212416	32768	1603100	
+71.344483	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1245184	32768	1603100	
+71.344838	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1277952	32768	1603100	
+71.345201	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1310720	32768	1603100	
+71.345553	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1343488	32768	1603100	
+71.345891	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1376256	32768	1603100	
+71.346245	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1409024	32768	1603100	
+71.346678	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1441792	32768	1603100	
+71.347133	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1474560	32768	1603100	
+71.347843	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1507328	32768	1603100	
+71.348383	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1540096	32768	1603100	
+71.348859	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	1572864	30236	1603100	
+71.349318	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.OlBCZ4	/app/vmdl1527403271.tmp/lib/arm/libvideo.so	
+71.349605	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uovf3f	
+71.351003	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uovf3f	0	32768	75624	
+71.352364	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uovf3f	32768	32768	75624	
+71.353197	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uovf3f	65536	10088	75624	
+71.353530	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uovf3f	/app/vmdl1527403271.tmp/lib/arm/libbreakpad.so	
+71.353784	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.no5j8t	
+71.354752	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.no5j8t	0	13764	13764	
+71.355099	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.no5j8t	/app/vmdl1527403271.tmp/lib/arm/libandroid-rtmpssl.so	
+71.355318	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.YR7bic	
+71.356357	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.YR7bic	0	9572	9572	
+71.356687	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.YR7bic	/app/vmdl1527403271.tmp/lib/arm/libstrings.so	
+71.356925	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.r666pO	
+71.359030	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.r666pO	0	17556	17556	
+71.359391	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.r666pO	/app/vmdl1527403271.tmp/lib/arm/libstackblur.so	
+71.360466	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.iy7xqO	
+71.361770	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.iy7xqO	0	5480	5480	
+71.363674	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.iy7xqO	/app/vmdl1527403271.tmp/lib/arm/libperfloggerbase_perfloggerbaseAndroid.so	
+71.363921	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.3voe5Z	
+71.370000	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.3voe5Z	0	13764	13764	
+71.370355	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.3voe5Z	/app/vmdl1527403271.tmp/lib/arm/libfbreactotapatchfb.so	
+71.370590	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	
+71.371943	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	0	32768	390724	
+71.372903	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	32768	32768	390724	
+71.373852	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	65536	32768	390724	
+71.374701	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	98304	32768	390724	
+71.375472	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	131072	32768	390724	
+71.376258	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	163840	32768	390724	
+71.377052	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	196608	32768	390724	
+71.377882	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	229376	32768	390724	
+71.378735	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	262144	32768	390724	
+71.379391	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	294912	32768	390724	
+71.379816	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	327680	32768	390724	
+71.380171	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	360448	30276	390724	
+71.380608	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.wSl0qQ	/app/vmdl1527403271.tmp/lib/arm/libface-tracking.so	
+71.380874	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Wlo6WF	
+71.381880	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Wlo6WF	0	5476	5476	
+71.382200	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Wlo6WF	/app/vmdl1527403271.tmp/lib/arm/libxplat_Reachability_Reachability.so	
+71.382436	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	
+71.383658	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	0	32768	395380	
+71.384330	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	32768	32768	395380	
+71.385706	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	65536	32768	395380	
+71.386361	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	98304	32768	395380	
+71.387147	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	131072	32768	395380	
+71.387879	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	163840	32768	395380	
+71.388601	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	196608	32768	395380	
+71.389332	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	229376	32768	395380	
+71.390059	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	262144	32768	395380	
+71.390683	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	294912	32768	395380	
+71.391254	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	327680	32768	395380	
+71.391838	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	360448	32768	395380	
+71.392047	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	393216	2164	395380	
+71.392349	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.2ldOsy	/app/vmdl1527403271.tmp/lib/arm/libopencv.so	
+71.392615	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.xpE3MU	
+71.393538	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.xpE3MU	0	9624	9624	
+71.393866	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.xpE3MU	/app/vmdl1527403271.tmp/lib/arm/libxplat_Statistics_Statistics.so	
+71.394100	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.7ZZCvt	
+71.395007	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.7ZZCvt	0	9820	9820	
+71.395340	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.7ZZCvt	/app/vmdl1527403271.tmp/lib/arm/libfbsystrace.so	
+71.395577	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.MPD5Sy	
+71.396659	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MPD5Sy	0	22304	22304	
+71.397044	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.MPD5Sy	/app/vmdl1527403271.tmp/lib/arm/libfb_ffmpeg_jni.so	
+71.397289	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Xui5By	
+71.398120	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Xui5By	0	5424	5424	
+71.398426	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Xui5By	/app/vmdl1527403271.tmp/lib/arm/libcommonpatchjni.so	
+71.398662	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Q6nFBx	
+71.399785	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Q6nFBx	0	20784	20784	
+71.400160	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Q6nFBx	/app/vmdl1527403271.tmp/lib/arm/libbz2.so	
+71.400418	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.eEXJcr	
+71.401886	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.eEXJcr	0	32768	63024	
+71.402558	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.eEXJcr	32768	30256	63024	
+71.402974	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.eEXJcr	/app/vmdl1527403271.tmp/lib/arm/libthird-party_librtmp_librtmpAndroid.so	
+71.403219	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.ve2j7b	
+71.404543	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ve2j7b	0	32768	42496	
+71.404862	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.ve2j7b	32768	9728	42496	
+71.405184	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.ve2j7b	/app/vmdl1527403271.tmp/lib/arm/libtigon4a.so	
+71.405413	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.dZfA1x	
+71.406376	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.dZfA1x	0	13720	13720	
+71.406722	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.dZfA1x	/app/vmdl1527403271.tmp/lib/arm/libjpegutils_moz.so	
+71.406953	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	
+71.408176	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	0	32768	2686988	
+71.408666	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	32768	32768	2686988	
+71.409144	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	65536	32768	2686988	
+71.409576	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	98304	32768	2686988	
+71.410100	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	131072	32768	2686988	
+71.410597	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	163840	32768	2686988	
+71.411237	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	196608	32768	2686988	
+71.412051	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	229376	32768	2686988	
+71.412894	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	262144	32768	2686988	
+71.413618	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	294912	32768	2686988	
+71.414462	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	327680	32768	2686988	
+71.415333	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	360448	32768	2686988	
+71.416105	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	393216	32768	2686988	
+71.416921	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	425984	32768	2686988	
+71.417795	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	458752	32768	2686988	
+71.418599	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	491520	32768	2686988	
+71.419467	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	524288	32768	2686988	
+71.420306	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	557056	32768	2686988	
+71.421128	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	589824	32768	2686988	
+71.422207	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	622592	32768	2686988	
+71.423266	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	655360	32768	2686988	
+71.424078	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	688128	32768	2686988	
+71.424943	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	720896	32768	2686988	
+71.425780	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	753664	32768	2686988	
+71.426654	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	786432	32768	2686988	
+71.427463	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	819200	32768	2686988	
+71.428336	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	851968	32768	2686988	
+71.429195	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	884736	32768	2686988	
+71.430009	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	917504	32768	2686988	
+71.430861	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	950272	32768	2686988	
+71.431671	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	983040	32768	2686988	
+71.432536	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1015808	32768	2686988	
+71.433320	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1048576	32768	2686988	
+71.434171	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1081344	32768	2686988	
+71.435727	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1114112	32768	2686988	
+71.436520	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1146880	32768	2686988	
+71.437365	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1179648	32768	2686988	
+71.438245	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1212416	32768	2686988	
+71.439050	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1245184	32768	2686988	
+71.439833	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1277952	32768	2686988	
+71.440714	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1310720	32768	2686988	
+71.441524	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1343488	32768	2686988	
+71.442448	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1376256	32768	2686988	
+71.443322	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1409024	32768	2686988	
+71.444172	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1441792	32768	2686988	
+71.444949	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1474560	32768	2686988	
+71.445853	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1507328	32768	2686988	
+71.446715	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1540096	32768	2686988	
+71.447526	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1572864	32768	2686988	
+71.448419	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1605632	32768	2686988	
+71.449113	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1638400	32768	2686988	
+71.449780	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1671168	32768	2686988	
+71.450603	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1703936	32768	2686988	
+71.451369	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1736704	32768	2686988	
+71.452069	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1769472	32768	2686988	
+71.452643	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1802240	32768	2686988	
+71.453191	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1835008	32768	2686988	
+71.453817	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1867776	32768	2686988	
+71.454375	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1900544	32768	2686988	
+71.454905	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1933312	32768	2686988	
+71.455429	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1966080	32768	2686988	
+71.455980	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	1998848	32768	2686988	
+71.456658	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2031616	32768	2686988	
+71.457243	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2064384	32768	2686988	
+71.457900	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2097152	32768	2686988	
+71.458586	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2129920	32768	2686988	
+71.459126	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2162688	32768	2686988	
+71.459749	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2195456	32768	2686988	
+71.460545	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2228224	32768	2686988	
+71.461337	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2260992	32768	2686988	
+71.462054	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2293760	32768	2686988	
+71.462835	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2326528	32768	2686988	
+71.463463	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2359296	32768	2686988	
+71.464148	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2392064	32768	2686988	
+71.464897	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2424832	32768	2686988	
+71.466129	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2457600	32768	2686988	
+71.466971	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2490368	32768	2686988	
+71.467634	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2523136	32768	2686988	
+71.468309	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2555904	32768	2686988	
+71.468871	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2588672	32768	2686988	
+71.469435	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2621440	32768	2686988	
+71.470147	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2654208	32768	2686988	
+71.470307	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	2686976	12	2686988	
+71.470634	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.c4Fruf	/app/vmdl1527403271.tmp/lib/arm/libliger.so	
+71.470937	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.qcUHkw	
+71.472288	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.qcUHkw	0	32768	42436	
+71.472601	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.qcUHkw	32768	9668	42436	
+71.472930	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.qcUHkw	/app/vmdl1527403271.tmp/lib/arm/libconcealjni.so	
+71.473175	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.MWJVEL	
+71.474513	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MWJVEL	0	32768	38340	
+71.474742	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.MWJVEL	32768	5572	38340	
+71.475043	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.MWJVEL	/app/vmdl1527403271.tmp/lib/arm/libxplat_LiveStreaming_LiveStreamingAdaptiveBitrate.so	
+71.475265	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.nopqSY	
+71.476481	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.nopqSY	0	30232	30232	
+71.476898	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.nopqSY	/app/vmdl1527403271.tmp/lib/arm/libfbacore-jni.so	
+71.477146	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.O20yzh	
+71.478418	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.O20yzh	0	32768	34304	
+71.478607	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.O20yzh	32768	1536	34304	
+71.478889	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.O20yzh	/app/vmdl1527403271.tmp/lib/arm/libjniexecutors.so	
+71.479123	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.UODxSj	
+71.480077	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.UODxSj	0	13720	13720	
+71.480420	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.UODxSj	/app/vmdl1527403271.tmp/lib/arm/libjpegutils.so	
+71.480651	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.z9G1Ke	
+71.481542	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.z9G1Ke	0	9668	9668	
+71.481895	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.z9G1Ke	/app/vmdl1527403271.tmp/lib/arm/libfbgloginit.so	
+71.482113	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	
+71.483269	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	0	32768	144792	
+71.483614	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	32768	32768	144792	
+71.484599	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	65536	32768	144792	
+71.485001	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	98304	32768	144792	
+71.485283	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	131072	13720	144792	
+71.485634	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.14Zc5Y	/app/vmdl1527403271.tmp/lib/arm/libscrambler.so	
+71.485881	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.zoAzfr	
+71.486954	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.zoAzfr	0	17860	17860	
+71.487315	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.zoAzfr	/app/vmdl1527403271.tmp/lib/arm/libnative_bridge.so	
+71.487555	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	
+71.488735	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	0	32768	325128	
+71.489370	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	32768	32768	325128	
+71.490221	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	65536	32768	325128	
+71.490978	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	98304	32768	325128	
+71.491883	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	131072	32768	325128	
+71.492764	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	163840	32768	325128	
+71.493492	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	196608	32768	325128	
+71.494322	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	229376	32768	325128	
+71.494959	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	262144	32768	325128	
+71.495510	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	294912	30216	325128	
+71.495951	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.XdZAyz	/app/vmdl1527403271.tmp/lib/arm/libreactnativejni.so	
+71.496217	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Unt5A2	
+71.497052	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Unt5A2	0	5324	5324	
+71.497356	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Unt5A2	/app/vmdl1527403271.tmp/lib/arm/libthird-party_yajl_yajlAndroid.so	
+71.497587	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	
+71.498788	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	0	32768	416300	
+71.499668	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	32768	32768	416300	
+71.500513	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	65536	32768	416300	
+71.501371	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	98304	32768	416300	
+71.502298	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	131072	32768	416300	
+71.503203	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	163840	32768	416300	
+71.504029	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	196608	32768	416300	
+71.504711	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	229376	32768	416300	
+71.505426	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	262144	32768	416300	
+71.506045	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	294912	32768	416300	
+71.506549	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	327680	32768	416300	
+71.506888	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	360448	32768	416300	
+71.507208	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	393216	23084	416300	
+71.507614	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.tLsfMH	/app/vmdl1527403271.tmp/lib/arm/libfb_ffmpeg.so	
+71.507880	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.TwnBTR	
+71.509168	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TwnBTR	0	32768	50700	
+71.509639	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TwnBTR	32768	17932	50700	
+71.509997	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.TwnBTR	/app/vmdl1527403271.tmp/lib/arm/libyogacore.so	
+71.510238	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.sFZiDx	
+71.511449	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.sFZiDx	0	26112	26112	
+71.511887	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.sFZiDx	/app/vmdl1527403271.tmp/lib/arm/libxplat_react_module_i18nassetsmodule.so	
+71.512119	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.NQ1MQJ	
+71.513413	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NQ1MQJ	0	32768	91600	
+71.514230	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NQ1MQJ	32768	32768	91600	
+71.514775	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.NQ1MQJ	65536	26064	91600	
+71.515176	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.NQ1MQJ	/app/vmdl1527403271.tmp/lib/arm/libandroid-live-streaming.so	
+71.515453	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	
+71.516628	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	0	32768	3921924	
+71.517124	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	32768	32768	3921924	
+71.517580	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	65536	32768	3921924	
+71.518008	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	98304	32768	3921924	
+71.518625	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	131072	32768	3921924	
+71.519444	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	163840	32768	3921924	
+71.520249	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	196608	32768	3921924	
+71.521095	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	229376	32768	3921924	
+71.522015	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	262144	32768	3921924	
+71.523265	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	294912	32768	3921924	
+71.524157	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	327680	32768	3921924	
+71.525018	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	360448	32768	3921924	
+71.525856	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	393216	32768	3921924	
+71.526696	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	425984	32768	3921924	
+71.527242	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	458752	32768	3921924	
+71.528043	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	491520	32768	3921924	
+71.528896	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	524288	32768	3921924	
+71.529767	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	557056	32768	3921924	
+71.530561	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	589824	32768	3921924	
+71.531365	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	622592	32768	3921924	
+71.532196	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	655360	32768	3921924	
+71.532974	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	688128	32768	3921924	
+71.533823	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	720896	32768	3921924	
+71.534677	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	753664	32768	3921924	
+71.537446	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	786432	32768	3921924	
+71.538665	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	819200	32768	3921924	
+71.541871	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	851968	32768	3921924	
+71.542689	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	884736	32768	3921924	
+71.543518	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	917504	32768	3921924	
+71.544276	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	950272	32768	3921924	
+71.545087	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	983040	32768	3921924	
+71.545705	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1015808	32768	3921924	
+71.546325	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1048576	32768	3921924	
+71.547117	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1081344	32768	3921924	
+71.547843	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1114112	32768	3921924	
+71.548592	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1146880	32768	3921924	
+71.549425	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1179648	32768	3921924	
+71.550210	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1212416	32768	3921924	
+71.551052	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1245184	32768	3921924	
+71.552283	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1277952	32768	3921924	
+71.553141	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1310720	32768	3921924	
+71.553963	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1343488	32768	3921924	
+71.554784	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1376256	32768	3921924	
+71.555590	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1409024	32768	3921924	
+71.556360	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1441792	32768	3921924	
+71.557215	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1474560	32768	3921924	
+71.558033	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1507328	32768	3921924	
+71.558794	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1540096	32768	3921924	
+71.559664	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1572864	32768	3921924	
+71.560476	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1605632	32768	3921924	
+71.561278	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1638400	32768	3921924	
+71.562099	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1671168	32768	3921924	
+71.562972	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1703936	32768	3921924	
+71.563804	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1736704	32768	3921924	
+71.564599	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1769472	32768	3921924	
+71.565428	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1802240	32768	3921924	
+71.566565	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1835008	32768	3921924	
+71.567238	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1867776	32768	3921924	
+71.568050	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1900544	32768	3921924	
+71.568930	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1933312	32768	3921924	
+71.569731	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1966080	32768	3921924	
+71.570548	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	1998848	32768	3921924	
+71.571353	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2031616	32768	3921924	
+71.572220	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2064384	32768	3921924	
+71.573143	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2097152	32768	3921924	
+71.574122	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2129920	32768	3921924	
+71.574976	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2162688	32768	3921924	
+71.576080	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2195456	32768	3921924	
+71.576950	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2228224	32768	3921924	
+71.577798	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2260992	32768	3921924	
+71.578752	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2293760	32768	3921924	
+71.579661	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2326528	32768	3921924	
+71.580516	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2359296	32768	3921924	
+71.581581	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2392064	32768	3921924	
+71.583148	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2424832	32768	3921924	
+71.584001	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2457600	32768	3921924	
+71.584778	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2490368	32768	3921924	
+71.585617	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2523136	32768	3921924	
+71.586419	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2555904	32768	3921924	
+71.587236	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2588672	32768	3921924	
+71.587984	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2621440	32768	3921924	
+71.588761	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2654208	32768	3921924	
+71.589567	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2686976	32768	3921924	
+71.590241	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2719744	32768	3921924	
+71.590878	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2752512	32768	3921924	
+71.591535	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2785280	32768	3921924	
+71.592385	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2818048	32768	3921924	
+71.593090	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2850816	32768	3921924	
+71.593822	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2883584	32768	3921924	
+71.594622	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2916352	32768	3921924	
+71.595297	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2949120	32768	3921924	
+71.596070	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	2981888	32768	3921924	
+71.596767	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3014656	32768	3921924	
+71.597235	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3047424	32768	3921924	
+71.597768	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3080192	32768	3921924	
+71.598184	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3112960	32768	3921924	
+71.598661	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3145728	32768	3921924	
+71.599121	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3178496	32768	3921924	
+71.599642	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3211264	32768	3921924	
+71.600120	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3244032	32768	3921924	
+71.600586	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3276800	32768	3921924	
+71.601094	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3309568	32768	3921924	
+71.601801	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3342336	32768	3921924	
+71.602524	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3375104	32768	3921924	
+71.603145	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3407872	32768	3921924	
+71.603730	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3440640	32768	3921924	
+71.604283	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3473408	32768	3921924	
+71.605009	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3506176	32768	3921924	
+71.605677	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3538944	32768	3921924	
+71.606308	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3571712	32768	3921924	
+71.606724	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3604480	32768	3921924	
+71.607134	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3637248	32768	3921924	
+71.607516	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3670016	32768	3921924	
+71.608033	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3702784	32768	3921924	
+71.608618	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3735552	32768	3921924	
+71.609121	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3768320	32768	3921924	
+71.609700	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3801088	32768	3921924	
+71.610347	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3833856	32768	3921924	
+71.610888	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3866624	32768	3921924	
+71.611440	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	3899392	22532	3921924	
+71.611885	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.E3BPR2	/app/vmdl1527403271.tmp/lib/arm/libjingle_peerconnection_so.so	
+71.612188	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.b9V6zx	
+71.613272	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.b9V6zx	0	17860	17860	
+71.613632	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.b9V6zx	/app/vmdl1527403271.tmp/lib/arm/libbreakpad_cpp_helper.so	
+71.613865	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.3JXdWU	
+71.614689	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.3JXdWU	0	5324	5324	
+71.614987	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.3JXdWU	/app/vmdl1527403271.tmp/lib/arm/libFBBaseLite_FBBaseLiteAndroid.so	
+71.615222	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.SOYn5p	
+71.616108	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.SOYn5p	0	9668	9668	
+71.616419	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.SOYn5p	/app/vmdl1527403271.tmp/lib/arm/libfbrtmp.so	
+71.616671	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.zuIrkw	
+71.617614	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.zuIrkw	0	13660	13660	
+71.617943	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.zuIrkw	/app/vmdl1527403271.tmp/lib/arm/libglcommon.so	
+71.618172	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.mJjkPR	
+71.619175	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.mJjkPR	0	17860	17860	
+71.619525	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.mJjkPR	/app/vmdl1527403271.tmp/lib/arm/libpackagerconnectionjnifb.so	
+71.619772	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Y2k4Dr	
+71.620722	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Y2k4Dr	0	13620	13620	
+71.621051	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Y2k4Dr	/app/vmdl1527403271.tmp/lib/arm/libigbitmap_runtime_for_v21.so	
+71.621312	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.U7A7Xy	
+71.622601	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.U7A7Xy	0	21956	21956	
+71.623097	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.U7A7Xy	/app/vmdl1527403271.tmp/lib/arm/libandroid-reachability-announcer.so	
+71.623451	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	
+71.624806	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	0	32768	181772	
+71.625385	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	32768	32768	181772	
+71.626130	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	65536	32768	181772	
+71.626855	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	98304	32768	181772	
+71.627541	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	131072	32768	181772	
+71.627818	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	163840	17932	181772	
+71.628160	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.bVgr6s	/app/vmdl1527403271.tmp/lib/arm/libnative_mediapipeline_AREngineServices_Interfaces_Interfaces.so	
+71.628385	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.qaawys	
+71.629533	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.qaawys	0	24976	24976	
+71.629908	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.qaawys	/app/vmdl1527403271.tmp/lib/arm/libbsdiff.so	
+71.630142	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uro5xw	
+71.631155	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uro5xw	0	17816	17816	
+71.631496	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.Uro5xw	/app/vmdl1527403271.tmp/lib/arm/libcj_moz.so	
+71.631783	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.IKshDq	
+71.633472	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.IKshDq	0	13720	13720	
+71.633824	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.IKshDq	/app/vmdl1527403271.tmp/lib/arm/libquicksand.so	
+71.634072	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	
+71.635381	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	0	32768	218572	
+71.636062	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	32768	32768	218572	
+71.636826	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	65536	32768	218572	
+71.637651	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	98304	32768	218572	
+71.638355	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	131072	32768	218572	
+71.639031	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	163840	32768	218572	
+71.639500	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	196608	21964	218572	
+71.639877	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.gW4OSz	/app/vmdl1527403271.tmp/lib/arm/libaudiofiltercore.so	
+71.640138	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.khth45	
+71.641009	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.khth45	0	5760	5760	
+71.641310	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.khth45	/app/vmdl1527403271.tmp/lib/arm/libsigmux.so	
+71.641549	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	
+71.642838	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	0	32768	874452	
+71.643419	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	32768	32768	874452	
+71.644200	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	65536	32768	874452	
+71.644878	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	98304	32768	874452	
+71.645498	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	131072	32768	874452	
+71.646164	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	163840	32768	874452	
+71.646969	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	196608	32768	874452	
+71.647666	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	229376	32768	874452	
+71.648460	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	262144	32768	874452	
+71.649274	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	294912	32768	874452	
+71.649995	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	327680	32768	874452	
+71.650806	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	360448	32768	874452	
+71.651510	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	393216	32768	874452	
+71.652332	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	425984	32768	874452	
+71.653089	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	458752	32768	874452	
+71.653845	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	491520	32768	874452	
+71.654596	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	524288	32768	874452	
+71.655347	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	557056	32768	874452	
+71.656054	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	589824	32768	874452	
+71.656923	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	622592	32768	874452	
+71.657749	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	655360	32768	874452	
+71.658448	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	688128	32768	874452	
+71.659207	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	720896	32768	874452	
+71.659708	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	753664	32768	874452	
+71.660529	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	786432	32768	874452	
+71.661171	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	819200	32768	874452	
+71.661567	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	851968	22484	874452	
+71.662014	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.TjTusm	/app/vmdl1527403271.tmp/lib/arm/libgraphicsengine-arengineservices-igeffectservicehost-native.so	
+71.662325	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	
+71.663791	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	0	32768	99924	
+71.664547	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	32768	32768	99924	
+71.665245	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	65536	32768	99924	
+71.665409	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	98304	1620	99924	
+71.665694	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.UyEHf8	/app/vmdl1527403271.tmp/lib/arm/libapps_instagram_instagram_jni_regiontracking_regiontracking.so	
+71.665956	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.1BoPKo	
+71.667843	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.1BoPKo	0	32768	87600	
+71.668708	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.1BoPKo	32768	32768	87600	
+71.669159	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.1BoPKo	65536	22064	87600	
+71.669528	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.1BoPKo	/app/vmdl1527403271.tmp/lib/arm/libfbacore.so	
+71.669785	[CR]	/app/vmdl1527403271.tmp/lib/arm/tmp.3iWpOo	
+71.671113	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.3iWpOo	0	32768	38880	
+71.671340	[WO]	/app/vmdl1527403271.tmp/lib/arm/tmp.3iWpOo	32768	6112	38880	
+71.671637	[RN]	/app/vmdl1527403271.tmp/lib/arm/tmp.3iWpOo	/app/vmdl1527403271.tmp/lib/arm/libigjhead.so	
+76.699304	[MD]	/app/vmdl1527403271.tmp/oat	
+76.708583	[MD]	/app/vmdl1527403271.tmp/oat/arm	
+76.709376	[CR]	/app/vmdl1527403271.tmp/oat/arm/base.odex	
+76.713215	[CR]	/dalvik-cache/profiles/com.instagram.android	
+95.395672	[RN]	/app/vmdl1527403271.tmp	/app/com.instagram.android-1	
+95.409611	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+95.409924	[CR]	/system/users/0/package-restrictions.xml	
+95.411213	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+95.411820	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+95.412280	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+95.412793	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+95.413343	[WA]	/system/users/0/package-restrictions.xml	32716	5992	32716	
+95.413465	[FS]	/system/users/0/package-restrictions.xml	0	
+95.421377	[UN]	/system/users/0/package-restrictions-backup.xml	
+95.423318	[MD]	/data/com.instagram.android	
+95.429208	[RN]	/system/packages.xml	/system/packages-backup.xml	
+95.429428	[CR]	/system/packages.xml	
+95.430368	[WA]	/system/packages.xml	0	8168	0	
+95.430942	[WA]	/system/packages.xml	8168	8191	8168	
+95.431472	[WA]	/system/packages.xml	16359	8187	16359	
+95.432122	[WA]	/system/packages.xml	24546	8190	24546	
+95.432670	[WA]	/system/packages.xml	32736	8186	32736	
+95.433197	[WA]	/system/packages.xml	40922	8189	40922	
+95.436595	[WA]	/system/packages.xml	49111	8192	49111	
+95.440607	[WA]	/system/packages.xml	57303	8181	57303	
+95.441400	[WA]	/system/packages.xml	65484	6761	65484	
+95.442021	[WA]	/system/packages.xml	72245	8189	72245	
+95.442830	[WA]	/system/packages.xml	80434	8177	80434	
+95.443567	[WA]	/system/packages.xml	88611	8192	88611	
+95.444431	[WA]	/system/packages.xml	96803	8178	96803	
+95.445129	[WA]	/system/packages.xml	104981	8186	104981	
+95.445897	[WA]	/system/packages.xml	113167	8178	113167	
+95.446683	[WA]	/system/packages.xml	121345	8192	121345	
+95.447416	[WA]	/system/packages.xml	129537	8191	129537	
+95.449101	[WA]	/system/packages.xml	137728	8188	137728	
+95.450039	[WA]	/system/packages.xml	145916	8189	145916	
+95.451329	[WA]	/system/packages.xml	154105	8189	154105	
+95.452543	[WA]	/system/packages.xml	162294	8155	162294	
+95.453577	[WA]	/system/packages.xml	170449	8189	170449	
+95.454380	[WA]	/system/packages.xml	178638	8184	178638	
+95.455185	[WA]	/system/packages.xml	186822	8189	186822	
+95.456032	[WA]	/system/packages.xml	195011	8187	195011	
+95.456977	[WA]	/system/packages.xml	203198	7956	203198	
+95.457748	[WA]	/system/packages.xml	211154	8189	211154	
+95.458611	[WA]	/system/packages.xml	219343	8172	219343	
+95.459514	[WA]	/system/packages.xml	227515	8191	227515	
+95.460316	[WA]	/system/packages.xml	235706	8190	235706	
+95.461202	[WA]	/system/packages.xml	243896	8192	243896	
+95.462119	[WA]	/system/packages.xml	252088	8169	252088	
+95.463080	[WA]	/system/packages.xml	260257	8150	260257	
+95.463765	[WA]	/system/packages.xml	268407	8190	268407	
+95.464579	[WA]	/system/packages.xml	276597	8167	276597	
+95.465380	[WA]	/system/packages.xml	284764	8192	284764	
+95.466286	[WA]	/system/packages.xml	292956	7650	292956	
+95.467039	[WA]	/system/packages.xml	300606	8183	300606	
+95.468128	[WA]	/system/packages.xml	308789	8191	308789	
+95.468986	[WA]	/system/packages.xml	316980	8188	316980	
+95.469645	[WA]	/system/packages.xml	325168	8150	325168	
+95.470472	[WA]	/system/packages.xml	333318	8189	333318	
+95.471244	[WA]	/system/packages.xml	341507	8192	341507	
+95.471949	[WA]	/system/packages.xml	349699	8188	349699	
+95.472806	[WA]	/system/packages.xml	357887	8191	357887	
+95.473772	[WA]	/system/packages.xml	366078	8188	366078	
+95.474608	[WA]	/system/packages.xml	374266	8190	374266	
+95.475471	[WA]	/system/packages.xml	382456	8163	382456	
+95.476329	[WA]	/system/packages.xml	390619	8177	390619	
+95.477132	[WA]	/system/packages.xml	398796	8190	398796	
+95.478023	[WA]	/system/packages.xml	406986	8161	406986	
+95.478958	[WA]	/system/packages.xml	415147	8163	415147	
+95.479804	[WA]	/system/packages.xml	423310	8192	423310	
+95.480776	[WA]	/system/packages.xml	431502	8189	431502	
+95.481613	[WA]	/system/packages.xml	439691	8191	439691	
+95.482549	[WA]	/system/packages.xml	447882	8191	447882	
+95.483476	[WA]	/system/packages.xml	456073	8192	456073	
+95.484361	[WA]	/system/packages.xml	464265	8191	464265	
+95.485187	[WA]	/system/packages.xml	472456	8189	472456	
+95.485977	[WA]	/system/packages.xml	480645	8192	480645	
+95.486840	[WA]	/system/packages.xml	488837	8189	488837	
+95.487519	[WA]	/system/packages.xml	497026	8183	497026	
+95.488298	[WA]	/system/packages.xml	505209	8177	505209	
+95.489049	[WA]	/system/packages.xml	513386	8190	513386	
+95.489807	[WA]	/system/packages.xml	521576	8164	521576	
+95.491534	[WA]	/system/packages.xml	529740	7859	529740	
+95.492513	[WA]	/system/packages.xml	537599	5094	537599	
+95.492618	[FS]	/system/packages.xml	0	
+95.520322	[UN]	/system/packages-backup.xml	
+95.521050	[CR]	/system/packages.list.tmp	
+95.541608	[WA]	/system/packages.list.tmp	0	8182	0	
+95.546763	[WA]	/system/packages.list.tmp	8182	2522	8182	
+95.546875	[FS]	/system/packages.list.tmp	0	
+95.550861	[RN]	/system/packages.list.tmp	/system/packages.list	
+95.552431	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+95.552713	[CR]	/system/users/0/package-restrictions.xml	
+95.553842	[WA]	/system/users/0/package-restrictions.xml	0	8181	0	
+95.554272	[WA]	/system/users/0/package-restrictions.xml	8181	8145	8181	
+95.554644	[WA]	/system/users/0/package-restrictions.xml	16326	8168	16326	
+95.555057	[WA]	/system/users/0/package-restrictions.xml	24494	8187	24494	
+95.555496	[WA]	/system/users/0/package-restrictions.xml	32681	6093	32681	
+95.555604	[FS]	/system/users/0/package-restrictions.xml	0	
+95.565917	[UN]	/system/users/0/package-restrictions-backup.xml	
+95.580560	[RN]	/system/packages.xml	/system/packages-backup.xml	
+95.580763	[CR]	/system/packages.xml	
+95.581937	[WA]	/system/packages.xml	0	8168	0	
+95.582430	[WA]	/system/packages.xml	8168	8191	8168	
+95.582872	[WA]	/system/packages.xml	16359	8187	16359	
+95.583320	[WA]	/system/packages.xml	24546	8190	24546	
+95.583762	[WA]	/system/packages.xml	32736	8186	32736	
+95.584220	[WA]	/system/packages.xml	40922	8189	40922	
+95.584645	[WA]	/system/packages.xml	49111	8192	49111	
+95.585275	[WA]	/system/packages.xml	57303	8181	57303	
+95.585838	[WA]	/system/packages.xml	65484	6761	65484	
+95.586367	[WA]	/system/packages.xml	72245	8189	72245	
+95.587005	[WA]	/system/packages.xml	80434	8177	80434	
+95.587664	[WA]	/system/packages.xml	88611	8192	88611	
+95.588506	[WA]	/system/packages.xml	96803	8178	96803	
+95.589169	[WA]	/system/packages.xml	104981	8186	104981	
+95.589839	[WA]	/system/packages.xml	113167	8178	113167	
+95.590601	[WA]	/system/packages.xml	121345	8192	121345	
+95.591319	[WA]	/system/packages.xml	129537	8191	129537	
+95.592090	[WA]	/system/packages.xml	137728	8188	137728	
+95.592827	[WA]	/system/packages.xml	145916	8189	145916	
+95.593521	[WA]	/system/packages.xml	154105	8189	154105	
+95.594292	[WA]	/system/packages.xml	162294	8190	162294	
+95.594958	[WA]	/system/packages.xml	170484	8188	170484	
+95.595677	[WA]	/system/packages.xml	178672	8191	178672	
+95.596352	[WA]	/system/packages.xml	186863	8190	186863	
+95.597084	[WA]	/system/packages.xml	195053	8192	195053	
+95.597747	[WA]	/system/packages.xml	203245	8191	203245	
+95.598482	[WA]	/system/packages.xml	211436	8172	211436	
+95.599197	[WA]	/system/packages.xml	219608	8177	219608	
+95.599817	[WA]	/system/packages.xml	227785	8169	227785	
+95.600555	[WA]	/system/packages.xml	235954	8180	235954	
+95.601291	[WA]	/system/packages.xml	244134	8175	244134	
+95.601970	[WA]	/system/packages.xml	252309	8191	252309	
+95.602690	[WA]	/system/packages.xml	260500	8132	260500	
+95.603251	[WA]	/system/packages.xml	268632	8191	268632	
+95.603918	[WA]	/system/packages.xml	276823	8182	276823	
+95.604472	[WA]	/system/packages.xml	285005	8160	285005	
+95.605141	[WA]	/system/packages.xml	293165	8162	293165	
+95.605739	[WA]	/system/packages.xml	301327	8187	301327	
+95.606526	[WA]	/system/packages.xml	309514	8186	309514	
+95.607257	[WA]	/system/packages.xml	317700	8190	317700	
+95.607803	[WA]	/system/packages.xml	325890	8159	325890	
+95.608453	[WA]	/system/packages.xml	334049	8154	334049	
+95.609142	[WA]	/system/packages.xml	342203	8191	342203	
+95.609696	[WA]	/system/packages.xml	350394	8191	350394	
+95.610349	[WA]	/system/packages.xml	358585	8191	358585	
+95.611141	[WA]	/system/packages.xml	366776	8192	366776	
+95.611845	[WA]	/system/packages.xml	374968	8191	374968	
+95.612580	[WA]	/system/packages.xml	383159	8191	383159	
+95.613243	[WA]	/system/packages.xml	391350	8191	391350	
+95.613913	[WA]	/system/packages.xml	399541	8171	399541	
+95.614597	[WA]	/system/packages.xml	407712	8162	407712	
+95.615374	[WA]	/system/packages.xml	415874	8183	415874	
+95.616082	[WA]	/system/packages.xml	424057	8146	424057	
+95.616806	[WA]	/system/packages.xml	432203	8184	432203	
+95.617550	[WA]	/system/packages.xml	440387	8184	440387	
+95.618268	[WA]	/system/packages.xml	448571	8174	448571	
+95.619054	[WA]	/system/packages.xml	456745	8190	456745	
+95.619776	[WA]	/system/packages.xml	464935	8184	464935	
+95.620500	[WA]	/system/packages.xml	473119	8192	473119	
+95.621163	[WA]	/system/packages.xml	481311	8191	481311	
+95.623206	[WA]	/system/packages.xml	489502	8192	489502	
+95.623797	[WA]	/system/packages.xml	497694	8191	497694	
+95.624465	[WA]	/system/packages.xml	505885	8190	505885	
+95.625145	[WA]	/system/packages.xml	514075	8163	514075	
+95.625802	[WA]	/system/packages.xml	522238	8177	522238	
+95.627296	[WA]	/system/packages.xml	530415	8192	530415	
+95.628092	[WA]	/system/packages.xml	538607	5129	538607	
+95.628178	[FS]	/system/packages.xml	0	
+95.659813	[UN]	/system/packages-backup.xml	
+95.661243	[CR]	/system/packages.list.tmp	
+95.677063	[WA]	/system/packages.list.tmp	0	8182	0	
+95.681875	[WA]	/system/packages.list.tmp	8182	2522	8182	
+95.681990	[FS]	/system/packages.list.tmp	0	
+95.687295	[RN]	/system/packages.list.tmp	/system/packages.list	
+95.689732	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+95.689958	[CR]	/system/users/0/package-restrictions.xml	
+95.691241	[WA]	/system/users/0/package-restrictions.xml	0	8181	0	
+95.691782	[WA]	/system/users/0/package-restrictions.xml	8181	8145	8181	
+95.692234	[WA]	/system/users/0/package-restrictions.xml	16326	8168	16326	
+95.692729	[WA]	/system/users/0/package-restrictions.xml	24494	8187	24494	
+95.693233	[WA]	/system/users/0/package-restrictions.xml	32681	6093	32681	
+95.693352	[FS]	/system/users/0/package-restrictions.xml	0	
+95.708086	[UN]	/system/users/0/package-restrictions-backup.xml	
+95.943353	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+95.943835	[CR]	/system/users/0/runtime-permissions.xml	
+95.946918	[RN]	/system/install_sessions.xml	/system/install_sessions.xml.bak	
+95.947134	[CR]	/system/install_sessions.xml	
+95.947420	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+95.947776	[WA]	/system/install_sessions.xml	0	70	0	
+95.947880	[FS]	/system/install_sessions.xml	0	
+95.950518	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+95.954147	[FS]	/system/users/0/runtime-permissions.xml	0	
+95.955372	[UN]	/system/install_sessions.xml.bak	
+95.985968	[UN]	/system/users/0/runtime-permissions.xml.bak	
+96.149849	[FS]	/backup/pending/journal897830409.tmp	0	
+96.150256	[WA]	/backup/pending/journal897830409.tmp	1179	6	1179	
+96.150361	[FS]	/backup/pending/journal897830409.tmp	0	
+96.257884	[WO]	/system/notification_log.db-journal	0	512	49760	
+96.257942	[WO]	/system/notification_log.db-journal	512	4	49760	
+96.257963	[WO]	/system/notification_log.db-journal	516	4096	49760	
+96.257996	[WO]	/system/notification_log.db-journal	4612	4	49760	
+96.258031	[WO]	/system/notification_log.db-journal	4616	4	49760	
+96.258052	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+96.258084	[WO]	/system/notification_log.db-journal	8716	4	49760	
+96.258208	[WO]	/system/notification_log.db-journal	8720	4	49760	
+96.258232	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+96.258269	[WO]	/system/notification_log.db-journal	12820	4	49760	
+96.258300	[FS]	/system/notification_log.db-journal	1	
+96.265115	[FS]	/system	1	
+96.269704	[WO]	/system/notification_log.db-journal	0	12	49760	
+96.269760	[FS]	/system/notification_log.db-journal	1	
+96.272367	[WO]	/system/notification_log.db	0	4096	57344	
+96.276870	[WO]	/system/notification_log.db	16384	4096	57344	
+96.276912	[WO]	/system/notification_log.db	53248	4096	57344	
+96.276944	[FS]	/system/notification_log.db	1	
+96.283035	[WO]	/system/notification_log.db-journal	0	28	49760	
+96.283090	[FS]	/system/notification_log.db-journal	1	
+96.294300	[WO]	/system/notification_log.db-journal	0	512	49760	
+96.294352	[WO]	/system/notification_log.db-journal	512	4	49760	
+96.294373	[WO]	/system/notification_log.db-journal	516	4096	49760	
+96.294407	[WO]	/system/notification_log.db-journal	4612	4	49760	
+96.294442	[WO]	/system/notification_log.db-journal	4616	4	49760	
+96.294463	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+96.294494	[WO]	/system/notification_log.db-journal	8716	4	49760	
+96.294546	[WO]	/system/notification_log.db-journal	8720	4	49760	
+96.294565	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+96.294598	[WO]	/system/notification_log.db-journal	12820	4	49760	
+96.294629	[FS]	/system/notification_log.db-journal	1	
+96.299765	[FS]	/system	1	
+96.308908	[WO]	/system/notification_log.db-journal	0	12	49760	
+96.308956	[FS]	/system/notification_log.db-journal	1	
+96.310748	[WO]	/system/notification_log.db	0	4096	57344	
+96.310794	[WO]	/system/notification_log.db	16384	4096	57344	
+96.310821	[WO]	/system/notification_log.db	53248	4096	57344	
+96.310851	[FS]	/system/notification_log.db	1	
+96.314632	[WO]	/system/notification_log.db-journal	0	28	49760	
+96.315916	[FS]	/system/notification_log.db-journal	1	
+98.971248	[WO]	/system/notification_log.db-journal	0	512	49760	
+98.971305	[WO]	/system/notification_log.db-journal	512	4	49760	
+98.971326	[WO]	/system/notification_log.db-journal	516	4096	49760	
+98.971360	[WO]	/system/notification_log.db-journal	4612	4	49760	
+98.971393	[WO]	/system/notification_log.db-journal	4616	4	49760	
+98.971413	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+98.971444	[WO]	/system/notification_log.db-journal	8716	4	49760	
+98.971494	[WO]	/system/notification_log.db-journal	8720	4	49760	
+98.971516	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+98.971547	[WO]	/system/notification_log.db-journal	12820	4	49760	
+98.971578	[FS]	/system/notification_log.db-journal	1	
+98.979595	[FS]	/system	1	
+98.985586	[WO]	/system/notification_log.db-journal	0	12	49760	
+98.985640	[FS]	/system/notification_log.db-journal	1	
+98.986828	[WO]	/system/notification_log.db	0	4096	57344	
+98.986870	[WO]	/system/notification_log.db	16384	4096	57344	
+98.986898	[WO]	/system/notification_log.db	53248	4096	57344	
+98.986929	[FS]	/system/notification_log.db	1	
+98.989393	[WO]	/system/notification_log.db-journal	0	28	49760	
+98.989418	[FS]	/system/notification_log.db-journal	1	
+102.148528	[CR]	/system/recent_tasks/5_task.xml	
+102.148661	[WA]	/system/packages.xml	0	957	0	
+102.148753	[WA]	/system/packages.xml	957	1	957	
+102.148807	[FS]	/system/recent_tasks/5_task.xml	0	
+102.697370	[CR]	/system/recent_images/4_task_thumbnail.png	
+102.698163	[WA]	/system/recent_images/4_task_thumbnail.png	0	8	0	
+102.698374	[WA]	/system/recent_images/4_task_thumbnail.png	8	8	8	
+102.698509	[WA]	/system/recent_images/4_task_thumbnail.png	16	13	16	
+102.698639	[WA]	/system/recent_images/4_task_thumbnail.png	29	4	29	
+102.698764	[WA]	/system/recent_images/4_task_thumbnail.png	33	8	33	
+102.698891	[WA]	/system/recent_images/4_task_thumbnail.png	41	4	41	
+102.699016	[WA]	/system/recent_images/4_task_thumbnail.png	45	4	45	
+102.790426	[WA]	/system/recent_images/4_task_thumbnail.png	49	8	49	
+102.790532	[WA]	/system/recent_images/4_task_thumbnail.png	57	4096	57	
+102.790619	[WA]	/system/recent_images/4_task_thumbnail.png	4153	4096	4153	
+102.790728	[WA]	/system/recent_images/4_task_thumbnail.png	8249	4	8249	
+102.790902	[WA]	/system/recent_images/4_task_thumbnail.png	8253	8	8253	
+102.790952	[WA]	/system/recent_images/4_task_thumbnail.png	8261	4096	8261	
+102.791025	[WA]	/system/recent_images/4_task_thumbnail.png	12357	4096	12357	
+102.791127	[WA]	/system/recent_images/4_task_thumbnail.png	16453	4	16453	
+102.821621	[WA]	/system/recent_images/4_task_thumbnail.png	16457	8	16457	
+102.821685	[WA]	/system/recent_images/4_task_thumbnail.png	16465	4096	16465	
+102.822194	[WA]	/system/recent_images/4_task_thumbnail.png	20561	4096	20561	
+102.822306	[WA]	/system/recent_images/4_task_thumbnail.png	24657	4	24657	
+102.882708	[WA]	/system/recent_images/4_task_thumbnail.png	24661	8	24661	
+102.882789	[WA]	/system/recent_images/4_task_thumbnail.png	24669	4096	24669	
+102.882877	[WA]	/system/recent_images/4_task_thumbnail.png	28765	4096	28765	
+102.882984	[WA]	/system/recent_images/4_task_thumbnail.png	32861	4	32861	
+102.883179	[WA]	/system/recent_images/4_task_thumbnail.png	32865	8	32865	
+102.883229	[WA]	/system/recent_images/4_task_thumbnail.png	32873	4096	32873	
+102.883304	[WA]	/system/recent_images/4_task_thumbnail.png	36969	4096	36969	
+102.883407	[WA]	/system/recent_images/4_task_thumbnail.png	41065	4	41065	
+102.883458	[WA]	/system/recent_images/4_task_thumbnail.png	41069	8	41069	
+102.883509	[WA]	/system/recent_images/4_task_thumbnail.png	41077	4096	41077	
+102.883582	[WA]	/system/recent_images/4_task_thumbnail.png	45173	4096	45173	
+102.883690	[WA]	/system/recent_images/4_task_thumbnail.png	49269	4	49269	
+102.910897	[WA]	/system/recent_images/4_task_thumbnail.png	49273	8	49273	
+102.910962	[WA]	/system/recent_images/4_task_thumbnail.png	49281	4096	49281	
+102.911038	[WA]	/system/recent_images/4_task_thumbnail.png	53377	4096	53377	
+102.911140	[WA]	/system/recent_images/4_task_thumbnail.png	57473	4	57473	
+102.911335	[WA]	/system/recent_images/4_task_thumbnail.png	57477	8	57477	
+102.911384	[WA]	/system/recent_images/4_task_thumbnail.png	57485	4096	57485	
+102.911457	[WA]	/system/recent_images/4_task_thumbnail.png	61581	4096	61581	
+102.911559	[WA]	/system/recent_images/4_task_thumbnail.png	65677	4	65677	
+102.940671	[WA]	/system/recent_images/4_task_thumbnail.png	65681	8	65681	
+102.940755	[WA]	/system/recent_images/4_task_thumbnail.png	65689	4096	65689	
+102.940842	[WA]	/system/recent_images/4_task_thumbnail.png	69785	4096	69785	
+102.940949	[WA]	/system/recent_images/4_task_thumbnail.png	73881	4	73881	
+102.941000	[WA]	/system/recent_images/4_task_thumbnail.png	73885	8	73885	
+102.941049	[WA]	/system/recent_images/4_task_thumbnail.png	73893	4029	73893	
+102.941138	[WA]	/system/recent_images/4_task_thumbnail.png	77922	4	77922	
+102.941188	[WA]	/system/recent_images/4_task_thumbnail.png	77926	8	77926	
+102.941236	[WA]	/system/recent_images/4_task_thumbnail.png	77934	4	77934	
+103.475138	[RN]	/system/recent_tasks/4_task.xml	/system/recent_tasks/4_task.xml.bak	
+103.475902	[CR]	/system/recent_tasks/4_task.xml	
+103.476298	[WA]	/system/recent_tasks/4_task.xml	0	878	0	
+103.476583	[WA]	/system/recent_tasks/4_task.xml	878	1	878	
+103.476762	[FS]	/system/recent_tasks/4_task.xml	0	
+103.489096	[UN]	/system/recent_tasks/4_task.xml.bak	
+104.029465	[RN]	/system/recent_tasks/5_task.xml	/system/recent_tasks/5_task.xml.bak	
+104.030100	[CR]	/system/recent_tasks/5_task.xml	
+104.030507	[WA]	/system/recent_tasks/5_task.xml	0	957	0	
+104.030792	[WA]	/system/recent_tasks/5_task.xml	957	1	957	
+104.030968	[FS]	/system/recent_tasks/5_task.xml	0	
+104.043854	[UN]	/system/recent_tasks/5_task.xml.bak	
+105.731792	[RN]	/system/packages.xml	/system/packages-backup.xml	
+105.732001	[CR]	/system/packages.xml	
+105.733108	[WA]	/system/packages.xml	0	8168	0	
+105.733594	[WA]	/system/packages.xml	8168	8191	8168	
+105.734036	[WA]	/system/packages.xml	16359	8187	16359	
+105.734488	[WA]	/system/packages.xml	24546	8190	24546	
+105.734931	[WA]	/system/packages.xml	32736	8186	32736	
+105.735371	[WA]	/system/packages.xml	40922	8189	40922	
+105.735795	[WA]	/system/packages.xml	49111	8192	49111	
+105.736585	[WA]	/system/packages.xml	57303	8181	57303	
+105.737279	[WA]	/system/packages.xml	65484	6761	65484	
+105.737861	[WA]	/system/packages.xml	72245	8189	72245	
+105.738623	[WA]	/system/packages.xml	80434	8177	80434	
+105.739311	[WA]	/system/packages.xml	88611	8192	88611	
+105.740783	[WA]	/system/packages.xml	96803	8178	96803	
+105.741462	[WA]	/system/packages.xml	104981	8186	104981	
+105.742259	[WA]	/system/packages.xml	113167	8178	113167	
+105.743018	[WA]	/system/packages.xml	121345	8192	121345	
+105.743728	[WA]	/system/packages.xml	129537	8191	129537	
+105.744529	[WA]	/system/packages.xml	137728	8188	137728	
+105.745982	[WA]	/system/packages.xml	145916	8189	145916	
+105.746679	[WA]	/system/packages.xml	154105	8189	154105	
+105.747512	[WA]	/system/packages.xml	162294	8158	162294	
+105.748226	[WA]	/system/packages.xml	170452	8176	170452	
+105.748978	[WA]	/system/packages.xml	178628	8177	178628	
+105.749638	[WA]	/system/packages.xml	186805	8189	186805	
+105.750350	[WA]	/system/packages.xml	194994	8189	194994	
+105.750992	[WA]	/system/packages.xml	203183	8187	203183	
+105.751777	[WA]	/system/packages.xml	211370	8189	211370	
+105.752510	[WA]	/system/packages.xml	219559	8192	219559	
+105.753234	[WA]	/system/packages.xml	227751	8179	227751	
+105.753975	[WA]	/system/packages.xml	235930	8169	235930	
+105.754705	[WA]	/system/packages.xml	244099	8162	244099	
+105.755432	[WA]	/system/packages.xml	252261	8181	252261	
+105.756207	[WA]	/system/packages.xml	260442	8191	260442	
+105.756894	[WA]	/system/packages.xml	268633	8182	268633	
+105.757561	[WA]	/system/packages.xml	276815	8189	276815	
+105.758117	[WA]	/system/packages.xml	285004	8192	285004	
+105.758738	[WA]	/system/packages.xml	293196	8191	293196	
+105.759452	[WA]	/system/packages.xml	301387	8185	301387	
+105.760247	[WA]	/system/packages.xml	309572	8176	309572	
+105.760965	[WA]	/system/packages.xml	317748	8191	317748	
+105.761525	[WA]	/system/packages.xml	325939	8187	325939	
+105.762279	[WA]	/system/packages.xml	334126	8190	334126	
+105.762948	[WA]	/system/packages.xml	342316	8189	342316	
+105.763482	[WA]	/system/packages.xml	350505	8192	350505	
+105.764122	[WA]	/system/packages.xml	358697	8187	358697	
+105.764890	[WA]	/system/packages.xml	366884	8192	366884	
+105.765599	[WA]	/system/packages.xml	375076	8190	375076	
+105.766278	[WA]	/system/packages.xml	383266	8185	383266	
+105.767017	[WA]	/system/packages.xml	391451	8172	391451	
+105.767665	[WA]	/system/packages.xml	399623	8192	399623	
+105.768417	[WA]	/system/packages.xml	407815	8190	407815	
+105.769208	[WA]	/system/packages.xml	416005	8184	416005	
+105.769913	[WA]	/system/packages.xml	424189	8159	424189	
+105.770638	[WA]	/system/packages.xml	432348	8177	432348	
+105.771367	[WA]	/system/packages.xml	440525	8190	440525	
+105.776901	[WA]	/system/packages.xml	448715	8175	448715	
+105.777869	[WA]	/system/packages.xml	456890	8183	456890	
+105.778628	[WA]	/system/packages.xml	465073	8187	465073	
+105.779366	[WA]	/system/packages.xml	473260	8191	473260	
+105.780036	[WA]	/system/packages.xml	481451	8192	481451	
+105.780759	[WA]	/system/packages.xml	489643	8185	489643	
+105.781297	[WA]	/system/packages.xml	497828	8181	497828	
+105.782471	[WA]	/system/packages.xml	506009	8190	506009	
+105.783145	[WA]	/system/packages.xml	514199	8181	514199	
+105.783782	[WA]	/system/packages.xml	522380	8177	522380	
+105.785164	[WA]	/system/packages.xml	530557	7877	530557	
+105.786018	[WA]	/system/packages.xml	538434	5538	538434	
+105.786103	[FS]	/system/packages.xml	0	
+105.817970	[UN]	/system/packages-backup.xml	
+105.819165	[CR]	/system/packages.list.tmp	
+105.832849	[WA]	/system/packages.list.tmp	0	8182	0	
+105.836923	[WA]	/system/packages.list.tmp	8182	2522	8182	
+105.837012	[FS]	/system/packages.list.tmp	0	
+105.843596	[RN]	/system/packages.list.tmp	/system/packages.list	
+105.845623	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+105.845919	[CR]	/system/users/0/package-restrictions.xml	
+105.847031	[WA]	/system/users/0/package-restrictions.xml	0	8180	0	
+105.847468	[WA]	/system/users/0/package-restrictions.xml	8180	8184	8180	
+105.847837	[WA]	/system/users/0/package-restrictions.xml	16364	8173	16364	
+105.848236	[WA]	/system/users/0/package-restrictions.xml	24537	8192	24537	
+105.848686	[WA]	/system/users/0/package-restrictions.xml	32729	6460	32729	
+105.848788	[FS]	/system/users/0/package-restrictions.xml	0	
+105.865122	[UN]	/system/users/0/package-restrictions-backup.xml	
+106.134708	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+106.164500	[CR]	/system/users/0/runtime-permissions.xml	
+106.167731	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+106.169963	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+106.170057	[FS]	/system/users/0/runtime-permissions.xml	0	
+106.213189	[UN]	/system/users/0/runtime-permissions.xml.bak	

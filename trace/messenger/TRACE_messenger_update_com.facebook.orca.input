@@ -1,0 +1,112 @@
+1.413080	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	4095	1	0	
+1.413133	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	8191	1	4096	
+1.413172	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	12287	1	8192	
+1.413211	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	16383	1	12288	
+1.413246	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	20479	1	16384	
+1.413281	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	24575	1	20480	
+1.413315	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	28671	1	24576	
+1.413349	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	32767	1	28672	
+1.416097	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	4095	1	0	
+1.416139	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	8191	1	4096	
+1.416176	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	12287	1	8192	
+1.416214	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	16383	1	12288	
+1.416249	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	20479	1	16384	
+1.416284	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	24575	1	20480	
+1.416319	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	28671	1	24576	
+1.416357	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	32767	1	28672	
+2.618772	[CR]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	
+2.619168	[WA]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	0	394	0	
+2.619374	[RN]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events	
+2.620201	[WA]	unknown_123141	3305	337	3305	
+2.620920	[WA]	unknown_123141	3642	598	3642	
+2.886164	[UN]	/data/com.facebook.orca/app_fbacore/fba_regular_0_fddbd4b9-eb84-b71a-7bf1-7535aad3b0d0.json	
+6.767958	[WO]	/data/com.facebook.orca/app_fbacore/beacon.regular	0	48	48	
+6.958963	[CR]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	
+6.959846	[WA]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	0	386	0	
+6.960067	[RN]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all	
+6.962393	[CR]	/data/com.facebook.orca/app_fbacore/fba_regular_0_33593ab2-3864-1e21-8bcb-c84208cb0811.json	
+6.962424	[WA]	/data/com.facebook.orca/app_fbacore/fba_regular_0_33593ab2-3864-1e21-8bcb-c84208cb0811.json	0	718	0	
+6.977649	[CR]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143647540.json	
+6.978246	[WA]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143647540.json	0	889	0	
+7.282403	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	0	512	16928	
+7.282463	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	512	4	16928	
+7.282484	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	516	4096	16928	
+7.282520	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4612	4	16928	
+7.282546	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4616	4	16928	
+7.282566	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4620	4096	16928	
+7.282601	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8716	4	16928	
+7.282624	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8720	4	16928	
+7.282644	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8724	4096	16928	
+7.282677	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12820	4	16928	
+7.282774	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12824	4	16928	
+7.282795	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12828	4096	16928	
+7.282827	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	16924	4	16928	
+7.282983	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	16928	4	16928	
+7.283017	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	16932	4096	16932	
+7.283087	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	21028	4	21028	
+7.283117	[WO]	/data/com.facebook.orca/databases/prefs_db	0	4096	36864	
+7.283151	[WO]	/data/com.facebook.orca/databases/prefs_db	20480	4096	36864	
+7.283176	[WO]	/data/com.facebook.orca/databases/prefs_db	24576	4096	36864	
+7.283201	[WO]	/data/com.facebook.orca/databases/prefs_db	28672	4096	36864	
+7.283225	[WO]	/data/com.facebook.orca/databases/prefs_db	32768	4096	36864	
+7.283256	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	0	28	21032	
+141.907803	[WA]	/data/com.facebook.orca/files/fbdns.store	0	194	0	
+141.907873	[FS]	/data/com.facebook.orca/files/fbdns.store	1	
+141.909618	[WA]	/data/com.facebook.orca/files/fbtlsx.store	0	9733	0	
+141.909771	[FS]	/data/com.facebook.orca/files/fbtlsx.store	1	
+1.413080	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	4095	1	0	
+1.413133	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	8191	1	4096	
+1.413172	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	12287	1	8192	
+1.413211	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	16383	1	12288	
+1.413246	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	20479	1	16384	
+1.413281	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	24575	1	20480	
+1.413315	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	28671	1	24576	
+1.413349	[WO]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	32767	1	28672	
+1.416097	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	4095	1	0	
+1.416139	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	8191	1	4096	
+1.416176	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	12287	1	8192	
+1.416214	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	16383	1	12288	
+1.416249	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	20479	1	16384	
+1.416284	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	24575	1	20480	
+1.416319	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	28671	1	24576	
+1.416357	[WO]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	32767	1	28672	
+2.618772	[CR]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	
+2.619168	[WA]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	0	394	0	
+2.619374	[RN]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events.1702058523.tmp	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events	
+2.620201	[WA]	unknown_123141	3305	337	3305	
+2.620920	[WA]	unknown_123141	3642	598	3642	
+2.886164	[UN]	/data/com.facebook.orca/app_fbacore/fba_regular_0_fddbd4b9-eb84-b71a-7bf1-7535aad3b0d0.json	
+6.767958	[WO]	/data/com.facebook.orca/app_fbacore/beacon.regular	0	48	48	
+6.958963	[CR]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	
+6.959846	[WA]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	0	386	0	
+6.960067	[RN]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all.1466584008.tmp	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all	
+6.962393	[CR]	/data/com.facebook.orca/app_fbacore/fba_regular_0_33593ab2-3864-1e21-8bcb-c84208cb0811.json	
+6.962424	[WA]	/data/com.facebook.orca/app_fbacore/fba_regular_0_33593ab2-3864-1e21-8bcb-c84208cb0811.json	0	718	0	
+6.977649	[CR]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143647540.json	
+6.978246	[WA]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143647540.json	0	889	0	
+7.282403	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	0	512	16928	
+7.282463	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	512	4	16928	
+7.282484	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	516	4096	16928	
+7.282520	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4612	4	16928	
+7.282546	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4616	4	16928	
+7.282566	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	4620	4096	16928	
+7.282601	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8716	4	16928	
+7.282624	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8720	4	16928	
+7.282644	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	8724	4096	16928	
+7.282677	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12820	4	16928	
+7.282774	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12824	4	16928	
+7.282795	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	12828	4096	16928	
+7.282827	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	16924	4	16928	
+7.282983	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	16928	4	16928	
+7.283017	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	16932	4096	16932	
+7.283087	[WA]	/data/com.facebook.orca/databases/prefs_db-journal	21028	4	21028	
+7.283117	[WO]	/data/com.facebook.orca/databases/prefs_db	0	4096	36864	
+7.283151	[WO]	/data/com.facebook.orca/databases/prefs_db	20480	4096	36864	
+7.283176	[WO]	/data/com.facebook.orca/databases/prefs_db	24576	4096	36864	
+7.283201	[WO]	/data/com.facebook.orca/databases/prefs_db	28672	4096	36864	
+7.283225	[WO]	/data/com.facebook.orca/databases/prefs_db	32768	4096	36864	
+7.283256	[WO]	/data/com.facebook.orca/databases/prefs_db-journal	0	28	21032	
+141.907803	[WA]	/data/com.facebook.orca/files/fbdns.store	0	194	0	
+141.907873	[FS]	/data/com.facebook.orca/files/fbdns.store	1	
+141.909618	[WA]	/data/com.facebook.orca/files/fbtlsx.store	0	9733	0	
+141.909771	[FS]	/data/com.facebook.orca/files/fbtlsx.store	1	

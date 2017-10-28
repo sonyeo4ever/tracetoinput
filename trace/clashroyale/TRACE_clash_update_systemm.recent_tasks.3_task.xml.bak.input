@@ -1,0 +1,500 @@
+85.239920	[CR]	/misc/bluedroid/bt_config.conf.new	
+85.239964	[WA]	/misc/bluedroid/bt_config.conf.new	0	755	0	
+85.240039	[RN]	/misc/bluedroid/bt_config.conf.new	/misc/bluedroid/bt_config.conf	
+86.670612	[MD]	/app/vmdl1947399917.tmp	
+86.674049	[CR]	/app/vmdl1947399917.tmp/base.apk	
+88.214114	[MD]	/app/vmdl1947399917.tmp/lib	
+88.214561	[MD]	/app/vmdl1947399917.tmp/lib/arm	
+88.214749	[CR]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	
+88.215617	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	0	32768	5782692	
+88.215978	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	32768	32768	5782692	
+88.216320	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	65536	32768	5782692	
+88.216565	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	98304	32768	5782692	
+88.216779	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	131072	32768	5782692	
+88.216974	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	163840	32768	5782692	
+88.217155	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	196608	32768	5782692	
+88.217413	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	229376	32768	5782692	
+88.217722	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	262144	32768	5782692	
+88.217976	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	294912	32768	5782692	
+88.218205	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	327680	32768	5782692	
+88.218463	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	360448	32768	5782692	
+88.218695	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	393216	32768	5782692	
+88.218956	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	425984	32768	5782692	
+88.219271	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	458752	32768	5782692	
+88.219653	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	491520	32768	5782692	
+88.220001	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	524288	32768	5782692	
+88.220364	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	557056	32768	5782692	
+88.220814	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	589824	32768	5782692	
+88.221209	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	622592	32768	5782692	
+88.221658	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	655360	32768	5782692	
+88.222127	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	688128	32768	5782692	
+88.222556	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	720896	32768	5782692	
+88.223010	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	753664	32768	5782692	
+88.223471	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	786432	32768	5782692	
+88.223885	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	819200	32768	5782692	
+88.224336	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	851968	32768	5782692	
+88.224800	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	884736	32768	5782692	
+88.225197	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	917504	32768	5782692	
+88.225652	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	950272	32768	5782692	
+88.226083	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	983040	32768	5782692	
+88.226554	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1015808	32768	5782692	
+88.227011	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1048576	32768	5782692	
+88.227422	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1081344	32768	5782692	
+88.227894	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1114112	32768	5782692	
+88.228363	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1146880	32768	5782692	
+88.228774	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1179648	32768	5782692	
+88.229264	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1212416	32768	5782692	
+88.229731	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1245184	32768	5782692	
+88.230081	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1277952	32768	5782692	
+88.230537	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1310720	32768	5782692	
+88.230961	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1343488	32768	5782692	
+88.231388	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1376256	32768	5782692	
+88.231847	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1409024	32768	5782692	
+88.232278	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1441792	32768	5782692	
+88.232739	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1474560	32768	5782692	
+88.233211	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1507328	32768	5782692	
+88.233621	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1540096	32768	5782692	
+88.234087	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1572864	32768	5782692	
+88.234557	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1605632	32768	5782692	
+88.234962	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1638400	32768	5782692	
+88.235429	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1671168	32768	5782692	
+88.235884	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1703936	32768	5782692	
+88.236356	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1736704	32768	5782692	
+88.236819	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1769472	32768	5782692	
+88.237245	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1802240	32768	5782692	
+88.237672	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1835008	32768	5782692	
+88.238048	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1867776	32768	5782692	
+88.238455	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1900544	32768	5782692	
+88.238833	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1933312	32768	5782692	
+88.239255	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1966080	32768	5782692	
+88.239712	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	1998848	32768	5782692	
+88.240119	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2031616	32768	5782692	
+88.240600	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2064384	32768	5782692	
+88.241003	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2097152	32768	5782692	
+88.241470	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2129920	32768	5782692	
+88.241913	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2162688	32768	5782692	
+88.242320	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2195456	32768	5782692	
+88.242780	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2228224	32768	5782692	
+88.243249	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2260992	32768	5782692	
+88.243668	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2293760	32768	5782692	
+88.244101	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2326528	32768	5782692	
+88.244436	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2359296	32768	5782692	
+88.244898	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2392064	32768	5782692	
+88.245289	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2424832	32768	5782692	
+88.245749	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2457600	32768	5782692	
+88.246099	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2490368	32768	5782692	
+88.246594	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2523136	32768	5782692	
+88.247083	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2555904	32768	5782692	
+88.247561	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2588672	32768	5782692	
+88.247981	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2621440	32768	5782692	
+88.248448	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2654208	32768	5782692	
+88.248924	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2686976	32768	5782692	
+88.249340	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2719744	32768	5782692	
+88.249824	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2752512	32768	5782692	
+88.250281	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2785280	32768	5782692	
+88.250672	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2818048	32768	5782692	
+88.251114	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2850816	32768	5782692	
+88.251480	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2883584	32768	5782692	
+88.251878	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2916352	32768	5782692	
+88.252338	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2949120	32768	5782692	
+88.252703	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	2981888	32768	5782692	
+88.253099	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3014656	32768	5782692	
+88.253516	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3047424	32768	5782692	
+88.253971	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3080192	32768	5782692	
+88.254439	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3112960	32768	5782692	
+88.254824	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3145728	32768	5782692	
+88.255260	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3178496	32768	5782692	
+88.255698	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3211264	32768	5782692	
+88.256090	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3244032	32768	5782692	
+88.256578	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3276800	32768	5782692	
+88.256973	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3309568	32768	5782692	
+88.257432	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3342336	32768	5782692	
+88.257890	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3375104	32768	5782692	
+88.258308	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3407872	32768	5782692	
+88.258779	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3440640	32768	5782692	
+88.259260	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3473408	32768	5782692	
+88.259691	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3506176	32768	5782692	
+88.260158	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3538944	32768	5782692	
+88.260618	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3571712	32768	5782692	
+88.261048	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3604480	32768	5782692	
+88.261518	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3637248	32768	5782692	
+88.261820	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3670016	32768	5782692	
+88.262170	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3702784	32768	5782692	
+88.262527	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3735552	32768	5782692	
+88.262950	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3768320	32768	5782692	
+88.263301	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3801088	32768	5782692	
+88.263737	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3833856	32768	5782692	
+88.264144	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3866624	32768	5782692	
+88.264551	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3899392	32768	5782692	
+88.264969	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3932160	32768	5782692	
+88.265352	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3964928	32768	5782692	
+88.265746	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	3997696	32768	5782692	
+88.266131	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4030464	32768	5782692	
+88.270003	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4063232	32768	5782692	
+88.272691	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4096000	32768	5782692	
+88.273606	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4128768	32768	5782692	
+88.273776	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4161536	32768	5782692	
+88.273951	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4194304	32768	5782692	
+88.275197	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4227072	32768	5782692	
+88.276431	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4259840	32768	5782692	
+88.278678	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4292608	32768	5782692	
+88.279005	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4325376	32768	5782692	
+88.279298	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4358144	32768	5782692	
+88.279462	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4390912	32768	5782692	
+88.279647	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4423680	32768	5782692	
+88.280060	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4456448	32768	5782692	
+88.280423	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4489216	32768	5782692	
+88.280837	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4521984	32768	5782692	
+88.281130	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4554752	32768	5782692	
+88.281479	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4587520	32768	5782692	
+88.281772	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4620288	32768	5782692	
+88.282083	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4653056	32768	5782692	
+88.282461	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4685824	32768	5782692	
+88.282815	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4718592	32768	5782692	
+88.283092	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4751360	32768	5782692	
+88.283338	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4784128	32768	5782692	
+88.283548	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4816896	32768	5782692	
+88.283796	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4849664	32768	5782692	
+88.284168	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4882432	32768	5782692	
+88.284429	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4915200	32768	5782692	
+88.284728	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4947968	32768	5782692	
+88.285081	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	4980736	32768	5782692	
+88.285357	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5013504	32768	5782692	
+88.285585	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5046272	32768	5782692	
+88.285904	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5079040	32768	5782692	
+88.286310	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5111808	32768	5782692	
+88.286542	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5144576	32768	5782692	
+88.286722	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5177344	32768	5782692	
+88.286884	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5210112	32768	5782692	
+88.287102	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5242880	32768	5782692	
+88.287306	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5275648	32768	5782692	
+88.287474	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5308416	32768	5782692	
+88.287638	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5341184	32768	5782692	
+88.287884	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5373952	32768	5782692	
+88.288106	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5406720	32768	5782692	
+88.288297	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5439488	32768	5782692	
+88.288552	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5472256	32768	5782692	
+88.289074	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5505024	32768	5782692	
+88.289596	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5537792	32768	5782692	
+88.290082	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5570560	32768	5782692	
+88.290519	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5603328	32768	5782692	
+88.290731	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5636096	32768	5782692	
+88.290916	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5668864	32768	5782692	
+88.291103	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5701632	32768	5782692	
+88.291287	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5734400	32768	5782692	
+88.291450	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	5767168	15524	5782692	
+88.291669	[RN]	/app/vmdl1947399917.tmp/lib/arm/tmp.cRTwU6	/app/vmdl1947399917.tmp/lib/arm/libg.so	
+88.291896	[CR]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	
+88.292583	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	0	32768	914840	
+88.292827	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	32768	32768	914840	
+88.293107	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	65536	32768	914840	
+88.293579	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	98304	32768	914840	
+88.294048	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	131072	32768	914840	
+88.294457	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	163840	32768	914840	
+88.294929	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	196608	32768	914840	
+88.295406	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	229376	32768	914840	
+88.295832	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	262144	32768	914840	
+88.296330	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	294912	32768	914840	
+88.296808	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	327680	32768	914840	
+88.297220	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	360448	32768	914840	
+88.297692	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	393216	32768	914840	
+88.298171	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	425984	32768	914840	
+88.298570	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	458752	32768	914840	
+88.299046	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	491520	32768	914840	
+88.299436	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	524288	32768	914840	
+88.299744	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	557056	32768	914840	
+88.300218	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	589824	32768	914840	
+88.300662	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	622592	32768	914840	
+88.301140	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	655360	32768	914840	
+88.301488	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	688128	32768	914840	
+88.301873	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	720896	32768	914840	
+88.302159	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	753664	32768	914840	
+88.302495	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	786432	32768	914840	
+88.302750	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	819200	32768	914840	
+88.303040	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	851968	32768	914840	
+88.303436	[WO]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	884736	30104	914840	
+88.303693	[RN]	/app/vmdl1947399917.tmp/lib/arm/tmp.WLkxBT	/app/vmdl1947399917.tmp/lib/arm/libfmod.so	
+90.044342	[MD]	/app/vmdl1947399917.tmp/oat	
+90.044870	[MD]	/app/vmdl1947399917.tmp/oat/arm	
+90.045403	[CR]	/app/vmdl1947399917.tmp/oat/arm/base.odex	
+94.017289	[RN]	/app/vmdl1947399917.tmp	/app/com.supercell.clashroyale-2	
+94.019732	[RN]	/system/packages.xml	/system/packages-backup.xml	
+94.019891	[CR]	/system/packages.xml	
+94.020363	[WA]	/system/packages.xml	0	8149	0	
+94.020634	[WA]	/system/packages.xml	8149	8192	8149	
+94.020895	[WA]	/system/packages.xml	16341	8185	16341	
+94.021144	[WA]	/system/packages.xml	24526	8147	24526	
+94.021392	[WA]	/system/packages.xml	32673	8189	32673	
+94.021642	[WA]	/system/packages.xml	40862	8154	40862	
+94.021880	[WA]	/system/packages.xml	49016	8192	49016	
+94.022288	[WA]	/system/packages.xml	57208	7090	57208	
+94.022616	[WA]	/system/packages.xml	64298	8189	64298	
+94.023006	[WA]	/system/packages.xml	72487	8192	72487	
+94.023407	[WA]	/system/packages.xml	80679	8155	80679	
+94.023809	[WA]	/system/packages.xml	88834	8186	88834	
+94.024267	[WA]	/system/packages.xml	97020	8191	97020	
+94.024651	[WA]	/system/packages.xml	105211	8189	105211	
+94.025055	[WA]	/system/packages.xml	113400	8192	113400	
+94.025486	[WA]	/system/packages.xml	121592	8191	121592	
+94.025896	[WA]	/system/packages.xml	129783	8182	129783	
+94.026360	[WA]	/system/packages.xml	137965	8191	137965	
+94.026756	[WA]	/system/packages.xml	146156	8190	146156	
+94.027153	[WA]	/system/packages.xml	154346	8191	154346	
+94.027611	[WA]	/system/packages.xml	162537	8188	162537	
+94.028018	[WA]	/system/packages.xml	170725	8191	170725	
+94.028428	[WA]	/system/packages.xml	178916	8176	178916	
+94.028790	[WA]	/system/packages.xml	187092	8192	187092	
+94.029190	[WA]	/system/packages.xml	195284	8192	195284	
+94.029553	[WA]	/system/packages.xml	203476	8177	203476	
+94.029992	[WA]	/system/packages.xml	211653	8186	211653	
+94.030393	[WA]	/system/packages.xml	219839	8191	219839	
+94.030815	[WA]	/system/packages.xml	228030	8184	228030	
+94.031204	[WA]	/system/packages.xml	236214	8177	236214	
+94.031601	[WA]	/system/packages.xml	244391	8169	244391	
+94.032025	[WA]	/system/packages.xml	252560	8179	252560	
+94.032492	[WA]	/system/packages.xml	260739	8192	260739	
+94.032807	[WA]	/system/packages.xml	268931	8176	268931	
+94.033194	[WA]	/system/packages.xml	277107	8192	277107	
+94.033504	[WA]	/system/packages.xml	285299	8192	285299	
+94.033863	[WA]	/system/packages.xml	293491	8183	293491	
+94.034300	[WA]	/system/packages.xml	301674	8189	301674	
+94.034756	[WA]	/system/packages.xml	309863	8170	309863	
+94.035175	[WA]	/system/packages.xml	318033	8192	318033	
+94.035543	[WA]	/system/packages.xml	326225	8185	326225	
+94.035860	[WA]	/system/packages.xml	334410	8191	334410	
+94.036438	[WA]	/system/packages.xml	342601	8188	342601	
+94.036770	[WA]	/system/packages.xml	350789	8183	350789	
+94.037131	[WA]	/system/packages.xml	358972	8192	358972	
+94.037506	[WA]	/system/packages.xml	367164	8192	367164	
+94.038005	[WA]	/system/packages.xml	375356	8188	375356	
+94.038395	[WA]	/system/packages.xml	383544	8176	383544	
+94.038828	[WA]	/system/packages.xml	391720	8189	391720	
+94.039218	[WA]	/system/packages.xml	399909	8191	399909	
+94.039597	[WA]	/system/packages.xml	408100	8187	408100	
+94.039993	[WA]	/system/packages.xml	416287	8191	416287	
+94.040474	[WA]	/system/packages.xml	424478	8191	424478	
+94.040910	[WA]	/system/packages.xml	432669	8192	432669	
+94.041281	[WA]	/system/packages.xml	440861	8171	440861	
+94.041686	[WA]	/system/packages.xml	449032	8187	449032	
+94.042099	[WA]	/system/packages.xml	457219	8190	457219	
+94.042536	[WA]	/system/packages.xml	465409	8139	465409	
+94.042955	[WA]	/system/packages.xml	473548	8192	473548	
+94.043300	[WA]	/system/packages.xml	481740	8186	481740	
+94.043724	[WA]	/system/packages.xml	489926	8191	489926	
+94.044104	[WA]	/system/packages.xml	498117	8190	498117	
+94.044410	[WA]	/system/packages.xml	506307	8191	506307	
+94.044796	[WA]	/system/packages.xml	514498	8167	514498	
+94.045189	[WA]	/system/packages.xml	522665	8168	522665	
+94.045630	[WA]	/system/packages.xml	530833	7896	530833	
+94.046582	[WA]	/system/packages.xml	538729	7993	538729	
+94.046755	[WA]	/system/packages.xml	546722	2616	546722	
+94.046810	[FS]	/system/packages.xml	0	
+94.072952	[UN]	/system/packages-backup.xml	
+94.073736	[CR]	/system/packages.list.tmp	
+94.081487	[WA]	/system/packages.list.tmp	0	8173	0	
+94.083923	[WA]	/system/packages.list.tmp	8173	2621	8173	
+94.083978	[FS]	/system/packages.list.tmp	0	
+94.089381	[RN]	/system/packages.list.tmp	/system/packages.list	
+94.090583	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+94.090695	[CR]	/system/users/0/package-restrictions.xml	
+94.091171	[WA]	/system/users/0/package-restrictions.xml	0	8191	0	
+94.091407	[WA]	/system/users/0/package-restrictions.xml	8191	8163	8191	
+94.091614	[WA]	/system/users/0/package-restrictions.xml	16354	8178	16354	
+94.091837	[WA]	/system/users/0/package-restrictions.xml	24532	8172	24532	
+94.092109	[WA]	/system/users/0/package-restrictions.xml	32704	8144	32704	
+94.092227	[WA]	/system/users/0/package-restrictions.xml	40848	1607	40848	
+94.092273	[FS]	/system/users/0/package-restrictions.xml	0	
+94.101793	[UN]	/system/users/0/package-restrictions-backup.xml	
+94.102713	[UN]	/data/com.supercell.clashroyale/lib	
+94.103968	[RN]	/system/packages.xml	/system/packages-backup.xml	
+94.104081	[CR]	/system/packages.xml	
+94.122841	[WA]	/system/packages.xml	0	8149	0	
+94.123136	[WA]	/system/packages.xml	8149	8192	8149	
+94.123398	[WA]	/system/packages.xml	16341	8185	16341	
+94.123640	[WA]	/system/packages.xml	24526	8147	24526	
+94.123876	[WA]	/system/packages.xml	32673	8189	32673	
+94.124118	[WA]	/system/packages.xml	40862	8154	40862	
+94.124354	[WA]	/system/packages.xml	49016	8192	49016	
+94.124698	[WA]	/system/packages.xml	57208	7090	57208	
+94.125057	[WA]	/system/packages.xml	64298	8189	64298	
+94.125387	[WA]	/system/packages.xml	72487	8192	72487	
+94.125719	[WA]	/system/packages.xml	80679	8155	80679	
+94.126118	[WA]	/system/packages.xml	88834	8186	88834	
+94.126632	[WA]	/system/packages.xml	97020	8191	97020	
+94.127005	[WA]	/system/packages.xml	105211	8189	105211	
+94.127384	[WA]	/system/packages.xml	113400	8192	113400	
+94.127799	[WA]	/system/packages.xml	121592	8191	121592	
+94.128177	[WA]	/system/packages.xml	129783	8182	129783	
+94.129606	[WA]	/system/packages.xml	137965	8191	137965	
+94.130028	[WA]	/system/packages.xml	146156	8190	146156	
+94.130407	[WA]	/system/packages.xml	154346	8191	154346	
+94.130895	[WA]	/system/packages.xml	162537	8191	162537	
+94.131253	[WA]	/system/packages.xml	170728	8192	170728	
+94.131719	[WA]	/system/packages.xml	178920	8192	178920	
+94.132269	[WA]	/system/packages.xml	187112	8190	187112	
+94.132766	[WA]	/system/packages.xml	195302	8191	195302	
+94.133237	[WA]	/system/packages.xml	203493	8182	203493	
+94.133705	[WA]	/system/packages.xml	211675	8186	211675	
+94.134201	[WA]	/system/packages.xml	219861	8191	219861	
+94.134609	[WA]	/system/packages.xml	228052	8184	228052	
+94.135127	[WA]	/system/packages.xml	236236	8177	236236	
+94.135612	[WA]	/system/packages.xml	244413	8169	244413	
+94.136066	[WA]	/system/packages.xml	252582	8179	252582	
+94.136657	[WA]	/system/packages.xml	260761	8192	260761	
+94.137054	[WA]	/system/packages.xml	268953	8176	268953	
+94.137493	[WA]	/system/packages.xml	277129	8192	277129	
+94.137847	[WA]	/system/packages.xml	285321	8192	285321	
+94.138272	[WA]	/system/packages.xml	293513	8183	293513	
+94.138631	[WA]	/system/packages.xml	301696	8189	301696	
+94.139183	[WA]	/system/packages.xml	309885	8170	309885	
+94.139657	[WA]	/system/packages.xml	318055	8192	318055	
+94.140112	[WA]	/system/packages.xml	326247	8185	326247	
+94.140506	[WA]	/system/packages.xml	334432	8191	334432	
+94.141006	[WA]	/system/packages.xml	342623	8188	342623	
+94.141346	[WA]	/system/packages.xml	350811	8183	350811	
+94.141738	[WA]	/system/packages.xml	358994	8192	358994	
+94.142155	[WA]	/system/packages.xml	367186	8192	367186	
+94.142687	[WA]	/system/packages.xml	375378	8188	375378	
+94.143117	[WA]	/system/packages.xml	383566	8176	383566	
+94.143583	[WA]	/system/packages.xml	391742	8189	391742	
+94.143983	[WA]	/system/packages.xml	399931	8191	399931	
+94.144382	[WA]	/system/packages.xml	408122	8187	408122	
+94.144783	[WA]	/system/packages.xml	416309	8191	416309	
+94.145302	[WA]	/system/packages.xml	424500	8191	424500	
+94.145767	[WA]	/system/packages.xml	432691	8192	432691	
+94.146154	[WA]	/system/packages.xml	440883	8171	440883	
+94.146623	[WA]	/system/packages.xml	449054	8187	449054	
+94.147177	[WA]	/system/packages.xml	457241	8190	457241	
+94.147691	[WA]	/system/packages.xml	465431	8139	465431	
+94.148191	[WA]	/system/packages.xml	473570	8192	473570	
+94.148601	[WA]	/system/packages.xml	481762	8186	481762	
+94.149042	[WA]	/system/packages.xml	489948	8191	489948	
+94.149469	[WA]	/system/packages.xml	498139	8190	498139	
+94.149794	[WA]	/system/packages.xml	506329	8191	506329	
+94.158606	[WA]	/system/packages.xml	514520	8167	514520	
+94.159130	[WA]	/system/packages.xml	522687	8168	522687	
+94.159600	[WA]	/system/packages.xml	530855	7896	530855	
+94.160555	[WA]	/system/packages.xml	538751	7993	538751	
+94.160714	[WA]	/system/packages.xml	546744	2616	546744	
+94.160764	[FS]	/system/packages.xml	0	
+94.196705	[UN]	/system/packages-backup.xml	
+94.197505	[CR]	/system/packages.list.tmp	
+94.205217	[WA]	/system/packages.list.tmp	0	8173	0	
+94.207769	[WA]	/system/packages.list.tmp	8173	2621	8173	
+94.207832	[FS]	/system/packages.list.tmp	0	
+94.211962	[RN]	/system/packages.list.tmp	/system/packages.list	
+94.213125	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+94.213235	[CR]	/system/users/0/package-restrictions.xml	
+94.213682	[WA]	/system/users/0/package-restrictions.xml	0	8191	0	
+94.213918	[WA]	/system/users/0/package-restrictions.xml	8191	8163	8191	
+94.214123	[WA]	/system/users/0/package-restrictions.xml	16354	8178	16354	
+94.214348	[WA]	/system/users/0/package-restrictions.xml	24532	8172	24532	
+94.214631	[WA]	/system/users/0/package-restrictions.xml	32704	8144	32704	
+94.214749	[WA]	/system/users/0/package-restrictions.xml	40848	1607	40848	
+94.214795	[FS]	/system/users/0/package-restrictions.xml	0	
+94.221795	[UN]	/system/users/0/package-restrictions-backup.xml	
+94.229496	[RN]	/system/packages.xml	/system/packages-backup.xml	
+94.229606	[CR]	/system/packages.xml	
+94.230188	[WA]	/system/packages.xml	0	8149	0	
+94.230450	[WA]	/system/packages.xml	8149	8192	8149	
+94.230690	[WA]	/system/packages.xml	16341	8185	16341	
+94.230931	[WA]	/system/packages.xml	24526	8147	24526	
+94.231170	[WA]	/system/packages.xml	32673	8189	32673	
+94.231409	[WA]	/system/packages.xml	40862	8154	40862	
+94.231638	[WA]	/system/packages.xml	49016	8192	49016	
+94.231982	[WA]	/system/packages.xml	57208	7090	57208	
+94.232284	[WA]	/system/packages.xml	64298	8189	64298	
+94.232627	[WA]	/system/packages.xml	72487	8192	72487	
+94.232954	[WA]	/system/packages.xml	80679	8155	80679	
+94.233354	[WA]	/system/packages.xml	88834	8186	88834	
+94.233850	[WA]	/system/packages.xml	97020	8191	97020	
+94.234232	[WA]	/system/packages.xml	105211	8189	105211	
+94.234605	[WA]	/system/packages.xml	113400	8192	113400	
+94.235032	[WA]	/system/packages.xml	121592	8191	121592	
+94.235406	[WA]	/system/packages.xml	129783	8182	129783	
+94.235815	[WA]	/system/packages.xml	137965	8191	137965	
+94.236249	[WA]	/system/packages.xml	146156	8190	146156	
+94.236628	[WA]	/system/packages.xml	154346	8191	154346	
+94.237075	[WA]	/system/packages.xml	162537	8188	162537	
+94.237431	[WA]	/system/packages.xml	170725	8191	170725	
+94.237839	[WA]	/system/packages.xml	178916	8176	178916	
+94.238209	[WA]	/system/packages.xml	187092	8192	187092	
+94.238599	[WA]	/system/packages.xml	195284	8192	195284	
+94.238959	[WA]	/system/packages.xml	203476	8177	203476	
+94.239340	[WA]	/system/packages.xml	211653	8186	211653	
+94.239748	[WA]	/system/packages.xml	219839	8191	219839	
+94.240096	[WA]	/system/packages.xml	228030	8184	228030	
+94.240493	[WA]	/system/packages.xml	236214	8177	236214	
+94.240896	[WA]	/system/packages.xml	244391	8169	244391	
+94.241262	[WA]	/system/packages.xml	252560	8179	252560	
+94.241662	[WA]	/system/packages.xml	260739	8192	260739	
+94.241971	[WA]	/system/packages.xml	268931	8176	268931	
+94.242339	[WA]	/system/packages.xml	277107	8192	277107	
+94.242651	[WA]	/system/packages.xml	285299	8192	285299	
+94.243004	[WA]	/system/packages.xml	293491	8183	293491	
+94.243327	[WA]	/system/packages.xml	301674	8189	301674	
+94.243789	[WA]	/system/packages.xml	309863	8170	309863	
+94.244170	[WA]	/system/packages.xml	318033	8192	318033	
+94.244537	[WA]	/system/packages.xml	326225	8185	326225	
+94.244852	[WA]	/system/packages.xml	334410	8191	334410	
+94.245281	[WA]	/system/packages.xml	342601	8188	342601	
+94.245587	[WA]	/system/packages.xml	350789	8183	350789	
+94.245941	[WA]	/system/packages.xml	358972	8192	358972	
+94.246344	[WA]	/system/packages.xml	367164	8192	367164	
+94.246797	[WA]	/system/packages.xml	375356	8188	375356	
+94.247176	[WA]	/system/packages.xml	383544	8176	383544	
+94.247570	[WA]	/system/packages.xml	391720	8189	391720	
+94.247942	[WA]	/system/packages.xml	399909	8191	399909	
+94.248350	[WA]	/system/packages.xml	408100	8187	408100	
+94.248716	[WA]	/system/packages.xml	416287	8191	416287	
+94.249182	[WA]	/system/packages.xml	424478	8191	424478	
+94.249625	[WA]	/system/packages.xml	432669	8192	432669	
+94.250001	[WA]	/system/packages.xml	440861	8171	440861	
+94.250410	[WA]	/system/packages.xml	449032	8187	449032	
+94.250852	[WA]	/system/packages.xml	457219	8190	457219	
+94.251297	[WA]	/system/packages.xml	465409	8139	465409	
+94.251721	[WA]	/system/packages.xml	473548	8192	473548	
+94.252060	[WA]	/system/packages.xml	481740	8186	481740	
+94.252455	[WA]	/system/packages.xml	489926	8191	489926	
+94.252820	[WA]	/system/packages.xml	498117	8190	498117	
+94.253118	[WA]	/system/packages.xml	506307	8191	506307	
+94.253498	[WA]	/system/packages.xml	514498	8167	514498	
+94.253885	[WA]	/system/packages.xml	522665	8168	522665	
+94.254310	[WA]	/system/packages.xml	530833	7896	530833	
+94.255244	[WA]	/system/packages.xml	538729	7993	538729	
+94.255396	[WA]	/system/packages.xml	546722	2616	546722	
+94.255457	[FS]	/system/packages.xml	0	
+94.283859	[UN]	/system/packages-backup.xml	
+94.284634	[CR]	/system/packages.list.tmp	
+94.292329	[WA]	/system/packages.list.tmp	0	8173	0	
+94.294763	[WA]	/system/packages.list.tmp	8173	2621	8173	
+94.294818	[FS]	/system/packages.list.tmp	0	
+94.299286	[RN]	/system/packages.list.tmp	/system/packages.list	
+94.300446	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+94.300556	[CR]	/system/users/0/package-restrictions.xml	
+94.301190	[WA]	/system/users/0/package-restrictions.xml	0	8191	0	
+94.301424	[WA]	/system/users/0/package-restrictions.xml	8191	8163	8191	
+94.301631	[WA]	/system/users/0/package-restrictions.xml	16354	8178	16354	
+94.301855	[WA]	/system/users/0/package-restrictions.xml	24532	8172	24532	
+94.302131	[WA]	/system/users/0/package-restrictions.xml	32704	8144	32704	
+94.302250	[WA]	/system/users/0/package-restrictions.xml	40848	1607	40848	
+94.302296	[FS]	/system/users/0/package-restrictions.xml	0	
+94.311926	[UN]	/system/users/0/package-restrictions-backup.xml	
+94.363104	[UN]	/app/com.supercell.clashroyale-1/base.apk	
+94.363225	[UN]	/app/com.supercell.clashroyale-1/lib/arm/libg.so	
+94.367672	[UN]	/app/com.supercell.clashroyale-1/lib/arm/libfmod.so	
+94.368442	[RD]	/app/com.supercell.clashroyale-1/lib/arm	
+94.368532	[RD]	/app/com.supercell.clashroyale-1/lib	
+94.368649	[UN]	/app/com.supercell.clashroyale-1/oat/arm/base.odex	
+94.378349	[RD]	/app/com.supercell.clashroyale-1/oat/arm	
+94.378436	[RD]	/app/com.supercell.clashroyale-1/oat	
+94.378519	[RD]	/app/com.supercell.clashroyale-1	
+94.607753	[FS]	/backup/pending/journal-1245382951.tmp	0	
+94.608064	[WA]	/backup/pending/journal-1245382951.tmp	1266	27	1266	
+94.608128	[FS]	/backup/pending/journal-1245382951.tmp	0	
+94.655542	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+94.655834	[CR]	/system/users/0/runtime-permissions.xml	
+94.657629	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+94.659125	[WA]	/system/users/0/runtime-permissions.xml	8192	7627	8192	
+94.659201	[FS]	/system/users/0/runtime-permissions.xml	0	
+94.708116	[UN]	/system/users/0/runtime-permissions.xml.bak	

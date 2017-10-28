@@ -9,7 +9,7 @@
 0.020540	[UN]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
 0.020994	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
 0.021538	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	386	0	
-0.022019	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	447	0	
+0.022019	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
 0.022112	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
 0.032479	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	20	537	4096	
 0.060255	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
@@ -24,39 +24,19 @@
 0.084784	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
 0.532146	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
 0.532388	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
-0.533129	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	1240	0	
+0.533129	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
 0.533235	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
 0.540018	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
 0.545803	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
 0.548502	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
-0.550094	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	458	0	
+0.550094	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	458	0	
 0.550206	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
 0.560298	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
 0.563655	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
-0.564398	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
-0.564440	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
-0.564462	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
-0.564496	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
-0.564615	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
-0.564637	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
-0.564670	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
-0.564702	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
-0.566566	[FS]	/data/com.nhn.android.band/databases	1	
 0.571016	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
 0.571582	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	470	0	
 0.571671	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
-0.573378	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
-0.573418	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
-0.578060	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
 0.578104	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
-0.578344	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
-0.578381	[FS]	/data/com.nhn.android.band/databases/statistics	1	
-0.581030	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
-0.581084	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
-0.586557	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
-0.596169	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
-0.599896	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
-0.605505	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
 0.811459	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
 0.811505	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
 0.811527	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
@@ -108,22 +88,93 @@
 60.071452	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	65	0	
 60.072285	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
 60.088096	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
-119.716805	[UN]	/data/com.nhn.android.band/code_cache/com.android.opengl.shaders_cache	
-119.733997	[UN]	/data/com.nhn.android.band/lib	
-120.049380	[UN]	/app/com.nhn.android.band-1/lib/arm/liblibline-sdk-encryption.so	
-120.049571	[UN]	/app/com.nhn.android.band-1/lib/arm/libnative-lib.so	
-120.049677	[UN]	/app/com.nhn.android.band-1/lib/arm/libamp.so	
-120.052663	[UN]	/app/com.nhn.android.band-1/lib/arm/librealm-jni.so	
-120.055427	[UN]	/app/com.nhn.android.band-1/lib/arm/libpl_droidsonroids_gif.so	
-120.055633	[RD]	/app/com.nhn.android.band-1/lib/arm	
-120.055834	[RD]	/app/com.nhn.android.band-1/lib	
-120.056053	[UN]	/app/com.nhn.android.band-1/oat/arm/base.odex	
-120.116698	[RD]	/app/com.nhn.android.band-1/oat/arm	
-120.116815	[RD]	/app/com.nhn.android.band-1/oat	
-120.116912	[UN]	/app/com.nhn.android.band-1/base.apk	
-120.116961	[RD]	/app/com.nhn.android.band-1	
-122.025777	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
-122.026047	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
-122.026676	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
-122.026791	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
-122.031197	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.000000	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.000344	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+0.000980	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+0.001084	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+0.002561	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	16	4	4096	
+0.017937	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.019597	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.019829	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.020540	[UN]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.020994	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.021538	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	386	0	
+0.022019	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+0.022112	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.032479	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	20	537	4096	
+0.060255	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.064375	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.064586	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.065405	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	459	0	
+0.065641	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.071805	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.071888	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+0.078959	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	557	4	4096	
+0.082375	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	561	536	4096	
+0.084784	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+0.532146	[RN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+0.532388	[CR]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	
+0.533129	[WA]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	1240	0	
+0.533235	[FS]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml	0	
+0.540018	[UN]	/data/com.nhn.android.band/shared_prefs/appsflyer-data.xml.bak	
+0.545803	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.548502	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.550094	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	458	0	
+0.550206	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.560298	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.563655	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.571016	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.571582	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	470	0	
+0.571671	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.578104	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.811459	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+0.811505	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+0.811527	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+0.811560	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+0.811674	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+0.811695	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+0.811729	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+0.811762	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.813966	[FS]	/data/com.nhn.android.band/databases	1	
+0.818465	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+0.818507	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.819423	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+0.819464	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+0.819497	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+0.821733	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+0.821768	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.837448	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.838666	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.842363	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.865919	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+3.126311	[UN]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+4.024681	[CR]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	
+4.024789	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	0	1	0	
+4.024863	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	1	1	1	
+4.024906	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	2	1	2	
+4.024948	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	3	1	3	
+4.024990	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	4	1	4	
+4.025031	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	5	1	5	
+4.025072	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	6	1	6	
+4.025113	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	7	1	7	
+4.025155	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	8	1	8	
+4.025196	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	9	1	9	
+4.025790	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	10	416	10	
+4.025837	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	426	1	426	
+4.025879	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	427	1	427	
+4.025921	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	428	1	428	
+4.025962	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	429	1	429	
+4.026003	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	430	1	430	
+4.026044	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	431	1	431	
+4.026086	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	432	1	432	
+4.026127	[WA]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	433	1	433	
+4.026252	[UN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+4.026711	[CR]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	
+4.026862	[WO]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	0	16	4096	
+4.035742	[RN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+4.603540	[UN]	/data/com.nhn.android.band/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_9f3419a9-8f3e-4b67-868d-01d4c460a3ea_1508139347260.tap	
+60.066927	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+60.068297	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+60.071452	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	65	0	
+60.072285	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+60.088096	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	

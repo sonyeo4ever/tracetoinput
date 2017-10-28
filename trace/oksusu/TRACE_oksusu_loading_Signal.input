@@ -1,0 +1,103 @@
+115.920580	[UN]	/data/com.skb.btvmobile/files/AppEventsLogger.persistedevents	
+116.220670	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFABeginSession.cls_temp	
+116.223104	[WA]	/data/com.skb.btvmobile/files/AppEventsLogger.persistedevents	0	79	0	
+116.223468	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFABeginSession.cls_temp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFABeginSession.cls	
+116.224077	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionApp.cls_temp	
+116.224610	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionApp.cls_temp	0	113	0	
+116.224846	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionApp.cls_temp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionApp.cls	
+116.225214	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionOS.cls_temp	
+116.226144	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionOS.cls_temp	0	18	0	
+116.226423	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionOS.cls_temp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionOS.cls	
+116.226820	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionDevice.cls_temp	
+116.236875	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionDevice.cls_temp	0	131	0	
+116.237432	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionDevice.cls_temp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F68032D-0001-160E-816DDB2F5FFASessionDevice.cls	
+116.246714	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+116.252223	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionUser.cls_temp	
+116.253589	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionUser.cls_temp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionUser.cls	
+116.255640	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionDevice.cls	
+116.256003	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFABeginSession.cls	
+116.256258	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionApp.cls	
+116.256497	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionOS.cls	
+116.256726	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E46F1F0300-0001-1357-816DDB2F5FFASessionUser.cls	
+116.259950	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	
+116.263614	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	0	1	0	
+116.263732	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	1	1	1	
+116.263781	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	2	1	2	
+116.263899	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	3	1	3	
+116.263999	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	4	1	4	
+116.264044	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	5	1	5	
+116.264089	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	6	1	6	
+116.264133	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	7	1	7	
+116.264178	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	8	1	8	
+116.264223	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	9	1	9	
+116.265015	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+116.266908	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	10	512	10	
+116.267003	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	522	78	522	
+116.267054	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	600	1	600	
+116.267099	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	601	1	601	
+116.267143	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	602	1	602	
+116.267191	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	603	1	603	
+116.267237	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	604	1	604	
+116.267283	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	605	1	605	
+116.267328	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	606	1	606	
+116.267489	[WA]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	607	1	607	
+116.267641	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+116.268255	[CR]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	
+116.268818	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	0	16	4096	
+116.280575	[RN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap.tmp	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+117.840576	[UN]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send/sa_16961d19-b546-4af2-8ffb-9d4859762707_1508142952855.tap	
+118.213365	[RN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+118.213641	[CR]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	
+118.214419	[WA]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	448	0	
+118.214522	[FS]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	
+118.214811	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	16	4	4096	
+118.220869	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	20	525	4096	
+118.221076	[UN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+118.230506	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+118.245123	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	545	4	4096	
+118.247665	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	549	526	4096	
+118.248737	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+120.853506	[RN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+120.853566	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1075	4	4096	
+120.853788	[CR]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	
+120.854366	[WA]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	448	0	
+120.854487	[FS]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	
+120.860642	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1079	525	4096	
+120.860823	[UN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+120.865771	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+120.980023	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1604	4	4096	
+120.986177	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	1608	517	4096	
+120.987271	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+121.089835	[RN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+121.089942	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	2125	4	4096	
+121.090104	[CR]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	
+121.090881	[WA]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	448	0	
+121.090988	[FS]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml	0	
+121.095870	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	2129	518	4096	
+121.096102	[UN]	/data/com.skb.btvmobile/shared_prefs/com.skb.btvmobile_preferences.xml.bak	
+121.096923	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	
+121.408272	[RN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.408589	[CR]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+121.409190	[WA]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	418	0	
+121.409288	[FS]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+121.417996	[UN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.418460	[RN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.419376	[CR]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+121.419974	[WA]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	328	0	
+121.420075	[FS]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+121.424526	[UN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.424918	[RN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.425127	[CR]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+121.425543	[WA]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	328	0	
+121.425627	[FS]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+121.431733	[UN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.432157	[RN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+121.432367	[CR]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	
+121.432801	[WA]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	328	0	
+121.432892	[FS]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml	0	
+121.438219	[UN]	/data/com.skb.btvmobile/shared_prefs/com.google.android.gms.analytics.prefs.xml.bak	
+122.045831	[CR]	/data/com.skb.btvmobile/files/AppEventsLogger.persistedevents	
+122.057072	[WA]	/data/com.skb.btvmobile/files/AppEventsLogger.persistedevents	0	269	0	
+122.057715	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	2647	4	4096	
+122.064584	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	2651	524	4096	
+122.067929	[WO]	/data/com.skb.btvmobile/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	0	16	4096	

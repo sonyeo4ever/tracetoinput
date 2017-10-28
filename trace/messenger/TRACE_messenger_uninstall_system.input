@@ -1,0 +1,379 @@
+3.619940	[CR]	/misc/bluedroid/bt_config.conf.new	
+3.620710	[WA]	/misc/bluedroid/bt_config.conf.new	0	755	0	
+3.621216	[RN]	/misc/bluedroid/bt_config.conf.new	/misc/bluedroid/bt_config.conf	
+28.167454	[UN]	/dalvik-cache/profiles/com.facebook.orca	
+28.170523	[UN]	/data/com.facebook.orca/lib	
+28.170710	[UN]	/data/com.facebook.orca/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite	
+28.170772	[UN]	/data/com.facebook.orca/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite-wal	
+28.170818	[UN]	/data/com.facebook.orca/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite-shm	
+28.170873	[UN]	/data/com.facebook.orca/cache/.sentinel	
+28.170965	[RD]	/data/com.facebook.orca/cache	
+28.171095	[RD]	/data/com.facebook.orca/code_cache	
+28.171411	[UN]	/data/com.facebook.orca/files/mobileconfig/sessionless.data/0.flatbuffer	
+28.171477	[UN]	/data/com.facebook.orca/files/mobileconfig/sessionless.data/0.mctable	
+28.171533	[RD]	/data/com.facebook.orca/files/mobileconfig/sessionless.data	
+28.171592	[RD]	/data/com.facebook.orca/files/mobileconfig	
+28.171646	[UN]	/data/com.facebook.orca/files/app_pulse_storage	
+28.171691	[UN]	/data/com.facebook.orca/files/fbdns.store	
+28.171843	[UN]	/data/com.facebook.orca/files/fbtlsx.store	
+28.172042	[RD]	/data/com.facebook.orca/files/batterymetrics	
+28.172214	[UN]	/data/com.facebook.orca/files/__security/switch_off_last_config	
+28.172670	[RD]	/data/com.facebook.orca/files/__security	
+28.173630	[UN]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite	
+28.173774	[UN]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-wal	
+28.174111	[UN]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	
+28.174320	[RD]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest	
+28.174633	[RD]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/storage	
+28.174813	[RD]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/tmp	
+28.174945	[RD]	/data/com.facebook.orca/files/two_phase_states_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1	
+28.175174	[UN]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite	
+28.175307	[UN]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-wal	
+28.175435	[UN]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest/manifest.sqlite-shm	
+28.175619	[RD]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/manifest	
+28.175813	[RD]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/storage	
+28.175983	[RD]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1/tmp	
+28.176114	[RD]	/data/com.facebook.orca/files/streaming_segment_state_cache.c3cdc433-fa70-4209-87de-0f180fbe5ccb.1	
+28.176242	[UN]	/data/com.facebook.orca/files/.sentinel	
+28.176549	[RD]	/data/com.facebook.orca/files/ExoPlayerCacheDir/videocache	
+28.177949	[RD]	/data/com.facebook.orca/files/ExoPlayerCacheDir	
+28.178156	[RD]	/data/com.facebook.orca/files/graph_cursor	
+28.178274	[UN]	/data/com.facebook.orca/files/LoomArtProfiler_6.0.1	
+28.178431	[RD]	/data/com.facebook.orca/files	
+28.178636	[RD]	/data/com.facebook.orca/app_state_logs	
+28.178792	[UN]	/data/com.facebook.orca/app_acra-reports/reportfile.prealloc	
+28.179015	[RD]	/data/com.facebook.orca/app_acra-reports	
+28.179228	[RD]	/data/com.facebook.orca/app_minidumps	
+28.179341	[UN]	/data/com.facebook.orca/crash_log	
+28.179395	[UN]	/data/com.facebook.orca/crash_lock	
+28.179514	[UN]	/data/com.facebook.orca/lib-main/dso_lock	
+28.179595	[UN]	/data/com.facebook.orca/lib-main/dso_state	
+28.180505	[UN]	/data/com.facebook.orca/lib-main/dso_deps	
+28.180646	[UN]	/data/com.facebook.orca/lib-main/dso_manifest	
+28.180786	[RD]	/data/com.facebook.orca/lib-main	
+28.183337	[UN]	/data/com.facebook.orca/lib-assets/dso_lock	
+28.183439	[UN]	/data/com.facebook.orca/lib-assets/dso_state	
+28.183579	[UN]	/data/com.facebook.orca/lib-assets/dso_deps	
+28.183705	[UN]	/data/com.facebook.orca/lib-assets/dso_manifest	
+28.183841	[RD]	/data/com.facebook.orca/lib-assets	
+28.184068	[UN]	/data/com.facebook.orca/lib-xzs/dso_lock	
+28.184147	[UN]	/data/com.facebook.orca/lib-xzs/dso_state	
+28.184285	[UN]	/data/com.facebook.orca/lib-xzs/dso_deps	
+28.184413	[UN]	/data/com.facebook.orca/lib-xzs/dso_manifest	
+28.184565	[UN]	/data/com.facebook.orca/lib-xzs/librtc.so	
+28.197413	[UN]	/data/com.facebook.orca/lib-xzs/libcoldstart.so	
+28.197477	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_effects-framework_graphics-engine.so	
+28.202416	[UN]	/data/com.facebook.orca/lib-xzs/libfbjs.so	
+28.209028	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_caffe2_caffe2.so	
+28.212647	[UN]	/data/com.facebook.orca/lib-xzs/libgraphicsengine-arengineservices-messengereffectservicehost-native.so	
+28.218089	[UN]	/data/com.facebook.orca/lib-xzs/libopencv.so	
+28.219783	[UN]	/data/com.facebook.orca/lib-xzs/libfb_ffmpeg.so	
+28.220449	[UN]	/data/com.facebook.orca/lib-xzs/libface-tracking.so	
+28.221065	[UN]	/data/com.facebook.orca/lib-xzs/librtcactivity.so	
+28.221630	[UN]	/data/com.facebook.orca/lib-xzs/libreactivesocket.so	
+28.222151	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_mobileconfig_mobileconfig.so	
+28.222203	[UN]	/data/com.facebook.orca/lib-xzs/libnative_mediapipeline_AREngineServices_Interfaces_Interfaces.so	
+28.222691	[UN]	/data/com.facebook.orca/lib-xzs/libmessengerlivestreaming.so	
+28.223176	[UN]	/data/com.facebook.orca/lib-xzs/libfb_mozjpeg.so	
+28.223635	[UN]	/data/com.facebook.orca/lib-xzs/libwhistle.so	
+28.224074	[UN]	/data/com.facebook.orca/lib-xzs/libaudiofiltercore.so	
+28.224483	[UN]	/data/com.facebook.orca/lib-xzs/libopus.so	
+28.224915	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_third-party_lepton_lepton.so	
+28.225467	[UN]	/data/com.facebook.orca/lib-xzs/libdextricks.so	
+28.225535	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_audio360_audio360.so	
+28.225940	[UN]	/data/com.facebook.orca/lib-xzs/libstatic-webp.so	
+28.226248	[UN]	/data/com.facebook.orca/lib-xzs/libparticleemitter.so	
+28.226556	[UN]	/data/com.facebook.orca/lib-xzs/libfilters-native-android.so	
+28.226851	[UN]	/data/com.facebook.orca/lib-xzs/libcaffe2.so	
+28.227126	[UN]	/data/com.facebook.orca/lib-xzs/libfb_imgproc.so	
+28.227403	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_scout_scout.so	
+28.227659	[UN]	/data/com.facebook.orca/lib-xzs/libmobileconfig-jni.so	
+28.227706	[UN]	/data/com.facebook.orca/lib-xzs/libfb_tracker.so	
+28.227947	[UN]	/data/com.facebook.orca/lib-xzs/libmessengerdownloadservice.so	
+28.228169	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_rtc_tslog_tslog.so	
+28.228406	[UN]	/data/com.facebook.orca/lib-xzs/libgraphicsengine-arengineservices-segmentation-native.so	
+28.228665	[UN]	/data/com.facebook.orca/lib-xzs/libfb_libyuv_jni.so	
+28.228880	[UN]	/data/com.facebook.orca/lib-xzs/libalchemist.so	
+28.229198	[UN]	/data/com.facebook.orca/lib-xzs/libscout.so	
+28.229427	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_libpng_pngAndroid.so	
+28.229643	[UN]	/data/com.facebook.orca/lib-xzs/libbreakpad.so	
+28.229691	[UN]	/data/com.facebook.orca/lib-xzs/libfb.so	
+28.229740	[UN]	/data/com.facebook.orca/lib-xzs/libmessengercrypto.so	
+28.229982	[UN]	/data/com.facebook.orca/lib-xzs/libfb_imgproc_moz.so	
+28.230222	[UN]	/data/com.facebook.orca/lib-xzs/libgraphicsengine-arengineservices-sphericalvideoeffectservicehost-native.so	
+28.230448	[UN]	/data/com.facebook.orca/lib-xzs/libyoga.so	
+28.230689	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models.so	
+28.230919	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_hptt_hpttAndroid.so	
+28.231168	[UN]	/data/com.facebook.orca/lib-xzs/libflatbuffersflatc.so	
+28.231224	[UN]	/data/com.facebook.orca/lib-xzs/libmodels.so	
+28.231658	[UN]	/data/com.facebook.orca/lib-xzs/libmessengercodes.so	
+28.231861	[UN]	/data/com.facebook.orca/lib-xzs/libyogacore.so	
+28.232043	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_ne10_ne10-dspAndroid.so	
+28.232226	[UN]	/data/com.facebook.orca/lib-xzs/libarengine-version-native-android.so	
+28.232414	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models-caffe2.so	
+28.232585	[UN]	/data/com.facebook.orca/lib-xzs/libasset-sdk-version-native-android.so	
+28.232767	[UN]	/data/com.facebook.orca/lib-xzs/libshortstab.so	
+28.232970	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_RtmpSSL_LigerRtmpSSL.so	
+28.233151	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_mobileconfig_mobileconfig_on_omnistore.so	
+28.233313	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models-graphql.so	
+28.233504	[UN]	/data/com.facebook.orca/lib-xzs/libglog.so	
+28.233551	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_protobuf_fb-protobuf-liteAndroid.so	
+28.233709	[UN]	/data/com.facebook.orca/lib-xzs/libnative_redex_tools_oatmeal_oatmeal-src.so	
+28.233756	[UN]	/data/com.facebook.orca/lib-xzs/libbsdiff.so	
+28.233943	[UN]	/data/com.facebook.orca/lib-xzs/libfb_ffmpeg_jni.so	
+28.234099	[UN]	/data/com.facebook.orca/lib-xzs/libdalvikdistract.so	
+28.234271	[UN]	/data/com.facebook.orca/lib-xzs/libdiskmetrics.so	
+28.234421	[UN]	/data/com.facebook.orca/lib-xzs/libandroid-reachability-announcer.so	
+28.234571	[UN]	/data/com.facebook.orca/lib-xzs/liblangtech_vad_vadAndroid.so	
+28.234719	[UN]	/data/com.facebook.orca/lib-xzs/librestricks.so	
+28.234889	[UN]	/data/com.facebook.orca/lib-xzs/libthreadutils-jni.so	
+28.235055	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_zstd_zstd_mobileAndroid.so	
+28.235221	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models-tigon.so	
+28.235404	[UN]	/data/com.facebook.orca/lib-xzs/libbz2.so	
+28.235583	[UN]	/data/com.facebook.orca/lib-xzs/libgifimage.so	
+28.235737	[UN]	/data/com.facebook.orca/lib-xzs/libdalviksmartgc.so	
+28.235886	[UN]	/data/com.facebook.orca/lib-xzs/libperftestlogger.so	
+28.236041	[UN]	/data/com.facebook.orca/lib-xzs/libspeechopusencoder.so	
+28.236185	[UN]	/data/com.facebook.orca/lib-xzs/libartsmartgc.so	
+28.236333	[UN]	/data/com.facebook.orca/lib-xzs/libforker.so	
+28.236478	[UN]	/data/com.facebook.orca/lib-xzs/libmobileconfigonomnistore-jni.so	
+28.236624	[UN]	/data/com.facebook.orca/lib-xzs/libnative_bridge.so	
+28.236766	[UN]	/data/com.facebook.orca/lib-xzs/libimagepipeline.so	
+28.236913	[UN]	/data/com.facebook.orca/lib-xzs/librnscout.so	
+28.237067	[UN]	/data/com.facebook.orca/lib-xzs/libfbreactotapatchfb.so	
+28.237238	[UN]	/data/com.facebook.orca/lib-xzs/libpackagerconnectionjnifb.so	
+28.237407	[UN]	/data/com.facebook.orca/lib-xzs/libandroid-lepton.so	
+28.237586	[UN]	/data/com.facebook.orca/lib-xzs/libandroid-rtmpssl.so	
+28.237733	[UN]	/data/com.facebook.orca/lib-xzs/libthird-party_easywsclient_easywsclientAndroid.so	
+28.237779	[UN]	/data/com.facebook.orca/lib-xzs/libpreconnector.so	
+28.237947	[UN]	/data/com.facebook.orca/lib-xzs/libfbsystrace.so	
+28.237994	[UN]	/data/com.facebook.orca/lib-xzs/libfbgloginit.so	
+28.238040	[UN]	/data/com.facebook.orca/lib-xzs/liblyramanager.so	
+28.238085	[UN]	/data/com.facebook.orca/lib-xzs/libspatialaudio.so	
+28.238218	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models-cache.so	
+28.238350	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_models_models-xanalytics.so	
+28.238493	[UN]	/data/com.facebook.orca/lib-xzs/libarthook.so	
+28.238632	[UN]	/data/com.facebook.orca/lib-xzs/libfb_qt-faststart_jni.so	
+28.238772	[UN]	/data/com.facebook.orca/lib-xzs/libheartbleed.so	
+28.238901	[UN]	/data/com.facebook.orca/lib-xzs/libmemorydebug.so	
+28.239039	[UN]	/data/com.facebook.orca/lib-xzs/libanalyticsutil-jni.so	
+28.239321	[UN]	/data/com.facebook.orca/lib-xzs/libjava_com_facebook_catalyst_js_react-native-github_ReactCommon_privatedata_privatedata.so	
+28.239493	[UN]	/data/com.facebook.orca/lib-xzs/libterminate_handler_manager.so	
+28.239546	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_Reachability_Reachability.so	
+28.239684	[UN]	/data/com.facebook.orca/lib-xzs/libopusJNI.so	
+28.239822	[UN]	/data/com.facebook.orca/lib-xzs/libvoiceactivitydetector.so	
+28.239955	[UN]	/data/com.facebook.orca/lib-xzs/libcommonpatchjni.so	
+28.240088	[UN]	/data/com.facebook.orca/lib-xzs/libfb_filesystem.so	
+28.240226	[UN]	/data/com.facebook.orca/lib-xzs/libxplat_FBExit_FBExit.so	
+28.240374	[UN]	/data/com.facebook.orca/lib-xzs/libFBBaseLite_FBBaseLiteAndroid.so	
+28.240546	[RD]	/data/com.facebook.orca/lib-xzs	
+28.241040	[UN]	/data/com.facebook.orca/dex/mdex_lock	
+28.241093	[UN]	/data/com.facebook.orca/dex/mdex_status2	
+28.241249	[UN]	/data/com.facebook.orca/dex/regen_stamp	
+28.241327	[UN]	/data/com.facebook.orca/dex/deps	
+28.241464	[RD]	/data/com.facebook.orca/dex	
+28.241611	[UN]	/data/com.facebook.orca/app_gatekeepers/file_lock	
+28.241699	[UN]	/data/com.facebook.orca/app_gatekeepers/gk_names	
+28.241843	[UN]	/data/com.facebook.orca/app_gatekeepers/gk_state	
+28.241996	[RD]	/data/com.facebook.orca/app_gatekeepers	
+28.242194	[UN]	/data/com.facebook.orca/app_sessionless_gatekeepers/file_lock	
+28.242272	[UN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_names	
+28.242395	[UN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state	
+28.242524	[UN]	/data/com.facebook.orca/app_sessionless_gatekeepers/gk_state.old	
+28.242683	[RD]	/data/com.facebook.orca/app_sessionless_gatekeepers	
+28.242902	[UN]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/analytics_periodic_events	
+28.243034	[UN]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/default_phone_id	
+28.243189	[UN]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca/authentication	
+28.243342	[RD]	/data/com.facebook.orca/app_light_prefs/com.facebook.orca	
+28.243507	[RD]	/data/com.facebook.orca/app_light_prefs	
+28.243715	[UN]	/data/com.facebook.orca/databases/prefs_db	
+28.243778	[UN]	/data/com.facebook.orca/databases/prefs_db-journal	
+28.243992	[UN]	/data/com.facebook.orca/databases/inbox_units_db	
+28.244038	[UN]	/data/com.facebook.orca/databases/inbox_units_db-journal	
+28.244215	[UN]	/data/com.facebook.orca/databases/threads_db2	
+28.244263	[UN]	/data/com.facebook.orca/databases/threads_db2-journal	
+28.244446	[UN]	/data/com.facebook.orca/databases/app_updates_db	
+28.244494	[UN]	/data/com.facebook.orca/databases/app_updates_db-journal	
+28.244648	[UN]	/data/com.facebook.orca/databases/contacts_db2	
+28.244846	[UN]	/data/com.facebook.orca/databases/contacts_db2-journal	
+28.245029	[UN]	/data/com.facebook.orca/databases/offline_mode_db	
+28.245213	[UN]	/data/com.facebook.orca/databases/offline_mode_db-journal	
+28.245387	[UN]	/data/com.facebook.orca/databases/composer_shortcuts_db	
+28.245577	[UN]	/data/com.facebook.orca/databases/composer_shortcuts_db-journal	
+28.245753	[UN]	/data/com.facebook.orca/databases/smstakeover_db	
+28.245964	[UN]	/data/com.facebook.orca/databases/smstakeover_db-journal	
+28.246125	[UN]	/data/com.facebook.orca/databases/graphql_cache	
+28.246326	[UN]	/data/com.facebook.orca/databases/graph_cursors	
+28.246558	[UN]	/data/com.facebook.orca/databases/graphql_cache-journal	
+28.246757	[UN]	/data/com.facebook.orca/databases/graph_cursors-journal	
+28.247045	[RD]	/data/com.facebook.orca/databases	
+28.247471	[RD]	/data/com.facebook.orca/app_qe_sessioned	
+28.247670	[RD]	/data/com.facebook.orca/app_qe_sessionless	
+28.247831	[UN]	/data/com.facebook.orca/app_fbacore/fbaFlexibleSampling	
+28.250238	[UN]	/data/com.facebook.orca/app_fbacore/beacon.regular	
+28.251785	[UN]	/data/com.facebook.orca/app_fbacore/fba_regular_0_33593ab2-3864-1e21-8bcb-c84208cb0811.json	
+28.251927	[RD]	/data/com.facebook.orca/app_fbacore	
+28.252122	[RD]	/data/com.facebook.orca/app_logcat_flash_logs	
+28.252294	[UN]	/data/com.facebook.orca/shared_prefs/large_heap_override_store.xml	
+28.252441	[UN]	/data/com.facebook.orca/shared_prefs/CompactDisk.xml	
+28.252571	[UN]	/data/com.facebook.orca/shared_prefs/rti.mqtt.analytics.xml	
+28.252692	[UN]	/data/com.facebook.orca/shared_prefs/mqtt_stickiness_controller.xml	
+28.252829	[RD]	/data/com.facebook.orca/shared_prefs	
+28.253121	[UN]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca/backup_for_all	
+28.253269	[RD]	/data/com.facebook.orca/app_funnel_backup/com.facebook.orca	
+28.253413	[RD]	/data/com.facebook.orca/app_funnel_backup	
+28.253594	[RD]	/data/com.facebook.orca/app_preconnection	
+28.260640	[UN]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143589458.json	
+28.261599	[UN]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143606772.json	
+28.261732	[UN]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143631839.json	
+28.261898	[UN]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143647540.json	
+28.262011	[UN]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928/batch-1508143862269.json	
+28.262089	[RD]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455/418928	
+28.262177	[RD]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null/17455	
+28.262246	[RD]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca/null	
+28.262315	[RD]	/data/com.facebook.orca/app_analytics/normal/com.facebook.orca	
+28.262384	[RD]	/data/com.facebook.orca/app_analytics/normal	
+28.262451	[RD]	/data/com.facebook.orca/app_analytics	
+28.262608	[UN]	/data/com.facebook.orca/app_analytics_beacon/normal/beacon_id.lock	
+28.262689	[UN]	/data/com.facebook.orca/app_analytics_beacon/normal/beacon_id	
+28.262835	[RD]	/data/com.facebook.orca/app_analytics_beacon/normal	
+28.263473	[RD]	/data/com.facebook.orca/app_analytics_beacon	
+28.264243	[RD]	/data/com.facebook.orca/app_appupdate	
+28.264614	[RD]	/data/com.facebook.orca/app_call_stats	
+28.264877	[RD]	/data/com.facebook.orca/app_funnel_changelog/com.facebook.orca	
+28.265041	[RD]	/data/com.facebook.orca/app_funnel_changelog	
+28.265265	[RD]	/data/com.facebook.orca/app_mdclan	
+28.265448	[RD]	/data/com.facebook.orca	
+28.744001	[UN]	/app/com.facebook.orca-2/base.apk	
+28.744189	[UN]	/app/com.facebook.orca-2/lib/arm/libgnustl_shared.so	
+28.745283	[UN]	/app/com.facebook.orca-2/lib/arm/libfb_xzdecoder.so	
+28.745439	[UN]	/app/com.facebook.orca-2/lib/arm/libforce_dlopen.so	
+28.745575	[UN]	/app/com.facebook.orca-2/lib/arm/librsjni.so	
+28.745719	[UN]	/app/com.facebook.orca-2/lib/arm/liboatmeal.so	
+28.745978	[UN]	/app/com.facebook.orca-2/lib/arm/libRSSupport.so	
+28.746616	[UN]	/app/com.facebook.orca-2/lib/arm/libdistract.so	
+28.746781	[UN]	/app/com.facebook.orca-2/lib/arm/libfbdexopt.so	
+28.746930	[UN]	/app/com.facebook.orca-2/lib/arm/libbreakpad_cpp_helper.so	
+28.747075	[UN]	/app/com.facebook.orca-2/lib/arm/libsigmux.so	
+28.747222	[RD]	/app/com.facebook.orca-2/lib/arm	
+28.747434	[RD]	/app/com.facebook.orca-2/lib	
+28.747792	[UN]	/app/com.facebook.orca-2/oat/arm/base.odex	
+28.755533	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+28.755941	[CR]	/system/users/0/runtime-permissions.xml	
+28.759051	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+28.761527	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+28.761646	[FS]	/system/users/0/runtime-permissions.xml	0	
+28.781320	[UN]	/system/users/0/runtime-permissions.xml.bak	
+28.937541	[RD]	/app/com.facebook.orca-2/oat/arm	
+28.937704	[RD]	/app/com.facebook.orca-2/oat	
+28.937858	[RD]	/app/com.facebook.orca-2	
+28.959429	[RD]	/media/0/Android/data/com.facebook.orca/files/Download	
+28.965040	[RD]	/media/0/Android/data/com.facebook.orca/files	
+28.966261	[RD]	/media/0/Android/data/com.facebook.orca/cache	
+28.966784	[RD]	/media/0/Android/data/com.facebook.orca	
+28.985712	[RD]	/media/obb/com.facebook.orca	
+29.001838	[CR]	/system/recent_images/16_task_thumbnail.png	
+29.002089	[WA]	/system/recent_images/16_task_thumbnail.png	0	8	0	
+29.002200	[WA]	/system/recent_images/16_task_thumbnail.png	8	8	8	
+29.002270	[WA]	/system/recent_images/16_task_thumbnail.png	16	13	16	
+29.002330	[WA]	/system/recent_images/16_task_thumbnail.png	29	4	29	
+29.002389	[WA]	/system/recent_images/16_task_thumbnail.png	33	8	33	
+29.002449	[WA]	/system/recent_images/16_task_thumbnail.png	41	4	41	
+29.002510	[WA]	/system/recent_images/16_task_thumbnail.png	45	4	45	
+29.034392	[WA]	/system/recent_images/16_task_thumbnail.png	49	8	49	
+29.034503	[WA]	/system/recent_images/16_task_thumbnail.png	57	4096	57	
+29.034606	[WA]	/system/recent_images/16_task_thumbnail.png	4153	4096	4153	
+29.034739	[WA]	/system/recent_images/16_task_thumbnail.png	8249	4	8249	
+29.055265	[RN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+29.055485	[CR]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	
+29.056237	[WA]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	322	0	
+29.056340	[FS]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	
+29.085926	[UN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+29.092961	[WA]	/system/recent_images/16_task_thumbnail.png	8253	8	8253	
+29.093059	[WA]	/system/recent_images/16_task_thumbnail.png	8261	4096	8261	
+29.093152	[WA]	/system/recent_images/16_task_thumbnail.png	12357	4096	12357	
+29.093268	[WA]	/system/recent_images/16_task_thumbnail.png	16453	4	16453	
+29.093714	[WA]	/system/recent_images/16_task_thumbnail.png	16457	8	16457	
+29.093772	[WA]	/system/recent_images/16_task_thumbnail.png	16465	4096	16465	
+29.093854	[WA]	/system/recent_images/16_task_thumbnail.png	20561	4096	20561	
+29.093962	[WA]	/system/recent_images/16_task_thumbnail.png	24657	4	24657	
+29.165215	[WA]	/system/recent_images/16_task_thumbnail.png	24661	8	24661	
+29.165313	[WA]	/system/recent_images/16_task_thumbnail.png	24669	4096	24669	
+29.166040	[WA]	/system/recent_images/16_task_thumbnail.png	28765	4096	28765	
+29.166114	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+29.166387	[CR]	/system/netpolicy.xml	
+29.166476	[WA]	/system/recent_images/16_task_thumbnail.png	32861	4	32861	
+29.173706	[WA]	/system/netpolicy.xml	0	113	0	
+29.173820	[FS]	/system/netpolicy.xml	0	
+29.182883	[UN]	/system/netpolicy.xml.bak	
+29.214799	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+29.215019	[CR]	/system/netstats/uid.1507300282106-	
+29.219183	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+29.221886	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+29.225119	[WA]	/system/netstats/uid.1507300282106-	16384	5686	16384	
+29.225375	[FS]	/system/netstats/uid.1507300282106-	0	
+29.242476	[UN]	/system/netstats/uid.1507300282106-.backup	
+29.261529	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+29.261754	[CR]	/system/netstats/uid_tag.1507783616261-	
+29.264075	[WA]	/system/netstats/uid_tag.1507783616261-	0	8192	0	
+29.265359	[WA]	/system/netstats/uid_tag.1507783616261-	8192	5896	8192	
+29.265464	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+29.273184	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+29.337045	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+29.337249	[CR]	/system/netstats/uid.1507300282106-	
+29.337883	[RN]	/system/users/0/registered_services/android.content.SyncAdapter.xml	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+29.338060	[CR]	/system/users/0/registered_services/android.content.SyncAdapter.xml	
+29.339004	[WA]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	4152	0	
+29.339191	[FS]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	
+29.339488	[WA]	/system/netstats/uid.1507300282106-	0	8192	0	
+29.341497	[WA]	/system/netstats/uid.1507300282106-	8192	8192	8192	
+29.346132	[WA]	/system/netstats/uid.1507300282106-	16384	5553	16384	
+29.348140	[FS]	/system/netstats/uid.1507300282106-	0	
+29.349894	[WA]	/system/recent_images/16_task_thumbnail.png	32865	8	32865	
+29.349978	[WA]	/system/recent_images/16_task_thumbnail.png	32873	4096	32873	
+29.350068	[WA]	/system/recent_images/16_task_thumbnail.png	36969	4096	36969	
+29.350182	[WA]	/system/recent_images/16_task_thumbnail.png	41065	4	41065	
+29.350395	[WA]	/system/recent_images/16_task_thumbnail.png	41069	8	41069	
+29.350451	[WA]	/system/recent_images/16_task_thumbnail.png	41077	4096	41077	
+29.350531	[WA]	/system/recent_images/16_task_thumbnail.png	45173	4096	45173	
+29.350638	[WA]	/system/recent_images/16_task_thumbnail.png	49269	4	49269	
+29.351819	[UN]	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+29.371239	[UN]	/system/netstats/uid.1507300282106-.backup	
+29.400771	[WO]	/system/notification_log.db-journal	0	512	49760	
+29.400846	[WO]	/system/notification_log.db-journal	512	4	49760	
+29.400868	[WO]	/system/notification_log.db-journal	516	4096	49760	
+29.401965	[WO]	/system/notification_log.db-journal	4612	4	49760	
+29.403144	[WO]	/system/notification_log.db-journal	4616	4	49760	
+29.403169	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+29.403208	[WO]	/system/notification_log.db-journal	8716	4	49760	
+29.404297	[WO]	/system/notification_log.db-journal	8720	4	49760	
+29.404338	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+29.404388	[WO]	/system/notification_log.db-journal	12820	4	49760	
+29.404435	[FS]	/system/notification_log.db-journal	1	
+29.411803	[FS]	/system	1	
+29.421153	[WO]	/system/notification_log.db-journal	0	12	49760	
+29.421393	[FS]	/system/notification_log.db-journal	1	
+29.425584	[WO]	/system/notification_log.db	0	4096	65536	
+29.425658	[WO]	/system/notification_log.db	16384	4096	65536	
+29.425697	[WO]	/system/notification_log.db	61440	4096	65536	
+29.425740	[FS]	/system/notification_log.db	1	
+29.433283	[WO]	/system/notification_log.db-journal	0	28	49760	
+29.433345	[FS]	/system/notification_log.db-journal	1	
+29.529331	[WA]	/system/recent_images/16_task_thumbnail.png	49273	8	49273	
+29.529433	[WA]	/system/recent_images/16_task_thumbnail.png	49281	4096	49281	
+29.529525	[WA]	/system/recent_images/16_task_thumbnail.png	53377	4096	53377	
+29.529640	[WA]	/system/recent_images/16_task_thumbnail.png	57473	4	57473	
+29.529745	[WA]	/system/recent_images/16_task_thumbnail.png	57477	8	57477	
+29.529799	[WA]	/system/recent_images/16_task_thumbnail.png	57485	4096	57485	
+29.529878	[WA]	/system/recent_images/16_task_thumbnail.png	61581	4096	61581	
+29.529986	[WA]	/system/recent_images/16_task_thumbnail.png	65677	4	65677	
+29.800068	[WA]	/system/recent_images/16_task_thumbnail.png	65681	8	65681	
+29.802972	[WA]	/system/recent_images/16_task_thumbnail.png	65689	4096	65689	
+29.810592	[WA]	/system/recent_images/16_task_thumbnail.png	69785	4096	69785	
+29.810728	[WA]	/system/recent_images/16_task_thumbnail.png	73881	4	73881	
+29.810788	[WA]	/system/recent_images/16_task_thumbnail.png	73885	8	73885	
+29.810844	[WA]	/system/recent_images/16_task_thumbnail.png	73893	2608	73893	
+29.810910	[WA]	/system/recent_images/16_task_thumbnail.png	76501	4	76501	
+29.810966	[WA]	/system/recent_images/16_task_thumbnail.png	76505	8	76505	
+29.811022	[WA]	/system/recent_images/16_task_thumbnail.png	76513	4	76513	
+29.819278	[UN]	/system/recent_tasks/15_task.xml	
+29.823982	[UN]	/system/recent_images/15_task_thumbnail.png	

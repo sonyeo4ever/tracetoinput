@@ -1,0 +1,120 @@
+0.889562	[MD]	/data/com.facebook.katana/app_logcat	
+0.889871	[RD]	/data/com.facebook.katana/app_logcat	
+2.196527	[WA]	/user/0/com.facebook.katana/app_analytics_beacon/normal/beacon_id	0	12	0	
+2.225041	[MD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784	
+2.225649	[CR]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	
+2.268650	[WA]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	0	504	0	
+2.323459	[WA]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	504	204	504	
+4.400915	[CR]	/data/com.facebook.katana/dex/config.tmp	
+4.400971	[WA]	/data/com.facebook.katana/dex/config.tmp	0	1	0	
+4.401027	[WA]	/data/com.facebook.katana/dex/config.tmp	1	1	1	
+4.401056	[WA]	/data/com.facebook.katana/dex/config.tmp	2	1	2	
+4.401084	[WA]	/data/com.facebook.katana/dex/config.tmp	3	1	3	
+4.401112	[WA]	/data/com.facebook.katana/dex/config.tmp	4	1	4	
+4.401141	[WA]	/data/com.facebook.katana/dex/config.tmp	5	1	5	
+4.401172	[WA]	/data/com.facebook.katana/dex/config.tmp	6	1	6	
+4.401200	[WA]	/data/com.facebook.katana/dex/config.tmp	7	4	7	
+4.402863	[WA]	/data/com.facebook.katana/dex/config.tmp	11	4	11	
+4.402938	[WA]	/data/com.facebook.katana/dex/config.tmp	15	4	15	
+4.402967	[WA]	/data/com.facebook.katana/dex/config.tmp	19	4	19	
+4.402995	[WA]	/data/com.facebook.katana/dex/config.tmp	23	4	23	
+4.403090	[FS]	/data/com.facebook.katana/dex/config.tmp	0	
+4.413567	[RN]	/data/com.facebook.katana/dex/config.tmp	/data/com.facebook.katana/dex/config	
+4.515557	[WA]	/data/com.facebook.katana/app_fbacore/beacon.regular	0	48	0	
+4.533914	[WA]	/user/0/com.facebook.katana/app_preconnection/preconnection_data	0	2	0	
+4.533955	[WA]	/user/0/com.facebook.katana/app_preconnection/preconnection_data	2	20	2	
+4.567034	[WO]	/data/com.facebook.katana/app_fbacore/beacon.regular	0	48	48	
+4.800261	[CR]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	
+4.803702	[WA]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	0	68	0	
+4.806666	[RN]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	/data/com.facebook.katana/cache/LoomInitFileConfig	
+5.176812	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.176996	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	
+5.177437	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	381	0	
+5.177532	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	
+5.183904	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.184267	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.184426	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	
+5.184882	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	485	0	
+5.184953	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	
+5.192528	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.254789	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml.bak	
+5.254973	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	
+5.255248	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	0	470	0	
+5.255313	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	0	
+5.263496	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml.bak	
+5.538279	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	512	51200	
+5.538348	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	512	4	51200	
+5.538366	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	516	4096	51200	
+5.538396	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4612	4	51200	
+5.538418	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4616	4	51200	
+5.538433	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4620	4096	51200	
+5.538461	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8716	4	51200	
+5.538619	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8720	4	51200	
+5.538636	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8724	4096	51200	
+5.538666	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	12820	4	51200	
+5.538686	[WO]	/data/com.facebook.katana/databases/prefs_db	0	4096	204800	
+5.538736	[WO]	/data/com.facebook.katana/databases/prefs_db	40960	4096	204800	
+5.538762	[WO]	/data/com.facebook.katana/databases/prefs_db	200704	4096	204800	
+5.540117	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	28	51200	
+154.590100	[WA]	/data/com.facebook.katana/files/fbzeroscfg.store	0	57702	0	
+154.590315	[FS]	/data/com.facebook.katana/files/fbzeroscfg.store	1	
+0.889562	[MD]	/data/com.facebook.katana/app_logcat	
+0.889871	[RD]	/data/com.facebook.katana/app_logcat	
+2.196527	[WA]	/user/0/com.facebook.katana/app_analytics_beacon/normal/beacon_id	0	12	0	
+2.225041	[MD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784	
+2.225649	[CR]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	
+2.268650	[WA]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	0	504	0	
+2.323459	[WA]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	504	204	504	
+4.400915	[CR]	/data/com.facebook.katana/dex/config.tmp	
+4.400971	[WA]	/data/com.facebook.katana/dex/config.tmp	0	1	0	
+4.401027	[WA]	/data/com.facebook.katana/dex/config.tmp	1	1	1	
+4.401056	[WA]	/data/com.facebook.katana/dex/config.tmp	2	1	2	
+4.401084	[WA]	/data/com.facebook.katana/dex/config.tmp	3	1	3	
+4.401112	[WA]	/data/com.facebook.katana/dex/config.tmp	4	1	4	
+4.401141	[WA]	/data/com.facebook.katana/dex/config.tmp	5	1	5	
+4.401172	[WA]	/data/com.facebook.katana/dex/config.tmp	6	1	6	
+4.401200	[WA]	/data/com.facebook.katana/dex/config.tmp	7	4	7	
+4.402863	[WA]	/data/com.facebook.katana/dex/config.tmp	11	4	11	
+4.402938	[WA]	/data/com.facebook.katana/dex/config.tmp	15	4	15	
+4.402967	[WA]	/data/com.facebook.katana/dex/config.tmp	19	4	19	
+4.402995	[WA]	/data/com.facebook.katana/dex/config.tmp	23	4	23	
+4.403090	[FS]	/data/com.facebook.katana/dex/config.tmp	0	
+4.413567	[RN]	/data/com.facebook.katana/dex/config.tmp	/data/com.facebook.katana/dex/config	
+4.515557	[WA]	/data/com.facebook.katana/app_fbacore/beacon.regular	0	48	0	
+4.533914	[WA]	/user/0/com.facebook.katana/app_preconnection/preconnection_data	0	2	0	
+4.533955	[WA]	/user/0/com.facebook.katana/app_preconnection/preconnection_data	2	20	2	
+4.567034	[WO]	/data/com.facebook.katana/app_fbacore/beacon.regular	0	48	48	
+4.800261	[CR]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	
+4.803702	[WA]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	0	68	0	
+4.806666	[RN]	/data/com.facebook.katana/files/LoomInitFileConfig-1733150235.tmp	/data/com.facebook.katana/cache/LoomInitFileConfig	
+5.176812	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.176996	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	
+5.177437	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	381	0	
+5.177532	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	
+5.183904	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.184267	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.184426	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	
+5.184882	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	485	0	
+5.184953	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml	0	
+5.192528	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.flags.xml.bak	
+5.254789	[RN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml.bak	
+5.254973	[CR]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	
+5.255248	[WA]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	0	470	0	
+5.255313	[FS]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml	0	
+5.263496	[UN]	/data/com.facebook.katana/shared_prefs/rti.mqtt.analytics.xml.bak	
+5.538279	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	512	51200	
+5.538348	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	512	4	51200	
+5.538366	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	516	4096	51200	
+5.538396	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4612	4	51200	
+5.538418	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4616	4	51200	
+5.538433	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	4620	4096	51200	
+5.538461	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8716	4	51200	
+5.538619	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8720	4	51200	
+5.538636	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	8724	4096	51200	
+5.538666	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	12820	4	51200	
+5.538686	[WO]	/data/com.facebook.katana/databases/prefs_db	0	4096	204800	
+5.538736	[WO]	/data/com.facebook.katana/databases/prefs_db	40960	4096	204800	
+5.538762	[WO]	/data/com.facebook.katana/databases/prefs_db	200704	4096	204800	
+5.540117	[WO]	/user/0/com.facebook.katana/databases/prefs_db-journal	0	28	51200	
+154.590100	[WA]	/data/com.facebook.katana/files/fbzeroscfg.store	0	57702	0	
+154.590315	[FS]	/data/com.facebook.katana/files/fbzeroscfg.store	1	

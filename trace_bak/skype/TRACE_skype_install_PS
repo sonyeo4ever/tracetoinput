@@ -1,0 +1,1129 @@
+USER      PID   PPID  VSIZE  RSS   WCHAN            PC  NAME
+root      1     0     2216   916   sys_epoll_ 00000000 S /init
+root      2     0     0      0       kthreadd 00000000 S kthreadd
+root      3     2     0      0     run_ksofti 00000000 S ksoftirqd/0
+root      6     2     0      0     worker_thr 00000000 S kworker/u:0
+root      7     2     0      0     msm_rpm_sm 00000000 D kworker/u:0H
+root      8     2     0      0     cpu_stoppe 00000000 S migration/0
+root      13    2     0      0     rescuer_th 00000000 S khelper
+root      14    2     0      0     rescuer_th 00000000 S netns
+root      15    2     0      0     worker_thr 00000000 S kworker/0:1
+root      17    2     0      0     worker_thr 00000000 S kworker/0:1H
+root      18    2     0      0     rescuer_th 00000000 S modem_notifier
+root      19    2     0      0     rescuer_th 00000000 S smd_channel_clo
+root      20    2     0      0     rescuer_th 00000000 S smsm_cb_wq
+root      22    2     0      0     rescuer_th 00000000 S rpm-smd
+root      23    2     0      0     worker_thr 00000000 S kworker/u:1H
+root      24    2     0      0     irq_thread 00000000 S irq/317-earjack
+root      25    2     0      0     bdi_sync_s 00000000 S sync_supers
+root      26    2     0      0     bdi_forker 00000000 S bdi-default
+root      27    2     0      0     rescuer_th 00000000 S kblockd
+root      28    2     0      0     ion_heap_d 00000000 S vmalloc
+root      29    2     0      0     hub_thread 00000000 S khubd
+root      30    2     0      0     irq_thread 00000000 S irq/102-msm_iom
+root      31    2     0      0     irq_thread 00000000 S irq/102-msm_iom
+root      32    2     0      0     irq_thread 00000000 S irq/102-msm_iom
+root      33    2     0      0     irq_thread 00000000 S irq/79-msm_iomm
+root      34    2     0      0     irq_thread 00000000 S irq/78-msm_iomm
+root      35    2     0      0     irq_thread 00000000 S irq/78-msm_iomm
+root      36    2     0      0     irq_thread 00000000 S irq/74-msm_iomm
+root      37    2     0      0     irq_thread 00000000 S irq/75-msm_iomm
+root      38    2     0      0     irq_thread 00000000 S irq/75-msm_iomm
+root      39    2     0      0     irq_thread 00000000 S irq/75-msm_iomm
+root      40    2     0      0     irq_thread 00000000 S irq/75-msm_iomm
+root      41    2     0      0     irq_thread 00000000 S irq/273-msm_iom
+root      42    2     0      0     irq_thread 00000000 S irq/273-msm_iom
+root      43    2     0      0     irq_thread 00000000 S irq/97-msm_iomm
+root      44    2     0      0     irq_thread 00000000 S irq/97-msm_iomm
+root      45    2     0      0     irq_thread 00000000 S irq/97-msm_iomm
+root      46    2     0      0     rescuer_th 00000000 S l2cap
+root      47    2     0      0     rescuer_th 00000000 S a2mp
+root      48    2     0      0     rescuer_th 00000000 S cfg80211
+root      50    2     0      0     rescuer_th 00000000 S qmi
+root      51    2     0      0     rescuer_th 00000000 S nmea
+root      52    2     0      0     rescuer_th 00000000 S msm_ipc_router
+root      53    2     0      0     rescuer_th 00000000 S apr_driver
+root      55    2     0      0         kswapd 00000000 S kswapd0
+root      56    2     0      0     fsnotify_m 00000000 S fsnotify_mark
+root      57    2     0      0     rescuer_th 00000000 S cifsiod
+root      58    2     0      0     rescuer_th 00000000 S crypto
+root      76    2     0      0     rescuer_th 00000000 S ad_calc_wq
+root      77    2     0      0     rescuer_th 00000000 S hdmi_tx_workq
+root      78    2     0      0     rescuer_th 00000000 S anx7808_work
+root      79    2     0      0     rescuer_th 00000000 S k_hsuart
+root      80    2     0      0     rescuer_th 00000000 S diag_wq
+root      81    2     0      0     rescuer_th 00000000 S diag_cntl_wq
+root      82    2     0      0     rescuer_th 00000000 S diag_dci_wq
+root      83    2     0      0     rescuer_th 00000000 S kgsl-3d0
+root      85    2     0      0     rescuer_th 00000000 S f9966000.spi
+root      89    2     0      0     rescuer_th 00000000 S usbnet
+root      90    2     0      0     irq_thread 00000000 S irq/329-anx7808
+root      91    2     0      0     rescuer_th 00000000 S k_rmnet_mux_wor
+root      92    2     0      0     rescuer_th 00000000 S f_mtp
+root      93    2     0      0     sleep_thre 00000000 S file-storage
+root      94    2     0      0     rescuer_th 00000000 S uether
+root      95    2     0      0     rescuer_th 00000000 S synaptics_wq
+root      96    2     0      0     irq_thread 00000000 S irq/362-s3350
+root      97    2     0      0     rescuer_th 00000000 S msm_vidc_worker
+root      98    2     0      0     rescuer_th 00000000 S msm_vidc_worker
+root      100   2     0      0     rescuer_th 00000000 S msm_cpp_workque
+root      101   2     0      0     irq_thread 00000000 S irq/350-bq51013
+root      103   2     0      0     rescuer_th 00000000 S dm_bufio_cache
+root      104   2     0      0     dbs_sync_t 00000000 D dbs_sync/0
+root      105   2     0      0     dbs_sync_t 00000000 D dbs_sync/1
+root      106   2     0      0     dbs_sync_t 00000000 D dbs_sync/2
+root      107   2     0      0     dbs_sync_t 00000000 D dbs_sync/3
+root      108   2     0      0     cpufreq_in 00000000 S cfinteractive
+root      109   2     0      0     irq_thread 00000000 S irq/170-msm_sdc
+root      110   2     0      0     rescuer_th 00000000 S binder
+root      111   2     0      0     rescuer_th 00000000 S usb_bam_wq
+root      112   2     0      0     rfcomm_run 00000000 S krfcommd
+root      113   2     0      0     rescuer_th 00000000 S bam_dmux_rx
+root      114   2     0      0     rescuer_th 00000000 S bam_dmux_tx
+root      115   2     0      0     rescuer_th 00000000 S rq_stats
+root      116   2     0      0     rescuer_th 00000000 S deferwq
+root      117   2     0      0     worker_thr 00000000 S kworker/u:3
+root      118   2     0      0     irq_thread 00000000 S irq/361-MAX1704
+root      120   2     0      0     mmc_queue_ 00000000 S mmcqd/1
+root      121   2     0      0     mmc_queue_ 00000000 S mmcqd/1rpmb
+root      122   2     0      0     down_inter 00000000 S wl_event_handle
+root      123   2     0      0     down_inter 00000000 S dhd_watchdog_th
+root      124   2     0      0     down_inter 00000000 S dhd_dpc
+root      125   2     0      0     down_inter 00000000 S dhd_rxf
+root      126   2     0      0     down_inter 00000000 S dhd_sysioc
+root      127   2     0      0     rescuer_th 00000000 S vibrator
+root      128   2     0      0     rescuer_th 00000000 S max1462x
+root      129   2     0      0     irq_thread 00000000 S irq/310-maxim_m
+root      130   2     0      0     irq_thread 00000000 S irq/311-maxim_m
+root      131   1     1956   660   poll_sched 00000000 S /sbin/ueventd
+root      133   2     0      0     kjournald2 00000000 S jbd2/mmcblk0p25
+root      134   2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      137   2     0      0     bdi_writeb 00000000 S flush-179:0
+root      139   2     0      0     kjournald2 00000000 S jbd2/mmcblk0p28
+root      140   2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      144   2     0      0     kjournald2 00000000 S jbd2/mmcblk0p27
+root      145   2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      146   2     0      0     kjournald2 00000000 S jbd2/mmcblk0p16
+root      147   2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      148   1     10156  2432  sys_rt_sig 00000000 S /system/bin/logd
+root      149   1     9136   2136  hrtimer_na 00000000 S /system/bin/vold
+root      167   149   9136   2136  poll_sched 00000000 S vold
+root      168   149   9136   2136  poll_sched 00000000 S vold
+root      169   149   9136   2136  poll_sched 00000000 S vold
+root      154   2     0      0     kauditd_th 00000000 S kauditd
+root      184   2     0      0     rescuer_th 00000000 S IPCRTR
+root      185   2     0      0     rescuer_th 00000000 S sb-1
+root      186   2     0      0     rescuer_th 00000000 S ipc_rtr_q6_ipcr
+root      188   2     0      0     ngd_slim_r 00000000 S ngd_msm_ctrl_ng
+root      206   2     0      0     kthread_wo 00000000 S msm_slim_qmi_cl
+root      207   2     0      0     rescuer_th 00000000 S msm_qmi_rtx_q
+root      210   2     0      0     irq_thread 00000000 S irq/288-wcd9xxx
+root      220   2     0      0     loop_threa 00000000 S loop0
+root      223   2     0      0     kjournald2 00000000 S jbd2/loop0-8
+root      224   2     0      0     rescuer_th 00000000 S ext4-dio-unwrit
+root      237   1     2536   440   __skb_recv 00000000 S daemonsu:mount:master
+root      240   2     0      0     worker_thr 00000000 S kworker/0:2H
+root      250   1     4856   508   __skb_recv 00000000 S daemonsu:master
+root      2351  250   4856   508      do_wait 00000000 S daemonsu
+root      5251  250   4856   508      do_wait 00000000 S daemonsu
+root      277   1     2460   332   sys_epoll_ 00000000 S /sbin/healthd
+root      278   1     3064   1084  sys_epoll_ 00000000 S /system/bin/lmkd
+system    279   1     3016   1104  binder_thr 00000000 S /system/bin/servicemanager
+system    280   1     100712 10664 sys_epoll_ 00000000 S /system/bin/surfaceflinger
+system    410   280   100712 10664 binder_thr 00000000 S Binder_1
+system    411   280   100712 10664 futex_wait 00000000 S DispSync
+system    412   280   100712 10664 binder_thr 00000000 S Binder_2
+system    429   280   100712 10664 do_sigtime 00000000 S POSIX timer 1
+system    430   280   100712 10664 futex_wait 00000000 S EventThread
+system    431   280   100712 10664 do_sigtime 00000000 S POSIX timer 2
+system    432   280   100712 10664 futex_wait 00000000 S EventThread
+system    455   280   100712 10664 poll_sched 00000000 S hwcUeventThread
+system    456   280   100712 10664 poll_sched 00000000 S hwcVsyncThread
+system    469   280   100712 10664 futex_wait 00000000 S GL updater
+system    470   280   100712 10664 futex_wait 00000000 S EventControl
+system    546   280   100712 10664 binder_thr 00000000 S Binder_3
+system    1435  280   100712 10664 binder_thr 00000000 S Binder_4
+system    1511  280   100712 10664 binder_thr 00000000 S Binder_5
+system    5424  280   100712 10664 futex_wait 00000000 S surfaceflinger
+nobody    281   1     9292   1148  poll_sched 00000000 S /system/bin/rmt_storage
+nobody    573   281   9292   1148  futex_wait 00000000 S rmt_storage
+nobody    575   281   9292   1148  futex_wait 00000000 S rmt_storage
+nobody    576   281   9292   1148  futex_wait 00000000 S rmt_storage
+nobody    577   281   9292   1148  futex_wait 00000000 S rmt_storage
+system    282   1     4172   1204     do_wait 00000000 S /system/bin/qseecomd
+root      283   1     14664  1896  hrtimer_na 00000000 S /system/bin/netd
+root      871   283   14664  1896  poll_sched 00000000 S netd
+root      872   283   14664  1896  poll_sched 00000000 S netd
+root      873   283   14664  1896  poll_sched 00000000 S netd
+root      874   283   14664  1896  poll_sched 00000000 S netd
+root      875   283   14664  1896  poll_sched 00000000 S netd
+root      876   283   14664  1896  poll_sched 00000000 S netd
+root      877   283   14664  1896  poll_sched 00000000 S netd
+root      878   283   14664  1896  poll_sched 00000000 S netd
+root      879   283   14664  1896  poll_sched 00000000 S netd
+root      284   1     3096   1060  __skb_recv 00000000 S /system/bin/debuggerd
+radio     285   1     26408  5000  hrtimer_na 00000000 S /system/bin/rild
+radio     405   285   26408  5000  poll_sched 00000000 S rild
+radio     409   285   26408  5000  poll_sched 00000000 S rild
+radio     666   285   26408  5000  poll_sched 00000000 S rild
+radio     668   285   26408  5000  poll_sched 00000000 S rild
+radio     672   285   26408  5000  futex_wait 00000000 S rild
+radio     674   285   26408  5000  futex_wait 00000000 S rild
+radio     675   285   26408  5000  poll_sched 00000000 S rild
+radio     678   285   26408  5000  poll_sched 00000000 S rild
+radio     679   285   26408  5000  poll_sched 00000000 S rild
+radio     681   285   26408  5000  poll_sched 00000000 S rild
+radio     682   285   26408  5000  unix_strea 00000000 S rild
+drm       286   1     17148  5616  binder_thr 00000000 S /system/bin/drmserver
+drm       454   286   17148  5616  binder_thr 00000000 S Binder_1
+drm       2278  286   17148  5616  binder_thr 00000000 S Binder_2
+media     287   1     82760  12152 binder_thr 00000000 S /system/bin/mediaserver
+media     909   287   82760  12152 futex_wait 00000000 S ApmTone
+media     910   287   82760  12152 futex_wait 00000000 S ApmAudio
+media     911   287   82760  12152 futex_wait 00000000 S ApmOutput
+media     912   287   82760  12152 futex_wait 00000000 S FastMixer
+media     913   287   82760  12152 futex_wait 00000000 S AudioOut_2
+media     914   287   82760  12152 futex_wait 00000000 S AudioOut_4
+media     915   287   82760  12152 futex_wait 00000000 S FastMixer
+media     916   287   82760  12152 futex_wait 00000000 S AudioOut_6
+media     920   287   82760  12152 binder_thr 00000000 S Binder_1
+media     994   287   82760  12152 binder_thr 00000000 S Binder_2
+media     3961  287   82760  12152 binder_thr 00000000 S Binder_3
+root      288   1     2744   1032  unix_strea 00000000 S /system/bin/installd
+keystore  290   1     5764   2028  binder_thr 00000000 S /system/bin/keystore
+radio     291   1     7552   984   futex_wait 00000000 S /system/bin/bridgemgrd
+radio     700   291   7552   984   poll_sched 00000000 S bridgemgrd
+radio     701   291   7552   984   futex_wait 00000000 S bridgemgrd
+radio     986   291   7552   984   __skb_recv 00000000 S bridgemgrd
+radio     292   1     12540  1124  poll_sched 00000000 S /system/bin/qmuxd
+radio     622   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     651   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     653   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     654   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     655   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     656   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     657   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     658   292   12540  1124  poll_sched 00000000 S qmuxd
+radio     293   1     8504   1148  futex_wait 00000000 S /system/bin/netmgrd
+radio     880   293   8504   1148  futex_wait 00000000 S netmgrd
+radio     897   293   8504   1148  poll_sched 00000000 S netmgrd
+radio     898   293   8504   1148  poll_sched 00000000 S netmgrd
+radio     899   293   8504   1148  poll_sched 00000000 S netmgrd
+nobody    294   1     53376  1960  poll_sched 00000000 S /system/bin/sensors.qcom
+nobody    332   294   53376  1960  do_sigtime 00000000 S sensors.qcom
+nobody    562   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    567   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    568   294   53376  1960  futex_wait 00000000 S sensors.qcom
+nobody    726   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    738   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    746   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    747   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    748   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    749   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    750   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    751   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    752   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    753   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    754   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    759   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    771   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    779   294   53376  1960  futex_wait 00000000 S sensors.qcom
+nobody    782   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    921   294   53376  1960  futex_wait 00000000 S sensors.qcom
+nobody    924   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    929   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    935   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    937   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    939   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    941   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    943   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    945   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    947   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    949   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    951   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    953   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    955   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    957   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    959   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    961   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    963   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    965   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    967   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    969   294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    1004  294   53376  1960  poll_sched 00000000 S sensors.qcom
+nobody    1014  294   53376  1960  poll_sched 00000000 S sensors.qcom
+root      297   1     50400  1624  sys_rt_sig 00000000 S /system/bin/thermal-engine-hh
+root      345   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      347   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      350   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      351   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      352   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      353   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      354   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      355   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      356   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      357   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      358   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      359   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      360   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      361   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      362   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      363   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      364   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      365   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      366   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      367   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      368   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      369   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      370   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      371   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      372   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      373   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      374   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      375   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      376   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      378   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      379   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      380   297   50400  1624  hrtimer_na 00000000 S thermal-engine-
+root      381   297   50400  1624  hrtimer_na 00000000 S thermal-engine-
+root      382   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      384   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      385   297   50400  1624  futex_wait 00000000 S thermal-engine-
+root      386   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      387   297   50400  1624  do_sigtime 00000000 S POSIX timer 0
+root      713   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      717   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      719   297   50400  1624  poll_sched 00000000 S thermal-engine-
+root      298   1     1514008 61324 poll_sched 00000000 S zygote
+root      4987  298   1514008 61324 futex_wait 00000000 S ReferenceQueueD
+root      4988  298   1514008 61324 futex_wait 00000000 S FinalizerDaemon
+root      4989  298   1514008 61324 futex_wait 00000000 S FinalizerWatchd
+root      4990  298   1514008 61324 futex_wait 00000000 S HeapTaskDaemon
+system    299   1     5268   1676  binder_thr 00000000 S /system/bin/gatekeeperd
+camera    300   1     12244  5284  poll_sched 00000000 S /system/bin/mm-qcamera-daemon
+system    301   1     9016   1308  futex_wait 00000000 S /system/bin/time_daemon
+system    404   301   9016   1308  poll_sched 00000000 S time_daemon
+system    714   301   9016   1308  poll_sched 00000000 S time_daemon
+system    715   301   9016   1308  futex_wait 00000000 S time_daemon
+system    716   301   9016   1308  __skb_recv 00000000 S time_daemon
+shell     303   1     6812   264   poll_sched 00000000 S /sbin/adbd
+shell     304   303   6812   264   futex_wait 00000000 S adbd
+shell     305   303   6812   264   unix_strea 00000000 S adbd
+shell     306   303   6812   264     adb_read 00000000 S adbd
+shell     5475  303   6812   264      do_wait 00000000 S adbd
+shell     5526  303   6812   264      do_wait 00000000 S adbd
+system    316   282   8392   684   sys_rt_sig 00000000 S /system/bin/qseecomd
+system    317   316   8392   684   qseecom_io 00000000 S qseecomd
+system    318   316   8392   684   qseecom_io 00000000 S qseecomd
+system    326   316   8392   684   qseecom_io 00000000 S qseecomd
+system    327   316   8392   684   qseecom_io 00000000 S qseecomd
+root      388   2     0      0     do_hotplug 00000000 D msm_thermal:hot
+root      389   2     0      0     do_freq_mi 00000000 D msm_thermal:fre
+root      453   2     0      0     __mdss_fb_ 00000000 D mdss_fb0
+root      560   2     0      0     rescuer_th 00000000 S IPCRTR
+root      561   2     0      0     rescuer_th 00000000 S ipc_rtr_smd_ipc
+system    881   298   1733828 121480 sys_epoll_ 00000000 S system_server
+system    886   881   1733828 121480 do_sigtime 00000000 S Signal Catcher
+system    887   881   1733828 121480 futex_wait 00000000 S ReferenceQueueD
+system    888   881   1733828 121480 futex_wait 00000000 S FinalizerDaemon
+system    889   881   1733828 121480 futex_wait 00000000 S FinalizerWatchd
+system    890   881   1733828 121480 futex_wait 00000000 S HeapTaskDaemon
+system    891   881   1733828 121480 binder_thr 00000000 S Binder_1
+system    892   881   1733828 121480 binder_thr 00000000 S Binder_2
+system    893   881   1733828 121480 sys_epoll_ 00000000 S android.bg
+system    894   881   1733828 121480 sys_epoll_ 00000000 S ActivityManager
+system    895   881   1733828 121480 sys_epoll_ 00000000 S android.ui
+system    896   881   1733828 121480 sys_epoll_ 00000000 S android.fg
+system    900   881   1733828 121480 inotify_re 00000000 S FileObserver
+system    901   881   1733828 121480 sys_epoll_ 00000000 S android.io
+system    902   881   1733828 121480 sys_epoll_ 00000000 S android.display
+system    903   881   1733828 121480 futex_wait 00000000 S CpuTracker
+system    904   881   1733828 121480 sys_epoll_ 00000000 S PowerManagerSer
+system    905   881   1733828 121480 poll_sched 00000000 S system_server
+system    906   881   1733828 121480 pm_get_wak 00000000 S system_server
+system    907   881   1733828 121480 futex_wait 00000000 S BatteryStats_wa
+system    908   881   1733828 121480 sys_epoll_ 00000000 S PackageManager
+system    926   881   1733828 121480            00000000 R PackageInstalle
+system    927   881   1733828 121480 poll_sched 00000000 S system_server
+system    928   881   1733828 121480 futex_wait 00000000 S system_server
+system    930   881   1733828 121480 futex_wait 00000000 S system_server
+system    931   881   1733828 121480 futex_wait 00000000 S system_server
+system    933   881   1733828 121480 futex_wait 00000000 S system_server
+system    934   881   1733828 121480 futex_wait 00000000 S system_server
+system    936   881   1733828 121480 futex_wait 00000000 S system_server
+system    938   881   1733828 121480 futex_wait 00000000 S system_server
+system    940   881   1733828 121480 futex_wait 00000000 S system_server
+system    942   881   1733828 121480 futex_wait 00000000 S system_server
+system    944   881   1733828 121480 futex_wait 00000000 S system_server
+system    946   881   1733828 121480 futex_wait 00000000 S system_server
+system    948   881   1733828 121480 futex_wait 00000000 S system_server
+system    950   881   1733828 121480 futex_wait 00000000 S system_server
+system    952   881   1733828 121480 futex_wait 00000000 S system_server
+system    954   881   1733828 121480 futex_wait 00000000 S system_server
+system    956   881   1733828 121480 futex_wait 00000000 S system_server
+system    958   881   1733828 121480 futex_wait 00000000 S system_server
+system    960   881   1733828 121480 futex_wait 00000000 S system_server
+system    962   881   1733828 121480 futex_wait 00000000 S system_server
+system    964   881   1733828 121480 futex_wait 00000000 S system_server
+system    966   881   1733828 121480 futex_wait 00000000 S system_server
+system    968   881   1733828 121480 futex_wait 00000000 S system_server
+system    971   881   1733828 121480 sys_epoll_ 00000000 S SensorEventAckR
+system    972   881   1733828 121480 futex_wait 00000000 S SensorService
+system    973   881   1733828 121480 sys_epoll_ 00000000 S CameraService_p
+system    974   881   1733828 121480 alarm_ioct 00000000 S AlarmManager
+system    975   881   1733828 121480 poll_sched 00000000 S UEventObserver
+system    976   881   1733828 121480 sys_epoll_ 00000000 S InputDispatcher
+system    977   881   1733828 121480 sys_epoll_ 00000000 S InputReader
+system    978   881   1733828 121480 sys_epoll_ 00000000 S MountService
+system    979   881   1733828 121480 unix_strea 00000000 S VoldConnector
+system    980   881   1733828 121480 unix_strea 00000000 S CryptdConnector
+system    981   881   1733828 121480 unix_strea 00000000 S NetdConnector
+system    982   881   1733828 121480 sys_epoll_ 00000000 S NetworkStats
+system    983   881   1733828 121480 sys_epoll_ 00000000 S NetworkPolicy
+system    984   881   1733828 121480 sys_epoll_ 00000000 S WifiP2pService
+system    985   881   1733828 121480 sys_epoll_ 00000000 S WifiStateMachin
+system    987   881   1733828 121480 sys_epoll_ 00000000 S WifiService
+system    988   881   1733828 121480 sys_epoll_ 00000000 S ConnectivitySer
+system    989   881   1733828 121480 sys_epoll_ 00000000 S NsdService
+system    990   881   1733828 121480 unix_strea 00000000 S mDnsConnector
+system    991   881   1733828 121480 sys_epoll_ 00000000 S ranker
+system    992   881   1733828 121480 sys_epoll_ 00000000 S notification-sq
+system    993   881   1733828 121480 sys_epoll_ 00000000 S AudioService
+system    997   881   1733828 121480 sys_epoll_ 00000000 S WifiWatchdogSta
+system    998   881   1733828 121480 sys_epoll_ 00000000 S WifiManager
+system    999   881   1733828 121480 sys_epoll_ 00000000 S WifiScanningSer
+system    1000  881   1733828 121740 sys_epoll_ 00000000 S WifiRttService
+system    1001  881   1733828 121740 sys_epoll_ 00000000 S EthernetService
+system    1002  881   1733828 121740 sys_epoll_ 00000000 S backup
+system    1003  881   1733828 121740 futex_wait 00000000 S PhotonicModulat
+system    1005  881   1733828 121740 futex_wait 00000000 S LazyTaskWriterT
+system    1007  881   1733828 121740 inotify_re 00000000 S UsbService host
+system    1008  881   1733828 121740 __skb_recv 00000000 S Thread-60
+system    1060  881   1733828 121740 binder_thr 00000000 S Binder_3
+system    1071  881   1733828 121740 poll_sched 00000000 S Thread-62
+system    1121  881   1733828 121740 binder_thr 00000000 S Binder_4
+system    1127  881   1733828 121740 poll_sched 00000000 S WifiMonitor
+system    1131  881   1733828 121740 sys_epoll_ 00000000 S SyncHandler-0
+system    1146  881   1733828 121740 sys_epoll_ 00000000 S WifiScanner
+system    1266  881   1733828 121740 sys_epoll_ 00000000 S NetworkMonitorN
+system    1268  881   1733828 121740 __skb_recv 00000000 S Thread-68
+system    1303  881   1733828 121740 sys_epoll_ 00000000 S DhcpClient
+system    1305  881   1733828 121740 __skb_recv 00000000 S Thread-70
+system    1330  881   1733828 121740 futex_wait 00000000 S watchdog
+system    1336  881   1733828 121740 binder_thr 00000000 S Binder_5
+system    1345  881   1733828 121740 futex_wait 00000000 S SoundPool
+system    1346  881   1733828 121740 futex_wait 00000000 S SoundPoolThread
+system    1352  881   1733828 121740 futex_wait 00000000 S Okio Watchdog
+system    1382  881   1733828 121740 binder_thr 00000000 S Binder_6
+system    1387  881   1733828 121740 futex_wait 00000000 S FLP Service Cal
+system    1390  881   1733828 121740 poll_sched 00000000 S FLP Service Cal
+system    1391  881   1733828 121740 sys_epoll_ 00000000 S NetworkTimeUpda
+system    1393  881   1733828 121740 futex_wait 00000000 S AsyncTask #1
+system    1394  881   1733828 121740 futex_wait 00000000 S AsyncTask #2
+system    1420  881   1733828 121740 poll_sched 00000000 S FLP Service Cal
+system    1437  881   1733828 121740 poll_sched 00000000 S FLP Service Cal
+system    1438  881   1733828 121740 futex_wait 00000000 S FLP Service Cal
+system    1452  881   1733828 121740 futex_wait 00000000 S FLP Service Cal
+system    1453  881   1733828 121740 poll_sched 00000000 S FLP Service Cal
+system    1468  881   1733828 121740 binder_thr 00000000 S Binder_7
+system    1476  881   1733828 121740 binder_thr 00000000 S Binder_8
+system    1477  881   1733828 121740 binder_thr 00000000 S Binder_9
+system    1482  881   1733828 121740 sys_epoll_ 00000000 S AsyncQueryWorke
+system    1627  881   1733828 121740 futex_wait 00000000 S AsyncTask #3
+system    1782  881   1733828 121740 unix_strea 00000000 S UsbDebuggingMan
+system    2088  881   1733828 121740 futex_wait 00000000 S PowerManagerSer
+system    2237  881   1733828 121740 futex_wait 00000000 S AsyncTask #4
+system    2246  881   1733828 121740 futex_wait 00000000 S pool-1-thread-1
+system    2443  881   1733828 121740 binder_thr 00000000 S Binder_A
+system    2444  881   1733828 121740 binder_thr 00000000 S Binder_B
+system    2608  881   1733828 121740 binder_thr 00000000 S Binder_C
+system    2956  881   1733828 121740 binder_thr 00000000 S Binder_D
+system    2957  881   1733828 121740 binder_thr 00000000 S Binder_E
+system    2958  881   1733828 121740 binder_thr 00000000 S Binder_F
+system    2960  881   1733828 121740 binder_thr 00000000 S Binder_10
+system    5034  881   1733828 121740 futex_wait 00000000 S AudioTrack
+media_rw  1006  149   6504   1776  inotify_re 00000000 S /system/bin/sdcard
+media_rw  1016  1006  6504   1776  fuse_dev_d 00000000 S sdcard
+media_rw  1017  1006  6504   1776  fuse_dev_d 00000000 S sdcard
+media_rw  1018  1006  6504   1776  fuse_dev_d 00000000 S sdcard
+u0_a24    1024  298   1017140 101648 sys_epoll_ 00000000 S com.android.systemui
+u0_a24    1031  1024  1017140 101648 do_sigtime 00000000 S Signal Catcher
+u0_a24    1032  1024  1017140 101648 futex_wait 00000000 S ReferenceQueueD
+u0_a24    1033  1024  1017140 101648 futex_wait 00000000 S FinalizerDaemon
+u0_a24    1034  1024  1017140 101648 futex_wait 00000000 S FinalizerWatchd
+u0_a24    1035  1024  1017140 101648 futex_wait 00000000 S HeapTaskDaemon
+u0_a24    1036  1024  1017140 101648 binder_thr 00000000 S Binder_1
+u0_a24    1042  1024  1017140 101648 binder_thr 00000000 S Binder_2
+u0_a24    1086  1024  1017140 101648 futex_wait 00000000 S SoundPool
+u0_a24    1087  1024  1017140 101648 futex_wait 00000000 S SoundPoolThread
+u0_a24    1095  1024  1017140 101648 sys_epoll_ 00000000 S Recents-SystemS
+u0_a24    1098  1024  1017140 101648 futex_wait 00000000 S Recents-TaskRes
+u0_a24    1190  1024  1017140 101648 sys_epoll_ 00000000 S VolumeDialogCon
+u0_a24    1209  1024  1017140 101648 futex_wait 00000000 S pool-1-thread-1
+u0_a24    1213  1024  1017140 101648 sys_epoll_ 00000000 S Keyboard
+u0_a24    1243  1024  1017140 101648 sys_epoll_ 00000000 S WifiManager
+u0_a24    1301  1024  1017140 101648 sys_epoll_ 00000000 S PhoneStatusBar
+u0_a24    1306  1024  1017140 101648 binder_thr 00000000 S Binder_3
+u0_a24    1309  1024  1017140 101648 sys_epoll_ 00000000 S ConnectivityMan
+u0_a24    1314  1024  1017140 101648 sys_epoll_ 00000000 S FlashlightContr
+u0_a24    1316  1024  1017140 101648 futex_wait 00000000 S AsyncTask #1
+u0_a24    1317  1024  1017140 101648 sys_epoll_ 00000000 S QSTileHost
+u0_a24    1318  1024  1017140 101648 futex_wait 00000000 S AsyncTask #2
+u0_a24    1327  1024  1017140 101648 futex_wait 00000000 S AsyncTask #3
+u0_a24    1328  1024  1017140 101648 sys_epoll_ 00000000 S RenderThread
+u0_a24    1505  1024  1017140 101648 futex_wait 00000000 S hwuiTask1
+u0_a24    1506  1024  1017140 101648 futex_wait 00000000 S hwuiTask2
+u0_a24    1606  1024  1017140 101648 futex_wait 00000000 S AsyncTask #4
+u0_a24    1607  1024  1017140 101648 futex_wait 00000000 S AsyncTask #5
+u0_a24    1781  1024  1017140 101648 futex_wait 00000000 S RenderThread
+u0_a24    5007  1024  1017140 101648 futex_wait 00000000 S GL updater
+u0_a24    5027  1024  1017140 101648 futex_wait 00000000 S GL updater
+u0_a7     1037  298   874452 48932 sys_epoll_ 00000000 S android.process.media
+u0_a7     1043  1037  874452 48932 do_sigtime 00000000 S Signal Catcher
+u0_a7     1044  1037  874452 48932 futex_wait 00000000 S ReferenceQueueD
+u0_a7     1045  1037  874452 48932 futex_wait 00000000 S FinalizerDaemon
+u0_a7     1046  1037  874452 48932 futex_wait 00000000 S FinalizerWatchd
+u0_a7     1047  1037  874452 48932 futex_wait 00000000 S HeapTaskDaemon
+u0_a7     1048  1037  874452 48932 binder_thr 00000000 S Binder_1
+u0_a7     1054  1037  874452 48932 binder_thr 00000000 S Binder_2
+u0_a7     1070  1037  874452 48932 sys_epoll_ 00000000 S DownloadProvide
+u0_a7     1093  1037  874452 48932 sys_epoll_ 00000000 S thumbs thread
+u0_a7     1103  1037  874452 48932   mtp_read 00000000 S MtpServer
+u0_a7     1672  1037  874452 48932 sys_epoll_ 00000000 S DownloadReceive
+u0_a7     2274  1037  874452 48932 binder_thr 00000000 S Binder_3
+u0_a7     5430  1037  874452 48932 futex_wait 00000000 S pool-5-thread-1
+u0_a7     5439  1037  874452 48932 futex_wait 00000000 S Okio Watchdog
+wifi      1072  1     5740   2640  poll_sched 00000000 S /system/bin/wpa_supplicant
+radio     1166  298   865556 35660 sys_epoll_ 00000000 S com.redbend.vdmc
+radio     1170  1166  865556 35660 do_sigtime 00000000 S Signal Catcher
+radio     1173  1166  865556 35660 futex_wait 00000000 S ReferenceQueueD
+radio     1177  1166  865556 35660 futex_wait 00000000 S FinalizerDaemon
+radio     1178  1166  865556 35660 futex_wait 00000000 S FinalizerWatchd
+radio     1179  1166  865556 35660 futex_wait 00000000 S HeapTaskDaemon
+radio     1180  1166  865556 35660 binder_thr 00000000 S Binder_1
+radio     1182  1166  865556 35660 binder_thr 00000000 S Binder_2
+u0_a26    1349  298   1638176 48836 sys_epoll_ 00000000 S com.google.android.googlequicksearchbox:interactor
+u0_a26    1355  1349  1638176 48836 do_sigtime 00000000 S Signal Catcher
+u0_a26    1356  1349  1638176 48836 futex_wait 00000000 S ReferenceQueueD
+u0_a26    1357  1349  1638176 48836 futex_wait 00000000 S FinalizerDaemon
+u0_a26    1358  1349  1638176 48836 futex_wait 00000000 S FinalizerWatchd
+u0_a26    1359  1349  1638176 48836 futex_wait 00000000 S HeapTaskDaemon
+u0_a26    1360  1349  1638176 48836 binder_thr 00000000 S Binder_1
+u0_a26    1362  1349  1638176 48836 binder_thr 00000000 S Binder_2
+u0_a26    1657  1349  1638176 48836 futex_wait 00000000 S AsyncTask #1
+u0_a26    3606  1349  1638176 48836 futex_wait 00000000 S pool-3-thread-1
+u0_a55    1365  298   927384 64036 sys_epoll_ 00000000 S com.google.android.inputmethod.korean
+u0_a55    1372  1365  927384 64036 do_sigtime 00000000 S Signal Catcher
+u0_a55    1373  1365  927384 64036 futex_wait 00000000 S ReferenceQueueD
+u0_a55    1374  1365  927384 64036 futex_wait 00000000 S FinalizerDaemon
+u0_a55    1375  1365  927384 64036 futex_wait 00000000 S FinalizerWatchd
+u0_a55    1376  1365  927384 64036 futex_wait 00000000 S HeapTaskDaemon
+u0_a55    1379  1365  927384 64036 binder_thr 00000000 S Binder_1
+u0_a55    1381  1365  927384 64036 binder_thr 00000000 S Binder_2
+u0_a55    1456  1365  927384 64036 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a55    1532  1365  927384 64036 sys_epoll_ 00000000 S MetricsManager
+u0_a55    1545  1365  927384 64036 sys_epoll_ 00000000 S DownloadManager
+u0_a55    1585  1365  927384 64036 futex_wait 00000000 S pool-1-thread-1
+u0_a55    1586  1365  927384 64036 futex_wait 00000000 S AsyncTask #1
+u0_a55    5178  1365  927384 64036 sys_epoll_ 00000000 S Delight4Decoder
+u0_a55    5179  1365  927384 64036 futex_wait 00000000 S Delight4Facilit
+u0_a55    5182  1365  927384 64036 sys_epoll_ 00000000 S RenderThread
+u0_a55    5189  1365  927384 64036 futex_wait 00000000 S AsyncTask #2
+u0_a55    5198  1365  927384 64036 futex_wait 00000000 S hwuiTask1
+u0_a55    5199  1365  927384 64036 futex_wait 00000000 S hwuiTask2
+u0_a55    5219  1365  927384 64036 binder_thr 00000000 S Binder_3
+nfc       1397  298   890644 46228 sys_epoll_ 00000000 S com.android.nfc
+nfc       1403  1397  890644 46228 do_sigtime 00000000 S Signal Catcher
+nfc       1405  1397  890644 46228 futex_wait 00000000 S ReferenceQueueD
+nfc       1406  1397  890644 46228 futex_wait 00000000 S FinalizerDaemon
+nfc       1407  1397  890644 46228 futex_wait 00000000 S FinalizerWatchd
+nfc       1408  1397  890644 46228 futex_wait 00000000 S HeapTaskDaemon
+nfc       1409  1397  890644 46228 binder_thr 00000000 S Binder_1
+nfc       1414  1397  890644 46228 binder_thr 00000000 S Binder_2
+nfc       1516  1397  890644 46228 futex_wait 00000000 S AsyncTask #1
+nfc       1518  1397  890644 46228 futex_wait 00000000 S AsyncTask #1
+nfc       1520  1397  890644 46228 futex_wait 00000000 S AsyncTask #1
+nfc       1521  1397  890644 46228 futex_wait 00000000 S AsyncTask #1
+nfc       1522  1397  890644 46228 futex_wait 00000000 S AsyncTask #1
+nfc       1523  1397  890644 46228 poll_sched 00000000 S AsyncTask #1
+nfc       1548  1397  890644 46228 futex_wait 00000000 S Thread-57
+nfc       1549  1397  890644 46228 futex_wait 00000000 S Thread-58
+nfc       1550  1397  890644 46228 futex_wait 00000000 S Thread-59
+nfc       1552  1397  890644 46228 futex_wait 00000000 S SoundPool
+nfc       1553  1397  890644 46228 futex_wait 00000000 S SoundPoolThread
+nfc       2145  1397  890644 46228 futex_wait 00000000 S AsyncTask #2
+nfc       2157  1397  890644 46228 futex_wait 00000000 S AsyncTask #3
+nfc       4968  1397  890644 46228 futex_wait 00000000 S AsyncTask #4
+nfc       4985  1397  890644 46228 futex_wait 00000000 S AsyncTask #5
+radio     1415  298   906468 54920 sys_epoll_ 00000000 S com.android.phone
+radio     1422  1415  906468 54920 do_sigtime 00000000 S Signal Catcher
+radio     1423  1415  906468 54920 futex_wait 00000000 S ReferenceQueueD
+radio     1424  1415  906468 54920 futex_wait 00000000 S FinalizerDaemon
+radio     1425  1415  906468 54920 futex_wait 00000000 S FinalizerWatchd
+radio     1426  1415  906468 54920 futex_wait 00000000 S HeapTaskDaemon
+radio     1428  1415  906468 54920 binder_thr 00000000 S Binder_1
+radio     1429  1415  906468 54920 binder_thr 00000000 S Binder_2
+radio     1493  1415  906468 54920 futex_wait 00000000 S pool-1-thread-1
+radio     1503  1415  906468 54920 sys_epoll_ 00000000 S RILSender0
+radio     1504  1415  906468 54920 unix_strea 00000000 S RILReceiver0
+radio     1513  1415  906468 54920 sys_epoll_ 00000000 S DcHandlerThread
+radio     1524  1415  906468 54920 sys_epoll_ 00000000 S GsmCellBroadcas
+radio     1525  1415  906468 54920 sys_epoll_ 00000000 S GsmInboundSmsHa
+radio     1526  1415  906468 54920 sys_epoll_ 00000000 S CellBroadcastHa
+radio     1527  1415  906468 54920 sys_epoll_ 00000000 S CdmaInboundSmsH
+radio     1528  1415  906468 54920 sys_epoll_ 00000000 S CdmaServiceCate
+radio     1530  1415  906468 54920 sys_epoll_ 00000000 S DcSwitchStateMa
+radio     1531  1415  906468 54920 sys_epoll_ 00000000 S SyncHandler-0
+radio     1547  1415  906468 54920 binder_thr 00000000 S Binder_3
+radio     1556  1415  906468 54920 futex_wait 00000000 S AsyncTask #1
+radio     1580  1415  906468 54920 sys_epoll_ 00000000 S ervice.Executor
+radio     1581  1415  906468 54920 sys_epoll_ 00000000 S WifiManager
+radio     1605  1415  906468 54920 binder_thr 00000000 S Binder_4
+u0_a26    1430  298   1690360 78168 sys_epoll_ 00000000 S com.google.android.googlequicksearchbox
+u0_a26    1436  1430  1690360 78168 do_sigtime 00000000 S Signal Catcher
+u0_a26    1440  1430  1690360 78168 futex_wait 00000000 S ReferenceQueueD
+u0_a26    1441  1430  1690360 78168 futex_wait 00000000 S FinalizerDaemon
+u0_a26    1442  1430  1690360 78168 futex_wait 00000000 S FinalizerWatchd
+u0_a26    1443  1430  1690360 78168 futex_wait 00000000 S HeapTaskDaemon
+u0_a26    1444  1430  1690360 78168 binder_thr 00000000 S Binder_1
+u0_a26    1455  1430  1690360 78168 binder_thr 00000000 S Binder_2
+u0_a26    1571  1430  1690360 78168 sys_epoll_ 00000000 S launcher-loader
+u0_a26    1583  1430  1690360 78168 futex_wait 00000000 S pool-2-thread-1
+u0_a26    1614  1430  1690360 78168 sys_epoll_ 00000000 S app-search
+u0_a26    1621  1430  1690360 78168 sys_epoll_ 00000000 S RenderThread
+u0_a26    1641  1430  1690360 78168 futex_wait 00000000 S hwuiTask1
+u0_a26    1644  1430  1690360 78168 binder_thr 00000000 S Binder_3
+u0_a26    1652  1430  1690360 78168 futex_wait 00000000 S pool-3-thread-1
+u0_a26    2198  1430  1690360 78168 futex_wait 00000000 S GELServices0
+u0_a26    2459  1430  1690360 78168 futex_wait 00000000 S pool-2-thread-2
+u0_a26    2523  1430  1690360 78168 futex_wait 00000000 S RenderThread
+u0_a26    2524  1430  1690360 78168 futex_wait 00000000 S RenderThread
+u0_a26    2525  1430  1690360 78168 futex_wait 00000000 S RenderThread
+u0_a26    2526  1430  1690360 78168 unix_strea 00000000 S RenderThread
+u0_a26    3819  1430  1690360 78168 futex_wait 00000000 S GELServices1
+u0_a26    4967  1430  1690360 78168 futex_wait 00000000 S hwuiTask2
+u0_a26    4984  1430  1690360 78168 futex_wait 00000000 S GELServices2
+u0_a26    5035  1430  1690360 78168 futex_wait 00000000 S GELServices3
+u0_a10    1464  298   878596 41372 sys_epoll_ 00000000 S com.google.process.gapps
+u0_a10    1470  1464  878596 41372 do_sigtime 00000000 S Signal Catcher
+u0_a10    1471  1464  878596 41372 futex_wait 00000000 S ReferenceQueueD
+u0_a10    1472  1464  878596 41372 futex_wait 00000000 S FinalizerDaemon
+u0_a10    1473  1464  878596 41372 futex_wait 00000000 S FinalizerWatchd
+u0_a10    1474  1464  878596 41372 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    1478  1464  878596 41372 binder_thr 00000000 S Binder_1
+u0_a10    1479  1464  878596 41372 binder_thr 00000000 S Binder_2
+u0_a10    1514  1464  878596 41372 sys_epoll_ 00000000 S Gservices
+u0_a10    1515  1464  878596 41372 futex_wait 00000000 S RefQueueWorker@
+u0_a10    1623  1464  878596 41372 binder_thr 00000000 S Binder_3
+u0_a10    1624  1464  878596 41372 binder_thr 00000000 S Binder_4
+u0_a10    1767  1464  878596 41372 binder_thr 00000000 S Binder_5
+u0_a10    1941  1464  878596 41372 binder_thr 00000000 S Binder_6
+u0_a10    2863  1464  878596 41372 binder_thr 00000000 S Binder_7
+u0_a10    2865  1464  878596 41372 binder_thr 00000000 S Binder_8
+u0_a10    2913  1464  878596 41372 binder_thr 00000000 S Binder_9
+u0_a10    2914  1464  878596 41372 binder_thr 00000000 S Binder_A
+u0_a26    1533  298   1695484 107740 sys_epoll_ 00000000 S com.google.android.googlequicksearchbox:search
+u0_a26    1537  1533  1695484 107740 do_sigtime 00000000 S Signal Catcher
+u0_a26    1539  1533  1695484 107740 futex_wait 00000000 S ReferenceQueueD
+u0_a26    1540  1533  1695484 107740 futex_wait 00000000 S FinalizerDaemon
+u0_a26    1541  1533  1695484 107740 futex_wait 00000000 S FinalizerWatchd
+u0_a26    1542  1533  1695484 107740 futex_wait 00000000 S HeapTaskDaemon
+u0_a26    1543  1533  1695484 107740 binder_thr 00000000 S Binder_1
+u0_a26    1544  1533  1695484 107740 binder_thr 00000000 S Binder_2
+u0_a26    1645  1533  1695484 107740 binder_thr 00000000 S Binder_3
+u0_a26    1646  1533  1695484 107740 futex_wait 00000000 S StartupSettings
+u0_a26    1649  1533  1695484 107740 futex_wait 00000000 S SearchSettings_
+u0_a26    1660  1533  1695484 107740 futex_wait 00000000 S pool-2-thread-1
+u0_a26    1718  1533  1695484 107740 futex_wait 00000000 S GAC_Executor[0]
+u0_a26    1721  1533  1695484 107740 futex_wait 00000000 S TimerThread0
+u0_a26    1762  1533  1695484 107740 futex_wait 00000000 S GAC_Executor[1]
+u0_a26    2035  1533  1695484 107740 sys_epoll_ 00000000 S WifiManager
+u0_a26    2556  1533  1695484 107740 sys_epoll_ 00000000 S RenderThread
+u0_a26    2577  1533  1695484 107740 sys_epoll_ 00000000 S GcoreGoogleApiC
+u0_a26    2578  1533  1695484 107740 futex_wait 00000000 S SqliteReference
+u0_a26    2583  1533  1695484 107740 futex_wait 00000000 S NonUserFacing7
+u0_a26    4135  1533  1695484 107740 binder_thr 00000000 S Binder_4
+u0_a26    5057  1533  1695484 107740 futex_wait 00000000 S UserFacing6
+u0_a26    5058  1533  1695484 107740 futex_wait 00000000 S UserFacing7
+u0_a26    5059  1533  1695484 107740 futex_wait 00000000 S UserFacing8
+u0_a26    5061  1533  1695484 107740 futex_wait 00000000 S UserFacing9
+u0_a26    5062  1533  1695484 107740 futex_wait 00000000 S NonUserFacing9
+u0_a26    5063  1533  1695484 107740 futex_wait 00000000 S UserFacing10
+u0_a26    5064  1533  1695484 107740 futex_wait 00000000 S NonUserFacing10
+u0_a26    5175  1533  1695484 107740 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a10    1608  298   1031012 109772 sys_epoll_ 00000000 S com.google.android.gms.persistent
+u0_a10    1613  1608  1031012 109772 do_sigtime 00000000 S Signal Catcher
+u0_a10    1615  1608  1031012 109772 futex_wait 00000000 S ReferenceQueueD
+u0_a10    1616  1608  1031012 109772 futex_wait 00000000 S FinalizerDaemon
+u0_a10    1617  1608  1031012 109772 futex_wait 00000000 S FinalizerWatchd
+u0_a10    1618  1608  1031012 109772 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    1619  1608  1031012 109772 binder_thr 00000000 S Binder_1
+u0_a10    1620  1608  1031012 109772 binder_thr 00000000 S Binder_2
+u0_a10    1642  1608  1031012 109772 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a10    1678  1608  1031012 109772 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a10    1680  1608  1031012 109772 futex_wait 00000000 S pool-5-thread-1
+u0_a10    1682  1608  1031012 109772 futex_wait 00000000 S GAC_Executor[0]
+u0_a10    1683  1608  1031012 109772 binder_thr 00000000 S Binder_3
+u0_a10    1694  1608  1031012 109772 sys_epoll_ 00000000 S FlpThread
+u0_a10    1697  1608  1031012 109772 futex_wait 00000000 S GAC_Executor[1]
+u0_a10    1722  1608  1031012 109772 futex_wait 00000000 S highpool[0]
+u0_a10    1735  1608  1031012 109772 sys_epoll_ 00000000 S WifiManager
+u0_a10    1736  1608  1031012 109772 sys_epoll_ 00000000 S GeofencerStateM
+u0_a10    1769  1608  1031012 109772 binder_thr 00000000 S Binder_4
+u0_a10    1770  1608  1031012 109772 sys_epoll_ 00000000 S netscheduler-qu
+u0_a10    1773  1608  1031012 109772 binder_thr 00000000 S Binder_5
+u0_a10    1774  1608  1031012 109772 futex_wait 00000000 S GCMWriter
+u0_a10    1776  1608  1031012 109772 sys_epoll_ 00000000 S GoogleLocationS
+u0_a10    1802  1608  1031012 109772 poll_sched 00000000 S GCMReader
+u0_a10    1827  1608  1031012 109772 futex_wait 00000000 S Okio Watchdog
+u0_a10    1828  1608  1031012 109772 futex_wait 00000000 S MSMuxTR-0
+u0_a10    1832  1608  1031012 109772 futex_wait 00000000 S GlobalScheduler
+u0_a10    1835  1608  1031012 109772 futex_wait 00000000 S highpool[1]
+u0_a10    1842  1608  1031012 109772 futex_wait 00000000 S pool-27-thread-
+u0_a10    1866  1608  1031012 109772 sys_epoll_ 00000000 S WifiScanner
+u0_a10    1937  1608  1031012 109772 futex_wait 00000000 S lowpool[3]
+u0_a10    1974  1608  1031012 109772 futex_wait 00000000 S highpool[2]
+u0_a10    1975  1608  1031012 109772 sys_epoll_ 00000000 S Places
+u0_a10    1978  1608  1031012 109772 futex_wait 00000000 S highpool[3]
+u0_a10    1992  1608  1031012 109772 futex_wait 00000000 S Thread-178
+u0_a10    1993  1608  1031012 109772 futex_wait 00000000 S Thread-179
+u0_a10    1994  1608  1031012 109772 futex_wait 00000000 S Thread-180
+u0_a10    1995  1608  1031012 109772 futex_wait 00000000 S Thread-181
+u0_a10    1996  1608  1031012 109772 futex_wait 00000000 S Thread-182
+u0_a10    2934  1608  1031012 109772 sys_epoll_ 00000000 S NearbyMessages
+u0_a10    2937  1608  1031012 109772 sys_epoll_ 00000000 S NearbyDirectMai
+u0_a10    3029  1608  1031012 109772 futex_wait 00000000 S grpc-timer-0
+u0_a10    4210  1608  1031012 109772 binder_thr 00000000 S Binder_6
+u0_a10    4888  1608  1031012 109772 futex_wait 00000000 S lowpool[37]
+u0_a10    4890  1608  1031012 109772 futex_wait 00000000 S lowpool[39]
+u0_a10    4891  1608  1031012 109772 futex_wait 00000000 S lowpool[40]
+u0_a10    5066  1608  1031012 109772 futex_wait 00000000 S lowpool[42]
+root      1783  1     9496   1084  futex_wait 00000000 S /system/bin/mpdecision
+root      1786  1783  9496   1084  __skb_recv 00000000 S mpdecision
+root      1787  1783  9496   1084  __skb_recv 00000000 S mpdecision
+root      1788  1783  9496   1084  do_sigtime 00000000 S POSIX timer 3
+root      1789  1783  9496   1084  do_sigtime 00000000 S POSIX timer 4
+root      1790  1783  9496   1084  poll_sched 00000000 S mpdecision
+root      1800  1783  9496   1084  poll_sched 00000000 S mpdecision
+bluetooth 1942  298   889340 41160 sys_epoll_ 00000000 S com.android.bluetooth
+bluetooth 1947  1942  889340 41160 do_sigtime 00000000 S Signal Catcher
+bluetooth 1948  1942  889340 41160 futex_wait 00000000 S ReferenceQueueD
+bluetooth 1949  1942  889340 41160 futex_wait 00000000 S FinalizerDaemon
+bluetooth 1950  1942  889340 41160 futex_wait 00000000 S FinalizerWatchd
+bluetooth 1951  1942  889340 41160 futex_wait 00000000 S HeapTaskDaemon
+bluetooth 1953  1942  889340 41160 binder_thr 00000000 S Binder_1
+bluetooth 1954  1942  889340 41160 binder_thr 00000000 S Binder_2
+bluetooth 1959  1942  889340 41160 sys_epoll_ 00000000 S BluetoothAdapte
+bluetooth 1961  1942  889340 41160 sys_epoll_ 00000000 S bluedroid wake/
+bluetooth 1962  1942  889340 41160 do_sigtime 00000000 S stack_manager
+bluetooth 1963  1942  889340 41160 eventfd_ct 00000000 S bluedroid wake/
+bluetooth 1964  1942  889340 41160 sys_epoll_ 00000000 S BT Service Call
+bluetooth 1966  1942  889340 41160 sys_epoll_ 00000000 S BondStateMachin
+bluetooth 1967  1942  889340 41160 sys_epoll_ 00000000 S BluetoothAdvert
+bluetooth 1968  1942  889340 41160 sys_epoll_ 00000000 S BluetoothScanMa
+bluetooth 1969  1942  889340 41160 sys_epoll_ 00000000 S bluedroid wake/
+bluetooth 1972  1942  889340 41160 sys_epoll_ 00000000 S hci_single_chan
+bluetooth 2005  1942  889340 41160 sys_epoll_ 00000000 S bluedroid wake/
+bluetooth 2018  1942  889340 41160 poll_sched 00000000 S BT Service Call
+bluetooth 2019  1942  889340 41160 do_sigtime 00000000 S bluedroid wake/
+bluetooth 2020  1942  889340 41160 sys_epoll_ 00000000 S btif_sock
+bluetooth 5049  1942  889340 41160 binder_thr 00000000 S Binder_3
+u0_a19    2068  298   1249604 202692 sys_epoll_ 00000000 S com.android.vending
+u0_a19    2071  2068  1249604 202692 do_sigtime 00000000 S Signal Catcher
+u0_a19    2073  2068  1249604 202692 futex_wait 00000000 S ReferenceQueueD
+u0_a19    2075  2068  1249604 202692 futex_wait 00000000 S FinalizerDaemon
+u0_a19    2076  2068  1249604 202692 futex_wait 00000000 S FinalizerWatchd
+u0_a19    2077  2068  1249604 202692 futex_wait 00000000 S HeapTaskDaemon
+u0_a19    2078  2068  1249604 202692 binder_thr 00000000 S Binder_1
+u0_a19    2079  2068  1249604 202692 binder_thr 00000000 S Binder_2
+u0_a19    2081  2068  1249604 202692 futex_wait 00000000 S pool-1-thread-1
+u0_a19    2082  2068  1249604 202692 sys_epoll_ 00000000 S FinskyApp
+u0_a19    2087  2068  1249604 202692 sys_epoll_ 00000000 S ndroid.play.a.h
+u0_a19    2096  2068  1249604 202692 futex_wait 00000000 S RefQueueWorker@
+u0_a19    2098  2068  1249604 202692 sys_epoll_ 00000000 S CronetInit
+u0_a19    2099  2068  1249604 202692 sys_epoll_ 00000000 S ConnectivityMan
+u0_a19    2100  2068  1249604 202692 sys_epoll_ 00000000 S TaskSchedulerSe
+u0_a19    2101  2068  1249604 202692 sys_epoll_ 00000000 S ChromiumNet
+u0_a19    2102  2068  1249604 202692 sys_epoll_ 00000000 S DnsConfigServic
+u0_a19    2103  2068  1249604 202692 futex_wait 00000000 S Thread-138
+u0_a19    2104  2068  1249604 202692 futex_wait 00000000 S Thread-139
+u0_a19    2105  2068  1249604 202692 futex_wait 00000000 S Thread-140
+u0_a19    2106  2068  1249604 202692 futex_wait 00000000 S Thread-141
+u0_a19    2109  2068  1249604 202692 futex_wait 00000000 S Thread-142
+u0_a19    2110  2068  1249604 202692 futex_wait 00000000 S Network File Th
+u0_a19    2112  2068  1249604 202692 sys_epoll_ 00000000 S PackageInstalle
+u0_a19    2114  2068  1249604 202692 sys_epoll_ 00000000 S download-manage
+u0_a19    2115  2068  1249604 202692 sys_epoll_ 00000000 S NetworkQualityQ
+u0_a19    2116  2068  1249604 202692 sys_epoll_ 00000000 S ChromiumNet
+u0_a19    2117  2068  1249604 202692 futex_wait 00000000 S Thread-149
+u0_a19    2118  2068  1249604 202692 futex_wait 00000000 S Thread-150
+u0_a19    2120  2068  1249604 202692 futex_wait 00000000 S Thread-151
+u0_a19    2121  2068  1249604 202692 futex_wait 00000000 S Thread-152
+u0_a19    2122  2068  1249604 202692 futex_wait 00000000 S Thread-153
+u0_a19    2123  2068  1249604 202692 futex_wait 00000000 S Network File Th
+u0_a19    2124  2068  1249604 202692 sys_epoll_ 00000000 S tentative-gc-ru
+u0_a19    2126  2068  1249604 202692 sys_epoll_ 00000000 S libraries-threa
+u0_a19    2127  2068  1249604 202692 futex_wait 00000000 S AsyncTask #1
+u0_a19    2129  2068  1249604 202692 futex_wait 00000000 S AsyncTask #2
+u0_a19    2131  2068  1249604 202692 futex_wait 00000000 S AsyncTask #3
+u0_a19    2147  2068  1249604 202692 futex_wait 00000000 S GAC_Executor[0]
+u0_a19    2154  2068  1249604 202692 futex_wait 00000000 S Thread-163
+u0_a19    2155  2068  1249604 202692 binder_thr 00000000 S Binder_3
+u0_a19    2156  2068  1249604 202692 futex_wait 00000000 S GAC_Executor[1]
+u0_a19    2532  2068  1249604 202692 futex_wait 00000000 S pool-2-thread-1
+u0_a19    2584  2068  1249604 202692 futex_wait 00000000 S Primes-1
+u0_a19    2594  2068  1249604 202692 futex_wait 00000000 S AsyncTask #4
+u0_a19    2595  2068  1249604 202692 futex_wait 00000000 S AsyncTask #5
+u0_a19    4120  2068  1249604 202692 futex_wait 00000000 S RefQueueWorker@
+u0_a19    4167  2068  1249604 202692 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a19    4169  2068  1249604 202692 sys_epoll_ 00000000 S ndroid.play.a.h
+u0_a19    4171  2068  1249604 202692 futex_wait 00000000 S Okio Watchdog
+u0_a19    5037  2068  1249604 202692 futex_wait 00000000 S Primes-2
+u0_a19    5039  2068  1249604 202692 sys_epoll_ 00000000 S RenderThread
+u0_a19    5046  2068  1249604 202692 futex_wait 00000000 S Thread-187
+u0_a19    5048  2068  1249604 202692 futex_wait 00000000 S GL updater
+u0_a19    5067  2068  1249604 202692 futex_wait 00000000 S hwuiTask1
+u0_a19    5073  2068  1249604 202692 futex_wait 00000000 S hwuiTask2
+u0_a19    5074  2068  1249604 202692 futex_wait 00000000 S RenderThread
+u0_a19    5075  2068  1249604 202692 futex_wait 00000000 S RenderThread
+u0_a19    5076  2068  1249604 202692 futex_wait 00000000 S RenderThread
+u0_a19    5077  2068  1249604 202692 unix_strea 00000000 S RenderThread
+u0_a19    5078  2068  1249604 202692 futex_wait 00000000 S RenderThread
+u0_a19    5139  2068  1249604 202692 futex_wait 00000000 S pool-9-thread-1
+u0_a19    5140  2068  1249604 202692 futex_wait 00000000 S pool-9-thread-2
+u0_a19    5147  2068  1249604 202692 futex_wait 00000000 S pool-9-thread-3
+u0_a19    5149  2068  1249604 202692 futex_wait 00000000 S pool-9-thread-5
+u0_a19    5423  2068  1249604 202692 futex_wait 00000000 S OkHttp Connecti
+u0_a2     2162  298   872788 46160 sys_epoll_ 00000000 S android.process.acore
+u0_a2     2167  2162  872788 46160 do_sigtime 00000000 S Signal Catcher
+u0_a2     2168  2162  872788 46160 futex_wait 00000000 S ReferenceQueueD
+u0_a2     2169  2162  872788 46160 futex_wait 00000000 S FinalizerDaemon
+u0_a2     2170  2162  872788 46160 futex_wait 00000000 S FinalizerWatchd
+u0_a2     2171  2162  872788 46160 futex_wait 00000000 S HeapTaskDaemon
+u0_a2     2172  2162  872788 46160 binder_thr 00000000 S Binder_1
+u0_a2     2173  2162  872788 46160 binder_thr 00000000 S Binder_2
+u0_a2     2175  2162  872788 46160 sys_epoll_ 00000000 S ContactsProvide
+u0_a2     2176  2162  872788 46160 sys_epoll_ 00000000 S CallLogProvider
+u0_a2     2478  2162  872788 46160 binder_thr 00000000 S Binder_3
+root      2352  250   4856   568   __skb_recv 00000000 S daemonsu:10085
+radio     2509  298   864932 34604 sys_epoll_ 00000000 S com.qualcomm.qcrilmsgtunnel
+radio     2514  2509  864932 34604 do_sigtime 00000000 S Signal Catcher
+radio     2515  2509  864932 34604 futex_wait 00000000 S ReferenceQueueD
+radio     2517  2509  864932 34604 futex_wait 00000000 S FinalizerDaemon
+radio     2518  2509  864932 34604 futex_wait 00000000 S FinalizerWatchd
+radio     2519  2509  864932 34604 futex_wait 00000000 S HeapTaskDaemon
+radio     2521  2509  864932 34604 binder_thr 00000000 S Binder_1
+radio     2522  2509  864932 34604 binder_thr 00000000 S Binder_2
+radio     2530  2509  864932 34604 unix_strea 00000000 S QcRilReceiver
+radio     2531  2509  864932 34604 sys_epoll_ 00000000 S QcRilSender
+u0_a10    2704  298   1167400 112560 sys_epoll_ 00000000 S com.google.android.gms
+u0_a10    2709  2704  1167400 112560 do_sigtime 00000000 S Signal Catcher
+u0_a10    2710  2704  1167400 112560 futex_wait 00000000 S ReferenceQueueD
+u0_a10    2711  2704  1167400 112560 futex_wait 00000000 S FinalizerDaemon
+u0_a10    2712  2704  1167400 112560 futex_wait 00000000 S FinalizerWatchd
+u0_a10    2713  2704  1167400 112560 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    2714  2704  1167400 112560 binder_thr 00000000 S Binder_1
+u0_a10    2715  2704  1167400 112560 binder_thr 00000000 S Binder_2
+u0_a10    2734  2704  1167400 112560 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a10    2745  2704  1167400 112560 binder_thr 00000000 S Binder_3
+u0_a10    2746  2704  1167400 112560 futex_wait 00000000 S lowpool[0]
+u0_a10    2747  2704  1167400 112560 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a10    2768  2704  1167400 112560 futex_wait 00000000 S Thread-214
+u0_a10    2769  2704  1167400 112560 futex_wait 00000000 S Thread-215
+u0_a10    2770  2704  1167400 112560 futex_wait 00000000 S Thread-216
+u0_a10    2771  2704  1167400 112560 futex_wait 00000000 S Thread-217
+u0_a10    2772  2704  1167400 112560 futex_wait 00000000 S Thread-218
+u0_a10    2806  2704  1167400 112560 futex_wait 00000000 S pool-9-thread-1
+u0_a10    2809  2704  1167400 112560 binder_thr 00000000 S Binder_4
+u0_a10    2811  2704  1167400 112560 futex_wait 00000000 S lowpool[1]
+u0_a10    2816  2704  1167400 112560 futex_wait 00000000 S highpool[0]
+u0_a10    2817  2704  1167400 112560 futex_wait 00000000 S lowpool[2]
+u0_a10    2823  2704  1167400 112560 futex_wait 00000000 S lowpool[3]
+u0_a10    2832  2704  1167400 112560 sys_epoll_ 00000000 S GamesProviderWo
+u0_a10    2842  2704  1167400 112560 futex_wait 00000000 S highpool[1]
+u0_a10    2854  2704  1167400 112560 futex_wait 00000000 S GAC_Executor[0]
+u0_a10    2855  2704  1167400 112560 futex_wait 00000000 S GAC_Executor[1]
+u0_a10    2858  2704  1167400 112560 futex_wait 00000000 S GlobalScheduler
+u0_a10    2866  2704  1167400 112560 futex_wait 00000000 S highpool[2]
+u0_a10    2891  2704  1167400 112560 sys_epoll_ 00000000 S ConnectivityMan
+u0_a10    2893  2704  1167400 112560 sys_epoll_ 00000000 S WifiManager
+u0_a10    2933  2704  1167400 112560 binder_thr 00000000 S Binder_5
+u0_a10    2966  2704  1167400 112560 futex_wait 00000000 S AsyncTask #1
+u0_a10    2995  2704  1167400 112560 futex_wait 00000000 S highpool[3]
+u0_a10    3005  2704  1167400 112560 futex_wait 00000000 S pool-40-thread-
+u0_a10    3006  2704  1167400 112560 futex_wait 00000000 S pool-40-thread-
+u0_a10    3007  2704  1167400 112560 futex_wait 00000000 S pool-40-thread-
+u0_a10    3008  2704  1167400 112560 futex_wait 00000000 S pool-40-thread-
+u0_a10    3009  2704  1167400 112560 futex_wait 00000000 S AsyncTask #2
+u0_a10    3017  2704  1167400 112560 futex_wait 00000000 S pool-41-thread-
+u0_a10    3155  2704  1167400 112560 futex_wait 00000000 S Okio Watchdog
+u0_a10    5026  2704  1167400 112560 binder_thr 00000000 S Binder_6
+u0_a10    5509  2704  1167400 112560 futex_wait 00000000 S peration loader
+u0_a10    5511  2704  1167400 112560 futex_wait 00000000 S raService] idle
+u0_a1     3504  298   865012 39548 sys_epoll_ 00000000 S com.android.providers.calendar
+u0_a1     3509  3504  865012 39548 do_sigtime 00000000 S Signal Catcher
+u0_a1     3510  3504  865012 39548 futex_wait 00000000 S ReferenceQueueD
+u0_a1     3511  3504  865012 39548 futex_wait 00000000 S FinalizerDaemon
+u0_a1     3512  3504  865012 39548 futex_wait 00000000 S FinalizerWatchd
+u0_a1     3513  3504  865012 39548 futex_wait 00000000 S HeapTaskDaemon
+u0_a1     3514  3504  865012 39548 binder_thr 00000000 S Binder_1
+u0_a1     3515  3504  865012 39548 binder_thr 00000000 S Binder_2
+u0_a67    3564  298   895040 41108 sys_epoll_ 00000000 S com.google.android.apps.messaging:rcs
+u0_a67    3569  3564  895040 41108 do_sigtime 00000000 S Signal Catcher
+u0_a67    3570  3564  895040 41108 futex_wait 00000000 S ReferenceQueueD
+u0_a67    3571  3564  895040 41108 futex_wait 00000000 S FinalizerDaemon
+u0_a67    3572  3564  895040 41108 futex_wait 00000000 S FinalizerWatchd
+u0_a67    3573  3564  895040 41108 futex_wait 00000000 S HeapTaskDaemon
+u0_a67    3574  3564  895040 41108 binder_thr 00000000 S Binder_1
+u0_a67    3575  3564  895040 41108 binder_thr 00000000 S Binder_2
+u0_a67    3742  3564  895040 41108 binder_thr 00000000 S Binder_3
+u0_a56    3610  298   919052 60260 sys_epoll_ 00000000 S com.google.android.inputmethod.latin
+u0_a56    3616  3610  919052 60260 do_sigtime 00000000 S Signal Catcher
+u0_a56    3617  3610  919052 60260 futex_wait 00000000 S ReferenceQueueD
+u0_a56    3618  3610  919052 60260 futex_wait 00000000 S FinalizerDaemon
+u0_a56    3619  3610  919052 60260 futex_wait 00000000 S FinalizerWatchd
+u0_a56    3620  3610  919052 60260 futex_wait 00000000 S HeapTaskDaemon
+u0_a56    3621  3610  919052 60260 binder_thr 00000000 S Binder_1
+u0_a56    3622  3610  919052 60260 binder_thr 00000000 S Binder_2
+u0_a56    3635  3610  919052 60260 futex_wait 00000000 S pool-1-thread-1
+u0_a56    3645  3610  919052 60260 futex_wait 00000000 S ExUtils-P9-1
+u0_a56    3652  3610  919052 60260 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a56    3653  3610  919052 60260 futex_wait 00000000 S AsyncTask #1
+u0_a56    3654  3610  919052 60260 futex_wait 00000000 S GAC_Executor[0]
+u0_a56    3655  3610  919052 60260 sys_epoll_ 00000000 S MetricsManager
+u0_a56    3662  3610  919052 60260 sys_epoll_ 00000000 S DwldManWrapper
+u0_a56    3668  3610  919052 60260 futex_wait 00000000 S GAC_Executor[1]
+u0_a56    3669  3610  919052 60260 sys_epoll_ 00000000 S AnrDetector
+u0_a56    3670  3610  919052 60260 futex_wait 00000000 S NativeLogger-1
+u0_a56    3674  3610  919052 60260 futex_wait 00000000 S Primes-1
+u0_a56    3675  3610  919052 60260 futex_wait 00000000 S ExUtils-P10-1
+u0_a56    3677  3610  919052 60260 futex_wait 00000000 S Primes-2
+u0_a56    3875  3610  919052 60260 binder_thr 00000000 S Binder_3
+u0_a56    4282  3610  919052 60260 futex_wait 00000000 S ExUtils-P1-1
+u0_a56    4297  3610  919052 60260 futex_wait 00000000 S superpacks-cont
+u0_a86    3678  298   1541740 48064 sys_epoll_ 00000000 S com.google.android.instantapps.supervisor
+u0_a86    3683  3678  1541740 48064 do_sigtime 00000000 S Signal Catcher
+u0_a86    3684  3678  1541740 48064 futex_wait 00000000 S ReferenceQueueD
+u0_a86    3685  3678  1541740 48064 futex_wait 00000000 S FinalizerDaemon
+u0_a86    3686  3678  1541740 48064 futex_wait 00000000 S FinalizerWatchd
+u0_a86    3687  3678  1541740 48064 futex_wait 00000000 S HeapTaskDaemon
+u0_a86    3688  3678  1541740 48064 binder_thr 00000000 S Binder_1
+u0_a86    3689  3678  1541740 48064 binder_thr 00000000 S Binder_2
+u0_a86    3706  3678  1541740 48064 futex_wait 00000000 S pool-3-thread-1
+u0_a86    3708  3678  1541740 48064 sys_epoll_ 00000000 S GmsConnection
+u0_a86    3724  3678  1541740 48064 futex_wait 00000000 S GAC_Executor[0]
+u0_a86    3725  3678  1541740 48064 futex_wait 00000000 S GAC_Executor[1]
+u0_a86    3732  3678  1541740 48064 sys_epoll_ 00000000 S clh
+u0_a86    3743  3678  1541740 48064 binder_thr 00000000 S Binder_3
+u0_a86    4534  3678  1541740 48064 futex_wait 00000000 S Okio Watchdog
+u0_a68    3744  298   880240 45084 sys_epoll_ 00000000 S com.google.android.deskclock
+u0_a68    3749  3744  880240 45084 do_sigtime 00000000 S Signal Catcher
+u0_a68    3751  3744  880240 45084 futex_wait 00000000 S ReferenceQueueD
+u0_a68    3752  3744  880240 45084 futex_wait 00000000 S FinalizerDaemon
+u0_a68    3753  3744  880240 45084 futex_wait 00000000 S FinalizerWatchd
+u0_a68    3754  3744  880240 45084 futex_wait 00000000 S HeapTaskDaemon
+u0_a68    3755  3744  880240 45084 binder_thr 00000000 S Binder_1
+u0_a68    3756  3744  880240 45084 binder_thr 00000000 S Binder_2
+u0_a68    3765  3744  880240 45084 futex_wait 00000000 S pool-2-thread-1
+u0_a68    3766  3744  880240 45084 futex_wait 00000000 S AsyncTask #1
+u0_a68    3777  3744  880240 45084 sys_epoll_ 00000000 S app-indexing
+u0_a68    3789  3744  880240 45084 futex_wait 00000000 S GAC_Executor[0]
+u0_a68    3791  3744  880240 45084 futex_wait 00000000 S GAC_Executor[1]
+u0_a68    3987  3744  880240 45084 futex_wait 00000000 S AsyncTask #2
+u0_a70    3772  298   936144 66248 sys_epoll_ 00000000 S com.google.android.gm
+u0_a70    3779  3772  936144 66248 do_sigtime 00000000 S Signal Catcher
+u0_a70    3780  3772  936144 66248 futex_wait 00000000 S ReferenceQueueD
+u0_a70    3781  3772  936144 66248 futex_wait 00000000 S FinalizerDaemon
+u0_a70    3782  3772  936144 66248 futex_wait 00000000 S FinalizerWatchd
+u0_a70    3783  3772  936144 66248 futex_wait 00000000 S HeapTaskDaemon
+u0_a70    3784  3772  936144 66248 binder_thr 00000000 S Binder_1
+u0_a70    3785  3772  936144 66248 binder_thr 00000000 S Binder_2
+u0_a70    3796  3772  936144 66248 futex_wait 00000000 S AsyncTask #1
+u0_a70    3797  3772  936144 66248 futex_wait 00000000 S AsyncTask #2
+u0_a70    3800  3772  936144 66248 futex_wait 00000000 S pool-2-thread-1
+u0_a70    3801  3772  936144 66248 sys_epoll_ 00000000 S EmailProvider t
+u0_a70    3802  3772  936144 66248 futex_wait 00000000 S pool-3-thread-1
+u0_a70    3803  3772  936144 66248 futex_wait 00000000 S AsyncTask #3
+u0_a70    3804  3772  936144 66248 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a70    3805  3772  936144 66248 futex_wait 00000000 S GAThread
+u0_a70    3807  3772  936144 66248 sys_epoll_ 00000000 S EmailNotificati
+u0_a70    3809  3772  936144 66248 futex_wait 00000000 S AsyncTask #4
+u0_a70    3811  3772  936144 66248 futex_wait 00000000 S AsyncTask #5
+u0_a70    3813  3772  936144 66248 binder_thr 00000000 S Binder_3
+u0_a70    3815  3772  936144 66248 sys_epoll_ 00000000 S bnk executor
+u0_a70    3816  3772  936144 66248 sys_epoll_ 00000000 S AccountHistory 
+u0_a70    3817  3772  936144 66248 sys_epoll_ 00000000 S MailEngine crea
+u0_a70    3818  3772  936144 66248 sys_epoll_ 00000000 S Background task
+u0_a70    3833  3772  936144 66248 sys_epoll_ 00000000 S Dataset changed
+u0_a70    3868  3772  936144 66248 binder_thr 00000000 S Binder_4
+u0_a70    3968  3772  936144 66248 futex_wait 00000000 S GAC_Executor[0]
+u0_a70    3969  3772  936144 66248 futex_wait 00000000 S GAC_Executor[1]
+u0_a70    3977  3772  936144 66248 sys_epoll_ 00000000 S Compose Task Th
+u0_a10    3897  298   973796 49872 sys_epoll_ 00000000 S com.google.android.gms.ui
+u0_a10    3902  3897  973796 49872 do_sigtime 00000000 S Signal Catcher
+u0_a10    3903  3897  973796 49872 futex_wait 00000000 S ReferenceQueueD
+u0_a10    3904  3897  973796 49872 futex_wait 00000000 S FinalizerDaemon
+u0_a10    3905  3897  973796 49872 futex_wait 00000000 S FinalizerWatchd
+u0_a10    3906  3897  973796 49872 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    3907  3897  973796 49872 binder_thr 00000000 S Binder_1
+u0_a10    3908  3897  973796 49872 binder_thr 00000000 S Binder_2
+u0_a10    3937  3897  973796 49872 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a10    3910  298   973796 49392 sys_epoll_ 00000000 S com.google.android.gms.feedback
+u0_a10    3912  3910  973796 49392 do_sigtime 00000000 S Signal Catcher
+u0_a10    3916  3910  973796 49392 futex_wait 00000000 S ReferenceQueueD
+u0_a10    3917  3910  973796 49392 futex_wait 00000000 S FinalizerDaemon
+u0_a10    3918  3910  973796 49392 futex_wait 00000000 S FinalizerWatchd
+u0_a10    3919  3910  973796 49392 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    3920  3910  973796 49392 binder_thr 00000000 S Binder_1
+u0_a10    3921  3910  973796 49392 binder_thr 00000000 S Binder_2
+u0_a10    3945  3910  973796 49392 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a58    3924  298   1806892 92432 sys_epoll_ 00000000 S com.google.android.apps.maps
+u0_a58    3929  3924  1806892 92432 do_sigtime 00000000 S Signal Catcher
+u0_a58    3930  3924  1806892 92432 futex_wait 00000000 S ReferenceQueueD
+u0_a58    3931  3924  1806892 92432 futex_wait 00000000 S FinalizerDaemon
+u0_a58    3932  3924  1806892 92432 futex_wait 00000000 S FinalizerWatchd
+u0_a58    3933  3924  1806892 92432 futex_wait 00000000 S HeapTaskDaemon
+u0_a58    3934  3924  1806892 92432 binder_thr 00000000 S Binder_1
+u0_a58    3936  3924  1806892 92432 binder_thr 00000000 S Binder_2
+u0_a58    3949  3924  1806892 92432 futex_wait 00000000 S DefaultPool1
+u0_a58    3950  3924  1806892 92432 futex_wait 00000000 S DefaultPool2
+u0_a58    3951  3924  1806892 92432 futex_wait 00000000 S DefaultPool3
+u0_a58    3952  3924  1806892 92432 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a58    3953  3924  1806892 92432 futex_wait 00000000 S DefaultPool4
+u0_a58    3955  3924  1806892 92432 futex_wait 00000000 S DefaultPool5
+u0_a58    3956  3924  1806892 92432 futex_wait 00000000 S DefaultPool6
+u0_a58    3957  3924  1806892 92432 futex_wait 00000000 S DefaultPool7
+u0_a58    3958  3924  1806892 92432 futex_wait 00000000 S DefaultPool8
+u0_a58    3963  3924  1806892 92432 futex_wait 00000000 S pool-1-thread-1
+u0_a58    3965  3924  1806892 92432 binder_thr 00000000 S Binder_3
+u0_a58    3966  3924  1806892 92432 futex_wait 00000000 S GAC_Executor[0]
+u0_a58    3967  3924  1806892 92432 futex_wait 00000000 S GAC_Executor[1]
+u0_a58    3970  3924  1806892 92432 sys_epoll_ 00000000 S Sensors
+u0_a58    3971  3924  1806892 92432 futex_wait 00000000 S MemoryMonPool1
+u0_a58    3973  3924  1806892 92432 futex_wait 00000000 S Primes-1
+u0_a58    3975  3924  1806892 92432 sys_epoll_ 00000000 S OfflineManage
+u0_a58    3976  3924  1806892 92432 sys_epoll_ 00000000 S OfflineProcess
+u0_a58    3980  3924  1806892 92432 sys_epoll_ 00000000 S ChromiumNet
+u0_a58    3982  3924  1806892 92432 sys_epoll_ 00000000 S ConnectivityMan
+u0_a58    3983  3924  1806892 92432 sys_epoll_ 00000000 S DnsConfigServic
+u0_a58    3986  3924  1806892 92432 futex_wait 00000000 S Network File Th
+u0_a58    3990  3924  1806892 92432 sys_epoll_ 00000000 S Location
+u0_a58    4051  3924  1806892 92432 futex_wait 00000000 S NetworkPool1
+u0_a58    4053  3924  1806892 92432 futex_wait 00000000 S NetworkPool2
+u0_a58    4054  3924  1806892 92432 futex_wait 00000000 S NetworkPool3
+u0_a58    4055  3924  1806892 92432 futex_wait 00000000 S SimpleCacheWork
+u0_a58    4056  3924  1806892 92432 futex_wait 00000000 S SimpleCacheWork
+u0_a58    4058  3924  1806892 92432 futex_wait 00000000 S NetworkPool4
+u0_a58    4078  3924  1806892 92432 futex_wait 00000000 S NetworkPool5
+u0_a10    4121  298   977476 53088 sys_epoll_ 00000000 S com.google.android.gms:car
+u0_a10    4126  4121  977476 53088 do_sigtime 00000000 S Signal Catcher
+u0_a10    4127  4121  977476 53088 futex_wait 00000000 S ReferenceQueueD
+u0_a10    4128  4121  977476 53088 futex_wait 00000000 S FinalizerDaemon
+u0_a10    4129  4121  977476 53088 futex_wait 00000000 S FinalizerWatchd
+u0_a10    4130  4121  977476 53088 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    4131  4121  977476 53088 binder_thr 00000000 S Binder_1
+u0_a10    4132  4121  977476 53088 binder_thr 00000000 S Binder_2
+u0_a10    4133  4121  977476 53088 binder_thr 00000000 S Binder_3
+u0_a10    4137  4121  977476 53088 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a10    4146  4121  977476 53088 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a10    4148  4121  977476 53088 futex_wait 00000000 S lowpool[0]
+u0_a10    4184  298   994940 64444 sys_epoll_ 00000000 S com.google.android.gms.unstable
+u0_a10    4195  4184  994940 64444 do_sigtime 00000000 S Signal Catcher
+u0_a10    4196  4184  994940 64444 futex_wait 00000000 S ReferenceQueueD
+u0_a10    4197  4184  994940 64444 futex_wait 00000000 S FinalizerDaemon
+u0_a10    4198  4184  994940 64444 futex_wait 00000000 S FinalizerWatchd
+u0_a10    4199  4184  994940 64444 futex_wait 00000000 S HeapTaskDaemon
+u0_a10    4200  4184  994940 64444 binder_thr 00000000 S Binder_1
+u0_a10    4201  4184  994940 64444 binder_thr 00000000 S Binder_2
+u0_a10    4215  4184  994940 64444 sys_epoll_ 00000000 S GlobalDispatchi
+u0_a10    4217  4184  994940 64444 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a10    4220  4184  994940 64444 binder_thr 00000000 S Binder_3
+u0_a10    4221  4184  994940 64444 binder_thr 00000000 S Binder_4
+u0_a10    4222  4184  994940 64444 futex_wait 00000000 S lowpool[0]
+u0_a10    4223  4184  994940 64444 futex_wait 00000000 S lowpool[1]
+u0_a10    4224  4184  994940 64444 futex_wait 00000000 S highpool[0]
+u0_a10    4226  4184  994940 64444 binder_thr 00000000 S Binder_5
+u0_a10    4242  4184  994940 64444 futex_wait 00000000 S Okio Watchdog
+u0_a10    4258  4184  994940 64444 binder_thr 00000000 S Binder_6
+u0_a9     4230  298   873364 43252 sys_epoll_ 00000000 S com.google.android.apps.gcs
+u0_a9     4232  4230  873364 43252 do_sigtime 00000000 S Signal Catcher
+u0_a9     4236  4230  873364 43252 futex_wait 00000000 S ReferenceQueueD
+u0_a9     4237  4230  873364 43252 futex_wait 00000000 S FinalizerDaemon
+u0_a9     4238  4230  873364 43252 futex_wait 00000000 S FinalizerWatchd
+u0_a9     4239  4230  873364 43252 futex_wait 00000000 S HeapTaskDaemon
+u0_a9     4240  4230  873364 43252 binder_thr 00000000 S Binder_1
+u0_a9     4241  4230  873364 43252 binder_thr 00000000 S Binder_2
+u0_a9     4249  4230  873364 43252 futex_wait 00000000 S pool-2-thread-1
+u0_a9     4253  4230  873364 43252 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a9     4334  4230  873364 43252 futex_wait 00000000 S GAC_Executor[0]
+u0_a9     4335  4230  873364 43252 futex_wait 00000000 S GAC_Executor[1]
+u0_a77    4270  298   1581860 55312 sys_epoll_ 00000000 S com.google.android.videos
+u0_a77    4275  4270  1581860 55312 do_sigtime 00000000 S Signal Catcher
+u0_a77    4276  4270  1581860 55312 futex_wait 00000000 S ReferenceQueueD
+u0_a77    4277  4270  1581860 55312 futex_wait 00000000 S FinalizerDaemon
+u0_a77    4278  4270  1581860 55312 futex_wait 00000000 S FinalizerWatchd
+u0_a77    4279  4270  1581860 55312 futex_wait 00000000 S HeapTaskDaemon
+u0_a77    4280  4270  1581860 55312 binder_thr 00000000 S Binder_1
+u0_a77    4281  4270  1581860 55312 binder_thr 00000000 S Binder_2
+u0_a77    4284  4270  1581860 55312 sys_epoll_ 00000000 S movies_logging
+u0_a77    4285  4270  1581860 55312 futex_wait 00000000 S RefQueueWorker@
+u0_a77    4286  4270  1581860 55312 futex_wait 00000000 S Thread-333
+u0_a77    4287  4270  1581860 55312 futex_wait 00000000 S Thread-334
+u0_a77    4288  4270  1581860 55312 futex_wait 00000000 S Thread-335
+u0_a77    4289  4270  1581860 55312 futex_wait 00000000 S RefQueueWorker@
+u0_a77    4290  4270  1581860 55312 futex_wait 00000000 S Thread-337
+u0_a77    4291  4270  1581860 55312 futex_wait 00000000 S Thread-338
+u0_a77    4292  4270  1581860 55312 futex_wait 00000000 S Thread-339
+u0_a77    4293  4270  1581860 55312 futex_wait 00000000 S Thread-340
+u0_a77    4294  4270  1581860 55312 futex_wait 00000000 S Thread-341
+u0_a77    4295  4270  1581860 55312 sys_epoll_ 00000000 S tentative-gc-ru
+u0_a77    4299  4270  1581860 55312 sys_epoll_ 00000000 S PlayEventLogger
+u0_a77    4300  4270  1581860 55312 futex_wait 00000000 S network-1
+u0_a77    4301  4270  1581860 55312 futex_wait 00000000 S network-2
+u0_a77    4302  4270  1581860 55312 futex_wait 00000000 S network-3
+u0_a77    4303  4270  1581860 55312 futex_wait 00000000 S network-4
+u0_a77    4304  4270  1581860 55312 futex_wait 00000000 S local-1
+u0_a77    4307  4270  1581860 55312 futex_wait 00000000 S local-2
+u0_a77    4313  4270  1581860 55312 futex_wait 00000000 S pool-5-thread-1
+u0_a77    4315  4270  1581860 55312 futex_wait 00000000 S sync-1
+u0_a77    4320  4270  1581860 55312 sys_epoll_ 00000000 S GoogleApiHandle
+u0_a77    4326  4270  1581860 55312 futex_wait 00000000 S pool-7-thread-1
+u0_a77    4329  4270  1581860 55312 futex_wait 00000000 S GAC_Executor[0]
+u0_a77    4330  4270  1581860 55312 futex_wait 00000000 S GAC_Executor[1]
+u0_a77    4332  4270  1581860 55312 futex_wait 00000000 S Primes-1
+u0_a77    4540  4270  1581860 55312 futex_wait 00000000 S Okio Watchdog
+root      4393  2     0      0     worker_thr 00000000 S kworker/0:3H
+root      4527  2     0      0     worker_thr 00000000 S kworker/0:2
+root      4718  2     0      0     worker_thr 00000000 S kworker/u:1
+root      4785  2     0      0     worker_thr 00000000 S kworker/0:0
+root      4961  2     0      0     worker_thr 00000000 S kworker/0:0H
+root      4976  2     0      0     worker_thr 00000000 S kworker/0:3
+u0_a85    4986  298   898732 47312 sys_epoll_ 00000000 S eu.chainfire.supersu
+u0_a85    4991  4986  898732 47312 do_sigtime 00000000 S Signal Catcher
+u0_a85    4992  4986  898732 47312 futex_wait 00000000 S ReferenceQueueD
+u0_a85    4993  4986  898732 47312 futex_wait 00000000 S FinalizerDaemon
+u0_a85    4994  4986  898732 47312 futex_wait 00000000 S FinalizerWatchd
+u0_a85    4995  4986  898732 47312 futex_wait 00000000 S HeapTaskDaemon
+u0_a85    4997  4986  898732 47312 binder_thr 00000000 S Binder_1
+u0_a85    4998  4986  898732 47312 binder_thr 00000000 S Binder_2
+u0_a85    5293  4986  898732 47312 futex_wait 00000000 S .ProcessManager
+u0_a85    5295  4986  898732 47312 binder_thr 00000000 S Binder_3
+u0_a85    5312  4986  898732 47312 binder_thr 00000000 S Binder_4
+u0_a85    5319  4986  898732 47312 sys_epoll_ 00000000 S RenderThread
+u0_a85    5324  4986  898732 47312 futex_wait 00000000 S RenderThread
+u0_a85    5325  4986  898732 47312 futex_wait 00000000 S RenderThread
+u0_a85    5326  4986  898732 47312 futex_wait 00000000 S RenderThread
+u0_a85    5327  4986  898732 47312 unix_strea 00000000 S RenderThread
+root      5036  2     0      0     worker_thr 00000000 S kworker/u:2
+root      5085  2     0      0     worker_thr 00000000 S kworker/u:4
+root      5086  2     0      0     worker_thr 00000000 S kworker/u:5
+root      5252  250   5888   644   __skb_recv 00000000 S daemonsu:0
+root      5357  2     0      0     cpu_stoppe 00000000 S migration/1
+root      5358  2     0      0     worker_thr 00000000 S kworker/1:0
+root      5359  2     0      0     worker_thr 00000000 S kworker/1:0H
+root      5360  2     0      0     run_ksofti 00000000 S ksoftirqd/1
+root      5362  2     0      0     worker_thr 00000000 S kworker/1:1H
+root      5363  2     0      0     worker_thr 00000000 S kworker/1:2H
+root      5366  2     0      0     worker_thr 00000000 S kworker/1:1
+shell     5474  303   2772   920   poll_wait_ b6e46870 S /system/bin/sh
+shell     5525  303   2708   1012           0 b6db8870 R ps

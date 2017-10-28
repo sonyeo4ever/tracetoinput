@@ -161,1055 +161,166 @@
 217.580271	[FS]	/data/com.facebook.katana/files/fbdns.store	1	
 217.591662	[WA]	/data/com.facebook.katana/files/fbzeroscfg.store	0	57703	0	
 217.598756	[FS]	/data/com.facebook.katana/files/fbzeroscfg.store	1	
-1186.288157	[RD]	/data/com.facebook.katana/cache/browser_prefetch_cache	
-1186.288828	[RD]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/tmp	
-1186.290181	[RD]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/storage	
-1186.291043	[UN]	/data/com.facebook.katana/cache/fb_temp/.nomedia	
-1186.291477	[RD]	/data/com.facebook.katana/cache/fb_temp	
-1186.294199	[RD]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/tmp	
-1186.294391	[RD]	/data/com.facebook.katana/cache/WebView/SafeBrowsing	
-1186.294554	[RD]	/data/com.facebook.katana/cache/WebView	
-1186.342686	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/jQIjTFPQTzmkoPSB2qN7hDdKOiM.cnt	
-1186.342882	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/khIEhCoxjAK_NeLnUoqG8ttdwF4.cnt	
-1186.343047	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/YQqvImRVAQAaDrGQWPd39_H67HI.cnt	
-1186.343282	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/Xu7SlZ--b4IORD1HkA2RrWawBYQ.cnt	
-1186.343471	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/manifest_v1.sqlite	
-1186.343666	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/OAlOJNhksSMGBVKRmvenL-8-vPg.cnt	
-1186.343848	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/Wdv1tnuK2rvXEP3nOFAtGLR_vfc.cnt	
-1186.344042	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/111806072859816/colorlut.png	
-1186.344235	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/COyIlNJhgx3_VGbgYUVx4L9xzMs.cnt	
-1186.345460	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/111806072859816/compiled.fs	
-1186.346386	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/agL4LwE3k_u7u3eShTuIbZxgcxI.cnt	
-1186.346592	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/R2DSE3aE6OnCshbDLMVTK3yFzhU.cnt	
-1186.346762	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/USm8qhnHfl5t04WyNe4vdgLQPBY.cnt	
-1186.346924	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/v5ql900vVpxATsEjxq7cnSBQ7js.cnt	
-1186.347223	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/manifest_v1.sqlite-shm	
-1186.347404	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/yO67yaOpbvzOOXWi3K8KX1oOl4k.cnt	
-1186.347620	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/manifest_v1.sqlite-wal	
-1186.347819	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/R-cAPjAl1G9pdvSjVLT86oYoJvU.cnt	
-1186.348015	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/eAA5RxTvdz_3Ztx9ABuQkGGAXfc.cnt	
-1186.348209	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/P10zy-qJp9xo9expvDf6r2eR370.cnt	
-1186.348393	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/6X1y3IeWXT1GCkI-21P3ZHBE0bo.cnt	
-1186.348580	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/DcxD-ax2xky_UfWKOo3FgtNxg50.cnt	
-1186.348745	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/Film - S1 Chrome 2.zip	
-1186.348924	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/4YFNvg8XKoznPiqoq1apHAuKI-0.cnt	
-1186.349101	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/z6i293CQ4FookRlBPwAdSRs8_4Q.cnt	
-1186.357154	[UN]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/111806072859816/standard.vs	
-1186.357770	[RD]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1/111806072859816	
-1186.357948	[RD]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6/inspiration_asset_disk_cache.v1	
-1186.358118	[RD]	/data/com.facebook.katana/cache/_store_3f64f6b4-f14d-4a36-bcc2-ef9776472dc6	
-1186.358296	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/330qGsh_FfbS7od53mn0ZwcHfPo.cnt	
-1186.358469	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/OAJ8rZUDG0tAkca87vq5TWlIGD4.cnt	
-1186.358829	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/V8eR0BA_r6--8d-CcPIE0Y_w_iI.cnt	
-1186.358990	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/XuW3MmdXvFCyQZQ7Cks5TkZPEEY.cnt	
-1186.359207	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/WfNqn0eeIki-h34KhNRgLcc4vZM.cnt	
-1186.359400	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/pJsWIBRGtqGHpiaDWaIsKtT78oo.cnt	
-1186.359627	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/d3vIYW--pOKTTU_ldZrd1adt20E.cnt	
-1186.359809	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/62/nTTbHZCn5pC71oTmva0hVBzlL3A.cnt	
-1186.360085	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/OrbBgx4yyDsliCWl1dJiocKFPok.cnt	
-1186.360289	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/E2sTxz3BspC0a9oIM8uUAnD-mp0.cnt	
-1186.360484	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/z7B2zEJN8j5RXCwb92qHfhlqpX0.cnt	
-1186.361734	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/CzfeMXUosCn5cIVxWORE1TqJb7I.cnt	
-1186.361967	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/qCL1S_1mfT5FQljuotO1oGaPw0c.cnt	
-1186.362179	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/Lt6SvV3-at18g15kx9To7qyVB8U.cnt	
-1186.362403	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/JXBOnCPNFUC2HFpFLMdp_4QQ5iE.cnt	
-1186.363390	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/NPbsjCOTdW9CZDsdzGxHMWRT9Nc.cnt	
-1186.363588	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/WAQidK2w1Js04rqUuiQ9UXMrzDE.cnt	
-1186.363764	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/MpioD20wPQvWuCVJFdfbm5HIEok.cnt	
-1186.363994	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/vHkv7_V5HzAMZ-F_sikZNKigKJo.cnt	
-1186.364472	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/aw33qXk2JaZroPJOeWQDTOHFdNw.cnt	
-1186.364661	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/4JUsoln1Yjk7vkx7Y8KYvWYbDsI.cnt	
-1186.364832	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/JO03lZ_WiJ656xkeyIYtGC2vHgU.cnt	
-1186.365016	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/zv1Mu6Fgls9RRcODIuda2Rb8NLE.cnt	
-1186.365183	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/J9yo4JDP6UPMBqCF3AUyMSQjr48.cnt	
-1186.365349	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/9MSednBUpuNaBYTz-QNnbritkQ4.cnt	
-1186.365523	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/eTnzwuuo37NxomFb3plgaREfe9E.cnt	
-1186.365697	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/fWtNIOIG3CY4SQYlFQuzgXMSRiQ.cnt	
-1186.366652	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/-WyibFa-n4-uUrqGkLXfKnhFYdc.cnt	
-1186.366834	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/9cYUPMmn4A0EufsLNHVRMS6lMlA.cnt	
-1186.367016	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/PJlYGXB2Ig-mKeEF41fOP1UoHeI.cnt	
-1186.367226	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/GI0Sb_PyJIcfwwkWdo9jpqsUKA8.cnt	
-1186.367389	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/WSJb-3r_DQIXrvWyI6UFylvlCt0.cnt	
-1186.367559	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/8ERe6fVWmCDiNV6KsMpA_RHje9Q.cnt	
-1186.367725	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/kblO--oKJNXv_eydlTnfLZVugxY.cnt	
-1186.367937	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/ridzPLHFw8kpE3_WOJxuPcuxoNk.cnt	
-1186.368112	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/H4jhiY1UxqIV2alDG0eIef-1kbQ.cnt	
-1186.368274	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/Uzsx65JncNLIzaLVfpdsqeqzFdE.cnt	
-1186.368459	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/ZFvt8kRWnbbV-DOiU60zmWlIOHw.cnt	
-1186.368637	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/Wz1NH8sGZ5f0MYwzW4VSRE3YxRg.cnt	
-1186.368797	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/KeMtdCH9WZeP7jy1XfoEZ_gjq00.cnt	
-1186.368960	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/8pODMPJU4LEdi8MSFlzEZXg4cG4.cnt	
-1186.369128	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/10/ohQXuR1Zh1Bht0phKpQIDQwxP7M.cnt	
-1186.369303	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/EkkWn8d7GgaPBlgrmrmYxaZ9-e0.cnt	
-1186.369482	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/vqWWUeUxakNFZ1zb15vk5AOGkWg.cnt	
-1186.371051	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/5AasqRZgEZE46Lc3vyZ7cnhq3sw.cnt	
-1186.371274	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/2iEfRJsgsu73TghKb1AHxgCwpoQ.cnt	
-1186.371450	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/SZJB7a6VlRFXI0OvE3n6uVxDs_w.cnt	
-1186.371628	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/sPkMS5RcPXA84YX471kIQygsgOc.cnt	
-1186.371812	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/34/ff0NCPX2e0EkV94v7eGf6fDAisI.cnt	
-1186.371993	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/7bNyWA0zB8p-7XkmgbilnXnttt4.cnt	
-1186.372199	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/BgNRsFU3-q1A8vgRDx5rrX2cDOE.cnt	
-1186.372368	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/E49q-L1sHn1XDReTUP6BKLc_H8Y.cnt	
-1186.372966	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/AYYrgIKwHMvqIjD4TfI4f-iaCwM.cnt	
-1186.373266	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/h7FllzAxA6fanbIt3Ld-YvFIX7w.cnt	
-1186.373833	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/JDpKYXESRHIZvMOxs5eGcAVt89c.cnt	
-1186.374186	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/9VWcby66l8QNuUAySj3ri7d8XIU.cnt	
-1186.374370	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/IHGSS13IChi5Es-a7F91isPXV3M.cnt	
-1186.374662	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/Fn7UQkkd54WmKyNj8HJgGaK4_DU.cnt	
-1186.375018	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/Eo0iaNaYgnCrvkTYW8ML34fj8iw.cnt	
-1186.375260	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/I9IrTx9tAnTooW0w25ryg_zLkKE.cnt	
-1186.375525	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/qfrwcVcAnN2VEahbHIzhq-cKyAA.cnt	
-1186.380033	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/P8ZM6nJfQyZiEzRI2xlaSSrxi48.cnt	
-1186.380251	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/58/OsoMQz8qwFJ6EQdWbDBD9XuN2OQ.cnt	
-1186.380438	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/62/5RGjll0vtg2vi219jFCzO91gugI.cnt	
-1186.382424	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/VH9CtrK4snihAwEKvSEbdTA3VZk.cnt	
-1186.382600	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/fv7cJNbpnmdVqaNOrY2D_IN8NZA.cnt	
-1186.382796	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/AilYzo2u8B-TOI4-a1uvmyGFoKk.cnt	
-1186.382999	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/oIyiYXlB94Nq3gyr2vVRfTieRC0.cnt	
-1186.383208	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/-W4AIsGlYlT5MFOOsON0eNUew0k.cnt	
-1186.383390	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/g2fE8ltUcgukZgK9MDjs9QrXJQ0.cnt	
-1186.383588	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/62/6MArwzRPvN7i2C09AYej5H-5A1k.cnt	
-1186.383770	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/NRZX7Qw2OMzF3BvtqKOJ7QlFB4Y.cnt	
-1186.383953	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/34/VAHAESTSmDfG6RTFgQSc_TAc424.cnt	
-1186.384129	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/-oymCqlVkrLnp_mKqEBB2vmxOFw.cnt	
-1186.384312	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/CDDwJXkhl9K0n2_KhPJVNTwHSMU.cnt	
-1186.384484	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/0zgyxBe_ytcC8Sr1ki4ogo-X4j8.cnt	
-1186.384666	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/NRIQ6toQF7VUeMU9DcZQ6Z3Qwp8.cnt	
-1186.384846	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/DRxBKEVWyPv_8sslFYXWZZB0lC4.cnt	
-1186.385031	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/lg4bDFK5782NVBxj7yFp4i4oDHg.cnt	
-1186.386052	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/lf6a9v_pxF2WcYX6ORbGby7IdQk.cnt	
-1186.386678	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/HskulLlyDYMxTdEKXYuLAYeyDmg.cnt	
-1186.386902	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/g5hFRU-0IlY5hc6uITiEpoIWEXY.cnt	
-1186.391343	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/QyjvedDnIhk1US31YbbqGnU69x0.cnt	
-1186.391598	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/EocqR29-XOaBNXcDEVdVFHDvff0.cnt	
-1186.391801	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/3uZGig6UyyulfC_g8l1kP2aeviY.cnt	
-1186.392000	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/DEMBvDY9IOonS6cd_X1DKG2C8xU.cnt	
-1186.392207	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/77/u9wwIwNbex0g8EpKfrYt8ntTL80.cnt	
-1186.393024	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/zm6Gl4-_lC8i3BmuunqUFUrIy1c.cnt	
-1186.393229	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/d9PqN17_1vnusYpwdJKIfsmVzdo.cnt	
-1186.393424	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/BhTugxGZioV60xrR5pHa6n_tK6U.cnt	
-1186.393626	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/vEPAvuJP9HrYUbvjKqZS05a31rU.cnt	
-1186.393822	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/Tm4JaKDu0bBL7AaCCbEFEq_P2vA.cnt	
-1186.394052	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/se2rageULhEKRhVgrqJv9_EGg_8.cnt	
-1186.394280	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/OnFTE27I2xQmjHCYrCYSg8Yp6VQ.cnt	
-1186.394503	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/9Tw9bFSxOtm0ISVcMpZGLG-QXSo.cnt	
-1186.394715	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/eshsNYcd9TIEl1QEJo_OQmvm9A8.cnt	
-1186.394930	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/2k22h9LmOrqtIi2Wzk99HwDgSkk.cnt	
-1186.395151	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/OGasL07rIhlswRWWks9KljgZ1eM.cnt	
-1186.395357	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/ACjMff6XBvIdnzd31XQk4e88-oE.cnt	
-1186.401867	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/64/KdsXTzmoOvA-FMUh-CmAERWXU_I.cnt	
-1186.402078	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/DPcRTz2BIwHbyseDipzDNiWn11Y.cnt	
-1186.404261	[UN]	/data/com.facebook.katana/cache/graph_store_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/GraphStore.sqlite3	
-1186.404465	[UN]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/manifest/manifest.sqlite	
-1186.404663	[UN]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/manifest/manifest.sqlite-shm	
-1186.408550	[UN]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/manifest/manifest.sqlite-wal	
-1186.408725	[RD]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/manifest	
-1186.408943	[RD]	/data/com.facebook.katana/cache/graph_service_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0	
-1186.409148	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/xY__RULyZjLX5E_4Jiz26znHGf4.cnt	
-1186.409348	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/A9dGXgpXvYd9afntKTh-2g0PXFU.cnt	
-1186.409538	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/CBjkVFTjE6R086F31dbyj-cRIxc.cnt	
-1186.409714	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/rm8Iaws2nPaVClrmreO55Tdvxsw.cnt	
-1186.409898	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/-6pfbBD6fMBRRdraOIQmHIQusNQ.cnt	
-1186.410073	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/fRLM-rTtqxhgEUThGY5fFz4uq6A.cnt	
-1186.410269	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/j4SsXVAA6RUgRDCC9Qp_KPWycwQ.cnt	
-1186.410456	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/dFxdzEIuWRs3I-HBXbS-f9qX7HU.cnt	
-1186.410649	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/pAVFFMzd6GqlYCOr9ayRUBJOvr8.cnt	
-1186.410861	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/gxlIpITTwjWTE3gJagJzqmHoiZM.cnt	
-1186.411758	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/8xxIFCaAbdu-BhfMMvepH5QqGj0.cnt	
-1186.411956	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/vdiIWm-XYnkMl7whZFuCfrHkbk4.cnt	
-1186.412158	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/uC6JtHEMrLU2EmlQlxVVfy4j94c.cnt	
-1186.412349	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/index	
-1186.412545	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/e08089f2b20d9827_0	
-1186.412735	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/4bf7a2419789d1b5_0	
-1186.412911	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/0937a3d1bd48516c_0	
-1186.413082	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/96edc3a301be82c7_0	
-1186.413256	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/18226ce1e20701e6_0	
-1186.413434	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/dcb834ff3ffa36b0_0	
-1186.413603	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/5e128efcede401c0_0	
-1186.413790	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/a610e1d4c70a7a3a_0	
-1186.413965	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/e2ca11d0d43b3cfd_0	
-1186.417436	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/9416bc59aff7d50b_0	
-1186.417654	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/384522399d73e473_0	
-1186.417823	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/b94631e975422fc8_0	
-1186.417984	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/4621b47fcd9b5211_0	
-1186.418136	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/bc38fb6e2930e984_0	
-1186.418285	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/d2cca3fd8e99c2b8_0	
-1186.418443	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/86d91926ad2641ae_0	
-1186.418596	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/5cbd4ea83883b6ef_0	
-1186.418743	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/002f1c9eb0005b60_0	
-1186.418922	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/7eef341d8617dd25_0	
-1186.419072	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/bed49722af4280da_0	
-1186.419903	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/d13699dca2a28058_0	
-1186.420069	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/010f46e578da23b5_0	
-1186.423241	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/010f46e578da23b5_1	
-1186.423453	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/3c87d1d2b2589daa_0	
-1186.424089	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/e959bc613a299488_0	
-1186.424244	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/379dab440f7d80fe_0	
-1186.424414	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/ff498a939928f4e9_0	
-1186.424565	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/a1d34b90cd3d6fe8_0	
-1186.424711	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/cc73f3a6a09e7861_0	
-1186.424875	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/1c574d95c1b4968b_0	
-1186.425028	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/354c7a55e0bb8541_0	
-1186.425172	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/077a6f9aaebea2b1_0	
-1186.425319	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/494a2e2d792be2a7_0	
-1186.425464	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/72402b6e80ab246b_0	
-1186.425617	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/f16660cccc5d5e0c_0	
-1186.425786	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/c6f572b099cec517_0	
-1186.425953	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/84d0ebbe3625f955_0	
-1186.426104	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/a4d790ce4ad92060_0	
-1186.426264	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/7b4465df03dba64b_0	
-1186.426434	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/3e638f14281742e3_0	
-1186.426650	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/8be7475e76d5cd4e_0	
-1186.426804	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/ba2e12b032900607_0	
-1186.426960	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/XZ4aSMkdn6TOp8Rf1u_YQiK7jOM.cnt	
-1186.427180	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/zD7P891nNvBCLwvOtiuxK35X5x4.cnt	
-1186.427341	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/92VmT-r2jNobcU1AZvF_34_-EbQ.cnt	
-1186.427655	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/_LtJN-Gq1fSPtc6t9r1-etUrDtM.cnt	
-1186.427835	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/QMxOz6psPB_sO83nu9oumqnWc7M.cnt	
-1186.428021	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/PMHo2QK9nCcdHUUtVfkoF7YhIGA.cnt	
-1186.428187	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/PU0nGNoIS4ifbQU3BpCmRcpMRGY.cnt	
-1186.428473	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/S2Q1V_6nNDoQh835pj-RFGf_tkE.cnt	
-1186.428643	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/pWZ7C8oyemTBdeQRbE3nCa_5P-s.cnt	
-1186.429013	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/Ss1o2LLlqBdg_b6Wlobg3UTW4VA.cnt	
-1186.429188	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/V-zFrU4Q_f1RwPZuH1OZqSDzMdk.cnt	
-1186.429352	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/NyUGUJE8Bxzpc_LcdrwT9hK-p8I.cnt	
-1186.429529	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/PFFbObQ9Gbgbfdm_8iqHxfpRi4s.cnt	
-1186.429798	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/qwzd7BPH1P31oNpakq8_pt_lseE.cnt	
-1186.429959	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/6weq26qhEphu4UGYfBcdTGlnC88.cnt	
-1186.430978	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/FIdpUQbglGP4YYCSOEf0xfF5JRU.cnt	
-1186.431159	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/GOirdJVus05-o_ppVLPwFO-rTmw.cnt	
-1186.431388	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/byQFRoBXmCOrg-5v_JkiA5nIvOo.cnt	
-1186.431557	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/62/xm4-aoYU1yXmzFxBcMq-3fzDE-4.cnt	
-1186.431723	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/SuRbT97LGc2c2aim2YmCCrte_l4.cnt	
-1186.431904	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/AqOKCHND7MbplvAPyclMEN76g5Y.cnt	
-1186.432125	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/bPAmVx3uOzFQeXu29k3BN5AMBx8.cnt	
-1186.432292	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/TI34IJJMYIx6W09dMa9pSdkneFA.cnt	
-1186.432485	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/wlRdEUM-Pk4tW8m8mbSduxTo4Zk.cnt	
-1186.435185	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/b2oC0zrTnwU-XuK48EcYnal9Dxs.cnt	
-1186.435366	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/rjNkLBBcYFgSiOSbv2W29Nh_Cqs.cnt	
-1186.435550	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/FHxg8RNsekAIf2f1ONFTYclOmPY.cnt	
-1186.437132	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/GQkm89unw_gIiTS7fQUhn7VRMpI.cnt	
-1186.437356	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/c3-pzFa79wbQQ9JMnZaYluNuLt0.cnt	
-1186.437570	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/88/mcAVDdtc9T-76ESKkDI5yG6Jhg8.cnt	
-1186.437765	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/RpfCmB4liO9hCP0JSSfuXVfsrbg.cnt	
-1186.437971	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/msSI0r6pZLuGOIJXD3O-0zAxxSA.cnt	
-1186.438154	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/NcoiH3UJpCUTSC8j3kDpWJUYm3c.cnt	
-1186.438339	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/kIxMzCBuZRxzy9T3nQI4Qw4KYZw.cnt	
-1186.438525	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/bklXTOTv9ehHnJGisSw4aXY4lkg.cnt	
-1186.438713	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/W-RoxMrKdWeDMewnUKQfgGGB3L4.cnt	
-1186.439752	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/-xVT1ZjR-hw5Z1E6JySlZA1oGdE.cnt	
-1186.440018	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/hN-m_X8KJnkrUlhbbse_rUJRk9s.cnt	
-1186.440258	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/GcC0UKv-xIXqlaRcv11D2joVG0I.cnt	
-1186.440445	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/eU3DHqFR3xnbOVZfSXjojBj1f7w.cnt	
-1186.440640	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/f8PCDi_nwcp7cUIc3ofHrR_osUE.cnt	
-1186.440828	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/GT72TEzY4RXjKiMtxdaf1Zsiizc.cnt	
-1186.441035	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/gTFrPG2uHkmMAIqoPmqB5vB2-aA.cnt	
-1186.441225	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/aCtuEjiwDh7pRLgiJdEBwtZI-SE.cnt	
-1186.441620	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/81zEf71udhHyCJK0xNpcJfM5Ibg.cnt	
-1186.441816	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/SLI_2zT1wMq1AjHvVJKrxX9btQI.cnt	
-1186.442015	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/YbbTt_zWPssSHDPVcpSIogYjc2c.cnt	
-1186.442207	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/z9NK6pE-1pcwd1p47llVthvf4N4.cnt	
-1186.442618	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/MH70f-_ejq4hxEy25BmxybwcBSg.cnt	
-1186.442804	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/rmT-foMhbRqlXdcdf7LJl_Fz_LY.cnt	
-1186.443032	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/IUc2VdWXzX58UVlXHXsBvtY3QRo.cnt	
-1186.443497	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/34/FRFqObY2t1gwG5hmz4UdG9Fqtpc.cnt	
-1186.443669	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/40/pEqHtoHTCbMievyMtpN_8853hkA.cnt	
-1186.443871	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/1LnU65g0YpxNtaJKC2Tin-HPNO0.cnt	
-1186.444035	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/0KxFekW66Xz_R-4tbaVLoBZ2tug.cnt	
-1186.444207	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/yVqAvxt8HFl37aJmvZhQJ8lZqkw.cnt	
-1186.444548	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/iwNd_sVeJ1Jr1zPsntvx7ZxFwTU.cnt	
-1186.444729	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/JcbefKddEQ1U2fwVo1xLM8oCxDg.cnt	
-1186.444925	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/64/uh2Og8xwPSbctKl90KLX02Oh-Bg.cnt	
-1186.445097	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/kV-csJurpNs3PxidArY2OmBEizU.cnt	
-1186.445378	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/QUQUSPBxm1ZULR8OGD83uIwrWHU.cnt	
-1186.445542	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/kTHuR02HTjG1GWVyfSFrXH2q9ns.cnt	
-1186.445756	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/1E3tJsDn0fEjbwiOnnK_3i3BzHc.cnt	
-1186.445938	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/uGdn2Ndlka3qQ9kQKpkFI1B7N1o.cnt	
-1186.446121	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/TWu5EU9ECnLj2PRbfGXgMChc7YA.cnt	
-1186.446282	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/kVwgD4GOcKLlR3y9Ek4IiePB2TQ.cnt	
-1186.446506	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/gsDLqravFygmGZzTriOoMfkELbQ.cnt	
-1186.446676	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/MBCurpzizYa4JplnWGmvMWhUbyE.cnt	
-1186.446848	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/-OMaOoNS8NPzqYUUkGTtrcxRFj4.cnt	
-1186.447297	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/mQ5n3WPL1hm--mAvzchoXZ76WrU.cnt	
-1186.447483	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/Pk0NuNRq5sGFr5-6PNbDt6oQYMg.cnt	
-1186.447673	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/JmCNKXa8b08GxVAn_-1z2BXnwPk.cnt	
-1186.447908	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/I7yrmTkdOT7Y80qY1fu87y5CYtc.cnt	
-1186.448214	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/ChTAMMZ2jss33CBdcbI4MDeYxyg.cnt	
-1186.448388	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/7eQawN51iYZOt9JlDBfOIJMt6sE.cnt	
-1186.448785	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/CxS18zlH5_I-Gaxwk1m51ouLXMM.cnt	
-1186.448954	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/2hUhCrxByp-STl6K9xEZpLci1Oo.cnt	
-1186.449131	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/nj-JbOgXOA5skdGaixp7nele43E.cnt	
-1186.449308	[UN]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/80/uWTYrHJEEaJEIQmYpbgep7l_WR4.cnt	
-1186.449539	[RD]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/80	
-1186.449722	[UN]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/0/VQbFhqJHB8RGSBtYui9sV6RYa38.cnt	
-1186.449887	[RD]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/0	
-1186.450055	[UN]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/55/jV2yfnvaYu0_auqWaDiz9J3fyHI.cnt	
-1186.450221	[RD]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/55	
-1186.450385	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/wrKAx2ab6NJtsmzqcic1fJGJFCE.cnt	
-1186.450559	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/On69NYf4loEVGBCviaB5r5xL6Ks.cnt	
-1186.450734	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/yIjeOGUYzIAecxDHH0ppdcfKlJo.cnt	
-1186.450909	[UN]	/data/com.facebook.katana/cache/fontResourceCache.json	
-1186.451087	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/40/esJIKqYmeKYJXh-rxU6n5tTXy9c.cnt	
-1186.451267	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/-rZ-_DKiDEwupgods4RhwzNVRKU.cnt	
-1186.451439	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/nI_jt1rsn9-7D3n37OxcnjCC2m8.cnt	
-1186.451611	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/UAU03GRIpcGwTAdR6hP1cJkEyes.cnt	
-1186.451780	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/ZH9kHcKGwVShQOypfANOJL60ZQA.cnt	
-1186.451957	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/C1_8loq54wpZ4M7kBynUBAYoszc.cnt	
-1186.452134	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/R_hfVZkIOvgGCFtUfyEKE0zvp5U.cnt	
-1186.452330	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/4dPUxyvamrJ86VHW3y6v-R8x8qU.cnt	
-1186.452496	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/2bA2Ew0GYEyG1-L12qrTqBslbDo.cnt	
-1186.452756	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/nDUP-RUjKRbMKYZqcci7633sUrI.cnt	
-1186.452919	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/ZQgSEopHR87ntnztqvnvxkDAv_Y.cnt	
-1186.453086	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/LSzJzJunJZ0-b5zq9-odqV6dih4.cnt	
-1186.453260	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/eEaON8sVhAZZE_NK4L1wzZdtje4.cnt	
-1186.453432	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/_d3L7jlR2drFOFngiFs1hkMOogc.cnt	
-1186.453602	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/eAJR0YZ9aQ6JjWrMxURSvtJYxIQ.cnt	
-1186.453786	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/T_5P8zQS6ZcUszWQXNffwxFfYw0.cnt	
-1186.453958	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/Oi90B6arPBb4vuKs7rnQV3vMJt4.cnt	
-1186.454132	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/UXtgvUEKXVijFcPl_HbBDZyIBuk.cnt	
-1186.454565	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/i97CJOhjLjsjZCVL4xkjsq9Bepc.cnt	
-1186.454730	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/skZobxuILMmFk1TQ51cE0UMSUbA.cnt	
-1186.455323	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/5Q9OzivPyHmtSnSu9j0iYV6XpRg.cnt	
-1186.455506	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/-v3FdYztX9r97AWwj8bzIqPY3tQ.cnt	
-1186.455737	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/A9PPPZxYnwvyYN__a_6x8s_lQoY.cnt	
-1186.455935	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/S_DzZe4DVeajzE5sLaUmWrL48Io.cnt	
-1186.456107	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/qWl8hYbrrQZ_bepBrn2iKXCP5iA.cnt	
-1186.456292	[UN]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/27/vWqJui-pes6JJht8-Hu4P_UXJ5Y.cnt	
-1186.456478	[RD]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1/27	
-1186.456654	[RD]	/data/com.facebook.katana/cache/custom_fonts/v2.ols100.1	
-1186.456838	[RD]	/data/com.facebook.katana/cache/custom_fonts	
-1186.457030	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/j1KR8ppEm2z8rlocYNy-9TycVQU.cnt	
-1186.457480	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/Ko0e5-a-Tyo6OWbL4Z-SHT9i7vw.cnt	
-1186.457956	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/lzXeB9jbEVQWRd0o8y6DlD6Hzrg.cnt	
-1186.458140	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/G3huF7ZN6e29IVtVqeTi-sp3IEs.cnt	
-1186.458329	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/4L6WAy0F9RPGd59JdbvBfn5plqo.cnt	
-1186.459247	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/oncVjtb6332pZMoIthOYDKRAthE.cnt	
-1186.459468	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/FRBiNUgOr0alU1n4yo6E-j17LPo.cnt	
-1186.459644	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/obXgg8D0_Gqg2_JCGFUXKQVoBRI.cnt	
-1186.459828	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/O6K1fnvKphhtJKTOmDaOwHVQzSQ.cnt	
-1186.460013	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/-oy7PN5VinFpdtcEDG1BGYmGT74.cnt	
-1186.460192	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/K3VkWIhQaiHmS4-U4waxf-fRyKE.cnt	
-1186.460373	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/fR7qtBTuD1-mvoyhmvbnZZKOdCU.cnt	
-1186.460554	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/agHl4CNXaA86sjPxh-BYxpWK4ew.cnt	
-1186.460762	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/HdjZpjLB6CytZyPH8LnGicXDS-k.cnt	
-1186.460944	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/I6Bs1DNGUfgtfEe74jw2hCi81mM.cnt	
-1186.461115	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/jhS_aoiFp-Ar-FPMPmpm4q54UVc.cnt	
-1186.461278	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/GFdLr99w_oabaoaMSt4ThtUDGng.cnt	
-1186.461632	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/B05Tfd5sLNvoTx8WaoMxY391FBI.cnt	
-1186.461837	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/qphz23xqfMr_paQLvzIhsHqBFb4.cnt	
-1186.462232	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/666py3IuhxRsiDEi7TvNbhTpiQo.cnt	
-1186.462492	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/Ua4btAq1-BzRJewGQ2mO8Izxz1Q.cnt	
-1186.462678	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/fnyE2BBP-rJbhXeMsG8TGDZguA4.cnt	
-1186.462875	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/2zGmueT4P-wc93PyFB8w75UXNyk.cnt	
-1186.463140	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/52/iTktVpKvpkq-PuK1Wr2670d1StE.cnt	
-1186.463326	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/62/TxSjoI_gzMiGyU6PVunOldSyP_o.cnt	
-1186.463509	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/62	
-1186.465975	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/zOQfHNrhMGXIujXgcBH7XdsCM1U.cnt	
-1186.466214	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/hNLcofkKBjR3ENc321n1PrmX2wA.cnt	
-1186.466389	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/h-E_hjg_O3OIYLBhaeeNnfkQcbs.cnt	
-1186.466594	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/pFJNZK0LiE98Zuicdv84HW7_sbs.cnt	
-1186.466770	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/hHFwBhKe9X0dpUc8gxoMFJb-17A.cnt	
-1186.466981	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/0IaY8KMgmo_QE2s1nhzLjiZcSrI.cnt	
-1186.467539	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/WdFaaPfVpgRdDtadgYhx2j6R7Oo.cnt	
-1186.467733	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/U8d3VkfB74EQX0NVFyysbFF7Jf4.cnt	
-1186.467910	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/nC9AkeGsd_SSAAUj4q2j6fNT91o.cnt	
-1186.468085	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/vO5lhTH4xG262VVlmCoxUt38SpY.cnt	
-1186.468267	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/SY_8ocfxXuQYyq3SH5QE5biXLxg.cnt	
-1186.468457	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/PaE_700YgIWV2F0ACfkZiq_r0Is.cnt	
-1186.468640	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/AHmOfmRPtZ1xbWKbUhGp3ra71pM.cnt	
-1186.469118	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/52/Ya2fac5re_au4zUdLnJVvrubOr4.cnt	
-1186.469292	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/XBotDgCNpP6wGda7YjNK3fPL2WA.cnt	
-1186.469461	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/V7hvDd7nxKqpP17r-GFI_euuvJQ.cnt	
-1186.469641	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/fULxowSxxnqk2X6iZfhakc1JBAY.cnt	
-1186.469805	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/fmkjNgEG7jNc9DsfNFHiDxJjFOg.cnt	
-1186.469973	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/kzkorGJChW_DjrqK8665wvszyZM.cnt	
-1186.470140	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/uCLM7-OsloHYadqOutSdDacNQY4.cnt	
-1186.470326	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/JYR-OzZ4KHYgyj-VFCx3L_4xvUA.cnt	
-1186.470502	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/lUtlZQoOXksx9YbZko4eT2WQaHQ.cnt	
-1186.470671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/QlThcNgpku9zhBJbVrzCk1dY8tM.cnt	
-1186.470842	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/t1OREVr37yTTR-baJ9iVJ2w-Zek.cnt	
-1186.471028	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/vawhEreg1GY3iTaGwtBor3j4GhM.cnt	
-1186.471203	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/AczAvfs4NB0jEbKihKoFrF9NN9k.cnt	
-1186.471513	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/YtDB6RjL_YxM12kHTEEnYtmCF5Y.cnt	
-1186.471694	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/xptJ5ZJjrkDekqTjPP2o0AVnNBE.cnt	
-1186.472131	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/pFq2iWKlgIe0s_UIai2yQ5rFScE.cnt	
-1186.472312	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/VJB65qtpDeT6unkKZ6dECeAAths.cnt	
-1186.472493	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/YL5hBjaI_VZ87YQZi0_OA-BwHlM.cnt	
-1186.472678	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/GI17UVF8G3ZlRL2m7IvUn7QZpU8.cnt	
-1186.472936	[UN]	/data/com.facebook.katana/cache/graph_store_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/GraphStore.sqlite3-wal	
-1186.473364	[UN]	/data/com.facebook.katana/cache/graph_store_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0/.store_attr_cd_v2	
-1186.473539	[RD]	/data/com.facebook.katana/cache/graph_store_cache.3f64f6b4-f14d-4a36-bcc2-ef9776472dc6.0	
-1186.473748	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/uJxbZaZFzJcrhQOb7UQBnyn_stc.cnt	
-1186.473921	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/x6Tqr8L4QDBJnu2WtdorvhrfO3g.cnt	
-1186.474091	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/h7A_EQ1p8zhTgVHVfh4VSW5AGB0.cnt	
-1186.474267	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/Upo7NXciSZsiQUmCk0ztkoFEZoQ.cnt	
-1186.474462	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/CTv1MwR1QmoNm_L74NArqCz6L3w.cnt	
-1186.474945	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/88/WXOoVUy4MeDZ4H9CTN-vXnr5sl0.cnt	
-1186.475129	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/F7SHiJ9w_zqvhNEKBY2ZnvfQHcI.cnt	
-1186.475309	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/DTzIqGITE6YJOWebaL40KizJ-8M.cnt	
-1186.475487	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/AvkESihZRU7bT99i0iE9PysN52w.cnt	
-1186.475664	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/M-OTs936Il9hBb8PO7nrLzkuc5A.cnt	
-1186.475862	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/qrfEu-C5SqosgXeOzpUSw6Sp6ks.cnt	
-1186.476047	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/1xgEZmrmIMjfP8tgf1We8yiPdFg.cnt	
-1186.476226	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/_Ud7GFGTyQherX5lp1n0AzdmF8A.cnt	
-1186.476392	[UN]	/data/com.facebook.katana/cache/WhistleTls.store	
-1186.476572	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/V6_SqBevSWShbcxEOHX5wJRThic.cnt	
-1186.476755	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/iBQ34t_wqvsEakVB2yCqlwlm7m0.cnt	
-1186.476951	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/26/Yq2AKdRM2zGrfdwzwoWbF5Ih4Ew.cnt	
-1186.477404	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/s80CUeFB658k6rByHpGg9O8ZiSw.cnt	
-1186.477588	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/W6k9QY-A0-LMnoj_znipBFvx-i8.cnt	
-1186.477769	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/xxJpTOxmlu5juk53B2u0ZZili3c.cnt	
-1186.477943	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/77/FPE6B5-0xHxgW15BcQuBaizeSlw.cnt	
-1186.478133	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/zFMHkzyL6Pmo3tYq2qxUm1dS8do.cnt	
-1186.479180	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/9oa2WVsqsPZBfG-YGg45WGlXDbA.cnt	
-1186.479403	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/G9nBppL-22GCIo_u7TI9KVam_N0.cnt	
-1186.479598	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/I8ldUOUTRiKrM1tJFJPPVZjgTJQ.cnt	
-1186.480004	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/87/Grqdzta-CjhgrLKFc2ZuMDLYxYU.cnt	
-1186.480214	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/qWDNyZuXTnwB1tM9QBnefKzIgT4.cnt	
-1186.480422	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/oUcrRwHI8bKtTSY6RrQRpfJZGfU.cnt	
-1186.480602	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/jZ2KpJzj-EG4lE8zBq5Cbk37Eg4.cnt	
-1186.481080	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/G52UXaHY1STUC59M8iB4fCmN9_4.cnt	
-1186.481412	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/cMewwAnxmFr8Th3KfCxJn_qPr18.cnt	
-1186.481621	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/tfKp0fb7B1JPIMHqmBffbSPLcIM.cnt	
-1186.481813	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/WDUIL0nEh3BiymUhg5bVlbup-Qo.cnt	
-1186.481999	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/03OGpAQ2cjdesR2FUkl_9v2cX2A.cnt	
-1186.482203	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/CEIqvTlMy6zkIMIs6x-CTHq8_Ng.cnt	
-1186.482384	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/hpmrXAwATFzD3F61C-7XffGS7cU.cnt	
-1186.482570	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/SP78gtqWT4394xz5xGwTA2-Rn9o.cnt	
-1186.482747	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/93/NtpR3H2dXxRu70qbX71jR6cYyIw.cnt	
-1186.482937	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/3JJgd_GVfogeF40mujntNv_63EM.cnt	
-1186.483437	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/Gnh9TPHuNVnsrYpaHG9z0gSsw4s.cnt	
-1186.483612	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/_Ux6KuT52MsvYKsUkADbsSsxubA.cnt	
-1186.483775	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/77/bTDA-_MMpWpLeSAqx4ppWgWgeYg.cnt	
-1186.483940	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/dW-Yy6kINa_oFSPxheMvKRS1WW8.cnt	
-1186.484108	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/1VZ8gq3HpQxMnvzKsWoiF38aaqM.cnt	
-1186.484277	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/JO-Db3o1BNvz_bpfmRjHqVdMkDo.cnt	
-1186.484442	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/QeRp2nEtYluDyeekxaCsiiFMRyY.cnt	
-1186.484618	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/RZiXF9HqkA9BEoXZLJDHoRu8rsw.cnt	
-1186.484787	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/BRrXOzNTjPc0nXn20QZZ9C7HjP4.cnt	
-1186.484953	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/V3ZFK0XjGxcRLLZcoV0zU5IXTv4.cnt	
-1186.485131	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/ERFxG_Vpn1RY57r3kf7zq5IRzKQ.cnt	
-1186.485299	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/ng_vbzcD4btA7AZ8AiZs9JTfnRk.cnt	
-1186.485467	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/c-Kk9x8HQV0koymXYI7QJ3UUAm4.cnt	
-1186.485634	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/TFJuzVEdrYP7K9YeJpDsFTJjakw.cnt	
-1186.485804	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/JQpB6qkXgOU6czP4zNhT1g7sz2Q.cnt	
-1186.485971	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/OmmCi86572zEvyTmy1-kUcuddWo.cnt	
-1186.486136	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/lUCptaBptUD3WTs-AOr_BmWG9dY.cnt	
-1186.486299	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/VbRe_CtLs2uN9iPnvW90A2nt5Ds.cnt	
-1186.486453	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/88/bIqss2YwLLXsDgKSBHFBIadtG90.cnt	
-1186.486623	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/u3EXO37S9mHoG9onsTkYJa_kddw.cnt	
-1186.486797	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/3CO2K70ukjNCfx85WQYm27wveVM.cnt	
-1186.486989	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/A4SxAYbWiC2dGNqAXMxsD9yOa30.cnt	
-1186.487309	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/GY0UNRPD8joUq2vJjZUjccg56ZM.cnt	
-1186.487481	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/MdA-btLTmMYjq-eybmECpagZLOY.cnt	
-1186.487659	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/_ur1mzwwp5rP5ziU-efadFjdbpg.cnt	
-1186.487834	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/SmQgoiX-xNx635MIS_vSvNWQ_nc.cnt	
-1186.487991	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/c-MnYQ-NUtfNgqTz5m9cBxvtTNo.cnt	
-1186.488147	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/hqgEf_wjFQQxBGVmCh159Ixbzl0.cnt	
-1186.488335	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/tDxYslz2RqKBD9VCjCDX__TNJd0.cnt	
-1186.488959	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/fHYA7lQTF-q1GY2yr5cmQHJnZEA.cnt	
-1186.489150	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/u7wXRBtePAGvd9n0n33wkztjWTA.cnt	
-1186.489339	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/a91zoCTpeavkM-vYT7sCCL7hQuc.cnt	
-1186.489529	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/ZaYiyK_fDqrLyrRSQAh6JYsrrts.cnt	
-1186.489703	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/OXQxVdU0T7TowcQFD1RYjvgpzNM.cnt	
-1186.489894	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/ewT729iKI9zecVi4g0cjWUD4ahE.cnt	
-1186.490085	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/rhXcOtPDLFOxFnEqfnhemvbvwhg.cnt	
-1186.490276	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/ExcIfGem70x5YhjpzsOhOlDP3Y4.cnt	
-1186.490454	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/RVHiUgdJo0rK4VZrR0DXEXtn8lw.cnt	
-1186.490630	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/fIa-VrouPIT-41lD_OWrTVtcjso.cnt	
-1186.490811	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/z69X-7vZGnWLjFkcChzfSXizxrA.cnt	
-1186.491374	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/pqiPyKxj3INmAX7INXP-Pximy34.cnt	
-1186.491566	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/61/K9w0LoRgtVNpOeGN8P0OBi1mJG0.cnt	
-1186.491751	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/_dQrCUmvjJKKCtHuGWqttuuvokw.cnt	
-1186.491927	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/b54YKVAHgaV6CVIcsyUdSF3Mb5Y.cnt	
-1186.492107	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/ImunHvC62h9sX-avM741o9igNXI.cnt	
-1186.492283	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/0xdrfr-wAECtigEsKt5q1rkJlFo.cnt	
-1186.492471	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/C6BfuxbC3h_dvbCw5w2bRBTp-XE.cnt	
-1186.492671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/CQx3MGcbn0wNPv81k0YzVK8f4cE.cnt	
-1186.492838	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/X-AmDP_rdqFY16eEgp2w-JU-LLA.cnt	
-1186.493012	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/PflDmpeStmYEEu4CtEqUPwRn_0M.cnt	
-1186.493191	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/fBZCteBrK2_x4ETOUTJ8H8Il2P8.cnt	
-1186.493375	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/zrS5CcTpiRuYSgDBZc6c2iB7IYc.cnt	
-1186.493554	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/KUcJJJa8w63dXtUtTn7zitTz4-g.cnt	
-1186.493730	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/eV7SHn8f01BC7Vvw_P-P6MK6XRw.cnt	
-1186.493910	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/w0omL4mafEF3t1_wsEUK6JKeJf0.cnt	
-1186.494081	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/_8VQMl-2NlYIfAZlWqtb-L7VPgE.cnt	
-1186.494250	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/tQn1T4fuPEeyrV3zTNZFX0AioSc.cnt	
-1186.494414	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/5Oq8GWWEDKIWoz0hbSsEEMPe00c.cnt	
-1186.494585	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/TXFN5l7BC3n6EIKwQx4lhiVOOIs.cnt	
-1186.494763	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/6f_m9Y-n_LIoSa1UZmWjxAatxDI.cnt	
-1186.494935	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/Q2yDVfjgxOjB3c1bntZZZlvQzOE.cnt	
-1186.495742	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/1rmA3SX1juNVqr_M_iZU22rh-u8.cnt	
-1186.495959	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/miUHeWrOzKEXXvfv0A7QgnfzIfY.cnt	
-1186.496132	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/ROIsntJZmpzr5bBML5zexOoX2yc.cnt	
-1186.496321	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/NbztUznmmBKvVo8LYezkRKzYyPI.cnt	
-1186.496528	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/B-4wi6vBXLplKG_Y4zKq_ecAd-Q.cnt	
-1186.496789	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/hgW_J_dwhqkw7IVjAoktQ_NDoc0.cnt	
-1186.497027	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/xHWZ7qQc9ScVJU6f3E9Iaa4FCc0.cnt	
-1186.497367	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/A_4yN6j2R5Wm0hX-Qnw76Prm5X4.cnt	
-1186.497571	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/co-Rm9YmFTMjogUyRfO8sptSpj0.cnt	
-1186.497890	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/wDqN3vMqQZZ2HXeaiPP_A65-ZVA.cnt	
-1186.498095	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/U13umL8rOfd4Nu8uP-m6aQsCPbk.cnt	
-1186.498296	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/26/kCaz4ph59r-SO5g6ytxGNahSROM.cnt	
-1186.499259	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/64/sjkPQ82uwOytJ6JVimBvrfVv0xY.cnt	
-1186.499858	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/AyuIwGHPeD3VhfB8tWkizXFC7uM.cnt	
-1186.500072	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/wfF4zEMP6Kqu3yrAS5qVZZZJ1-A.cnt	
-1186.500273	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/EZr4I1YOf41DZSbQ6fAFNdr5Uew.cnt	
-1186.500488	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/-OYPskQkkEhdA_K5oFyfjGQJ4sU.cnt	
-1186.500664	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/Hkqqa_W6K_YvcWvAtaVypYIB8k8.cnt	
-1186.500848	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/4mTzStN8TuLpYRyUGnpvvPNhzC8.cnt	
-1186.501027	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/qUjuiki7uTPskffO26QNlt2yLhI.cnt	
-1186.501209	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/88/gpnV-gQqPTiPjS90AEatdCeF_1o.cnt	
-1186.501441	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/kB7La-7iJCyX1dFrzkvMYzNkZac.cnt	
-1186.501620	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/EV1qOpQqNMi1X4FWwfaPbClSyas.cnt	
-1186.501815	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/4QvJX0iq_11kUU5Uqx6kVzdx8HM.cnt	
-1186.502034	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/Nd2bn9Kb3MJZAXN5hMDx6n-oKr4.cnt	
-1186.502232	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/Nics7j4BHPuLB4HYsbwK7U5PTm0.cnt	
-1186.502436	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/tEdTdEIu5maKtbKWoCy9N7k8ioA.cnt	
-1186.502619	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/i2rP3kQaEX1kL--Wz1xvD8a3exM.cnt	
-1186.502798	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/61/CJI8u78hMnAox3ZOdU6kwHgNG2M.cnt	
-1186.502974	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/aOiALj4zQqGBZFWQ4CHXdMwZY10.cnt	
-1186.503139	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/lEoCQ8irco_VjKIeBvEePst1T6w.cnt	
-1186.503312	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/0w5_kZIbfeirM3hAgbkKAH3Rhjs.cnt	
-1186.503489	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/62bLF0m3Urc61XblUXUKuViUF8M.cnt	
-1186.503665	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/Fj7eshIMZY4vp8S9yxsXSKJOsL8.cnt	
-1186.503848	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/R_ICskyZvgd94cDimKEfsszaTqA.cnt	
-1186.504028	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/nPXK9eonrZavREDfn3H_yCgQHXE.cnt	
-1186.504458	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/R7nhe3cR5cyEFi8azFKmjEWK2kA.cnt	
-1186.504687	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/58/1-xpagRF5NRyGGgr9v3UjsbQvIQ.cnt	
-1186.504863	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/2xYrXmWUkYqrJsOpWpGbrseKTFk.cnt	
-1186.505042	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/g_0s0y6haThV0XQRUYY1Mgmf1ts.cnt	
-1186.505227	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/RZQ8PTfN9Ebcqu4IBPPYZzX__go.cnt	
-1186.505407	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/sZZTPqVYz2Krm4euByERHYw_bOg.cnt	
-1186.506716	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/yCnV3qfYucb9yJmfDgfRPICQJRs.cnt	
-1186.506922	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/zueRQ09y5564m1a37QjKCJDciCw.cnt	
-1186.507515	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/RfhjDNwF6Dxa_HwC-IcAFMS1aSM.cnt	
-1186.507761	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/PztVVXiZ8riytY6z5383D7ZCBFY.cnt	
-1186.507962	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/-_v7fjdudAcbIDDLVciv3D3tyPQ.cnt	
-1186.508170	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/EEmEwVhSgw42_jeUdEgGrzDmB2M.cnt	
-1186.508410	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/B_sHv8Tr82ffyMvhaubwZKjEhX8.cnt	
-1186.508606	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/thK-joFR_aIxsmtzzPDe1Msk6gI.cnt	
-1186.508787	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/34rrbsuQ2CH9_ygGCWuF4xMBHtY.cnt	
-1186.508980	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/hpA8B_xhnCtPnDSopWPf2ERqZTw.cnt	
-1186.509166	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/qHYE1wPpzdAY1fy1DkLP1PvwsUE.cnt	
-1186.509342	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/GFDLACZdNA3DMqrJcqAQWkBB1lY.cnt	
-1186.509542	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/fCeZEGYtUAh858Cab2snQyo8UvY.cnt	
-1186.509726	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/JAIEx83cYJ92gOhmqSo7-YhlkFI.cnt	
-1186.509899	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/NuM4BKnmS4TiRjAwE4gnMRAJVD8.cnt	
-1186.510100	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/yhVGSvwPhDpEG48CdNHnrOXDWII.cnt	
-1186.510270	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/V5TLqZ0tMZMqAqUaf7VZEJY82T4.cnt	
-1186.510473	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/ZlryVkDNX_p8KKy4NwuuC70Rj3k.cnt	
-1186.510780	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/r0u9PpUQ8dw-WQFB2YnXF7iyUKE.cnt	
-1186.510982	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/dxz5U-mEqaCwvRjmDFBv6gneyjA.cnt	
-1186.511155	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/mW2ueA4Ul9j-jdvmI5fgeOWFPC0.cnt	
-1186.511349	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/P6P5Pxr-lL_cd28XjmsnKta6k3w.cnt	
-1186.511544	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/33/eJ4-lX357vHiayGNrSyXNKQZWvs.cnt	
-1186.511749	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/40/F2bg9HrFJN2st2gpLaN73Is-FAQ.cnt	
-1186.511937	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/iNnI7tHfoj50OXIBMd-cQaFUFso.cnt	
-1186.512399	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/o3Gb2rem0CScTzysx3GuSOzDVfU.cnt	
-1186.512633	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/14BRyKKZ9If4KSYb0BVGq8x7CIA.cnt	
-1186.512860	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/mPqXiYwJil3CjnHVsg37EEVBXQw.cnt	
-1186.513115	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/h-OZDtFLjgBT09hwENZoEwRV-w4.cnt	
-1186.513320	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/uo6HiQjI-PNmSmBxw_dgDJkPN3Y.cnt	
-1186.513525	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/plCt6KXAF8B2-gKT2uf2ZDzJoQg.cnt	
-1186.513875	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/fvXYZV9LLZ68WRKn-ooN4OIWhoA.cnt	
-1186.514097	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/Kw2_FW_lZd9r1MPOg-r-ZusfwAI.cnt	
-1186.514301	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/QHSsa8yOe2fI-t_k-dfQBd5Jq80.cnt	
-1186.514699	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/Dh1nPVqAOaZs4ktu1CBJeGodaJU.cnt	
-1186.514931	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/Yv_GciNCVu_-s98MkvWWOURo-k0.cnt	
-1186.515168	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/7CNHQMPXYiKT7-7xmQAdlyvRksA.cnt	
-1186.515392	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/2fHSBV_m0MoUrWjU-BCC6pvo9_U.cnt	
-1186.515825	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/Y7KcMqUHHoPHEY-HVr_-PXvjWaw.cnt	
-1186.516046	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/bI48UiwMPeEWV31dhENGPQizALw.cnt	
-1186.516584	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/SOynsFiy6NS3qk6w28kku6GGP9M.cnt	
-1186.516893	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/96OciCmL1Z1vBL9ycOuLW4lZtIc.cnt	
-1186.518647	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/1WaciDtWHQjRFSarfZKkhw91WY8.cnt	
-1186.518895	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/5zkKUVpSVyqT5_1Tu4f2aJjWJVU.cnt	
-1186.519076	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/ohHB7jfXBcZRftuIpSoboY-e2PM.cnt	
-1186.519271	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/93/eUlzvNPzSLfBPbP0XdJ9VzS5jO4.cnt	
-1186.519441	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/u_AxZsvunAGPtItzFbS5ZRqV8GY.cnt	
-1186.519604	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/rZ8HBwrxKISmX-_Hz2tW68MEIJo.cnt	
-1186.519786	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/qzZOdf1Z8n0Nx-YP-otV_w8NCYs.cnt	
-1186.519961	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/23xsp7PQ2qRTdMWtG9ij2e7pwPI.cnt	
-1186.520154	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/Y1Nav2oAolUvWeLLUIKajWzHSdA.cnt	
-1186.520325	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/PmaCw9CxOibP14OFFUXbABIzQ24.cnt	
-1186.520498	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/gvuGipCL8S1sEbFysteKYDkU3sQ.cnt	
-1186.520672	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/GaK8TSkf5ckOadZJbH10M0Zx6Bg.cnt	
-1186.520847	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/g47YwrMjTh8qCDGkew3IWcdkACo.cnt	
-1186.521025	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/KOfqIXWMrjKLKjVIKx6ZqyRZYdE.cnt	
-1186.521195	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/gtuACwTiGaDHDnmCxqrDU6RSaHM.cnt	
-1186.521359	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/93/acfuwJc1_gf5OxA-J57GlKFKp84.cnt	
-1186.521519	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/OdiRzjJxSI9hsKoHjTolNJLZv-s.cnt	
-1186.521688	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/4UaRS9zJnD_ruEACOCWYlyz3b-o.cnt	
-1186.521866	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/8ywLR_eXHJehcnOGIG_0C-qo5CE.cnt	
-1186.522061	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/dmhPyyXFhsbFbaY16VGHb9CgNZ4.cnt	
-1186.522229	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/UQph6nQmkOGJuKTXm5vDUMwyFR8.cnt	
-1186.522404	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/g9e56FV8QOGw2KON4HjPRFCXkOs.cnt	
-1186.526119	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/NDdO1t1Iyba5djvzmnTLz30LEfQ.cnt	
-1186.526302	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/X_MyviAGXbK6ZRU7rw3lV5U0ZkY.cnt	
-1186.526480	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/D4UKalTzrxfsrdWpVJeuKAGIJ60.cnt	
-1186.526648	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/6rLDJGg4ubiaaewF6PTdimnQw_s.cnt	
-1186.526827	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/HJ06HA9ZqgdycSgZQOSFZ4GvdC8.cnt	
-1186.526997	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/jOmav0Nz1pOen0qOUcJsNwG8jd0.cnt	
-1186.527806	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/hbEexaZAe1cX_-KGvinGK26fpNg.cnt	
-1186.528037	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/34/2qzksDXyjx6SYECaQIU5X4W6Qm4.cnt	
-1186.528218	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/34	
-1186.528452	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/JiK0yENQ-dcRZ1nCjzYBi_sNjc8.cnt	
-1186.528624	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/RGHgldPa3EIhZorQMBjSLfuwv88.cnt	
-1186.528825	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/_vJxvE-C2WvuOx4TcCd9WJ6pGUI.cnt	
-1186.529193	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/6/7Vp7odIzbJ2zjsm4FfEoT4x4c8E.cnt	
-1186.529416	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/6	
-1186.529642	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/Ytw6KdyRD8ok5sdR8ML3mcrnzeg.cnt	
-1186.529965	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/bE8ZVb1n_QFPfOvQrS1-lrfYXX8.cnt	
-1186.530154	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/1eux9SUNVry6-uy7gwBA1ZWrhHM.cnt	
-1186.530340	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/wlXYqXQthqUjBOhSwUdNSXKL73s.cnt	
-1186.530617	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/VNNctiGoIFldDNHBMkvDHVoMCN4.cnt	
-1186.530791	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/10/vdS43msT1d3NzMcItaxu0qF40t4.cnt	
-1186.530972	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/ocG8Dy9WsD63k8tnKuEzGfnjdNg.cnt	
-1186.531162	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/zZejYM4rdW6qTmOeAi2U3m1EqJ8.cnt	
-1186.531347	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/87/pnuaLcs_JD3nmZS4uO18AOmrqsM.cnt	
-1186.531604	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/l80uTBXC94JJYKHpd7EJ3CTvlMw.cnt	
-1186.531790	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/oeNjs001rRHsDPStE-KylgyAfZQ.cnt	
-1186.531956	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/cEJxEuwzJ180u5D8hb1FerG1ibU.cnt	
-1186.532140	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/wTwOtk6Pnv28FL_IgA0nYBMELCA.cnt	
-1186.532312	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/bGg9qWlLWXg4QT7uRljhsqiKPCU.cnt	
-1186.532594	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/td73yQAMGewZlncf01OQvIMyaoQ.cnt	
-1186.532849	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/MgdVdjQem5fmA_AxYquqHXpaNxI.cnt	
-1186.533247	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/60/eXCwFkz1cp0jLV5De-UIIBvzkng.cnt	
-1186.533460	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/60	
-1186.533704	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/1/cvrZq6zO0EOfjPk0vPN9oDuJk4E.cnt	
-1186.533967	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/2XpdhCkuPNIEaMeI9B5CNZ8sU4Q.cnt	
-1186.534169	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/odc9ZSQg693GNV_0Y87HrPh6msk.cnt	
-1186.534335	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/0cmrMANllqqkGAP2wxjNkGkvWPU.cnt	
-1186.534715	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/ZVRDLnJ-W8_Wozm_pJw20y_9XGw.cnt	
-1186.534923	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/pfpn5O5vcfxMmdGI4Hwrm6ZUOZc.cnt	
-1186.535110	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/wYsVUtHIdQUmPNZ2zj0d7p2tGIs.cnt	
-1186.535310	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/a8enAbsEYtlsyxwrQ2PDjC8mJlA.cnt	
-1186.535510	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/qgeYzuydPBI1Zqy8wCJqtzmr0Zg.cnt	
-1186.535715	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/KB_XOXdNadDgUjBLkrvqJu-zGJg.cnt	
-1186.535900	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/3jSotReX80CfMEyRm9GNsis5V1Q.cnt	
-1186.536076	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/U1rtMwA9ykCB3cMVMGYOAUAQdIY.cnt	
-1186.536258	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/tIuVrL8bI0mpKUcJ2D6uvKF47WQ.cnt	
-1186.536435	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/VlCYQIqMqUWzgaqIRa3qaQz_WRY.cnt	
-1186.536636	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/w-0Vt3LL2h5yJI14sJL0waR4pBU.cnt	
-1186.536823	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/RTote1Z7WZzkJB-GNmejZGmsG7A.cnt	
-1186.537026	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/zYgbeyTHymuvOUg_a5ZbwpiDlAQ.cnt	
-1186.537741	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/MsSMTnVNn8vKcTbsgB8g2smG3MQ.cnt	
-1186.538375	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/nSWYQOQtSmrA9D8TZiGBziFyRFY.cnt	
-1186.538602	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/UB0CHXlkApYR_HPgSH7t8yYpCls.cnt	
-1186.538782	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/QmeoGcssAXP3u-23-CXMGLp71-A.cnt	
-1186.538952	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/4QVsw4IwmsRh867N86cOt_HLdzA.cnt	
-1186.539117	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/QMZxXJ9yh-CI8vs37hPNQCIfR1w.cnt	
-1186.539306	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/USucNCUc5VWCu1NdSK7PWpE7YtY.cnt	
-1186.539480	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/6DhT58NkXpiZwQE1zIPwCjtlSKI.cnt	
-1186.539659	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/10EJ2UJzFraiDUn3znPdR2MpnVc.cnt	
-1186.539823	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/FK-Zm-bF8x54k5D-xuD25YR1QKg.cnt	
-1186.539993	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/fReaDaln3WWX2l-K57Tyt4WJCN0.cnt	
-1186.540168	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/XMXQTg-GrMWBm4de73OziEwaCdg.cnt	
-1186.540341	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/ENEAnTqFGvhQwzyrVmm0BazDowM.cnt	
-1186.540512	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/x3SCRtVCqmIitiPCygNSP7p9QWU.cnt	
-1186.540688	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/5mgUURX_q_fTKWWcesjowheE8xo.cnt	
-1186.540859	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/tL-UoHJIq-dvMQXzoz2TyMV5mc8.cnt	
-1186.541033	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/EygevG9UMcWImWtcQEoPIVhyX9c.cnt	
-1186.541234	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/o8FOaLr9XHpVt-npsRG69zGlekE.cnt	
-1186.541401	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/CNiHEFbpNBrEZdHieX9lzqEBla8.cnt	
-1186.541582	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/VumdYqsaewzy91JymPVbQEtDzc8.cnt	
-1186.541751	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/nVITUl9SXRG9SSnku4QPGBfZDVk.cnt	
-1186.541932	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/dWZOSN8GErRbrRmuUV5d_Xe1qbA.cnt	
-1186.542211	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/KzBbc2uHzxOtTcU02htdNRRkymE.cnt	
-1186.542620	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/U2ifuu1GBT62o_oou5DrLM4mT_s.cnt	
-1186.542795	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/Ikooy6cvcRSoGxVzV8PncHIQbcg.cnt	
-1186.542981	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/5JMB7W9KNKkvq7Xi7OfjBJv_4QI.cnt	
-1186.543179	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/12/0Fg6-CBzG2MlDBFnJI-0gI_9kkA.cnt	
-1186.543340	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/12	
-1186.543534	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/Q2T89ff7Apsgyz5U21b6TVYIDtU.cnt	
-1186.543726	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/Nkt1D9XBwcXaz0rty0V1Nq-iIdw.cnt	
-1186.543884	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/LswcxnaAiCWIASEXClNNjOlyI1w.cnt	
-1186.544057	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/yWi1IEyxaKNZxWzW1lV74Lshm4o.cnt	
-1186.544235	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/DpXQNNnPwhBsEji5iYYBPShhb9o.cnt	
-1186.544419	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/61/YfMC-YXXV1MaWPJt79SZdQz4q2g.cnt	
-1186.544583	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/61	
-1186.544762	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/eO8FHdESy0m2nCAz02VHF-jIu-E.cnt	
-1186.544935	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/QmYV5E3bW9Rr4hBYMKTNt3PRQyk.cnt	
-1186.545100	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/9b3A9Idf9HvyUL16m4fBtVSc_hQ.cnt	
-1186.545270	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/zywyuFT5oxXmgb1zBu4QqqlcQRg.cnt	
-1186.545446	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/UZzzNU541qV6LP3ytgZFMIefJJc.cnt	
-1186.545618	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/23/lKY_yFqjlUqQFC1v87B0cXbTUIA.cnt	
-1186.545920	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/23	
-1186.546128	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/HLI8XiCJS9NFnpAtSIqiuTC3nAk.cnt	
-1186.546314	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/l-KpMdHmv1DIp6Ua8YYp014crog.cnt	
-1186.546489	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/-Z3xFwjxS1_U1EsAHDRx9UQAuls.cnt	
-1186.546787	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/-3pq2poC6o0TcTy-G3bkp3U2dY4.cnt	
-1186.546958	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/ci465BEVuZiwK8KKQT1_-4LHIe0.cnt	
-1186.557536	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/PCPMSENVviIwFZCbjRXy1VDR37I.cnt	
-1186.557741	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/iODD4je3otgtbh5ftL-Bsnk4nyE.cnt	
-1186.557908	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/Au2n9R_wfI_NqWZNCa35vmmG19M.cnt	
-1186.558085	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/xWJyiSdwUXFp-xTR2TFF0HrCIQM.cnt	
-1186.558276	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/YqxJG0patrlpUfnteMwEIvogLdA.cnt	
-1186.558445	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/01DfPkbhqa3O_p0WprxM1zl2oQE.cnt	
-1186.558642	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/m1fJMRdeYt_LKhx3-anjXj3fMrA.cnt	
-1186.558813	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/aWMOTTNbuoUpC4I37OjHkmBHUmE.cnt	
-1186.558997	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/IzMVVMXnGFJcsWPdcf6_y7nZucw.cnt	
-1186.559166	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/77/e7S5JA4DoxBKkCHG3XbRZziRvPs.cnt	
-1186.559340	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/17/mr4PRmv_CVf0rgX1m_2axniEDX4.cnt	
-1186.559501	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/17	
-1186.559700	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/ZTMQjPYbwNUlC9FtqI4OUqgfJhA.cnt	
-1186.559873	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/xylyKmKh5fziKu-QOYU4gm4oesI.cnt	
-1186.560039	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/GfF47GVrZwDBl0izE6JZXeqoStA.cnt	
-1186.560203	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/CB52OGKBK7KCYnccDo53kFCJojY.cnt	
-1186.560368	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/aCwPrisNHEZZeeBsihZwo2wNMA8.cnt	
-1186.560534	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/9QzAUwUu5UIWMFhQaJ3iNiJRaXo.cnt	
-1186.560743	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/52/GHMmHApKpBclRhWMIJ3Zld4EBRA.cnt	
-1186.560910	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/hXjRWOSQYn7dkPRU_5VBMPMRDtw.cnt	
-1186.561070	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/jU9Im_iemSENldZHqHZS4mMCX_0.cnt	
-1186.561231	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/dbVs-s2BNxXdmMIrFxmKJFcXoDc.cnt	
-1186.561446	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/mkehY4drXdVqhFBCMvjpp2LYro0.cnt	
-1186.561613	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/psMqIMWvYzovMxK3h8OxQ7kRsEc.cnt	
-1186.561786	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/89/s8u17BJzNLdg_ItTP3P68bI11Kg.cnt	
-1186.561952	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/89	
-1186.562149	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/XD4rBXNzwpUY3CfXWIo-SVg4Pk8.cnt	
-1186.562328	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/iQXKRu_rrZ6lgTKZtHupjDvPH2A.cnt	
-1186.562503	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/NslX5KEOWcTKtqye4miwlr5suJ8.cnt	
-1186.562675	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/XQiF84yfRbDwpCRgqAN7tQkuT34.cnt	
-1186.563643	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/T0_-I0fo96b1sRJzxWz_z2tKJ_A.cnt	
-1186.563806	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/72/elEg23lUmk4tFFxtwxfnbyD_mts.cnt	
-1186.563966	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/72	
-1186.564153	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/olROsPkU1rfm-ARXeOWTgtdakKs.cnt	
-1186.564321	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/-oaLTyQO28GCVdgX6Z_P4i1tFFE.cnt	
-1186.564481	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/lc-nroVv6IaFYO0PSkS9yhoH5g4.cnt	
-1186.564639	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/yQW2bT10ricsLqY1pqviMmqVaT4.cnt	
-1186.564804	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/PiWiUTWtycEscjAhdAlaVG5CFoI.cnt	
-1186.564972	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/WKRnFbHU_nNiRGgQ8VIu4FS8dYk.cnt	
-1186.565138	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/2WyWQcqLNlwYUYvslMzx1c81J4Q.cnt	
-1186.565383	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/37/ieM5npLhJOqEKCZ0Ss0aCyfZD8s.cnt	
-1186.565549	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/37	
-1186.565743	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/Ts2reo__wpWJUI9dtgLElvcagLA.cnt	
-1186.565931	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/hhiaZmiNYJfSFucoO2GT3rFYy-M.cnt	
-1186.566104	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/YEsGn9fFZ9UjSap-gMlK7W55kCg.cnt	
-1186.566264	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/3S5F0ZyWhHquz5zWCMfM7giATzE.cnt	
-1186.566444	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/Dq0h-9hLeVg6huRDiTLPj9rchJw.cnt	
-1186.566611	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/D6SF6thq3UPbFxw5wGhQdApk46w.cnt	
-1186.566782	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/XsH6vonC1YvZSJEHg6gjbGZn1j8.cnt	
-1186.566956	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/g4HMIX1xVuhZotZUSBgY5DEFjDY.cnt	
-1186.567170	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/97/rQEE5mMV4cvexTqpPQWjg7Vo588.cnt	
-1186.567338	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/97	
-1186.567532	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/T81S8Y1BccL5-Ig-2_FzI3x2NUY.cnt	
-1186.567700	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/ImpScN_QIbmeCE1aWym0ipz_mCo.cnt	
-1186.567870	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/CES3hFsNfOqyuHvxzNrnvzJ-mos.cnt	
-1186.568052	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/mD51K3jeMmH3C9pNDxHvXAsCCUg.cnt	
-1186.568226	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/37QUgkOTlo_hFcvI0BR6F2W7P4I.cnt	
-1186.568394	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/Kq96u2DcKdD4qtD1u14rCWriiQI.cnt	
-1186.568569	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/39XVXwp7qFkkN3NO9IUdf4VSb8c.cnt	
-1186.568739	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/92/bp9pTZuSCa7IqGboK0K7mtycN1U.cnt	
-1186.568892	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/92	
-1186.569082	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/dCfP8CNe4R4qgUYqzjZUm1NqqbU.cnt	
-1186.569243	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/r90QSX7WiKxXXCcfA30LqWV7RdQ.cnt	
-1186.569413	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/Pvg2DOoNSSHHyRcpvyUcIezB66k.cnt	
-1186.569579	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/YrsGc-gXUD4UwLZZ08HFpg-5ULE.cnt	
-1186.569747	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/1EgjF0qetCOo0KixM52dUrHgHIY.cnt	
-1186.569922	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/UbYbkRdv91DQwCaHUYBTuIrgXf0.cnt	
-1186.570099	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/TC3JLznhNiZd-8o4SzmtgsO6AhM.cnt	
-1186.570263	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/zrD8IFI-LOIQNAhLipg0nGsTOZ0.cnt	
-1186.570437	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/64/ZWZNqq9VJcOQQw7ALb4wXCYkxTc.cnt	
-1186.570721	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/64	
-1186.570902	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/pikztfkDziY5l_LmHPckDrXbEdU.cnt	
-1186.571063	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/zX2wtpkkpIuK_NawgggjGZvIuDQ.cnt	
-1186.571228	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/zenYt5W1zmMjwArY-xGHc-NkpBE.cnt	
-1186.571395	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/ut4Hx74QdHMmR4pmx4Adx21bMpo.cnt	
-1186.571750	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/1/0IgJaBhEcUFf-Y3Bcf4MENtksTM.cnt	
-1186.571930	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/1	
-1186.572110	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/rCD6hUVtqGFqfIz9mntFMSE1pco.cnt	
-1186.572275	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/IWuVfFcAciy1vbmze2tVTpvPOyY.cnt	
-1186.574818	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/Iopxd3WIimxouYqlWjX9fn2NyhU.cnt	
-1186.574993	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/IvMf4qP_fYnKh6EwzvhEWXpTV6c.cnt	
-1186.575159	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/K8i99v6CVWgD5-7nXNSY3w-Lo5g.cnt	
-1186.575329	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/21/JEmtrMqeQVaU_KmyUvjGPlc_b_8.cnt	
-1186.575496	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/21	
-1186.575690	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/BDW-MG04BPYtESRn_sa5yPYj-Jo.cnt	
-1186.576017	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/A-P2YWOfDIat8JZOyuMoHV37rPI.cnt	
-1186.576510	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/S9MwFDGF5Vq0-JenzLDYru6Kn1g.cnt	
-1186.576671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/prmIh_dGAOR230qVL1yH3WMOuzw.cnt	
-1186.576962	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/5lCo4E1aj5ZfyrWpSSbBPlfUcA8.cnt	
-1186.577375	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/imnIa71SfIFSQCF_4H_B4oRLXIQ.cnt	
-1186.577536	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/yM-ROJQNOstHfzVS71WapB1GelM.cnt	
-1186.577696	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/lZ5Ay_zNfFWDGO0p02im9DE-VBI.cnt	
-1186.577871	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/A5ONHyUdaP1IwsW7SNd8MvWU4RY.cnt	
-1186.578038	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/55YQLoBOMeHGLhbpGV6jBmTURWo.cnt	
-1186.578605	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/CD1mAayZctSyyLZcrLSTj6v8Rhs.cnt	
-1186.578792	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/i07GNFTFeyTQ293ATuM0WwdZOQs.cnt	
-1186.579064	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/du8zqq4qknesc8qbWBcV2y92Li8.cnt	
-1186.579222	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/75lI93Dv919wYWClm6nu6ye_FYU.cnt	
-1186.579387	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/OYdUACQek9mLz4ksVPvcaQ2jCBA.cnt	
-1186.579554	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/Xn0xSfO_-DT9D86r5dFY9My7VW8.cnt	
-1186.579823	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/bhDyLvECBn9JauwJbWOO4YTIVZI.cnt	
-1186.579984	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/5jNSBBJS2kVVcrqheJPxft_N4ig.cnt	
-1186.580147	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/86vJybXhKMXnZrR2N5YQ7HCLCPc.cnt	
-1186.581046	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/93/hZBmNxYT10mX-giRZgpQwet5wUc.cnt	
-1186.581208	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/87/ltUF_hQOTev46lEULFYXXLiPh5s.cnt	
-1186.581486	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/87	
-1186.581671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/30/sSG9CJwVdKKfXOEWStvL78k2juk.cnt	
-1186.581836	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/30	
-1186.582210	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/GN1YtfwYPHGop1sWZoJZqQMA41Q.cnt	
-1186.582381	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/q9jG28rgtUrc0VI_9nitOCQElBk.cnt	
-1186.582549	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/w4lagMK-0FY4QOSPNdYc5m8YkgU.cnt	
-1186.582713	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/yfSGzzrQkZVTooaGp7fJO7nyzh4.cnt	
-1186.582953	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/13/NOyvh6J38lmwOl9AD3IrcotlGiw.cnt	
-1186.583478	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/13	
-1186.583693	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/99/1vOz1vBxZ_3DZdQ9IWgnsfNHmdg.cnt	
-1186.583854	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/99	
-1186.584036	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/16/umwfz5oGNiOKmLk6KIg7R-9VzY4.cnt	
-1186.584185	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/16	
-1186.584385	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/NWvZnCP_XYGSMZqkbtG2ibQ0gJo.cnt	
-1186.584550	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/83/gOApEXTD6zp-dDkoHZJbL_eBuPg.cnt	
-1186.584711	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/83	
-1186.584903	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/vZjlCLP_Uxy9k50PYuEgilmGQQk.cnt	
-1186.585071	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/_YmEVDezSrpYLn76gNpjcpKk50I.cnt	
-1186.585241	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/v7WLlvb6rlbdjAU-m9-lBeq70xs.cnt	
-1186.585409	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/oZelb7agQZt-i61UyO8gqHsu1oA.cnt	
-1186.585572	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/vF4ncQFrDBT40ICBeh5GGOn3fI4.cnt	
-1186.585735	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/27/W2QXlY9h_n5BMf9Jseu7zMIUMPU.cnt	
-1186.585888	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/27	
-1186.586089	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/wwka7T1-kSqS2eIwVO8KcL2r6LE.cnt	
-1186.586263	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/0iktM-lWx8ii4pgoCf-tR5pAJ7A.cnt	
-1186.586434	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/c5_Vy7sK6zYKXDsfZGsv8xNk868.cnt	
-1186.586616	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/Tgcmwgmw0pl0A1l4aXu6xQS-l5s.cnt	
-1186.586783	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/91/N9gjUSlWw8L2S7FRz_tlyislsr0.cnt	
-1186.586945	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/91	
-1186.587190	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/_A_SOTENic0Z2pqegm3Al4PSabA.cnt	
-1186.587348	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/80/1O2eV4p9Au3nvrpK9SaUuy87aWI.cnt	
-1186.587496	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/80	
-1186.587678	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/73/bCeEmQ4yRJD-X-C_hJVSO1tCrRc.cnt	
-1186.587829	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/73	
-1186.588027	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/71/33UzHg4hwEgZFr3Pr7s7JN2tO_0.cnt	
-1186.588186	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/71	
-1186.588382	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/b94631e975422fc8_1	
-1186.588548	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/d13699dca2a28058_1	
-1186.588709	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/bed49722af4280da_1	
-1186.588888	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/7eef341d8617dd25_1	
-1186.589065	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/a1d34b90cd3d6fe8_1	
-1186.589232	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/a610e1d4c70a7a3a_1	
-1186.589401	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/354c7a55e0bb8541_1	
-1186.589569	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/384522399d73e473_1	
-1186.589737	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/4621b47fcd9b5211_1	
-1186.589910	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/ff498a939928f4e9_1	
-1186.590062	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/002f1c9eb0005b60_1	
-1186.590219	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/18226ce1e20701e6_1	
-1186.590388	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/96edc3a301be82c7_1	
-1186.590556	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/0937a3d1bd48516c_1	
-1186.590738	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/cc73f3a6a09e7861_1	
-1186.593539	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/077a6f9aaebea2b1_1	
-1186.593765	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/79/Nu8UUbrhdQb7mQNtRF3fH62-xKE.cnt	
-1186.593935	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/79	
-1186.594143	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/jSWgGy-1Xb0CxrMIkbeyBcVjMeY.cnt	
-1186.594309	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/_7yGxnFCopwCTOk3f2y-5f-w4O4.cnt	
-1186.594482	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/BFFWxLtdE8E6vVfNC7AhJKwzIvY.cnt	
-1186.594671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/95/gAxHBzehs4LQyieihX3IpK6M_PU.cnt	
-1186.594835	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/95	
-1186.595028	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/76/TJqZei4hOdzsnAQWE2uqx4yMOOs.cnt	
-1186.595203	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/76	
-1186.595395	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/ItJ9rirMNmoXj7gSR5YXzKzdLxI.cnt	
-1186.595639	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/8BpRzu-nhxhu4vsyURRrrXCf2uA.cnt	
-1186.595819	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/10/1qTQ3uMcBP5nRjeobwO1xl-mSuI.cnt	
-1186.595983	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/m7VYelbrT66Rxgw2neV60pi7Ez4.cnt	
-1186.596150	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/vLLKrDcMZDxBIqUu225CwYihciQ.cnt	
-1186.596645	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/3aFzpGLm9_pnOrOBSHZhxrzAezc.cnt	
-1186.596830	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/BWMsWhsJv7C-Qu2z03Q9jypRUVQ.cnt	
-1186.597008	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/IvTxMyIsEHAbbzFQ-J8H5FIaP-8.cnt	
-1186.597266	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/41/46xMGD8aDy7xHFOTdYpBI7qHDXI.cnt	
-1186.597420	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/41	
-1186.597621	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/4/l4WGBpsaVC1RtiFXs_Q_5Dz1gqo.cnt	
-1186.597780	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/4	
-1186.597971	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/5jmILZ3ySoLCCpvcvDapEFF2tV0.cnt	
-1186.598148	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/32/yAd2jLalLBQRRfVyMOuEEvFIFxE.cnt	
-1186.598304	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/32	
-1186.598487	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/fFvcIxaSRnntIvvyyc1gCATMgXQ.cnt	
-1186.598651	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/Q-1rQWLy4L9ECcxL0PIrpusPHmQ.cnt	
-1186.598818	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/26/WUXC5dVqcUzETgJrPugAJQVitIk.cnt	
-1186.599078	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/_BxB3h_A6gLcjP8MIc3psJMWL4A.cnt	
-1186.599264	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/35/P1TgiW9gDJ542clymdOWPBeG82g.cnt	
-1186.599416	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/35	
-1186.599611	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/58/mcfCg0c6pO85qnZ0Mp06kEA993M.cnt	
-1186.599772	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/58	
-1186.599944	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/NMVjdBtt1WGpRw9U_csVRHQhnJo.cnt	
-1186.600125	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/wODlsgDV6t7L5fzwmkPV2IM9fd0.cnt	
-1186.600305	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/2/4cEgrG2EsSYO_VJ2fsJoP-eETVQ.cnt	
-1186.600474	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/2	
-1186.600671	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/wu93vfiq8zv6QgjiY8sLIbu-sMU.cnt	
-1186.600863	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/81/HLMzuzR_CWC4N6KWU7ZDzFrjPhg.cnt	
-1186.601018	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/81	
-1186.601217	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/2e9HrKcPUYpUcLJhg-vkYO40uJY.cnt	
-1186.601402	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/fYhAiMCdUivsm_9754hXRDh2YS4.cnt	
-1186.601584	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/cRLTBZ4F0NJdS90l2LSDaXmZN-Y.cnt	
-1186.601767	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/KISA1bDMhJp7xM05NiuWE2_ZzAc.cnt	
-1186.601956	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/gKwx-2Poa6uWy6MN0nN21bUFhTQ.cnt	
-1186.602131	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/56/tOUCHpsu5d5VXOsdg9Roiu_GqPE.cnt	
-1186.602295	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/56	
-1186.602492	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/6Hqmnwdze2Js07cDGuDNVZ9Y5yE.cnt	
-1186.602660	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/3/Hx9TjzIMenTYIIkjQ6Mm-Frig2M.cnt	
-1186.602814	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/3	
-1186.603002	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/FfqKH-uH11UZ7rAdqsiB_oECK4U.cnt	
-1186.603184	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/42/o4WPkesgmHHer_G2wylqNmv6a8g.cnt	
-1186.603346	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/42	
-1186.603535	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/19/qflrbTUrucMcDUCIGkALT1h2ixQ.cnt	
-1186.603702	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/19	
-1186.603897	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/65/WxkAvL-2drIMsYCMVBMWDLCvuBE.cnt	
-1186.604057	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/65	
-1186.604240	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/csKTCGienTbx9KRhCVDjCqWoTAQ.cnt	
-1186.604420	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/48/YmQzq6b4jaLGfq-qp1NJvGyGY84.cnt	
-1186.604584	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/48	
-1186.604774	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/51/_xWK32_jH_xTOgioReE5o4K-TBQ.cnt	
-1186.604935	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/51	
-1186.605151	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/Vm76l5655WOGx5DedAhVMJCbIe0.cnt	
-1186.605334	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/rT0f94aDX_EdxOpRPACkfJ2MWJw.cnt	
-1186.605555	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/mhpCvseFjnc8tmSeYNCSlNAVKmk.cnt	
-1186.605718	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/gDGAxdr3UiekQ_Ocdp2QUkYcdLQ.cnt	
-1186.605881	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/93/i6Hx9WEfGpRAwqxygm9bxLlQxgw.cnt	
-1186.606048	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/93	
-1186.606232	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/BiHNqSUx69d4Nq8NVDkt6uyCr1Y.cnt	
-1186.606401	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/KUaiC9txnVrbyE6f58kDfKf86hk.cnt	
-1186.606562	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/50/k7skGlUT3m2x3oA_iAJIJIGFuL4.cnt	
-1186.606712	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/50	
-1186.606916	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/0kAyKdEiuJnIRDGDnJ6R4LRzNF4.cnt	
-1186.607640	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/oE0yZvF9MRykdChw5nBm6ZzPgpE.cnt	
-1186.608098	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/53/V4Nkt4QOkvqRQP7eknIUQ0H8OR0.cnt	
-1186.608277	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/53	
-1186.608489	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/52/gQYOqjjK-fgW_kZZCdLTAp5iNTE.cnt	
-1186.609038	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/88/pe70MpJ9KXv2zRVrhCbrp4odUuI.cnt	
-1186.609216	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/88	
-1186.609725	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/mEy1DbhgambPmJdqo4MHng6P08A.cnt	
-1186.609906	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/NflgsSRXKOSVX_L41VPk1e3oIhY.cnt	
-1186.610079	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/tRDVpft04Vr1ZPEkwHLlrpsZRjY.cnt	
-1186.610600	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/__pwy-O5y1eVY_wzsP8Vl1ADYog.cnt	
-1186.610772	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/NHL1uTSIrmDs2O7CK8HOJNP4HtE.cnt	
-1186.610949	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/38/eaH5VXRwOgEpT1fVGXvW8GKwe_Q.cnt	
-1186.611108	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/38	
-1186.611673	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/54/Io-Ova3d5KUkoAX-H3xdPWJBsQY.cnt	
-1186.611843	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/54	
-1186.612037	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/uZC1jTDL93BB6U-x3Yt-vpd8_Xk.cnt	
-1186.612473	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/46/ukn2xwApPUVC6ivzefM4ed4uBg4.cnt	
-1186.612640	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/46	
-1186.612858	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/8/84OmaQZuxR0Pi42rqtT4ghWUcs4.cnt	
-1186.613369	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/8	
-1186.613564	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/_nymeU-JHR8ip05dzDE3rC0iDI8.cnt	
-1186.614158	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/85/avDCOtrOvAHdY2HYjcYd-dX3nT8.cnt	
-1186.614338	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/85	
-1186.614874	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/r7pJ3xEoY8J_V0ROn1yJYsVCaSM.cnt	
-1186.615049	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/V8JXOXxNPm3jz5LDRr_ztz85KjI.cnt	
-1186.615216	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/90/mrs2Ldp6AyPO9HHtaZQ21YHlB1w.cnt	
-1186.615674	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/90	
-1186.615871	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/67/4Is0oICZzWiuuChxRCyKtxh2B7Y.cnt	
-1186.616756	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/67	
-1186.617124	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/74/bhkpMBCK3wycsmJsn5qi2_A2sJo.cnt	
-1186.618037	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/74	
-1186.618264	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/KSjXOJsZa31Gq0LHSDJwvSzByaM.cnt	
-1186.618559	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/94/G7T8pDfRiBZA__P6p5CM4BALWrk.cnt	
-1186.618724	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/94	
-1186.619285	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/26/Twn8pLtOACUovmIV40gwvs7UmII.cnt	
-1186.619462	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/26	
-1186.619657	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/28/6-5scZg1hbUUi7AUx6xRPT2rARc.cnt	
-1186.620000	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/28	
-1186.620190	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/78/qACAVE8enGBvk4dFpv51mfJ-mlU.cnt	
-1186.620354	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/78	
-1186.620884	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/D2O2AMU97sVc-LsN2if6fEthvhE.cnt	
-1186.621080	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/33/7_y4aTItU42kAo0RQyydn-JKzRw.cnt	
-1186.621256	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/33	
-1186.621779	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/CsswWSp6p9eMl_DnHBGbUF4CJUw.cnt	
-1186.621953	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/77/yd61Ntdo6W_l5B5oPnJTyZ-ETgk.cnt	
-1186.622116	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/77	
-1186.622844	[UN]	/data/com.facebook.katana/cache/org.chromium.android_webview/index-dir/the-real-index	
-1186.623439	[RD]	/data/com.facebook.katana/cache/org.chromium.android_webview/index-dir	
-1186.623614	[RD]	/data/com.facebook.katana/cache/org.chromium.android_webview	
-1186.624292	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/52/VXxSyFKSSBDDymgoIgW2SqT4X7o.cnt	
-1186.624460	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/52	
-1186.625041	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/mzvDdzX6VGVVHcyN3hpDEV3nqZ4.cnt	
-1186.628890	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/hZw8gKVyCbNhg1IzcgjBN45ilo8.cnt	
-1186.629091	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/22/JlZrvOfph1nutl6zDLGfd7K3FfM.cnt	
-1186.629265	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/22	
-1186.629461	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/31/eK9GYXV-3owrM0UBF2f2APu-Gf0.cnt	
-1186.629635	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/31	
-1186.629833	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/07bsQ5zifqqhqUiOqDrzol51drE.cnt	
-1186.630012	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/40/q_6j2z6rnJCjxjnBCJIRfCe_eBc.cnt	
-1186.630177	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/40	
-1186.630375	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/47/2fuTLuWGo59kwb05N7ICAEgzKEM.cnt	
-1186.630539	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/47	
-1186.630744	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/96/rqiPrHWEsGdBmbaXcyATsBCTLfc.cnt	
-1186.630909	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/96	
-1186.631104	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/20/ACMJ3Mda4p_6_7rmRX3bm0TsM3E.cnt	
-1186.631268	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/20	
-1186.631477	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/dYqZRfVw3mR8h6LKxWdWnNJK_mc.cnt	
-1186.631648	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/57/LQJyu257pC2JJK7mOKo9ueSKfb4.cnt	
-1186.631797	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/57	
-1186.631979	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/14/_uMyT9XmOXQYj1hghTlv80PYEtk.cnt	
-1186.632136	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/14	
-1186.632316	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/9/lYKsHktbCQgMsJenLAR55lubQow.cnt	
-1186.632478	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/9	
-1186.632666	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/66/QzUzxqjDrGfKSyFbUqJxn3zfWDw.cnt	
-1186.636028	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/66	
-1186.636260	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/7/asf5hKatoBOZczwhkmIIExJGFiU.cnt	
-1186.636428	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/7	
-1186.636617	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/bH3DW0WlKhZR6qo5mQLiQ8pOcCU.cnt	
-1186.636789	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/oBMPaRIaz7GsR-_DFDt2L5znQnM.cnt	
-1186.636968	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/84/RAGSJMZjxhKt1vWikr9BLGTt5wk.cnt	
-1186.637164	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/84	
-1186.637493	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/86/xk_9lnx-5Eb0BSOSezf71G-K71Y.cnt	
-1186.637659	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/86	
-1186.637840	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/44/8xA5LfEYaDAgoe42LG_8fP5Ecmk.cnt	
-1186.638002	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/44	
-1186.638198	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/39/wvx2I9HNC9LpwCV0bLvfvw7cfRY.cnt	
-1186.638359	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/39	
-1186.638553	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/70/IQjphuQchYLzWA12pPf9Iox2E2Y.cnt	
-1186.638718	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/70	
-1186.638937	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/69/xdeIMvIcdtP_BKFZRg4SlzZk-sw.cnt	
-1186.639099	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/69	
-1186.639289	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/24/fBwIeH9YJywNcOPvcYMPNH9tBTU.cnt	
-1186.639458	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/24	
-1186.639661	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/55/_-b773nmI5pta2ZMdneyDdVv9-A.cnt	
-1186.639826	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/55	
-1186.640012	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/lbusYYygm62QzdZ5AUOaw_8mVTY.cnt	
-1186.640183	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/25/jk8EugZ-kwrFBByzBf2O8wrSDSI.cnt	
-1186.640340	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/25	
-1186.640538	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/75/LlUyHWMIBCx-J1OuyonPxL9Gpdg.cnt	
-1186.640698	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/75	
-1186.640900	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/5CGVEFVU4tBhdw_PMWcPzciAu-I.cnt	
-1186.641068	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/45/tWeciH96gTH0AckcNoA8ouOtDj4.cnt	
-1186.641240	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/45	
-1186.641443	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/0/3FQIf6jyp24DIbBMCAuPmrGEbv0.cnt	
-1186.641605	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/0	
-1186.641794	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/11/LU1qpwRaa6xLuNiqNdR3VTsdVwQ.cnt	
-1186.641959	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/11	
-1186.642149	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/15/L8RRa2Ia6zsIO18xWql_GNP0SxI.cnt	
-1186.642310	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/15	
-1186.642496	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/59/ETG_bO1sWItdGwYkNZUFi1mxwio.cnt	
-1186.642655	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/59	
-1186.642845	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/82/GC_HFci3tSuvzJA6jSLbazPLLdw.cnt	
-1186.643002	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/82	
-1186.643189	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/29/ldnesERfwG0Dvne6qmmDUqqwbkY.cnt	
-1186.643349	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/29	
-1186.643540	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/63/7jeyUQiZfYPa9coMfA4ggj1e7Nc.cnt	
-1186.643698	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/63	
-1186.643889	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/36/rUO4RKGc0eII6NoO1445vU6YFoY.cnt	
-1186.644047	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/36	
-1186.644237	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/5/pF3-FR5kdAnrsqEkYsU4D6q1CWk.cnt	
-1186.644395	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/5	
-1186.644596	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/18/7446zvbgclreTEjAAYLH-v6Oh9E.cnt	
-1186.644758	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/18	
-1186.644937	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/98/InbJv_Q0NFLXuax3Lsxw_2QSUsc.cnt	
-1186.645097	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/98	
-1186.645285	[UN]	/data/com.facebook.katana/cache/WhistleDns.store	
-1186.648040	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/1VMpcanmQxd_sYafXtdHKg_hyG0.cnt	
-1186.648214	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/10/KMOa_VBCb36B8JF7Sp2qgvai97k.cnt	
-1186.648403	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/10	
-1186.648594	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/43/R6jCUeTA3ATXhCnuabXn3j-Acd0.cnt	
-1186.648886	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/43	
-1186.649082	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/68/lPEsyEp77HI2ayFHdrEBPp5sWNA.cnt	
-1186.649288	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/68	
-1186.652484	[UN]	/data/com.facebook.katana/cache/image/v2.ols100.1/49/oEAiBHx7LbE5hrM99TwYxXC-aqA.cnt	
-1186.652660	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1/49	
-1186.652859	[RD]	/data/com.facebook.katana/cache/image/v2.ols100.1	
-1186.653323	[RD]	/data/com.facebook.katana/cache/image	
-1186.653709	[UN]	/data/com.facebook.katana/cache/video-performance-tracking.data	
-1186.655747	[UN]	/data/com.facebook.katana/cache/LoomInitFileConfig	
-1186.656024	[UN]	/data/com.facebook.katana/cache/.sentinel	
-1186.656147	[UN]	/data/com.facebook.katana/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite	
-1186.656309	[UN]	/data/com.facebook.katana/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite-wal	
-1186.656474	[UN]	/data/com.facebook.katana/cache/.COMPACTDISK_V2_GLOBAL_META.sqlite-shm	
+115.529532	[CR]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	
+115.529860	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	0	508	0	
+115.530018	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	508	492	508	
+115.530165	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	1000	510	1000	
+115.530300	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	1510	503	1510	
+115.530474	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	2013	502	2013	
+115.530641	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	2515	498	2515	
+115.530762	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	3013	503	3013	
+115.530921	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	3516	501	3516	
+115.531049	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	4017	512	4017	
+115.531228	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	4529	490	4529	
+115.531347	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	5019	504	5019	
+115.531483	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	5523	473	5523	
+115.531622	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	5996	512	5996	
+115.531774	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	6508	483	6508	
+115.531905	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	6991	506	6991	
+115.532046	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	7497	511	7497	
+115.532204	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	8008	508	8008	
+115.532362	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	8516	503	8516	
+115.532503	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	9019	500	9019	
+115.532652	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	9519	509	9519	
+115.532794	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	10028	509	10028	
+115.532946	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	10537	511	10537	
+115.533111	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	11048	512	11048	
+115.533249	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	11560	480	11560	
+115.533394	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	12040	509	12040	
+115.533553	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	12549	512	12549	
+115.533691	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	13061	512	13061	
+115.533818	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	13573	493	13573	
+115.533955	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	14066	510	14066	
+115.534102	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	14576	509	14576	
+115.534241	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	15085	512	15085	
+115.534383	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	15597	509	15597	
+115.534500	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	16106	509	16106	
+115.534665	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	16615	503	16615	
+115.534822	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	17118	501	17118	
+115.534961	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	17619	511	17619	
+115.535111	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	18130	509	18130	
+115.535240	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	18639	509	18639	
+115.535371	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	19148	509	19148	
+115.535511	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	19657	476	19657	
+115.535664	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	20133	478	20133	
+115.535808	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	20611	504	20611	
+115.535930	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	21115	511	21115	
+115.536100	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	21626	511	21626	
+115.536221	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	22137	511	22137	
+115.536362	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	22648	485	22648	
+115.536503	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	23133	511	23133	
+115.536646	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	23644	510	23644	
+115.536799	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	24154	509	24154	
+115.536956	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	24663	493	24663	
+115.537151	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	25156	491	25156	
+115.537313	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	25647	507	25647	
+115.537478	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	26154	510	26154	
+115.537637	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	26664	510	26664	
+115.537803	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	27174	510	27174	
+115.537934	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	27684	508	27684	
+115.538094	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	28192	503	28192	
+115.538245	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	28695	481	28695	
+115.538369	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	29176	492	29176	
+115.538522	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	29668	490	29668	
+115.538678	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	30158	503	30158	
+115.538822	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	30661	511	30661	
+115.538963	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	31172	477	31172	
+115.539092	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	31649	506	31649	
+115.539230	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	32155	504	32155	
+115.539349	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	32659	504	32659	
+115.539487	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	33163	510	33163	
+115.539615	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	33673	512	33673	
+115.539747	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	34185	501	34185	
+115.539901	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	34686	504	34686	
+115.540014	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	35190	491	35190	
+115.540101	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	35681	504	35681	
+115.540179	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	36185	486	36185	
+115.540268	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	36671	494	36671	
+115.540365	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	37165	484	37165	
+115.540444	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	37649	483	37649	
+115.540534	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	38132	499	38132	
+115.540617	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	38631	494	38631	
+115.540702	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	39125	511	39125	
+115.540783	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	39636	500	39636	
+115.540870	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	40136	494	40136	
+115.540950	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	40630	471	40630	
+115.541044	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	41101	512	41101	
+115.541141	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	41613	494	41613	
+115.541224	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	42107	499	42107	
+115.541312	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	42606	507	42606	
+115.541393	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	43113	500	43113	
+115.541481	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	43613	505	43613	
+115.541562	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	44118	512	44118	
+115.541641	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	44630	489	44630	
+115.541732	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	45119	467	45119	
+115.541812	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	45586	488	45586	
+115.541893	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	46074	498	46074	
+115.541977	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	46572	492	46572	
+115.542060	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	47064	497	47064	
+115.542139	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	47561	486	47561	
+115.542215	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	48047	497	48047	
+115.542297	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	48544	492	48544	
+115.542377	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	49036	511	49036	
+115.542469	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	49547	494	49547	
+115.542555	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	50041	491	50041	
+115.542635	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	50532	475	50532	
+115.542711	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	51007	491	51007	
+115.542791	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	51498	493	51498	
+115.542871	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	51991	509	51991	
+115.542950	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	52500	490	52500	
+115.543027	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	52990	492	52990	
+115.543125	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	53482	500	53482	
+115.543202	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	53982	492	53982	
+115.543283	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	54474	510	54474	
+115.543363	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	54984	497	54984	
+115.543440	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	55481	489	55481	
+115.543522	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	55970	500	55970	
+115.543599	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	56470	507	56470	
+115.543677	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	56977	498	56977	
+115.543771	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	57475	505	57475	
+115.543852	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	57980	491	57980	
+115.543929	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	58471	494	58471	
+115.544025	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	58965	494	58965	
+115.544101	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	59459	507	59459	
+115.544175	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	59966	471	59966	
+115.544254	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	60437	465	60437	
+115.544329	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	60902	498	60902	
+115.544409	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	61400	506	61400	
+115.544499	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	61906	499	61906	
+115.544575	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	62405	499	62405	
+115.544650	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	62904	483	62904	
+115.544728	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	63387	478	63387	
+115.544803	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	63865	455	63865	
+115.544879	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	64320	499	64320	
+115.544960	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	64819	470	64819	
+115.545037	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	65289	475	65289	
+115.545127	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	65764	496	65764	
+115.545257	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	66260	489	66260	
+115.545392	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	66749	505	66749	
+115.545546	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	67254	512	67254	
+115.545709	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	67766	482	67766	
+115.545852	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	68248	508	68248	
+115.545999	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	68756	511	68756	
+115.546171	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	69267	510	69267	
+115.546318	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	69777	507	69777	
+115.546462	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	70284	510	70284	
+115.546627	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	70794	511	70794	
+115.546769	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	71305	511	71305	
+115.546920	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	71816	502	71816	
+115.547071	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	72318	491	72318	
+115.547212	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	72809	511	72809	
+115.547355	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	73320	473	73320	
+115.547510	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	73793	511	73793	
+115.547675	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	74304	508	74304	
+115.547838	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	74812	508	74812	
+115.547985	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	75320	504	75320	
+115.548082	[WA]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	75824	222	75824	
+115.548228	[RN]	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy.897030670.tmp	/data/com.facebook.katana/app_light_prefs/com.facebook.katana/analytics_flexible_sampling_policy	
+115.548568	[UN]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784/batch-1507623365101.json	
+115.548749	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932/17449/418784	
+115.548870	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana/100010326602932	
+115.549013	[RD]	/data/com.facebook.katana/app_analytics/normal/com.facebook.katana	
+217.580081	[WA]	/data/com.facebook.katana/files/fbdns.store	0	904	0	
+217.580271	[FS]	/data/com.facebook.katana/files/fbdns.store	1	
+217.591662	[WA]	/data/com.facebook.katana/files/fbzeroscfg.store	0	57703	0	
+217.598756	[FS]	/data/com.facebook.katana/files/fbzeroscfg.store	1	

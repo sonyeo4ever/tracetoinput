@@ -227,32 +227,31 @@
 18.159984	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
 18.231377	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 18.236906	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
-18.240808	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	4096	0	
-18.242975	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	4096	4096	4096	
-18.243368	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	8192	4096	8192	
-18.243550	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	12288	179	12288	
-18.244475	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	12467	3978	12467	
-18.244794	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	16445	4096	16445	
-18.244871	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	20541	36675	20541	
-18.245613	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	57216	2574	57216	
-18.250238	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	59790	3798	59790	
-18.253561	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	63588	4096	63588	
-18.253646	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	67684	10096	67684	
-18.255291	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	77780	4096	77780	
-18.255501	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	81876	415	81876	
+18.240808	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+18.242975	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+18.243368	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+18.243550	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	179	12288	
+18.244475	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12467	3978	12467	
+18.244794	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16445	4096	16445	
+18.244871	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20541	36675	20541	
+18.245613	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57216	2574	57216	
+18.250238	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59790	3798	59790	
+18.253561	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63588	4096	63588	
+18.253646	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67684	10096	67684	
+18.255291	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77780	4096	77780	
+18.255501	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81876	415	81876	
 18.255589	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
 18.270653	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 18.487186	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 18.487441	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
-18.487880	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	1013	0	
+18.487880	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
 18.487973	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
 18.499155	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 19.959123	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 19.959400	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+19.959900	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
 19.960011	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
 19.971248	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
-23.033209	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	453	0	
-23.047531	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	453	0	
 23.387108	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 23.387362	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
 23.387899	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
@@ -277,22 +276,23 @@
 24.365796	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 24.489487	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 24.495392	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
-24.498452	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	4096	0	
-24.500628	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	4096	4096	4096	
-24.501017	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	8192	4096	8192	
-24.501195	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	12288	174	12288	
-24.502123	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	12462	3978	12462	
+24.498452	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+24.500628	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+24.501017	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+24.501195	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+24.502123	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
 24.502236	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
-24.502437	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	16440	4096	16440	
-24.502510	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	20536	36675	20536	
+24.502437	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+24.502510	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+24.502675	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
 24.502758	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
-24.503250	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	57211	2574	57211	
-24.505433	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	59785	3798	59785	
-24.508476	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	63583	4096	63583	
-24.508563	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	67679	10096	67679	
+24.503250	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+24.505433	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+24.508476	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+24.508563	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
 24.509490	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
-24.510207	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	77775	4096	77775	
-24.510390	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	81871	415	81871	
+24.510207	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+24.510390	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
 24.510466	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
 24.522297	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 24.766833	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
@@ -361,13 +361,16 @@
 37.904567	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
 37.906718	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
 37.906997	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+37.907570	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
 37.907658	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
 37.914189	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
 38.940918	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 38.941164	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+38.941815	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
 38.941906	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
 38.952421	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 47.965401	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+47.965739	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	4020	0	
 47.965941	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
 47.975123	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
 48.640134	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
@@ -546,7 +549,7 @@
 49.087518	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	28	185192	
 49.087567	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
 49.160792	[CR]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	
-49.161012	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	32212	0	
+49.161012	[WA]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	0	32212	0	
 49.162784	[FS]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	0	
 49.163044	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
 49.163367	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
@@ -640,9 +643,23 @@
 49.765640	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 49.800845	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 49.807133	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+49.810411	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+49.812897	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+49.813305	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4093	8192	
+49.813493	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12285	171	12285	
+49.814435	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12456	3978	12456	
+49.814743	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16434	4096	16434	
+49.814814	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20530	36675	20530	
+49.815522	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57205	2574	57205	
+49.817794	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59779	3798	59779	
+49.818335	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63577	4096	63577	
+49.818416	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67673	10096	67673	
+49.820064	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77769	4096	77769	
+49.820270	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81865	415	81865	
 49.820352	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
 49.834513	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 49.877305	[CR]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	
+49.877642	[WA]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	0	132	0	
 49.877806	[FS]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	0	
 49.885855	[RN]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	/data/com.google.android.googlequicksearchbox/files/now_request_queue	
 50.197677	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
@@ -669,10 +686,36 @@
 50.350946	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
 50.361290	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 50.367528	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.370679	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.372860	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.373260	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+50.373454	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	176	12288	
+50.374428	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12464	3978	12464	
+50.374735	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16442	4096	16442	
+50.374814	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20538	36675	20538	
+50.375532	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57213	2574	57213	
+50.378208	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59787	3798	59787	
+50.378716	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63585	4096	63585	
+50.378800	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67681	10096	67681	
+50.380506	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77777	4096	77777	
+50.380698	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81873	415	81873	
 50.380779	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
 50.398340	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 50.414791	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 50.421133	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.424241	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.426485	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.426911	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4095	8192	
+50.427186	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12287	171	12287	
+50.428253	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12458	3978	12458	
+50.428594	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16436	4096	16436	
+50.428672	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20532	36675	20532	
+50.429665	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57207	2574	57207	
+50.432499	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59781	3798	59781	
+50.433014	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63579	4096	63579	
+50.433089	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67675	10096	67675	
+50.434696	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77771	4096	77771	
+50.434906	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81867	415	81867	
 50.434989	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
 50.449915	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
 50.485114	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	28872	24	28872	
@@ -700,6 +743,839 @@
 50.510631	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	36864	4096	40960	
 50.510723	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	1	
 50.530015	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+50.530205	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+50.530300	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+50.544001	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+50.546768	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+50.547349	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1033	0	
+50.547451	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+50.551311	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+50.553887	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+50.597638	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	0	32	57712	
+50.597704	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.598750	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	32	24	57712	
+50.598787	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	56	4096	57712	
+50.598825	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	4152	24	57712	
+50.598845	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	4176	4096	57712	
+50.598880	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	8272	24	57712	
+50.598900	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	8296	4096	57712	
+50.598934	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	12392	24	57712	
+50.598954	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	12416	4096	57712	
+50.598988	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	16512	24	57712	
+50.599007	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	16536	4096	57712	
+50.599040	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	20632	24	57712	
+50.599060	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	20656	4096	57712	
+50.599096	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	24752	24	57712	
+50.599116	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	24776	4096	57712	
+50.599150	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.604204	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.610973	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.614735	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.617047	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.617473	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+50.617662	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	176	12288	
+50.618706	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12464	3978	12464	
+50.619043	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16442	4096	16442	
+50.619124	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20538	36675	20538	
+50.621646	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57213	2574	57213	
+50.625588	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59787	3798	59787	
+50.627304	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63585	4096	63585	
+50.627400	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67681	10096	67681	
+50.629292	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77777	4096	77777	
+50.629522	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81873	415	81873	
+50.629613	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+50.649833	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.793118	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.799078	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.802131	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.804203	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.804611	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4095	8192	
+50.804786	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12287	171	12287	
+50.805834	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12458	3978	12458	
+50.806199	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16436	4096	16436	
+50.806280	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20532	36675	20532	
+50.807084	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57207	2574	57207	
+50.817723	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59781	3798	59781	
+50.821379	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63579	4096	63579	
+50.821494	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67675	10096	67675	
+50.823157	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77771	4096	77771	
+50.823345	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81867	415	81867	
+50.823439	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+50.842422	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.883500	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	28872	24	57712	
+50.883559	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	28896	4096	57712	
+50.883599	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	32992	24	57712	
+50.883621	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	33016	4096	57712	
+50.883658	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	37112	24	57712	
+50.883679	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	37136	4096	57712	
+50.883716	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	41232	24	57712	
+50.883736	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	41256	4096	57712	
+50.883771	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	45352	24	57712	
+50.883792	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	45376	4096	57712	
+50.883828	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	49472	24	57712	
+50.883848	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	49496	4096	57712	
+50.883883	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	53592	24	57712	
+50.883902	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	53616	4096	57712	
+50.883939	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.891400	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.892148	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	12288	4096	40960	
+50.892228	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	16384	4096	40960	
+50.892267	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	20480	4096	40960	
+50.892304	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	24576	4096	40960	
+50.892341	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	28672	4096	40960	
+50.892375	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	32768	4096	40960	
+50.892410	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	36864	4096	40960	
+50.892494	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	1	
+50.909129	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+50.911058	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+50.911163	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+50.918862	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+3.978479	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+3.979040	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+3.979195	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+3.989861	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+9.953584	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
+9.953677	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
+9.953700	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	516	4096	127736	
+9.954184	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4612	4	127736	
+9.955237	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4616	4	127736	
+9.955270	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4620	4096	127736	
+9.956886	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8716	4	127736	
+9.957090	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8720	4	127736	
+9.957117	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8724	4096	127736	
+9.957598	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12820	4	127736	
+9.957633	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12824	4	127736	
+9.957656	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12828	4096	127736	
+9.958131	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16924	4	127736	
+9.958298	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16928	4	127736	
+9.958324	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16932	4096	127736	
+9.958880	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21028	4	127736	
+9.958934	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21032	4	127736	
+9.958959	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21036	4096	127736	
+9.959404	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25132	4	127736	
+9.959458	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25136	4	127736	
+9.959482	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25140	4096	127736	
+9.960010	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29236	4	127736	
+9.960063	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29240	4	127736	
+9.960086	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29244	4096	127736	
+9.960512	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33340	4	127736	
+9.960563	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33344	4	127736	
+9.960586	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33348	4096	127736	
+9.961367	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37444	4	127736	
+9.961421	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37448	4	127736	
+9.961445	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37452	4096	127736	
+9.961842	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41548	4	127736	
+9.961891	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41552	4	127736	
+9.961914	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41556	4096	127736	
+9.962352	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45652	4	127736	
+9.962401	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45656	4	127736	
+9.962424	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45660	4096	127736	
+9.962982	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49756	4	127736	
+9.963035	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49760	4	127736	
+9.963058	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49764	4096	127736	
+9.963530	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53860	4	127736	
+9.963605	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+9.971252	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+9.976929	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	12	127736	
+9.976995	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+9.978180	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	0	4096	479232	
+9.978263	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	4096	4096	479232	
+9.978305	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	253952	4096	479232	
+9.978352	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	274432	4096	479232	
+9.978389	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	278528	4096	479232	
+9.978426	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	282624	4096	479232	
+9.978462	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	286720	4096	479232	
+9.978570	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	454656	4096	479232	
+9.978611	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	458752	4096	479232	
+9.978647	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	462848	4096	479232	
+9.978686	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	466944	4096	479232	
+9.978730	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	471040	4096	479232	
+9.978770	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	475136	4096	479232	
+9.978833	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	1	
+9.984916	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	28	127736	
+9.984980	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+9.990724	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+9.990927	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
+9.990985	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
+9.991006	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	516	4096	127736	
+9.991043	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4612	4	127736	
+9.991059	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+9.991083	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4616	4	127736	
+9.991107	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4620	4096	127736	
+9.991148	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8716	4	127736	
+9.991262	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8720	4	127736	
+9.991289	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8724	4096	127736	
+9.991328	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12820	4	127736	
+9.991363	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12824	4	127736	
+9.991386	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12828	4096	127736	
+9.991424	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16924	4	127736	
+9.991559	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16928	4	127736	
+9.991589	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16932	4096	127736	
+9.991629	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21028	4	127736	
+9.991674	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21032	4	127736	
+9.991698	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21036	4096	127736	
+9.991735	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25132	4	127736	
+9.991779	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25136	4	127736	
+9.991799	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
+9.991805	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25140	4096	127736	
+9.991843	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29236	4	127736	
+9.991888	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29240	4	127736	
+9.991910	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
+9.991917	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29244	4096	127736	
+9.991953	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33340	4	127736	
+9.991994	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33344	4	127736	
+9.992016	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33348	4096	127736	
+9.992053	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37444	4	127736	
+9.992099	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37448	4	127736	
+9.992125	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37452	4096	127736	
+9.992161	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41548	4	127736	
+9.992204	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41552	4	127736	
+9.992227	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41556	4096	127736	
+9.992262	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45652	4	127736	
+9.992303	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45656	4	127736	
+9.992325	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45660	4096	127736	
+9.992363	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49756	4	127736	
+9.992406	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49760	4	127736	
+9.992431	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49764	4096	127736	
+9.992468	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53860	4	127736	
+9.992533	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+10.004647	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+10.006004	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+10.008525	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	12	127736	
+10.008586	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+10.009684	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	0	4096	479232	
+10.009734	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	4096	4096	479232	
+10.009761	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	253952	4096	479232	
+10.009790	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	274432	4096	479232	
+10.009818	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	278528	4096	479232	
+10.009845	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	282624	4096	479232	
+10.009877	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	286720	4096	479232	
+10.009912	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	454656	4096	479232	
+10.009944	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	458752	4096	479232	
+10.009977	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	462848	4096	479232	
+10.010010	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	466944	4096	479232	
+10.010039	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	471040	4096	479232	
+10.010065	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	475136	4096	479232	
+10.010108	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	1	
+10.016476	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	28	127736	
+10.016516	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+10.018854	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+10.019095	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+10.019573	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
+10.019668	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
+10.030150	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+13.840076	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+13.845397	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+13.856856	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+13.868271	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+13.868701	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4009	8192	
+13.868853	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12201	128	12201	
+13.869748	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12329	3978	12329	
+13.870016	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16307	4096	16307	
+13.870086	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20403	36675	20403	
+13.870792	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57078	2574	57078	
+13.883694	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59652	3798	59652	
+13.884211	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63450	4096	63450	
+13.884288	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67546	10096	67546	
+13.885965	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77642	4096	77642	
+13.886152	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81738	390	81738	
+13.886234	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+13.900593	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+13.925213	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+13.931637	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+13.934759	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+13.937189	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+13.937616	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+13.937804	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+13.938822	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+13.939163	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+13.939241	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+13.940964	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+13.954254	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+13.954773	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+13.954849	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+13.956605	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+13.956815	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	390	81871	
+13.956906	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+13.976358	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+13.977013	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+13.982753	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+13.985982	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+13.988137	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+13.988568	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+13.988741	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	179	12288	
+13.989671	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12467	3978	12467	
+13.990108	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16445	4096	16445	
+13.990195	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20541	36643	20541	
+13.990978	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57184	2562	57184	
+13.993322	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59746	3842	59746	
+13.993831	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63588	4096	63588	
+13.993903	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67684	10096	67684	
+13.995439	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77780	4096	77780	
+13.995690	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81876	390	81876	
+13.995770	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+14.018688	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+14.019260	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+14.024812	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+14.027904	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+14.030275	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+14.030692	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+14.030983	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+14.031932	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+14.032242	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+14.032317	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+14.033037	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+14.035243	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+14.035684	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+14.035753	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+14.037371	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+14.037554	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
+14.037635	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+14.053037	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+18.008610	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.008857	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	
+18.009292	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	510	0	
+18.009382	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	
+18.026332	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.035107	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.035360	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	
+18.035778	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	510	0	
+18.035866	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	
+18.055803	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.108767	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.108978	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	
+18.109616	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	510	0	
+18.109703	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	
+18.125845	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.129683	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.129900	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	
+18.130459	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	510	0	
+18.130549	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	
+18.135741	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.150160	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.153957	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	
+18.154407	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	510	0	
+18.154496	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml	0	
+18.159984	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/ThrottlingLogger.xml.bak	
+18.231377	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+18.236906	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+18.240808	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+18.242975	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+18.243368	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+18.243550	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	179	12288	
+18.244475	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12467	3978	12467	
+18.244794	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16445	4096	16445	
+18.244871	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20541	36675	20541	
+18.245613	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57216	2574	57216	
+18.250238	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59790	3798	59790	
+18.253561	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63588	4096	63588	
+18.253646	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67684	10096	67684	
+18.255291	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77780	4096	77780	
+18.255501	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81876	415	81876	
+18.255589	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+18.270653	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+18.487186	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+18.487441	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+18.487880	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
+18.487973	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+18.499155	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+19.959123	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+19.959400	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+19.959900	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
+19.960011	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+19.971248	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+23.387108	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+23.387362	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+23.387899	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
+23.388090	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+23.392735	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+24.333597	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+24.339742	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+24.342907	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+24.344991	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+24.345380	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+24.345561	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+24.346617	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+24.346920	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+24.346996	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+24.347708	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+24.350000	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+24.350465	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+24.350542	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+24.352107	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+24.352295	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
+24.352376	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+24.365796	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+24.489487	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+24.495392	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+24.498452	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+24.500628	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+24.501017	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+24.501195	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+24.502123	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+24.502236	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+24.502437	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+24.502510	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+24.502675	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+24.502758	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+24.503250	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+24.505433	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+24.508476	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+24.508563	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+24.509490	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+24.510207	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+24.510390	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
+24.510466	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+24.522297	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+24.766833	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+24.767022	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+24.767113	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+24.779142	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+37.881270	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
+37.881339	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
+37.881358	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	516	4096	127736	
+37.881389	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4612	4	127736	
+37.881423	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4616	4	127736	
+37.881442	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4620	4096	127736	
+37.881474	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8716	4	127736	
+37.881585	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8720	4	127736	
+37.881605	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8724	4096	127736	
+37.881637	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12820	4	127736	
+37.881664	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12824	4	127736	
+37.881683	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12828	4096	127736	
+37.881714	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16924	4	127736	
+37.881822	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16928	4	127736	
+37.881842	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16932	4096	127736	
+37.881873	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21028	4	127736	
+37.881910	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21032	4	127736	
+37.881929	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21036	4096	127736	
+37.881960	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25132	4	127736	
+37.881995	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25136	4	127736	
+37.882014	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25140	4096	127736	
+37.882044	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29236	4	127736	
+37.882079	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29240	4	127736	
+37.882098	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29244	4096	127736	
+37.882128	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33340	4	127736	
+37.882163	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33344	4	127736	
+37.882182	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33348	4096	127736	
+37.882213	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37444	4	127736	
+37.882248	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37448	4	127736	
+37.882268	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37452	4096	127736	
+37.882298	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41548	4	127736	
+37.882332	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41552	4	127736	
+37.882351	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41556	4096	127736	
+37.882382	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45652	4	127736	
+37.882420	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45656	4	127736	
+37.882440	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45660	4096	127736	
+37.882470	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49756	4	127736	
+37.882505	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49760	4	127736	
+37.882524	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49764	4096	127736	
+37.882555	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53860	4	127736	
+37.882611	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+37.894510	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+37.898273	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	12	127736	
+37.898326	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+37.899280	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	0	4096	479232	
+37.899318	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	4096	4096	479232	
+37.899344	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	253952	4096	479232	
+37.899371	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	274432	4096	479232	
+37.899397	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	278528	4096	479232	
+37.899423	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	282624	4096	479232	
+37.899448	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	286720	4096	479232	
+37.899475	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	454656	4096	479232	
+37.899500	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	458752	4096	479232	
+37.899527	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	462848	4096	479232	
+37.899553	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	466944	4096	479232	
+37.899578	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	471040	4096	479232	
+37.899613	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	475136	4096	479232	
+37.899713	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	1	
+37.904541	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	28	127736	
+37.904567	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+37.906718	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+37.906997	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+37.907570	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
+37.907658	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
+37.914189	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+38.940918	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+38.941164	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+38.941815	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1013	0	
+38.941906	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+38.952421	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+47.965401	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+47.965739	[WA]	/data/com.android.vending/shared_prefs/finsky.xml	0	4020	0	
+47.965941	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+47.975123	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+48.640134	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+48.651906	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+48.657298	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+48.660446	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+48.661105	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+48.661317	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+48.667552	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+48.667916	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+48.668119	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+48.668842	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+48.671212	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+48.671663	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+48.671748	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+48.673325	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+48.673533	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
+48.673618	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+48.690181	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+48.741189	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	28872	24	28872	
+48.742223	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	28896	4096	28896	
+48.746570	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	32992	24	32992	
+48.746600	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	33016	4096	33016	
+48.746659	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	37112	24	37112	
+48.746685	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	37136	4096	37136	
+48.746742	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	41232	24	41232	
+48.746767	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	41256	4096	41256	
+48.746823	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	45352	24	45352	
+48.746848	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	45376	4096	45376	
+48.746904	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	49472	24	49472	
+48.746929	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	49496	4096	49496	
+48.746984	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	53592	24	53592	
+48.747010	[WA]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	53616	4096	53616	
+48.747068	[FS]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	1	
+48.753583	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+48.760540	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+48.763857	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+48.772334	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+48.772772	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+48.772982	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	174	12288	
+48.774262	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12462	3978	12462	
+48.774633	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16440	4096	16440	
+48.774709	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20536	36675	20536	
+48.775592	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57211	2574	57211	
+48.777822	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59785	3798	59785	
+48.778607	[FS]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db-wal	1	
+48.779108	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	12288	4096	40960	
+48.779171	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	16384	4096	40960	
+48.779211	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	20480	4096	40960	
+48.779217	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63583	4096	63583	
+48.779248	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	24576	4096	40960	
+48.779286	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	28672	4096	40960	
+48.779310	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67679	10096	67679	
+48.779322	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	32768	4096	40960	
+48.779358	[WO]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	36864	4096	40960	
+48.779442	[FS]	/data/com.google.android.googlequicksearchbox/app_si/state_dump_event_content_store/content_store.db	1	
+48.781249	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77775	4096	77775	
+48.781452	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81871	415	81871	
+48.781536	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+48.793168	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+49.046739	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	512	185192	
+49.046810	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	512	4	185192	
+49.046830	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	516	4096	185192	
+49.046858	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4612	4	185192	
+49.046885	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4616	4	185192	
+49.046903	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4620	4096	185192	
+49.046929	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8716	4	185192	
+49.047000	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8720	4	185192	
+49.047019	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8724	4096	185192	
+49.047046	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12820	4	185192	
+49.047066	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12824	4	185192	
+49.047084	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12828	4096	185192	
+49.047110	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16924	4	185192	
+49.047128	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16928	4	185192	
+49.047145	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16932	4096	185192	
+49.047171	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21028	4	185192	
+49.047255	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21032	4	185192	
+49.047275	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21036	4096	185192	
+49.047677	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25132	4	185192	
+49.047719	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25136	4	185192	
+49.047739	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25140	4096	185192	
+49.048376	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29236	4	185192	
+49.048508	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29240	4	185192	
+49.048532	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29244	4096	185192	
+49.048972	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	33340	4	185192	
+49.049025	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	33344	4	185192	
+49.049046	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	33348	4096	185192	
+49.049417	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	37444	4	185192	
+49.049450	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	37448	4	185192	
+49.049470	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	37452	4096	185192	
+49.049865	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	41548	4	185192	
+49.049920	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	41552	4	185192	
+49.049940	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	41556	4096	185192	
+49.050342	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	45652	4	185192	
+49.050405	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	45656	4	185192	
+49.050426	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	45660	4096	185192	
+49.050823	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	49756	4	185192	
+49.050875	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	49760	4	185192	
+49.050896	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	49764	4096	185192	
+49.051258	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	53860	4	185192	
+49.051307	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	53864	4	185192	
+49.051328	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	53868	4096	185192	
+49.051694	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	57964	4	185192	
+49.051746	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	57968	4	185192	
+49.051767	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	57972	4096	185192	
+49.052136	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	62068	4	185192	
+49.052186	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	62072	4	185192	
+49.052206	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	62076	4096	185192	
+49.052619	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	66172	4	185192	
+49.052670	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	66176	4	185192	
+49.052691	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	66180	4096	185192	
+49.053061	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	70276	4	185192	
+49.053325	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	70280	4	185192	
+49.053347	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	70284	4096	185192	
+49.053731	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	74380	4	185192	
+49.053786	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	74384	4	185192	
+49.053809	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	74388	4096	185192	
+49.054187	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	78484	4	185192	
+49.054256	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	78488	4	185192	
+49.054278	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	78492	4096	185192	
+49.054641	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	82588	4	185192	
+49.054695	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	82592	4	185192	
+49.054717	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	82596	4096	185192	
+49.055172	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	86692	4	185192	
+49.055231	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	86696	4	185192	
+49.055252	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	86700	4096	185192	
+49.055650	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	90796	4	185192	
+49.055700	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	90800	4	185192	
+49.055720	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	90804	4096	185192	
+49.056084	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	94900	4	185192	
+49.056157	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	94904	4	185192	
+49.056177	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	94908	4096	185192	
+49.056542	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	99004	4	185192	
+49.056594	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	99008	4	185192	
+49.056615	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	99012	4096	185192	
+49.057033	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	103108	4	185192	
+49.057092	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	103112	4	185192	
+49.057113	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	103116	4096	185192	
+49.057488	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	107212	4	185192	
+49.057540	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	107216	4	185192	
+49.057560	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	107220	4096	185192	
+49.057942	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	111316	4	185192	
+49.058072	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	111320	4	185192	
+49.058305	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	111324	4096	185192	
+49.058714	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	115420	4	185192	
+49.058770	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	115424	4	185192	
+49.058790	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	115428	4096	185192	
+49.059154	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	119524	4	185192	
+49.059212	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	119528	4	185192	
+49.059234	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	119532	4096	185192	
+49.059595	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	123628	4	185192	
+49.059636	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+49.068491	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+49.073853	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	12	185192	
+49.073916	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+49.077435	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	0	4096	749568	
+49.077488	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	4096	4096	749568	
+49.077515	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	12288	4096	749568	
+49.077553	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	16384	4096	749568	
+49.077585	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	225280	4096	749568	
+49.077619	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	610304	4096	749568	
+49.077652	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	618496	4096	749568	
+49.077684	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	622592	4096	749568	
+49.077715	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	626688	4096	749568	
+49.077745	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	630784	4096	749568	
+49.077776	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	634880	4096	749568	
+49.077806	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	638976	4096	749568	
+49.077836	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	643072	4096	749568	
+49.077866	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	647168	4096	749568	
+49.077896	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	651264	4096	749568	
+49.077927	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	655360	4096	749568	
+49.077958	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	659456	4096	749568	
+49.078029	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	667648	4096	749568	
+49.078069	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	696320	4096	749568	
+49.078120	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	1	
+49.087518	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	28	185192	
+49.087567	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+49.160792	[CR]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	
+49.161012	[WA]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	0	32212	0	
+49.162784	[FS]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	0	
+49.163044	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
+49.163367	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
+49.163392	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	516	4096	127736	
+49.163427	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4612	4	127736	
+49.163510	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4616	4	127736	
+49.163532	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4620	4096	127736	
+49.163565	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8716	4	127736	
+49.163589	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8720	4	127736	
+49.163610	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8724	4096	127736	
+49.163642	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12820	4	127736	
+49.163664	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12824	4	127736	
+49.163685	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12828	4096	127736	
+49.163718	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16924	4	127736	
+49.163903	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16928	4	127736	
+49.163926	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16932	4096	127736	
+49.163958	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21028	4	127736	
+49.167062	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21032	4	127736	
+49.167095	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	21036	4096	127736	
+49.167888	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25132	4	127736	
+49.168995	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25136	4	127736	
+49.169036	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	25140	4096	127736	
+49.169069	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29236	4	127736	
+49.169096	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29240	4	127736	
+49.169116	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	29244	4096	127736	
+49.169150	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33340	4	127736	
+49.169231	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33344	4	127736	
+49.169252	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	33348	4096	127736	
+49.169284	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37444	4	127736	
+49.169340	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37448	4	127736	
+49.169362	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	37452	4096	127736	
+49.169393	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41548	4	127736	
+49.169455	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41552	4	127736	
+49.169477	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	41556	4096	127736	
+49.169666	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45652	4	127736	
+49.169720	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45656	4	127736	
+49.169742	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	45660	4096	127736	
+49.169775	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49756	4	127736	
+49.169803	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49760	4	127736	
+49.169823	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	49764	4096	127736	
+49.169855	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53860	4	127736	
+49.169903	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53864	4	127736	
+49.169924	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	53868	4096	127736	
+49.171790	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	57964	4	127736	
+49.172356	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	57968	4	127736	
+49.172395	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	57972	4096	127736	
+49.179645	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	62068	4	127736	
+49.179712	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	62072	4	127736	
+49.179733	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	62076	4096	127736	
+49.180951	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	66172	4	127736	
+49.181017	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	66176	4	127736	
+49.181038	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	66180	4096	127736	
+49.181135	[RN]	/data/com.google.android.googlequicksearchbox/files/entry_provider.new	/data/com.google.android.googlequicksearchbox/files/entry_provider	
+49.184068	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	70276	4	127736	
+49.184126	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	70280	4	127736	
+49.184147	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	70284	4096	127736	
+49.185309	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	74380	4	127736	
+49.185342	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	74384	4	127736	
+49.185362	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	74388	4096	127736	
+49.186262	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	78484	4	127736	
+49.186317	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	78488	4	127736	
+49.186338	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	78492	4096	127736	
+49.188958	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	82588	4	127736	
+49.189016	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+49.207942	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+49.211727	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	12	127736	
+49.211770	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+49.213708	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	0	4096	479232	
+49.213748	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	4096	4096	479232	
+49.213776	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	12288	4096	479232	
+49.213815	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	253952	4096	479232	
+49.213843	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	274432	4096	479232	
+49.213871	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	278528	4096	479232	
+49.213898	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	282624	4096	479232	
+49.213925	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	286720	4096	479232	
+49.213953	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	290816	4096	479232	
+49.213988	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	311296	4096	479232	
+49.214019	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	425984	4096	479232	
+49.214064	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	1	
+49.233317	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	28	127736	
+49.233355	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+49.237412	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+49.237665	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+49.238257	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
+49.238363	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
+49.244085	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+49.754635	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+49.755088	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	
+49.755626	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	1033	0	
+49.755716	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	0	
+49.765640	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
+49.800845	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+49.807133	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+49.810411	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+49.812897	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+49.813305	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4093	8192	
+49.813493	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12285	171	12285	
+49.814435	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12456	3978	12456	
+49.814743	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16434	4096	16434	
+49.814814	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20530	36675	20530	
+49.815522	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57205	2574	57205	
+49.817794	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59779	3798	59779	
+49.818335	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63577	4096	63577	
+49.818416	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67673	10096	67673	
+49.820064	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77769	4096	77769	
+49.820270	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81865	415	81865	
+49.820352	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+49.834513	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+49.877305	[CR]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	
+49.877642	[WA]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	0	132	0	
+49.877806	[FS]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	0	
+49.885855	[RN]	/data/com.google.android.googlequicksearchbox/files/now_request_queue.new	/data/com.google.android.googlequicksearchbox/files/now_request_queue	
+50.197677	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+50.213835	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
+50.214238	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+50.225379	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+50.330327	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	0	32	0	
+50.330414	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.343773	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store	1	
+50.350288	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	32	24	32	
+50.350367	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	56	4096	56	
+50.350438	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	4152	24	4152	
+50.350464	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	4176	4096	4176	
+50.350522	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	8272	24	8272	
+50.350548	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	8296	4096	8296	
+50.350605	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	12392	24	12392	
+50.350630	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	12416	4096	12416	
+50.350698	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	16512	24	16512	
+50.350724	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	16536	4096	16536	
+50.350780	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	20632	24	20632	
+50.350806	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	20656	4096	20656	
+50.350863	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	24752	24	24752	
+50.350888	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	24776	4096	24776	
+50.350946	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.361290	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.367528	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.370679	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.372860	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.373260	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4096	8192	
+50.373454	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12288	176	12288	
+50.374428	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12464	3978	12464	
+50.374735	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16442	4096	16442	
+50.374814	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20538	36675	20538	
+50.375532	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57213	2574	57213	
+50.378208	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59787	3798	59787	
+50.378716	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63585	4096	63585	
+50.378800	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67681	10096	67681	
+50.380506	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77777	4096	77777	
+50.380698	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81873	415	81873	
+50.380779	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+50.398340	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.414791	[RN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.421133	[CR]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	
+50.424241	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	4096	0	
+50.426485	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	4096	4096	4096	
+50.426911	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	8192	4095	8192	
+50.427186	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12287	171	12287	
+50.428253	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	12458	3978	12458	
+50.428594	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	16436	4096	16436	
+50.428672	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	20532	36675	20532	
+50.429665	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	57207	2574	57207	
+50.432499	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	59781	3798	59781	
+50.433014	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	63579	4096	63579	
+50.433089	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	67675	10096	67675	
+50.434696	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	77771	4096	77771	
+50.434906	[WA]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	81867	415	81867	
+50.434989	[FS]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin	0	
+50.449915	[UN]	/data/com.google.android.googlequicksearchbox/app_shared_prefs/SearchSettings.bin.bak	
+50.485114	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	28872	24	28872	
+50.485279	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	28896	4096	28896	
+50.485359	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	32992	24	32992	
+50.485385	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	33016	4096	33016	
+50.485441	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	37112	24	37112	
+50.485466	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	37136	4096	37136	
+50.485526	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	41232	24	41232	
+50.485553	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	41256	4096	41256	
+50.485610	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	45352	24	45352	
+50.485637	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	45376	4096	45376	
+50.485696	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	49472	24	49472	
+50.485723	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	49496	4096	49496	
+50.485780	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	53592	24	53592	
+50.485806	[WA]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	53616	4096	53616	
+50.485874	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.508594	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db-wal	1	
+50.510366	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	12288	4096	40960	
+50.510444	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	16384	4096	40960	
+50.510482	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	20480	4096	40960	
+50.510520	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	24576	4096	40960	
+50.510559	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	28672	4096	40960	
+50.510596	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	32768	4096	40960	
+50.510631	[WO]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	36864	4096	40960	
+50.510723	[FS]	/data/com.google.android.googlequicksearchbox/app_si/now_content_store/content_store.db	1	
+50.530015	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+50.530205	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4020	0	
 50.530300	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
 50.544001	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml.bak	
 50.546768	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/reflection_multi_process.xml	

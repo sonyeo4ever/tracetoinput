@@ -1,0 +1,268 @@
+20.946235	[RN]	/system/usagestats/0/screen_on_time	/system/usagestats/0/screen_on_time.bak	
+20.946551	[CR]	/system/usagestats/0/screen_on_time	
+20.946672	[WA]	/system/usagestats/0/screen_on_time	0	8	0	
+20.946779	[FS]	/system/usagestats/0/screen_on_time	0	
+20.953705	[UN]	/system/usagestats/0/screen_on_time.bak	
+42.637469	[UN]	/dalvik-cache/profiles/com.instagram.android	
+42.637659	[UN]	/data/com.instagram.android/lib	
+42.638057	[RD]	/data/com.instagram.android/cache/images	
+42.638207	[UN]	/data/com.instagram.android/cache/registration_flow_extras/journal	
+42.638321	[RD]	/data/com.instagram.android/cache/registration_flow_extras	
+42.638458	[UN]	/data/com.instagram.android/cache/http_responses/journal	
+42.638504	[RD]	/data/com.instagram.android/cache/http_responses	
+42.638548	[UN]	/data/com.instagram.android/cache/fbdns.store	
+42.638663	[UN]	/data/com.instagram.android/cache/fbzeroscfg.store	
+42.638762	[UN]	/data/com.instagram.android/cache/fbtlsx.store	
+42.638862	[RD]	/data/com.instagram.android/cache	
+42.638952	[RD]	/data/com.instagram.android/code_cache	
+42.639077	[UN]	/data/com.instagram.android/files/INSTALLATION	
+42.639178	[UN]	/data/com.instagram.android/files/qe_cache_d583d8b2-b663-4959-8252-8871ee4d9b42	
+42.639343	[UN]	/data/com.instagram.android/files/analytics/65ad725a-6ecb-4c07-86f8-190dd693d9b9_0.batch.gz	
+42.639677	[UN]	/data/com.instagram.android/files/analytics/10f8dd91-f8d3-4f86-94b0-987c97e903ab_0.batch.gz	
+42.639916	[RD]	/data/com.instagram.android/files/analytics	
+42.640008	[RD]	/data/com.instagram.android/files	
+42.640134	[UN]	/data/com.instagram.android/app_acra-reports/reportfile.prealloc	
+42.641427	[RD]	/data/com.instagram.android/app_acra-reports	
+42.641552	[RD]	/data/com.instagram.android/app_minidumps	
+42.641659	[UN]	/data/com.instagram.android/lib-main/dso_lock	
+42.641715	[UN]	/data/com.instagram.android/lib-main/dso_state	
+42.641805	[UN]	/data/com.instagram.android/lib-main/dso_deps	
+42.641891	[UN]	/data/com.instagram.android/lib-main/dso_manifest	
+42.641986	[RD]	/data/com.instagram.android/lib-main	
+42.642565	[RD]	/data/com.instagram.android/app_light_prefs/com.instagram.android	
+42.642662	[RD]	/data/com.instagram.android/app_light_prefs	
+42.642877	[UN]	/data/com.instagram.android/app_ig_analytics_beacon/normal/beacon_id.lock	
+42.642936	[UN]	/data/com.instagram.android/app_ig_analytics_beacon/normal/beacon_id	
+42.643036	[RD]	/data/com.instagram.android/app_ig_analytics_beacon/normal	
+42.643161	[RD]	/data/com.instagram.android/app_ig_analytics_beacon/hipri	
+42.643337	[RD]	/data/com.instagram.android/app_ig_analytics_beacon/immediate	
+42.643425	[RD]	/data/com.instagram.android/app_ig_analytics_beacon	
+42.644047	[RD]	/data/com.instagram.android/app_per_event_counter	
+42.647560	[UN]	/data/com.instagram.android/shared_prefs/waterfall_log_in.xml	
+42.647701	[UN]	/data/com.instagram.android/shared_prefs/CookiePrefsFile2.xml	
+42.647797	[UN]	/data/com.instagram.android/shared_prefs/CookieMigrationFile.xml	
+42.647890	[UN]	/data/com.instagram.android/shared_prefs/analyticsprefs.xml	
+42.647980	[UN]	/data/com.instagram.android/shared_prefs/com.instagram.android_preferences.xml	
+42.648067	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.flags.xml	
+42.648157	[UN]	/data/com.instagram.android/shared_prefs/token_store.xml	
+42.648244	[UN]	/data/com.instagram.android/shared_prefs/com.facebook.sdk.appEventPreferences.xml	
+42.648332	[UN]	/data/com.instagram.android/shared_prefs/LoggedOutPrefsFile.xml	
+42.648419	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.analytics.xml	
+42.648507	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.registrations.xml	
+42.648594	[UN]	/data/com.instagram.android/shared_prefs/mqtt_radio_active_time.xml	
+42.648680	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.fbns_state.xml	
+42.648766	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.mqtt_config.xml	
+42.648854	[UN]	/data/com.instagram.android/shared_prefs/rti.mqtt.addresses.xml	
+42.648941	[UN]	/data/com.instagram.android/shared_prefs/ExitRegistrationDialogHelper.xml	
+42.649028	[UN]	/data/com.instagram.android/shared_prefs/facebookPreferences.xml	
+42.649320	[UN]	/data/com.instagram.android/shared_prefs/com.google.android.c2dm.xml	
+42.649422	[RD]	/data/com.instagram.android/shared_prefs	
+42.649822	[RD]	/data/com.instagram.android/app_funnel_backup/instagram	
+42.649921	[RD]	/data/com.instagram.android/app_funnel_backup	
+42.650154	[UN]	/data/com.instagram.android/app_modules/java.com.instagram.exoplayer.service_1092673879/dex_modules/java.com.instagram.exoplayer.service2.dex	
+42.651044	[RD]	/data/com.instagram.android/app_modules/java.com.instagram.exoplayer.service_1092673879/dex_modules	
+42.651238	[UN]	/data/com.instagram.android/app_modules/java.com.instagram.exoplayer.service_1092673879/opt_dex_modules/java.com.instagram.exoplayer.service2.dex	
+42.651284	[RD]	/data/com.instagram.android/app_modules/java.com.instagram.exoplayer.service_1092673879/opt_dex_modules	
+42.651328	[RD]	/data/com.instagram.android/app_modules/java.com.instagram.exoplayer.service_1092673879	
+42.651382	[RD]	/data/com.instagram.android/app_modules	
+42.651489	[RD]	/data/com.instagram.android/app_downloaded_modules/java.com.instagram.debug.devoptions_88d927fa3020b69278772f1ee76c5f3bd5d7ae0e753d20ee6160bd31d2aa6016	
+42.651641	[RD]	/data/com.instagram.android/app_downloaded_modules	
+42.651739	[RD]	/data/com.instagram.android	
+42.670778	[RN]	/system/packages.xml	/system/packages-backup.xml	
+42.670993	[CR]	/system/packages.xml	
+42.671852	[WA]	/system/packages.xml	0	8168	0	
+42.672224	[WA]	/system/packages.xml	8168	8191	8168	
+42.672560	[WA]	/system/packages.xml	16359	8171	16359	
+42.672907	[WA]	/system/packages.xml	24530	8192	24530	
+42.673245	[WA]	/system/packages.xml	32722	8173	32722	
+42.673644	[WA]	/system/packages.xml	40895	8169	40895	
+42.673979	[WA]	/system/packages.xml	49064	8178	49064	
+42.674707	[WA]	/system/packages.xml	57242	8185	57242	
+42.675204	[WA]	/system/packages.xml	65427	6578	65427	
+42.675636	[WA]	/system/packages.xml	72005	8189	72005	
+42.676212	[WA]	/system/packages.xml	80194	8177	80194	
+42.676767	[WA]	/system/packages.xml	88371	8192	88371	
+42.677475	[WA]	/system/packages.xml	96563	8178	96563	
+42.677979	[WA]	/system/packages.xml	104741	8186	104741	
+42.678595	[WA]	/system/packages.xml	112927	8178	112927	
+42.679174	[WA]	/system/packages.xml	121105	8192	121105	
+42.679714	[WA]	/system/packages.xml	129297	8191	129297	
+42.680324	[WA]	/system/packages.xml	137488	8188	137488	
+42.680871	[WA]	/system/packages.xml	145676	8189	145676	
+42.681379	[WA]	/system/packages.xml	153865	8189	153865	
+42.681980	[WA]	/system/packages.xml	162054	6503	162054	
+42.682508	[WA]	/system/packages.xml	168557	8189	168557	
+42.683063	[WA]	/system/packages.xml	176746	8184	176746	
+42.683623	[WA]	/system/packages.xml	184930	8189	184930	
+42.684158	[WA]	/system/packages.xml	193119	8187	193119	
+42.684728	[WA]	/system/packages.xml	201306	7955	201306	
+42.685205	[WA]	/system/packages.xml	209261	8189	209261	
+42.685714	[WA]	/system/packages.xml	217450	8172	217450	
+42.686275	[WA]	/system/packages.xml	225622	8191	225622	
+42.686789	[WA]	/system/packages.xml	233813	8190	233813	
+42.687323	[WA]	/system/packages.xml	242003	8192	242003	
+42.687845	[WA]	/system/packages.xml	250195	8169	250195	
+42.688435	[WA]	/system/packages.xml	258364	8150	258364	
+42.688852	[WA]	/system/packages.xml	266514	8190	266514	
+42.689341	[WA]	/system/packages.xml	274704	8167	274704	
+42.689770	[WA]	/system/packages.xml	282871	8192	282871	
+42.690336	[WA]	/system/packages.xml	291063	7650	291063	
+42.690815	[WA]	/system/packages.xml	298713	8183	298713	
+42.691501	[WA]	/system/packages.xml	306896	8191	306896	
+42.692080	[WA]	/system/packages.xml	315087	8188	315087	
+42.692521	[WA]	/system/packages.xml	323275	8150	323275	
+42.693117	[WA]	/system/packages.xml	331425	8189	331425	
+42.693708	[WA]	/system/packages.xml	339614	8192	339614	
+42.694158	[WA]	/system/packages.xml	347806	8188	347806	
+42.694725	[WA]	/system/packages.xml	355994	8191	355994	
+42.695363	[WA]	/system/packages.xml	364185	8188	364185	
+42.695941	[WA]	/system/packages.xml	372373	8190	372373	
+42.696517	[WA]	/system/packages.xml	380563	8163	380563	
+42.697069	[WA]	/system/packages.xml	388726	8177	388726	
+42.697602	[WA]	/system/packages.xml	396903	8190	396903	
+42.698172	[WA]	/system/packages.xml	405093	8161	405093	
+42.698841	[WA]	/system/packages.xml	413254	8163	413254	
+42.699416	[WA]	/system/packages.xml	421417	8192	421417	
+42.700019	[WA]	/system/packages.xml	429609	8189	429609	
+42.700558	[WA]	/system/packages.xml	437798	8191	437798	
+42.701110	[WA]	/system/packages.xml	445989	8191	445989	
+42.701684	[WA]	/system/packages.xml	454180	8192	454180	
+42.702249	[WA]	/system/packages.xml	462372	8191	462372	
+42.702784	[WA]	/system/packages.xml	470563	8189	470563	
+42.703294	[WA]	/system/packages.xml	478752	8192	478752	
+42.703876	[WA]	/system/packages.xml	486944	8189	486944	
+42.704288	[WA]	/system/packages.xml	495133	8183	495133	
+42.704793	[WA]	/system/packages.xml	503316	8177	503316	
+42.705277	[WA]	/system/packages.xml	511493	8190	511493	
+42.705756	[WA]	/system/packages.xml	519683	8164	519683	
+42.706836	[WA]	/system/packages.xml	527847	7859	527847	
+42.707363	[WA]	/system/packages.xml	535706	4724	535706	
+42.707430	[FS]	/system/packages.xml	0	
+42.746639	[UN]	/system/packages-backup.xml	
+42.748214	[CR]	/system/packages.list.tmp	
+42.762435	[WA]	/system/packages.list.tmp	0	8178	0	
+42.766603	[WA]	/system/packages.list.tmp	8178	2450	8178	
+42.766953	[FS]	/system/packages.list.tmp	0	
+42.774944	[RN]	/system/packages.list.tmp	/system/packages.list	
+42.776845	[RN]	/system/users/0/package-restrictions.xml	/system/users/0/package-restrictions-backup.xml	
+42.777028	[CR]	/system/users/0/package-restrictions.xml	
+42.778163	[WA]	/system/users/0/package-restrictions.xml	0	8192	0	
+42.778560	[WA]	/system/users/0/package-restrictions.xml	8192	8155	8192	
+42.778883	[WA]	/system/users/0/package-restrictions.xml	16347	8178	16347	
+42.779274	[WA]	/system/users/0/package-restrictions.xml	24525	8191	24525	
+42.779650	[WA]	/system/users/0/package-restrictions.xml	32716	5992	32716	
+42.779747	[FS]	/system/users/0/package-restrictions.xml	0	
+42.793872	[UN]	/system/users/0/package-restrictions-backup.xml	
+43.023684	[UN]	/app/com.instagram.android-2/base.apk	
+43.023822	[UN]	/app/com.instagram.android-2/lib/arm/libfbreact-i18nassetsmodule.so	
+43.023975	[UN]	/app/com.instagram.android-2/lib/arm/libasyncexecutor.so	
+43.024082	[UN]	/app/com.instagram.android-2/lib/arm/libcj.so	
+43.024194	[UN]	/app/com.instagram.android-2/lib/arm/libigbitmap_runtime_for_v23.so	
+43.024309	[UN]	/app/com.instagram.android-2/lib/arm/libvpx.so	
+43.024931	[UN]	/app/com.instagram.android-2/lib/arm/libconcealcpp.so	
+43.025061	[UN]	/app/com.instagram.android-2/lib/arm/libhalide.so	
+43.025255	[UN]	/app/com.instagram.android-2/lib/arm/libfb_jpegturbo.so	
+43.025493	[UN]	/app/com.instagram.android-2/lib/arm/libgnustl_shared.so	
+43.026301	[UN]	/app/com.instagram.android-2/lib/arm/libfb.so	
+43.026457	[UN]	/app/com.instagram.android-2/lib/arm/libfbreactjnifb.so	
+43.026562	[UN]	/app/com.instagram.android-2/lib/arm/libfbjsc.so	
+43.029246	[UN]	/app/com.instagram.android-2/lib/arm/libyoga.so	
+43.029412	[UN]	/app/com.instagram.android-2/lib/arm/libjava_com_facebook_catalyst_js_react-native-github_ReactCommon_privatedata_privatedata.so	
+43.029515	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_LiveStreaming_LiveStreaming.so	
+43.029625	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_RtmpSSL_LigerRtmpSSL.so	
+43.029755	[UN]	/app/com.instagram.android-2/lib/arm/libfilters-native-android.so	
+43.029973	[UN]	/app/com.instagram.android-2/lib/arm/libogg.so	
+43.030075	[UN]	/app/com.instagram.android-2/lib/arm/libglog.so	
+43.030204	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_LiveStreaming_LiveStreamingRTMP.so	
+43.030384	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_effects-framework_graphics-engine.so	
+43.034228	[UN]	/app/com.instagram.android-2/lib/arm/libfb_xzdecoder.so	
+43.034330	[UN]	/app/com.instagram.android-2/lib/arm/libfb_mozjpeg.so	
+43.034624	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_rtc_tslog_tslog.so	
+43.034789	[UN]	/app/com.instagram.android-2/lib/arm/libvideo.so	
+43.035438	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+43.035736	[CR]	/system/users/0/runtime-permissions.xml	
+43.036309	[UN]	/app/com.instagram.android-2/lib/arm/libbreakpad.so	
+43.036464	[UN]	/app/com.instagram.android-2/lib/arm/libandroid-rtmpssl.so	
+43.036568	[UN]	/app/com.instagram.android-2/lib/arm/libstrings.so	
+43.036664	[UN]	/app/com.instagram.android-2/lib/arm/libstackblur.so	
+43.036773	[UN]	/app/com.instagram.android-2/lib/arm/libperfloggerbase_perfloggerbaseAndroid.so	
+43.036864	[UN]	/app/com.instagram.android-2/lib/arm/libfbreactotapatchfb.so	
+43.036963	[UN]	/app/com.instagram.android-2/lib/arm/libface-tracking.so	
+43.037558	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_Reachability_Reachability.so	
+43.037653	[UN]	/app/com.instagram.android-2/lib/arm/libopencv.so	
+43.038095	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_Statistics_Statistics.so	
+43.038190	[UN]	/app/com.instagram.android-2/lib/arm/libfbsystrace.so	
+43.038285	[UN]	/app/com.instagram.android-2/lib/arm/libfb_ffmpeg_jni.so	
+43.038396	[UN]	/app/com.instagram.android-2/lib/arm/libcommonpatchjni.so	
+43.038489	[UN]	/app/com.instagram.android-2/lib/arm/libbz2.so	
+43.038600	[UN]	/app/com.instagram.android-2/lib/arm/libthird-party_librtmp_librtmpAndroid.so	
+43.038740	[UN]	/app/com.instagram.android-2/lib/arm/libtigon4a.so	
+43.038869	[UN]	/app/com.instagram.android-2/lib/arm/libjpegutils_moz.so	
+43.038966	[UN]	/app/com.instagram.android-2/lib/arm/libliger.so	
+43.039063	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+43.041165	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+43.041249	[FS]	/system/users/0/runtime-permissions.xml	0	
+43.041588	[UN]	/app/com.instagram.android-2/lib/arm/libconcealjni.so	
+43.041737	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_LiveStreaming_LiveStreamingAdaptiveBitrate.so	
+43.041866	[UN]	/app/com.instagram.android-2/lib/arm/libfbacore-jni.so	
+43.041986	[UN]	/app/com.instagram.android-2/lib/arm/libjniexecutors.so	
+43.042114	[UN]	/app/com.instagram.android-2/lib/arm/libjpegutils.so	
+43.042217	[UN]	/app/com.instagram.android-2/lib/arm/libfbgloginit.so	
+43.042326	[UN]	/app/com.instagram.android-2/lib/arm/libscrambler.so	
+43.042548	[UN]	/app/com.instagram.android-2/lib/arm/libnative_bridge.so	
+43.042665	[UN]	/app/com.instagram.android-2/lib/arm/libreactnativejni.so	
+43.043082	[UN]	/app/com.instagram.android-2/lib/arm/libthird-party_yajl_yajlAndroid.so	
+43.043184	[UN]	/app/com.instagram.android-2/lib/arm/libfb_ffmpeg.so	
+43.043741	[UN]	/app/com.instagram.android-2/lib/arm/libyogacore.so	
+43.043893	[UN]	/app/com.instagram.android-2/lib/arm/libxplat_react_module_i18nassetsmodule.so	
+43.044011	[UN]	/app/com.instagram.android-2/lib/arm/libandroid-live-streaming.so	
+43.044186	[UN]	/app/com.instagram.android-2/lib/arm/libjingle_peerconnection_so.so	
+43.050042	[UN]	/app/com.instagram.android-2/lib/arm/libbreakpad_cpp_helper.so	
+43.050162	[UN]	/app/com.instagram.android-2/lib/arm/libFBBaseLite_FBBaseLiteAndroid.so	
+43.050264	[UN]	/app/com.instagram.android-2/lib/arm/libfbrtmp.so	
+43.050369	[UN]	/app/com.instagram.android-2/lib/arm/libglcommon.so	
+43.050484	[UN]	/app/com.instagram.android-2/lib/arm/libpackagerconnectionjnifb.so	
+43.050597	[UN]	/app/com.instagram.android-2/lib/arm/libigbitmap_runtime_for_v21.so	
+43.050699	[UN]	/app/com.instagram.android-2/lib/arm/libandroid-reachability-announcer.so	
+43.050806	[UN]	/app/com.instagram.android-2/lib/arm/libnative_mediapipeline_AREngineServices_Interfaces_Interfaces.so	
+43.051292	[UN]	/app/com.instagram.android-2/lib/arm/libbsdiff.so	
+43.051408	[UN]	/app/com.instagram.android-2/lib/arm/libcj_moz.so	
+43.051512	[UN]	/app/com.instagram.android-2/lib/arm/libquicksand.so	
+43.051576	[UN]	/system/users/0/runtime-permissions.xml.bak	
+43.051611	[UN]	/app/com.instagram.android-2/lib/arm/libaudiofiltercore.so	
+43.051903	[UN]	/app/com.instagram.android-2/lib/arm/libsigmux.so	
+43.052008	[UN]	/app/com.instagram.android-2/lib/arm/libgraphicsengine-arengineservices-igeffectservicehost-native.so	
+43.052971	[UN]	/app/com.instagram.android-2/lib/arm/libapps_instagram_instagram_jni_regiontracking_regiontracking.so	
+43.053158	[UN]	/app/com.instagram.android-2/lib/arm/libfbacore.so	
+43.053327	[UN]	/app/com.instagram.android-2/lib/arm/libigjhead.so	
+43.053472	[RD]	/app/com.instagram.android-2/lib/arm	
+43.053768	[RD]	/app/com.instagram.android-2/lib	
+43.053937	[UN]	/app/com.instagram.android-2/oat/arm/base.odex	
+43.087391	[RD]	/app/com.instagram.android-2/oat/arm	
+43.087502	[RD]	/app/com.instagram.android-2/oat	
+43.087603	[RD]	/app/com.instagram.android-2	
+43.219709	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+43.219930	[CR]	/system/netpolicy.xml	
+43.221519	[WA]	/system/netpolicy.xml	0	113	0	
+43.221603	[FS]	/system/netpolicy.xml	0	
+43.241092	[UN]	/system/netpolicy.xml.bak	
+43.254035	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+43.254193	[CR]	/system/netstats/uid.1507300282106-	
+43.262300	[WA]	/system/netstats/uid.1507300282106-	0	8191	0	
+43.266272	[WA]	/system/netstats/uid.1507300282106-	8191	8192	8191	
+43.267430	[WA]	/system/netstats/uid.1507300282106-	16383	5273	16383	
+43.267563	[FS]	/system/netstats/uid.1507300282106-	0	
+43.276787	[UN]	/system/netstats/uid.1507300282106-.backup	
+43.284255	[RN]	/system/netstats/uid_tag.1507783616261-	/system/netstats/uid_tag.1507783616261-.backup	
+43.284412	[CR]	/system/netstats/uid_tag.1507783616261-	
+43.288075	[WA]	/system/netstats/uid_tag.1507783616261-	0	8192	0	
+43.290839	[WA]	/system/netstats/uid_tag.1507783616261-	8192	4422	8192	
+43.290941	[FS]	/system/netstats/uid_tag.1507783616261-	0	
+43.301600	[UN]	/system/netstats/uid_tag.1507783616261-.backup	
+43.357028	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+43.357270	[CR]	/system/netstats/uid.1507300282106-	
+43.359127	[WA]	/system/netstats/uid.1507300282106-	0	8191	0	
+43.360729	[WA]	/system/netstats/uid.1507300282106-	8191	8192	8191	
+43.361763	[WA]	/system/netstats/uid.1507300282106-	16383	5138	16383	
+43.361854	[FS]	/system/netstats/uid.1507300282106-	0	
+43.370026	[UN]	/system/netstats/uid.1507300282106-.backup	

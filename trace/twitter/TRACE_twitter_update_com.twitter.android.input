@@ -54,22 +54,6 @@
 48.754294	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
 48.754400	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
 48.759957	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
-49.368964	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
-49.369030	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
-49.369052	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
-49.369086	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
-49.369404	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
-49.369425	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
-49.369458	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
-49.369490	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
-49.370940	[FS]	/data/com.twitter.android/databases	1	
-49.374377	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
-49.374437	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
-49.375419	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
-49.375458	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
-49.375489	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
-49.378227	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
-49.378269	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
 49.463657	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
 49.463723	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
 49.463745	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
@@ -794,221 +778,1563 @@
 185.768824	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
 185.768902	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
 185.783977	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
-243.387496	[UN]	/data/com.twitter.android/code_cache/com.android.opengl.shaders_cache	
-243.388951	[RD]	/data/com.twitter.android/code_cache/com.android.renderscript.cache	
-243.390084	[UN]	/data/com.twitter.android/lib	
-243.851982	[UN]	/app/com.twitter.android-1/lib/arm/libtwittermedia.so	
-243.852495	[UN]	/app/com.twitter.android-1/lib/arm/libbrotli.so	
-243.852873	[UN]	/app/com.twitter.android-1/lib/arm/libzstd.so	
-243.853003	[UN]	/app/com.twitter.android-1/lib/arm/libcrashlytics-envelope.so	
-243.853139	[UN]	/app/com.twitter.android-1/lib/arm/libsuperresolutionmodule.so	
-243.853310	[UN]	/app/com.twitter.android-1/lib/arm/libbrotli-jni.so	
-243.853442	[UN]	/app/com.twitter.android-1/lib/arm/libimagepipeline.so	
-243.854310	[UN]	/app/com.twitter.android-1/lib/arm/libopenclinformation.so	
-243.854509	[UN]	/app/com.twitter.android-1/lib/arm/libunwind-crashlytics.so	
-243.854645	[UN]	/app/com.twitter.android-1/lib/arm/libcrashlytics.so	
-243.854900	[UN]	/app/com.twitter.android-1/lib/arm/liblhlslib-jni.so	
-243.855038	[RD]	/app/com.twitter.android-1/lib/arm	
-243.855232	[RD]	/app/com.twitter.android-1/lib	
-243.855821	[UN]	/app/com.twitter.android-1/oat/arm/base.odex	
-243.909813	[RD]	/app/com.twitter.android-1/oat/arm	
-243.915251	[RD]	/app/com.twitter.android-1/oat	
-243.915388	[UN]	/app/com.twitter.android-1/base.apk	
-243.915458	[RD]	/app/com.twitter.android-1	
-245.463995	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
-245.464262	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
-245.465137	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
-245.465815	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
-245.598524	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
-245.937877	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3BeginSession.cls_temp	
-245.940212	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3BeginSession.cls_temp	0	79	0	
-245.941891	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3BeginSession.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3BeginSession.cls	
-245.944409	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionApp.cls_temp	
-245.947308	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionApp.cls_temp	0	120	0	
-245.949094	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionApp.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionApp.cls	
-245.949552	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionOS.cls_temp	
-245.950626	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionOS.cls_temp	0	18	0	
-245.950888	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionOS.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionOS.cls	
-245.952104	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionDevice.cls_temp	
-245.990041	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionDevice.cls_temp	0	131	0	
-245.990957	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionDevice.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3SessionDevice.cls	
-245.999744	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp.tmp	
-245.999965	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp.tmp	0	16	4096	
-246.028345	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp.tmp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	
-246.029173	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	16	4	4096	
-246.036825	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	20	38	4096	
-246.042924	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	4096	
-246.049196	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	58	4	4096	
-246.064093	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	62	239	4096	
-246.070003	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	4096	
-246.072318	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	301	4	4096	
-246.081822	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	305	75	4096	
-246.087995	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	4096	
-246.093085	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	380	4	4096	
-246.103187	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	384	43	4096	
-246.116529	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	4096	
-246.124974	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3user.meta	
-246.125398	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBDBA010C-0001-58C4-EC1B036D50B3user.meta	0	24	0	
-246.125859	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
-246.128964	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBB7703AE-0001-4514-EC1B036D50B3.temp	
-246.132151	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionUser.cls_temp	
-246.133580	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionUser.cls_temp	0	15	0	
-246.133869	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionUser.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionUser.cls	
-246.135581	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls	
-246.135857	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls	
-246.136069	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls	
-246.136270	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls	
-246.136487	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3user.meta	
-246.136694	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionUser.cls	
-246.141623	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
-246.347575	[UN]	/data/com.twitter.android/files/serialized_local_feature_switches_manifest_7.17.01507638091424feature_switch_manifest	
-246.348605	[CR]	/data/com.twitter.android/files/serialized_local_feature_switches_manifest_7.17.01507638711724feature_switch_manifest	
-246.422607	[WA]	/data/com.twitter.android/files/serialized_local_feature_switches_manifest_7.17.01507638711724feature_switch_manifest	0	200974	0	
-246.427489	[FS]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	
-246.445167	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	32768	
-246.449608	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	427	4	32768	
-246.453305	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	431	16515	32768	
-246.465902	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBDBA010C-0001-58C4-EC1B036D50B3.temp	0	16	32768	
-246.576348	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
-246.576615	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
-246.577141	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
-246.577241	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
-246.583225	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
-247.247758	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.247825	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.247851	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.247891	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.248045	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.248070	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.248108	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.248147	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.257746	[FS]	/data/com.twitter.android/databases	1	
-247.261412	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.261470	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.262506	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.262552	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.262588	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.264276	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.264303	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.283685	[RN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
-247.283969	[CR]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	
-247.285299	[WA]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	115	0	
-247.285400	[FS]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	
-247.290599	[UN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
-247.321158	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
-247.321228	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
-247.321253	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
-247.321292	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
-247.321352	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
-247.321376	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
-247.321414	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
-247.321449	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
-247.324339	[FS]	/data/com.twitter.android/databases	1	
-247.330467	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
-247.330541	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
-247.331619	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
-247.331670	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
-247.331708	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
-247.334431	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
-247.334475	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
-247.362313	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.362378	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.362403	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.362443	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.362570	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.362593	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.362631	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.362669	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.366656	[FS]	/data/com.twitter.android/databases	1	
-247.375904	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.375972	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.377010	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.377059	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.377100	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.378836	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.378871	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.387003	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.387061	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.387083	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.387117	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.387244	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.387266	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.387301	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.387335	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.391334	[FS]	/data/com.twitter.android/databases	1	
-247.393507	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.393580	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.394687	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.394735	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.394775	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.400432	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.400494	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.411094	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.411151	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.411173	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.411206	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.411321	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.411342	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.411375	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.411408	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.413789	[FS]	/data/com.twitter.android/databases	1	
-247.416034	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.416073	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.417047	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.417092	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.417124	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.418880	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.418918	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.426463	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.430759	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.430901	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.430936	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.431066	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.431088	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.431121	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.431155	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.433139	[FS]	/data/com.twitter.android/databases	1	
-247.436269	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.436304	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.437240	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.437285	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.437318	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.438896	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.438923	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.443100	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.443156	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.443181	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.443220	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.443349	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.443373	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.443412	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.443449	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.445885	[FS]	/data/com.twitter.android/databases	1	
-247.448085	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.448121	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.449188	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.449235	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.449272	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.450963	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.451004	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.455192	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
-247.455231	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
-247.455256	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
-247.455294	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
-247.455418	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
-247.455442	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
-247.455480	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
-247.455517	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.457892	[FS]	/data/com.twitter.android/databases	1	
-247.460493	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
-247.460544	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-247.461466	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
-247.461504	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
-247.461536	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
-247.463195	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
-247.463223	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
-250.038509	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
-250.038809	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
-250.039691	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
-250.039808	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
-250.053594	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+48.069299	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.069869	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+48.071685	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
+48.071822	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
+48.077604	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.471678	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	
+48.475745	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	0	79	0	
+48.476144	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls	
+48.480887	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	
+48.481305	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	0	120	0	
+48.481535	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls	
+48.482246	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	
+48.483220	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	0	18	0	
+48.483455	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls	
+48.483828	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	
+48.490698	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	0	131	0	
+48.491207	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls	
+48.503378	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	
+48.503589	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	0	16	4096	
+48.509458	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	
+48.510253	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	16	4	4096	
+48.516113	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	20	38	4096	
+48.520962	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.524893	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	58	4	4096	
+48.526284	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	62	239	4096	
+48.527603	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.529536	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	301	4	4096	
+48.530636	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	305	75	4096	
+48.533882	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.535374	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	380	4	4096	
+48.536360	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	384	43	4096	
+48.537383	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.540182	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3user.meta	
+48.540713	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3user.meta	0	24	0	
+48.541133	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+48.543286	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBB4E0237-0001-413B-EC1B036D50B3.temp	
+48.546182	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	
+48.547947	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	0	15	0	
+48.548185	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls	
+48.549789	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionDevice.cls	
+48.550027	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3BeginSession.cls	
+48.550244	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionApp.cls	
+48.550490	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionOS.cls	
+48.550678	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3user.meta	
+48.550888	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls	
+48.554550	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+48.601119	[FS]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	
+48.606584	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	32768	
+48.608251	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	427	4	32768	
+48.609272	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	431	16515	32768	
+48.613896	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	32768	
+48.752990	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.753323	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+48.754294	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
+48.754400	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
+48.759957	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+49.463657	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.463723	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.463745	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.463780	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.463804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.463823	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.463856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.464040	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.466019	[FS]	/data/com.twitter.android/databases	1	
+49.470572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.470620	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.471609	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	102400	
+49.471652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	102400	
+49.471678	[WA]	/data/com.twitter.android/databases/3317833400-scribe.db	102400	4096	102400	
+49.471744	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.476881	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.476919	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.479788	[RN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
+49.480063	[CR]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	
+49.481230	[WA]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	115	0	
+49.481338	[FS]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	
+49.529210	[UN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
+49.550872	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
+49.550942	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
+49.550968	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
+49.551007	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
+49.551069	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
+49.551092	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
+49.551130	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
+49.551164	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.559502	[FS]	/data/com.twitter.android/databases	1	
+49.563802	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
+49.563866	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.564773	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
+49.564814	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
+49.564850	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
+49.566616	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
+49.566645	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.586721	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.586768	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.586789	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.586822	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.586936	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.586956	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.586989	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.587022	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.589388	[FS]	/data/com.twitter.android/databases	1	
+49.593427	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.593485	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.594528	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.594570	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.594603	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.596259	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.596290	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.599865	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.599902	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.599923	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.599959	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.600071	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.600093	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.600126	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.600159	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.602562	[FS]	/data/com.twitter.android/databases	1	
+49.604442	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.604491	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.605489	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.605528	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.605563	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.607267	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.607294	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.610823	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.610873	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.610895	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.610929	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.611041	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.611063	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.611099	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.611134	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.613559	[FS]	/data/com.twitter.android/databases	1	
+49.615768	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.615801	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.616756	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.616799	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.616832	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.618497	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.618525	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.622116	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.622165	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.622187	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.622221	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.622333	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.622353	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.622387	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.622420	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.624694	[FS]	/data/com.twitter.android/databases	1	
+49.626475	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.626506	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.627508	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.627553	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.627586	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.629233	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.629260	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.633273	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.633331	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.633353	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.633389	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.633502	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.633525	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.633559	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.633592	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.635880	[FS]	/data/com.twitter.android/databases	1	
+49.637687	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.637718	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.638703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	106496	
+49.638747	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	102400	4096	106496	
+49.638782	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.640937	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.640975	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.647747	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.647786	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.647808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.647844	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.647932	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.647954	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.647987	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.648069	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+49.648090	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+49.648124	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+49.648182	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+49.648202	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+49.648237	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+49.648290	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+49.648311	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+49.648344	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+49.648367	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+49.648387	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+49.648417	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+49.648552	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+49.648572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+49.648601	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+49.648653	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+49.648672	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+49.648704	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+49.648878	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.654945	[FS]	/data/com.twitter.android/databases	1	
+49.698236	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.698303	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.704811	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	106496	
+49.704860	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	106496	
+49.704889	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	106496	
+49.704916	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	106496	
+49.704943	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	106496	
+49.704969	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	28672	4096	106496	
+49.704997	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	106496	
+49.705024	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	106496	
+49.705051	[WA]	/data/com.twitter.android/databases/3317833400-scribe.db	106496	4096	106496	
+49.705126	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.716867	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.716937	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.275872	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+51.276237	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+51.278158	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+51.278269	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+51.278332	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+51.278370	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+51.278390	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+51.278425	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+51.278460	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+51.278479	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+51.278512	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+51.278551	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+51.278572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+51.278604	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+51.278643	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+51.278668	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+51.278700	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+51.278724	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+51.278743	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+51.278784	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+51.278804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+51.278823	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+51.278852	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+51.278919	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+51.278938	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+51.278964	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+51.279127	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+51.279146	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+51.279178	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+51.279385	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+51.279407	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+51.279440	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+51.279489	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+51.279508	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+51.279539	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+51.279585	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41552	4	86696	
+51.279605	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41556	4096	86696	
+51.279637	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45652	4	86696	
+51.279684	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.292799	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+51.310428	[FS]	/data/com.twitter.android/databases	1	
+51.314735	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+51.314792	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.320616	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	110592	
+51.320662	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	110592	
+51.320692	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	110592	
+51.320721	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	110592	
+51.320748	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	110592	
+51.320776	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	110592	
+51.320802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	28672	4096	110592	
+51.320829	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	110592	
+51.320858	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	110592	
+51.320886	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	40960	4096	110592	
+51.320926	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+51.326262	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+51.326307	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.328021	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+51.328256	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+51.329325	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+51.329924	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+51.330622	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+51.330763	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+51.330800	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+51.330821	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+51.330856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+51.330884	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+51.330901	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+51.330922	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+51.330954	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+51.330967	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+51.331006	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+51.331025	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+51.331057	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+51.331124	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+51.331247	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+51.331281	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+51.331334	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+51.331354	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+51.331387	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+51.331450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+51.331470	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+51.331501	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+51.331572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+51.331591	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+51.331618	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+51.331652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+51.331669	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+51.331699	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+51.331749	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+51.331770	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+51.331802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+51.332003	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+51.332025	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+51.332058	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+51.332091	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.351365	[FS]	/data/com.twitter.android/databases	1	
+51.352446	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+51.352892	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+51.352937	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.353891	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	86016	
+51.353932	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	86016	
+51.353961	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	86016	
+51.353987	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	86016	
+51.354015	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	86016	
+51.354043	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	53248	4096	86016	
+51.354069	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	57344	4096	86016	
+51.354095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	61440	4096	86016	
+51.354122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	65536	4096	86016	
+51.354148	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	69632	4096	86016	
+51.354186	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+51.359053	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+51.359084	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.480373	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.480648	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+52.481244	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+52.481341	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+52.489639	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.651281	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.651505	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+52.652021	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+52.652075	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+52.652096	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+52.652130	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+52.652154	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+52.652173	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+52.652206	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+52.652245	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+52.652266	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+52.652299	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+52.652307	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+52.652320	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+52.652338	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+52.652371	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+52.652398	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+52.652431	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+52.652450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+52.652481	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+52.652504	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+52.652523	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+52.652655	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+52.652738	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+52.652757	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+52.652784	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+52.652925	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+52.652944	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+52.652974	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+52.653072	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+52.653093	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+52.653125	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+52.653473	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+52.653498	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+52.653529	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+52.653640	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41552	4	86696	
+52.653660	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41556	4096	86696	
+52.653691	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45652	4	86696	
+52.653719	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45656	4	86696	
+52.653739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45660	4096	86696	
+52.653771	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49756	4	86696	
+52.653796	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49760	4	86696	
+52.653816	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49764	4096	86696	
+52.653847	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	53860	4	86696	
+52.653900	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.660165	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.665102	[FS]	/data/com.twitter.android/databases	1	
+52.669474	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+52.669520	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.670481	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	86016	
+52.670520	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	86016	
+52.670546	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	86016	
+52.670571	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	86016	
+52.670597	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	86016	
+52.670622	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	86016	
+52.670649	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	86016	
+52.670687	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+52.674192	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+52.674230	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.675933	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+52.676158	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+52.676703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+52.676734	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+52.676755	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+52.676787	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+52.676858	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+52.676879	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+52.676910	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+52.676967	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+52.676988	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+52.677021	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+52.677027	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+52.677084	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+52.677105	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+52.677136	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+52.677194	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+52.677215	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+52.677247	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+52.677297	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+52.677317	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+52.677347	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+52.677414	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+52.677432	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+52.677459	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+52.677510	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+52.677528	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+52.677559	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+52.677644	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+52.677739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+52.677759	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+52.677790	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+52.677822	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.678231	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+52.678468	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+52.678549	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+52.689035	[FS]	/data/com.twitter.android/databases	1	
+52.692430	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+52.700408	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+52.700511	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.701606	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	53248	
+52.701646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	53248	
+52.701672	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	53248	
+52.701699	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	53248	
+52.701722	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	53248	
+52.701748	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	53248	
+52.701775	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	40960	4096	53248	
+52.701802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	53248	
+52.701828	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	53248	
+52.701867	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+52.705847	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+52.705872	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.200995	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+56.201858	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+56.204532	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+56.204851	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+56.213342	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+56.215776	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+56.215853	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+56.215973	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+56.216082	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+56.216154	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+56.217477	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+56.218347	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+56.218497	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+56.218569	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+56.218683	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+56.218756	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+56.218824	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+56.218937	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+56.219175	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+56.219251	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+56.219365	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+56.219457	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+56.219526	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+56.219632	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+56.220076	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+56.220146	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+56.220242	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+56.220819	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+56.220921	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+56.221029	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+56.221759	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.228022	[FS]	/data/com.twitter.android/databases	1	
+56.234327	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+56.234368	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.235348	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	53248	
+56.235385	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	53248	
+56.235411	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	53248	
+56.235434	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	53248	
+56.235458	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	53248	
+56.235490	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+56.237805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+56.237829	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.239619	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+56.239832	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+56.240875	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+56.241476	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+56.242058	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+56.242299	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+56.242381	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+56.243473	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+56.243512	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+56.243532	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+56.243564	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+56.243598	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+56.243617	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+56.243648	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+56.243804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+56.243824	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+56.243856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+56.243886	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.255723	[FS]	/data/com.twitter.android/databases	1	
+56.256765	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+56.257200	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+56.257239	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.258157	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	24576	
+56.258192	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	24576	
+56.258216	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	24576	
+56.258244	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+56.259896	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+56.259919	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.043888	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+58.044646	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+58.047181	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+58.047497	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+58.055415	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+58.057457	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+58.057534	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+58.057654	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+58.057739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+58.057808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+58.059082	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+58.059895	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+58.060057	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+58.060128	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+58.060243	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+58.060324	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+58.060613	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+58.060728	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+58.061289	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.065812	[FS]	/data/com.twitter.android/databases	1	
+58.070646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+58.070780	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.072458	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	24576	
+58.072580	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	24576	
+58.072667	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	24576	
+58.072772	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+58.075339	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+58.075424	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.079619	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+58.084013	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+58.085083	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+58.085676	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+58.086251	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+58.086486	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+58.086563	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+58.089701	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+58.093328	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+58.093358	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+58.093392	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+58.093536	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+58.093557	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+58.093589	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+58.093621	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.094242	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+58.095503	[FS]	/data/com.twitter.android/databases	1	
+58.099422	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+58.099450	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.100444	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+58.100482	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+58.100509	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+58.102091	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+58.102122	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.739573	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+61.740680	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+61.742699	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+61.743042	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+61.751188	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+61.752713	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+61.752788	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+61.752908	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+61.754312	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+61.755311	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+61.755390	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+61.755508	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+61.755619	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.758693	[FS]	/data/com.twitter.android/databases	1	
+61.765427	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+61.765573	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.767305	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+61.767431	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+61.767532	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+61.770004	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+61.770090	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.773886	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+61.774916	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+61.777850	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+61.780100	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+61.784034	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+61.784310	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+61.784388	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+61.787401	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+61.787443	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+61.787463	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+61.787496	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+61.787665	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+61.787685	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+61.787719	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+61.787749	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+61.793222	[FS]	/data/com.twitter.android/databases	1	
+61.794240	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+61.794681	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+61.794714	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+61.795641	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+61.795677	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+61.795706	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+61.797241	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+61.797264	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.592781	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+63.593623	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+63.596479	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+63.596801	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+63.606288	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+63.606439	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+63.606514	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+63.606631	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+63.607862	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+63.609041	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+63.609117	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+63.609235	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+63.609346	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.612176	[FS]	/data/com.twitter.android/databases	1	
+63.617235	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+63.617374	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.619041	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+63.619163	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+63.619266	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+63.623507	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+63.623546	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.625222	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+63.625427	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+63.626482	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+63.627058	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+63.627670	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+63.627905	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+63.627985	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+63.633877	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.633931	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.633952	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.633986	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.634095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.634115	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.634147	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.634178	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.637381	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+63.637689	[FS]	/data/com.twitter.android/databases	1	
+63.642081	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.642121	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.643097	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.643132	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.643161	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.644695	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.644718	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.649042	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.649074	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.649095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.649127	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.649236	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.649353	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.649384	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.649417	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.651534	[FS]	/data/com.twitter.android/databases	1	
+63.653753	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.653795	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.654773	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.654808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.654836	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.656426	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.656449	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.662703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.662751	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.662772	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.662805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.662914	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.662934	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.662965	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.662997	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.665213	[FS]	/data/com.twitter.android/databases	1	
+63.667049	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.667076	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.668051	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.668091	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.668119	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.669652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.669675	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.673389	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.673429	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.673450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.673482	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.673587	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.673607	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.673638	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.673669	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.675838	[FS]	/data/com.twitter.android/databases	1	
+63.678719	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.678746	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.679717	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.679755	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.679784	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.681382	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.681414	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.684934	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.684963	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.684984	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.685019	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.685125	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.685145	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.685176	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.685206	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.687375	[FS]	/data/com.twitter.android/databases	1	
+63.689186	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.689212	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.690122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.690160	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.690188	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.696174	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.696211	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.099290	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
+185.099342	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
+185.099358	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
+185.099382	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
+185.099419	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
+185.099434	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
+185.099457	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
+185.099479	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.159375	[FS]	/data/com.twitter.android/databases	1	
+185.161099	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
+185.161137	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.161976	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
+185.162004	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
+185.162029	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
+185.163514	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
+185.163532	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.183060	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+185.183103	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+185.183118	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+185.183144	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+185.183264	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+185.183620	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+185.183647	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+185.183670	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.185323	[FS]	/data/com.twitter.android/databases	1	
+185.194901	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+185.194944	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.195805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+185.195834	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+185.195859	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+185.197357	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+185.197374	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.748314	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+185.748562	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+185.749339	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+185.749430	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+185.751076	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+185.751122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+185.751143	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+185.751177	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+185.751296	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+185.751316	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+185.751349	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+185.751382	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.757395	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+185.757662	[FS]	/data/com.twitter.android/databases	1	
+185.761626	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+185.761670	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.762646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+185.762682	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+185.762712	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+185.764344	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+185.764369	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.765952	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+185.766176	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+185.767223	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+185.767909	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+185.768558	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+185.768824	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+185.768902	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+185.783977	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+48.069299	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.069869	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+48.071685	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
+48.071822	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
+48.077604	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.471678	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	
+48.475745	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	0	79	0	
+48.476144	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3BeginSession.cls	
+48.480887	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	
+48.481305	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	0	120	0	
+48.481535	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionApp.cls	
+48.482246	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	
+48.483220	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	0	18	0	
+48.483455	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionOS.cls	
+48.483828	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	
+48.490698	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	0	131	0	
+48.491207	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3SessionDevice.cls	
+48.503378	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	
+48.503589	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	0	16	4096	
+48.509458	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp.tmp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	
+48.510253	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	16	4	4096	
+48.516113	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	20	38	4096	
+48.520962	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.524893	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	58	4	4096	
+48.526284	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	62	239	4096	
+48.527603	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.529536	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	301	4	4096	
+48.530636	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	305	75	4096	
+48.533882	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.535374	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	380	4	4096	
+48.536360	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	384	43	4096	
+48.537383	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	4096	
+48.540182	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3user.meta	
+48.540713	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBCF40325-0001-5686-EC1B036D50B3user.meta	0	24	0	
+48.541133	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+48.543286	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBB4E0237-0001-413B-EC1B036D50B3.temp	
+48.546182	[CR]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	
+48.547947	[WA]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	0	15	0	
+48.548185	[RN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls_temp	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls	
+48.549789	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionDevice.cls	
+48.550027	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3BeginSession.cls	
+48.550244	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionApp.cls	
+48.550490	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionOS.cls	
+48.550678	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3user.meta	
+48.550888	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59DCBB7703AE-0001-4514-EC1B036D50B3SessionUser.cls	
+48.554550	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/initialization_marker	
+48.601119	[FS]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	
+48.606584	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	32768	
+48.608251	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	427	4	32768	
+48.609272	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	431	16515	32768	
+48.613896	[WO]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59DCBCF40325-0001-5686-EC1B036D50B3.temp	0	16	32768	
+48.752990	[RN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+48.753323	[CR]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+48.754294	[WA]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	2074	0	
+48.754400	[FS]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	0	
+48.759957	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml.bak	
+49.463657	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.463723	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.463745	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.463780	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.463804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.463823	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.463856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.464040	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.466019	[FS]	/data/com.twitter.android/databases	1	
+49.470572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.470620	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.471609	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	102400	
+49.471652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	102400	
+49.471678	[WA]	/data/com.twitter.android/databases/3317833400-scribe.db	102400	4096	102400	
+49.471744	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.476881	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.476919	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.479788	[RN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
+49.480063	[CR]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	
+49.481230	[WA]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	115	0	
+49.481338	[FS]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	0	
+49.529210	[UN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml.bak	
+49.550872	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
+49.550942	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
+49.550968	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
+49.551007	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
+49.551069	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
+49.551092	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
+49.551130	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
+49.551164	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.559502	[FS]	/data/com.twitter.android/databases	1	
+49.563802	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
+49.563866	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.564773	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
+49.564814	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
+49.564850	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
+49.566616	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
+49.566645	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+49.586721	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.586768	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.586789	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.586822	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.586936	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.586956	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.586989	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.587022	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.589388	[FS]	/data/com.twitter.android/databases	1	
+49.593427	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.593485	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.594528	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.594570	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.594603	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.596259	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.596290	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.599865	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.599902	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.599923	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.599959	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.600071	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.600093	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.600126	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.600159	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.602562	[FS]	/data/com.twitter.android/databases	1	
+49.604442	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.604491	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.605489	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.605528	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.605563	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.607267	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.607294	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.610823	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.610873	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.610895	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.610929	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.611041	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.611063	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.611099	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.611134	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.613559	[FS]	/data/com.twitter.android/databases	1	
+49.615768	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.615801	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.616756	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.616799	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.616832	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.618497	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.618525	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.622116	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+49.622165	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+49.622187	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+49.622221	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+49.622333	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+49.622353	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+49.622387	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+49.622420	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.624694	[FS]	/data/com.twitter.android/databases	1	
+49.626475	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+49.626506	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.627508	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+49.627553	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+49.627586	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+49.629233	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+49.629260	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+49.633273	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.633331	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.633353	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.633389	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.633502	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.633525	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.633559	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.633592	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.635880	[FS]	/data/com.twitter.android/databases	1	
+49.637687	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.637718	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.638703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	106496	
+49.638747	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	102400	4096	106496	
+49.638782	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.640937	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.640975	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.647747	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+49.647786	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+49.647808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+49.647844	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+49.647932	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+49.647954	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+49.647987	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+49.648069	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+49.648090	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+49.648124	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+49.648182	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+49.648202	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+49.648237	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+49.648290	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+49.648311	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+49.648344	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+49.648367	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+49.648387	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+49.648417	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+49.648552	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+49.648572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+49.648601	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+49.648653	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+49.648672	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+49.648704	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+49.648878	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.654945	[FS]	/data/com.twitter.android/databases	1	
+49.698236	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+49.698303	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+49.704811	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	106496	
+49.704860	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	106496	
+49.704889	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	106496	
+49.704916	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	106496	
+49.704943	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	106496	
+49.704969	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	28672	4096	106496	
+49.704997	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	106496	
+49.705024	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	106496	
+49.705051	[WA]	/data/com.twitter.android/databases/3317833400-scribe.db	106496	4096	106496	
+49.705126	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+49.716867	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+49.716937	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.275872	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+51.276237	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+51.278158	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+51.278269	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+51.278332	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+51.278370	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+51.278390	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+51.278425	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+51.278460	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+51.278479	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+51.278512	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+51.278551	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+51.278572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+51.278604	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+51.278643	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+51.278668	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+51.278700	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+51.278724	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+51.278743	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+51.278784	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+51.278804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+51.278823	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+51.278852	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+51.278919	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+51.278938	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+51.278964	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+51.279127	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+51.279146	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+51.279178	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+51.279385	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+51.279407	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+51.279440	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+51.279489	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+51.279508	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+51.279539	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+51.279585	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41552	4	86696	
+51.279605	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41556	4096	86696	
+51.279637	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45652	4	86696	
+51.279684	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.292799	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+51.310428	[FS]	/data/com.twitter.android/databases	1	
+51.314735	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+51.314792	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.320616	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	110592	
+51.320662	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	110592	
+51.320692	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	110592	
+51.320721	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	110592	
+51.320748	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	110592	
+51.320776	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	110592	
+51.320802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	28672	4096	110592	
+51.320829	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	110592	
+51.320858	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	110592	
+51.320886	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	40960	4096	110592	
+51.320926	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+51.326262	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+51.326307	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.328021	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+51.328256	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+51.329325	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+51.329924	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+51.330622	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+51.330763	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+51.330800	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+51.330821	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+51.330856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+51.330884	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+51.330901	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+51.330922	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+51.330954	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+51.330967	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+51.331006	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+51.331025	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+51.331057	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+51.331124	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+51.331247	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+51.331281	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+51.331334	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+51.331354	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+51.331387	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+51.331450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+51.331470	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+51.331501	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+51.331572	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+51.331591	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+51.331618	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+51.331652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+51.331669	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+51.331699	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+51.331749	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+51.331770	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+51.331802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+51.332003	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+51.332025	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+51.332058	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+51.332091	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.351365	[FS]	/data/com.twitter.android/databases	1	
+51.352446	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+51.352892	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+51.352937	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+51.353891	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	86016	
+51.353932	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	86016	
+51.353961	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	86016	
+51.353987	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	86016	
+51.354015	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	86016	
+51.354043	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	53248	4096	86016	
+51.354069	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	57344	4096	86016	
+51.354095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	61440	4096	86016	
+51.354122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	65536	4096	86016	
+51.354148	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	69632	4096	86016	
+51.354186	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+51.359053	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+51.359084	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.480373	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.480648	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+52.481244	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+52.481341	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+52.489639	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.651281	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.651505	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+52.652021	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+52.652075	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+52.652096	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+52.652130	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+52.652154	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+52.652173	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+52.652206	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+52.652245	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+52.652266	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+52.652299	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+52.652307	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+52.652320	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+52.652338	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+52.652371	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+52.652398	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+52.652431	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+52.652450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+52.652481	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+52.652504	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+52.652523	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+52.652655	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+52.652738	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+52.652757	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+52.652784	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+52.652925	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+52.652944	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+52.652974	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+52.653072	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+52.653093	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+52.653125	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+52.653473	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37448	4	86696	
+52.653498	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37452	4096	86696	
+52.653529	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41548	4	86696	
+52.653640	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41552	4	86696	
+52.653660	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	41556	4096	86696	
+52.653691	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45652	4	86696	
+52.653719	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45656	4	86696	
+52.653739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	45660	4096	86696	
+52.653771	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49756	4	86696	
+52.653796	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49760	4	86696	
+52.653816	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	49764	4096	86696	
+52.653847	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	53860	4	86696	
+52.653900	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.660165	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+52.665102	[FS]	/data/com.twitter.android/databases	1	
+52.669474	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+52.669520	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.670481	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	86016	
+52.670520	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	86016	
+52.670546	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	86016	
+52.670571	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	86016	
+52.670597	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	86016	
+52.670622	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	86016	
+52.670649	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	86016	
+52.670687	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+52.674192	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+52.674230	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.675933	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+52.676158	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+52.676703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+52.676734	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+52.676755	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+52.676787	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+52.676858	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+52.676879	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+52.676910	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+52.676967	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+52.676988	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+52.677021	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+52.677027	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+52.677084	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+52.677105	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+52.677136	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+52.677194	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+52.677215	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+52.677247	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+52.677297	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+52.677317	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+52.677347	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+52.677414	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+52.677432	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+52.677459	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+52.677510	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+52.677528	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+52.677559	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+52.677644	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+52.677739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33344	4	86696	
+52.677759	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33348	4096	86696	
+52.677790	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	37444	4	86696	
+52.677822	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.678231	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+52.678468	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+52.678549	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+52.689035	[FS]	/data/com.twitter.android/databases	1	
+52.692430	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+52.700408	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+52.700511	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+52.701606	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	53248	
+52.701646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	53248	
+52.701672	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	53248	
+52.701699	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	24576	4096	53248	
+52.701722	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	32768	4096	53248	
+52.701748	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	36864	4096	53248	
+52.701775	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	40960	4096	53248	
+52.701802	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	45056	4096	53248	
+52.701828	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	49152	4096	53248	
+52.701867	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+52.705847	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+52.705872	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.200995	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+56.201858	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+56.204532	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+56.204851	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+56.213342	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+56.215776	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+56.215853	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+56.215973	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+56.216082	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+56.216154	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+56.217477	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+56.218347	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+56.218497	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+56.218569	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+56.218683	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+56.218756	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+56.218824	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+56.218937	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+56.219175	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16928	4	86696	
+56.219251	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16932	4096	86696	
+56.219365	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21028	4	86696	
+56.219457	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21032	4	86696	
+56.219526	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	21036	4096	86696	
+56.219632	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25132	4	86696	
+56.220076	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25136	4	86696	
+56.220146	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	25140	4096	86696	
+56.220242	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29236	4	86696	
+56.220819	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29240	4	86696	
+56.220921	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	29244	4096	86696	
+56.221029	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	33340	4	86696	
+56.221759	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.228022	[FS]	/data/com.twitter.android/databases	1	
+56.234327	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+56.234368	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.235348	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	53248	
+56.235385	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	53248	
+56.235411	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	53248	
+56.235434	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	53248	
+56.235458	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	53248	
+56.235490	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+56.237805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+56.237829	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.239619	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+56.239832	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+56.240875	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+56.241476	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+56.242058	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+56.242299	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+56.242381	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+56.243473	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+56.243512	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+56.243532	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+56.243564	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+56.243598	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+56.243617	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+56.243648	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+56.243804	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+56.243824	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+56.243856	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+56.243886	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.255723	[FS]	/data/com.twitter.android/databases	1	
+56.256765	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+56.257200	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+56.257239	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+56.258157	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	24576	
+56.258192	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	16384	4096	24576	
+56.258216	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	20480	4096	24576	
+56.258244	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+56.259896	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+56.259919	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.043888	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+58.044646	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+58.047181	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+58.047497	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+58.055415	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+58.057457	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+58.057534	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+58.057654	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+58.057739	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+58.057808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+58.059082	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+58.059895	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+58.060057	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8720	4	86696	
+58.060128	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8724	4096	86696	
+58.060243	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12820	4	86696	
+58.060324	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12824	4	86696	
+58.060613	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	12828	4096	86696	
+58.060728	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	16924	4	86696	
+58.061289	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.065812	[FS]	/data/com.twitter.android/databases	1	
+58.070646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+58.070780	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.072458	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	24576	
+58.072580	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	4096	4096	24576	
+58.072667	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	24576	
+58.072772	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+58.075339	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+58.075424	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.079619	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+58.084013	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+58.085083	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+58.085676	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+58.086251	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+58.086486	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+58.086563	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+58.089701	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+58.093328	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+58.093358	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+58.093392	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+58.093536	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+58.093557	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+58.093589	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+58.093621	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.094242	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+58.095503	[FS]	/data/com.twitter.android/databases	1	
+58.099422	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+58.099450	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+58.100444	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+58.100482	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+58.100509	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+58.102091	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+58.102122	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.739573	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+61.740680	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+61.742699	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+61.743042	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+61.751188	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+61.752713	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+61.752788	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+61.752908	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+61.754312	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+61.755311	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+61.755390	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+61.755508	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+61.755619	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.758693	[FS]	/data/com.twitter.android/databases	1	
+61.765427	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+61.765573	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.767305	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+61.767431	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+61.767532	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+61.770004	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+61.770090	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+61.773886	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+61.774916	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+61.777850	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+61.780100	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+61.784034	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+61.784310	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+61.784388	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+61.787401	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+61.787443	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+61.787463	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+61.787496	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+61.787665	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+61.787685	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+61.787719	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+61.787749	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+61.793222	[FS]	/data/com.twitter.android/databases	1	
+61.794240	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+61.794681	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+61.794714	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+61.795641	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+61.795677	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+61.795706	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+61.797241	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+61.797264	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.592781	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+63.593623	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+63.596479	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+63.596801	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+63.606288	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	512	21032	
+63.606439	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	512	4	21032	
+63.606514	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	516	4096	21032	
+63.606631	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4612	4	21032	
+63.607862	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+63.609041	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4616	4	21032	
+63.609117	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	4620	4096	21032	
+63.609235	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	8716	4	21032	
+63.609346	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.612176	[FS]	/data/com.twitter.android/databases	1	
+63.617235	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	12	21032	
+63.617374	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.619041	[WO]	/data/com.twitter.android/databases/0-scribe.db	0	4096	16384	
+63.619163	[WO]	/data/com.twitter.android/databases/0-scribe.db	12288	4096	16384	
+63.619266	[FS]	/data/com.twitter.android/databases/0-scribe.db	1	
+63.623507	[WO]	/data/com.twitter.android/databases/0-scribe.db-journal	0	28	21032	
+63.623546	[FS]	/data/com.twitter.android/databases/0-scribe.db-journal	1	
+63.625222	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+63.625427	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+63.626482	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+63.627058	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+63.627670	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+63.627905	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+63.627985	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+63.633877	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.633931	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.633952	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.633986	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.634095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.634115	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.634147	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.634178	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.637381	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+63.637689	[FS]	/data/com.twitter.android/databases	1	
+63.642081	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.642121	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.643097	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.643132	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.643161	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.644695	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.644718	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.649042	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.649074	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.649095	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.649127	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.649236	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.649353	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.649384	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.649417	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.651534	[FS]	/data/com.twitter.android/databases	1	
+63.653753	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.653795	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.654773	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.654808	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.654836	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.656426	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.656449	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.662703	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.662751	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.662772	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.662805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.662914	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.662934	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.662965	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.662997	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.665213	[FS]	/data/com.twitter.android/databases	1	
+63.667049	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.667076	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.668051	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.668091	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.668119	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.669652	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.669675	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.673389	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.673429	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.673450	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.673482	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.673587	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.673607	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.673638	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.673669	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.675838	[FS]	/data/com.twitter.android/databases	1	
+63.678719	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.678746	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.679717	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.679755	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.679784	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.681382	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.681414	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.684934	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+63.684963	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+63.684984	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+63.685019	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+63.685125	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+63.685145	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+63.685176	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+63.685206	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.687375	[FS]	/data/com.twitter.android/databases	1	
+63.689186	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+63.689212	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+63.690122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+63.690160	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+63.690188	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+63.696174	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+63.696211	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.099290	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	512	8720	
+185.099342	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	512	4	8720	
+185.099358	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	516	4096	8720	
+185.099382	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4612	4	8720	
+185.099419	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4616	4	8720	
+185.099434	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	4620	4096	8720	
+185.099457	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	8716	4	8720	
+185.099479	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.159375	[FS]	/data/com.twitter.android/databases	1	
+185.161099	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	12	8720	
+185.161137	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.161976	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	0	4096	16384	
+185.162004	[WO]	/data/com.twitter.android/databases/evernote_jobs.db	12288	4096	16384	
+185.162029	[FS]	/data/com.twitter.android/databases/evernote_jobs.db	1	
+185.163514	[WO]	/data/com.twitter.android/databases/evernote_jobs.db-journal	0	28	8720	
+185.163532	[FS]	/data/com.twitter.android/databases/evernote_jobs.db-journal	1	
+185.183060	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+185.183103	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+185.183118	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+185.183144	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+185.183264	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+185.183620	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+185.183647	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+185.183670	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.185323	[FS]	/data/com.twitter.android/databases	1	
+185.194901	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+185.194944	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.195805	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+185.195834	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+185.195859	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+185.197357	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+185.197374	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.748314	[RN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+185.748562	[CR]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+185.749339	[WA]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	2186	0	
+185.749430	[FS]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	0	
+185.751076	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	512	86696	
+185.751122	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	512	4	86696	
+185.751143	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	516	4096	86696	
+185.751177	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4612	4	86696	
+185.751296	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4616	4	86696	
+185.751316	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	4620	4096	86696	
+185.751349	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	8716	4	86696	
+185.751382	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.757395	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml.bak	
+185.757662	[FS]	/data/com.twitter.android/databases	1	
+185.761626	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	12	86696	
+185.761670	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.762646	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	0	4096	16384	
+185.762682	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db	12288	4096	16384	
+185.762712	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db	1	
+185.764344	[WO]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	0	28	86696	
+185.764369	[FS]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	1	
+185.765952	[RN]	/data/com.twitter.android/shared_prefs/metrics.xml	/data/com.twitter.android/shared_prefs/metrics.xml.bak	
+185.766176	[CR]	/data/com.twitter.android/shared_prefs/metrics.xml	
+185.767223	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	0	8140	0	
+185.767909	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	8140	8190	8140	
+185.768558	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	16330	8157	16330	
+185.768824	[WA]	/data/com.twitter.android/shared_prefs/metrics.xml	24487	2106	24487	
+185.768902	[FS]	/data/com.twitter.android/shared_prefs/metrics.xml	0	
+185.783977	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml.bak	

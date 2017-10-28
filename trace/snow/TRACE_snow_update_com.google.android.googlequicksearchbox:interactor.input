@@ -3,6 +3,7 @@
 2.520459	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
 2.534005	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
 51.115176	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+51.115412	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4096	0	
 51.115503	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
 51.392849	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
 174.251031	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	512	185192	
@@ -97,5 +98,109 @@
 174.410516	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
 174.421295	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
 174.421719	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+174.422507	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
+174.422618	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
+174.430211	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+2.519432	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+2.520156	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4096	0	
+2.520459	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+2.534005	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+51.115176	[CR]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	
+51.115412	[WA]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	4096	0	
+51.115503	[FS]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	0	
+51.392849	[RN]	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics.new	/data/com.google.android.googlequicksearchbox/files/persisted_profiling_statistics	
+174.251031	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	512	185192	
+174.251099	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	512	4	185192	
+174.251120	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	516	4096	185192	
+174.251160	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4612	4	185192	
+174.251193	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4616	4	185192	
+174.251214	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4620	4096	185192	
+174.251250	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8716	4	185192	
+174.251273	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8720	4	185192	
+174.251292	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8724	4096	185192	
+174.251330	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12820	4	185192	
+174.251353	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12824	4	185192	
+174.251372	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12828	4096	185192	
+174.251756	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16924	4	185192	
+174.251779	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16928	4	185192	
+174.251798	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16932	4096	185192	
+174.252176	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21028	4	185192	
+174.252203	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21032	4	185192	
+174.252222	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	21036	4096	185192	
+174.252617	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25132	4	185192	
+174.252659	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25136	4	185192	
+174.252679	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	25140	4096	185192	
+174.253045	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29236	4	185192	
+174.253067	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29240	4	185192	
+174.253086	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	29244	4096	185192	
+174.253480	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	33340	4	185192	
+174.253587	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.257848	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+174.260191	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	12	185192	
+174.260247	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.261195	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	0	4096	540672	
+174.261252	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	4096	4096	540672	
+174.261283	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	12288	4096	540672	
+174.261311	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	16384	4096	540672	
+174.261338	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	106496	4096	540672	
+174.261377	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	294912	4096	540672	
+174.261420	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	1	
+174.265195	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	28	185192	
+174.265252	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.303874	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	512	185192	
+174.303932	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	512	4	185192	
+174.303952	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	516	4096	185192	
+174.303986	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4612	4	185192	
+174.304025	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4616	4	185192	
+174.304046	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	4620	4096	185192	
+174.304079	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8716	4	185192	
+174.304111	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8720	4	185192	
+174.304131	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	8724	4096	185192	
+174.304164	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12820	4	185192	
+174.304188	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12824	4	185192	
+174.304208	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	12828	4096	185192	
+174.304242	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	16924	4	185192	
+174.304321	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.309916	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+174.316158	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	12	185192	
+174.316214	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.317202	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	0	4096	532480	
+174.317246	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	4096	4096	532480	
+174.317273	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	12288	4096	532480	
+174.317299	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	16384	4096	532480	
+174.317326	[WA]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	532480	4096	532480	
+174.317382	[WA]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	536576	4096	536576	
+174.317436	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db	1	
+174.327076	[WO]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	0	28	185192	
+174.327139	[FS]	/data/com.google.android.googlequicksearchbox/databases/app_icons.db-journal	1	
+174.384837	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	512	127736	
+174.384915	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	512	4	127736	
+174.384936	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	516	4096	127736	
+174.384972	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4612	4	127736	
+174.385120	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4616	4	127736	
+174.385142	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	4620	4096	127736	
+174.385173	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8716	4	127736	
+174.385197	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8720	4	127736	
+174.385216	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	8724	4096	127736	
+174.385255	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12820	4	127736	
+174.385280	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12824	4	127736	
+174.385299	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	12828	4096	127736	
+174.386584	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	16924	4	127736	
+174.386682	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+174.393015	[FS]	/data/com.google.android.googlequicksearchbox/databases	1	
+174.399684	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	12	127736	
+174.399748	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+174.400751	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	0	4096	270336	
+174.400807	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	4096	4096	270336	
+174.400838	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	12288	4096	270336	
+174.400869	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	98304	4096	270336	
+174.400895	[WA]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	270336	4096	270336	
+174.400944	[WA]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	274432	4096	274432	
+174.400994	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db	1	
+174.410453	[WO]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	0	28	127736	
+174.410516	[FS]	/data/com.google.android.googlequicksearchbox/databases/launcher.db-journal	1	
+174.421295	[RN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	
+174.421719	[CR]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	
+174.422507	[WA]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	583	0	
 174.422618	[FS]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml	0	
 174.430211	[UN]	/data/com.google.android.googlequicksearchbox/shared_prefs/com.android.launcher3.prefs.xml.bak	

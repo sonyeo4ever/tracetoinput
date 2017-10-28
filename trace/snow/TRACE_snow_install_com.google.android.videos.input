@@ -16,3 +16,21 @@
 19.140917	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1257090648.log	1	95	1	
 20.550293	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	9	0	
 20.550651	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/logs_upload_attempt.log	0	26	0	
+18.491695	[CR]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1257090648.log	
+18.542976	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	4095	1	0	
+18.543031	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	8191	1	4096	
+18.543073	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	12287	1	8192	
+18.543111	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	16383	1	12288	
+18.543149	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	20479	1	16384	
+18.543188	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	24575	1	20480	
+18.543224	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	28671	1	24576	
+18.543260	[WO]	/user/0/com.google.android.videos/databases/purchase_store.db-shm	32767	1	28672	
+18.704581	[WO]	/user/0/com.google.android.videos/cache/applogcat/log_5	0	86	1544	
+18.767698	[WA]	/user/0/com.google.android.videos/cache/applogcat/log_5	1630	113	1630	
+18.809888	[WA]	/user/0/com.google.android.videos/cache/applogcat/log_5	1743	111	1743	
+18.836148	[WA]	/user/0/com.google.android.videos/cache/applogcat/log_5	1854	72	1854	
+18.922372	[WA]	/user/0/com.google.android.videos/cache/applogcat/log_5	1926	86	1926	
+19.140817	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1257090648.log	0	1	0	
+19.140917	[WA]	/data/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com/eventlog.store1257090648.log	1	95	1	
+20.550293	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/play_metalog.log	0	9	0	
+20.550651	[WA]	/user/0/com.google.android.videos/cache/logs_v2/com.google.eslabskku%40gmail.com.metalog/logs_upload_attempt.log	0	26	0	

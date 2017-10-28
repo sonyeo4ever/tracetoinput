@@ -1,0 +1,2070 @@
+6.306879	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+6.307564	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+6.307587	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+6.307625	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+6.307896	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+6.307921	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+6.307957	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+6.307991	[FS]	/system/users/0/accounts.db-journal	1	
+6.314402	[FS]	/system/users/0	1	
+6.339917	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+6.339990	[FS]	/system/users/0/accounts.db-journal	1	
+6.359536	[WO]	/system/users/0/accounts.db	0	4096	180224	
+6.359594	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+6.359675	[FS]	/system/users/0/accounts.db	1	
+6.372029	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+6.372096	[FS]	/system/users/0/accounts.db-journal	1	
+7.330238	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.330509	[CR]	/system/job/jobs.xml	
+7.330629	[WA]	/system/job/jobs.xml	0	3835	0	
+7.330998	[FS]	/system/job/jobs.xml	0	
+7.341398	[UN]	/system/job/jobs.xml.bak	
+7.547654	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.547920	[CR]	/system/job/jobs.xml	
+7.548028	[WA]	/system/job/jobs.xml	0	4096	0	
+7.548124	[FS]	/system/job/jobs.xml	0	
+7.553994	[UN]	/system/job/jobs.xml.bak	
+10.757650	[CR]	/system/dropbox/drop13.tmp	
+10.757784	[FS]	/system/dropbox/drop13.tmp	0	
+10.766450	[WA]	/system/dropbox/drop13.tmp	0	105	0	
+10.767032	[RN]	/system/dropbox/drop13.tmp	/system/dropbox/event_log@1508137557682.txt	
+11.045947	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.046016	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.046037	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.046067	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.046257	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.046278	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.046309	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.046340	[FS]	/system/users/0/accounts.db-journal	1	
+11.048147	[FS]	/system/users/0	1	
+11.052745	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.052806	[FS]	/system/users/0/accounts.db-journal	1	
+11.053762	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.053801	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.053842	[FS]	/system/users/0/accounts.db	1	
+11.055659	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.055685	[FS]	/system/users/0/accounts.db-journal	1	
+11.059935	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.060005	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.060025	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.060060	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.060092	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.060111	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.060139	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.060668	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+11.060696	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+11.060773	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+11.060817	[FS]	/system/users/0/accounts.db-journal	1	
+11.064210	[FS]	/system/users/0	1	
+11.067045	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.067088	[FS]	/system/users/0/accounts.db-journal	1	
+11.068509	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.068560	[WO]	/system/users/0/accounts.db	114688	4096	180224	
+11.068592	[WO]	/system/users/0/accounts.db	155648	4096	180224	
+11.068638	[FS]	/system/users/0/accounts.db	1	
+11.071272	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.071315	[FS]	/system/users/0/accounts.db-journal	1	
+11.491990	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.492049	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.492070	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.492100	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.492132	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.492152	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.492181	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.492212	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+11.492231	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+11.492258	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+11.492400	[WO]	/system/users/0/accounts.db-journal	12824	4	41552	
+11.492420	[WO]	/system/users/0/accounts.db-journal	12828	4096	41552	
+11.492944	[WO]	/system/users/0/accounts.db-journal	16924	4	41552	
+11.492980	[FS]	/system/users/0/accounts.db-journal	1	
+11.496783	[FS]	/system/users/0	1	
+11.498849	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.498917	[FS]	/system/users/0/accounts.db-journal	1	
+11.500175	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.500225	[WO]	/system/users/0/accounts.db	20480	4096	180224	
+11.500267	[WO]	/system/users/0/accounts.db	114688	4096	180224	
+11.500295	[WO]	/system/users/0/accounts.db	176128	4096	180224	
+11.500336	[FS]	/system/users/0/accounts.db	1	
+11.505649	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.505714	[FS]	/system/users/0/accounts.db-journal	1	
+11.509593	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.510405	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.510484	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.510525	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.510802	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.510828	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.510861	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.510913	[FS]	/system/users/0/accounts.db-journal	1	
+11.513719	[FS]	/system/users/0	1	
+11.515647	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.515685	[FS]	/system/users/0/accounts.db-journal	1	
+11.516690	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.516742	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.516777	[FS]	/system/users/0/accounts.db	1	
+11.518586	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.518618	[FS]	/system/users/0/accounts.db-journal	1	
+11.527743	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.527846	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.527866	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.527896	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.528079	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.528101	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.528135	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.528177	[FS]	/system/users/0/accounts.db-journal	1	
+11.530792	[FS]	/system/users/0	1	
+11.532568	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.532629	[FS]	/system/users/0/accounts.db-journal	1	
+11.533663	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.533712	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.533748	[FS]	/system/users/0/accounts.db	1	
+11.539922	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.539998	[FS]	/system/users/0/accounts.db-journal	1	
+11.557599	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.557663	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.557684	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.557713	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.557854	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.557874	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.557904	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.557937	[FS]	/system/users/0/accounts.db-journal	1	
+11.562514	[FS]	/system/users/0	1	
+11.566596	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.566664	[FS]	/system/users/0/accounts.db-journal	1	
+11.567684	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.567726	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.567761	[FS]	/system/users/0/accounts.db	1	
+11.570320	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.570378	[FS]	/system/users/0/accounts.db-journal	1	
+11.713165	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+11.713437	[CR]	/system/sync/accounts.xml	
+11.715663	[WA]	/system/sync/accounts.xml	0	8185	0	
+11.715992	[WA]	/system/sync/accounts.xml	8185	1221	8185	
+11.716081	[FS]	/system/sync/accounts.xml	0	
+11.720058	[RN]	/system/shared_prefs/log_files.xml	/system/shared_prefs/log_files.xml.bak	
+11.726605	[UN]	/system/sync/accounts.xml.bak	
+11.727078	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+11.727311	[CR]	/system/sync/status.bin	
+11.728046	[WA]	/system/sync/status.bin	0	3628	0	
+11.728159	[FS]	/system/sync/status.bin	0	
+11.728538	[CR]	/system/shared_prefs/log_files.xml	
+11.729570	[WA]	/system/shared_prefs/log_files.xml	0	183	0	
+11.729872	[FS]	/system/shared_prefs/log_files.xml	0	
+11.736876	[UN]	/system/sync/status.bin.bak	
+11.737476	[UN]	/system/shared_prefs/log_files.xml.bak	
+11.757129	[RN]	/system/shared_prefs/log_files.xml	/system/shared_prefs/log_files.xml.bak	
+11.757420	[CR]	/system/shared_prefs/log_files.xml	
+11.758240	[WA]	/system/shared_prefs/log_files.xml	0	183	0	
+11.758344	[FS]	/system/shared_prefs/log_files.xml	0	
+11.778750	[UN]	/system/shared_prefs/log_files.xml.bak	
+13.380544	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+13.808699	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+13.996155	[UN]	/dalvik-cache/profiles/com.twitter.android	
+13.996367	[UN]	/data/com.twitter.android/lib	
+13.998801	[RD]	/data/com.twitter.android/cache/WebView/SafeBrowsing	
+13.998993	[RD]	/data/com.twitter.android/cache/WebView	
+13.999719	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/index	
+14.000452	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/index-dir/the-real-index	
+14.000605	[RD]	/data/com.twitter.android/cache/org.chromium.android_webview/index-dir	
+14.000774	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/a7ae0fac9c413631_0	
+14.002231	[RD]	/data/com.twitter.android/cache/org.chromium.android_webview	
+14.002391	[RD]	/data/com.twitter.android/cache	
+14.003712	[RD]	/data/com.twitter.android/code_cache	
+14.003968	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-ndk	
+14.004135	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionDevice.cls	
+14.004288	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3BeginSession.cls	
+14.004426	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionApp.cls	
+14.004551	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionOS.cls	
+14.004814	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59E459D80346-0001-0E56-EC1B036D50B3.temp	
+14.004971	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59E45A50025E-0001-0800-EC1B036D50B3.temp	
+14.005040	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files	
+14.005102	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3user.meta	
+14.005242	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core	
+14.005685	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send	
+14.005820	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+14.005881	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers	
+14.006065	[UN]	/data/com.twitter.android/files/.Fabric/io.fabric.sdk.android:fabric/com.crashlytics.settings.json	
+14.006329	[RD]	/data/com.twitter.android/files/.Fabric/io.fabric.sdk.android:fabric	
+14.006459	[RD]	/data/com.twitter.android/files/.Fabric	
+14.006527	[UN]	/data/com.twitter.android/files/serialized_local_feature_switches_manifest_7.17.01507638711724feature_switch_manifest	
+14.006778	[UN]	/data/com.twitter.android/files/feature_switches_0	
+14.006924	[UN]	/data/com.twitter.android/files/feature_switches_3317833400	
+14.007080	[RD]	/data/com.twitter.android/files	
+14.007271	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+14.007409	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml	
+14.009068	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.sdk.android.crashlytics-core:com.crashlytics.android.core.CrashlyticsCore.xml	
+14.009368	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.prefs.xml	
+14.009491	[UN]	/data/com.twitter.android/shared_prefs/r.xml	
+14.009609	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+14.009871	[UN]	/data/com.twitter.android/shared_prefs/0.xml	
+14.010005	[UN]	/data/com.twitter.android/shared_prefs/year_class.xml	
+14.010134	[UN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	
+14.010279	[UN]	/data/com.twitter.android/shared_prefs/TwitterAdvertisingInfoPreferences.xml	
+14.010450	[UN]	/data/com.twitter.android/shared_prefs/DispatchActivity.xml	
+14.010613	[UN]	/data/com.twitter.android/shared_prefs/guest_auth.xml	
+14.010738	[UN]	/data/com.twitter.android/shared_prefs/config.xml	
+14.010876	[UN]	/data/com.twitter.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.l.xml	
+14.011047	[UN]	/data/com.twitter.android/shared_prefs/WebViewChromiumPrefs.xml	
+14.011177	[UN]	/data/com.twitter.android/shared_prefs/Periscope Library Prefs.xml	
+14.011323	[UN]	/data/com.twitter.android/shared_prefs/3317833400.xml	
+14.011476	[UN]	/data/com.twitter.android/shared_prefs/c2dm.xml	
+14.013216	[UN]	/data/com.twitter.android/shared_prefs/com.google.android.gcm.xml	
+14.013445	[UN]	/data/com.twitter.android/shared_prefs/appratingusage.xml	
+14.013608	[UN]	/data/com.twitter.android/shared_prefs/dm_prefs.xml	
+14.013779	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.app.main.MainActivity.xml	
+14.013950	[UN]	/data/com.twitter.android/shared_prefs/system_permission_status.xml	
+14.014065	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml	
+14.014294	[UN]	/data/com.twitter.android/shared_prefs/hardwareinfo_prefs.xml	
+14.014450	[RD]	/data/com.twitter.android/shared_prefs	
+14.015938	[UN]	/data/com.twitter.android/databases/evernote_jobs.db	
+14.016002	[UN]	/data/com.twitter.android/databases/evernote_jobs.db-journal	
+14.016496	[UN]	/data/com.twitter.android/databases/0-scribe.db	
+14.016550	[UN]	/data/com.twitter.android/databases/0-scribe.db-journal	
+14.016910	[UN]	/data/com.twitter.android/databases/0-48.db	
+14.017168	[UN]	/data/com.twitter.android/databases/0-48.db-journal	
+14.017319	[UN]	/data/com.twitter.android/databases/3317833400-48.db	
+14.017371	[UN]	/data/com.twitter.android/databases/3317833400-48.db-journal	
+14.018431	[UN]	/data/com.twitter.android/databases/3317833400-scribe.db	
+14.018487	[UN]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	
+14.018837	[UN]	/data/com.twitter.android/databases/global.db	
+14.018945	[UN]	/data/com.twitter.android/databases/global.db-journal	
+14.019187	[UN]	/data/com.twitter.android/databases/3317833400-drafts.db	
+14.019374	[UN]	/data/com.twitter.android/databases/3317833400-drafts.db-journal	
+14.019551	[UN]	/data/com.twitter.android/databases/3317833400-dm.db	
+14.019760	[UN]	/data/com.twitter.android/databases/3317833400-dm.db-journal	
+14.019933	[UN]	/data/com.twitter.android/databases/3317833400-lru_key_value.db	
+14.020128	[UN]	/data/com.twitter.android/databases/3317833400-lru_key_value.db-journal	
+14.027369	[RD]	/data/com.twitter.android/databases	
+14.027813	[UN]	/data/com.twitter.android/app_webview/webview_data.lock	
+14.027941	[UN]	/data/com.twitter.android/app_webview/Web Data	
+14.028108	[UN]	/data/com.twitter.android/app_webview/metrics_guid	
+14.028261	[UN]	/data/com.twitter.android/app_webview/Web Data-journal	
+14.029847	[UN]	/data/com.twitter.android/app_webview/GPUCache/index	
+14.036023	[UN]	/data/com.twitter.android/app_webview/GPUCache/index-dir/the-real-index	
+14.036201	[RD]	/data/com.twitter.android/app_webview/GPUCache/index-dir	
+14.036342	[RD]	/data/com.twitter.android/app_webview/GPUCache	
+14.036514	[UN]	/data/com.twitter.android/app_webview/Cookies	
+14.036729	[UN]	/data/com.twitter.android/app_webview/Cookies-journal	
+14.036816	[RD]	/data/com.twitter.android/app_webview	
+14.037160	[RD]	/data/com.twitter.android/app_textures	
+14.038047	[RD]	/data/com.twitter.android/app_download_internal	
+14.038185	[RD]	/data/com.twitter.android	
+14.485771	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+14.486038	[CR]	/system/users/0/runtime-permissions.xml	
+14.506818	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+14.514570	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+14.514714	[FS]	/system/users/0/runtime-permissions.xml	0	
+14.534027	[UN]	/app/com.twitter.android-2/base.apk	
+14.579702	[UN]	/system/users/0/runtime-permissions.xml.bak	
+14.580136	[UN]	/app/com.twitter.android-2/lib/arm/libtwittermedia.so	
+14.582239	[UN]	/app/com.twitter.android-2/lib/arm/libbrotli.so	
+14.582839	[UN]	/app/com.twitter.android-2/lib/arm/libzstd.so	
+14.583129	[UN]	/app/com.twitter.android-2/lib/arm/libcrashlytics-envelope.so	
+14.583265	[UN]	/app/com.twitter.android-2/lib/arm/libsuperresolutionmodule.so	
+14.583952	[UN]	/app/com.twitter.android-2/lib/arm/libbrotli-jni.so	
+14.584086	[UN]	/app/com.twitter.android-2/lib/arm/libimagepipeline.so	
+14.584397	[UN]	/app/com.twitter.android-2/lib/arm/libopenclinformation.so	
+14.584985	[UN]	/app/com.twitter.android-2/lib/arm/libunwind-crashlytics.so	
+14.585155	[UN]	/app/com.twitter.android-2/lib/arm/libcrashlytics.so	
+14.585497	[UN]	/app/com.twitter.android-2/lib/arm/liblhlslib-jni.so	
+14.585731	[RD]	/app/com.twitter.android-2/lib/arm	
+14.588651	[RD]	/app/com.twitter.android-2/lib	
+14.589036	[UN]	/app/com.twitter.android-2/oat/arm/base.odex	
+14.639463	[RD]	/app/com.twitter.android-2/oat/arm	
+14.639676	[RD]	/app/com.twitter.android-2/oat	
+14.639833	[RD]	/app/com.twitter.android-2	
+14.802282	[RN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+14.802543	[CR]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	
+14.803294	[WA]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	322	0	
+14.803388	[FS]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	
+14.812415	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+14.812624	[CR]	/system/netpolicy.xml	
+14.813096	[WA]	/system/netpolicy.xml	0	113	0	
+14.813191	[FS]	/system/netpolicy.xml	0	
+14.819713	[UN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+14.831045	[UN]	/system/netpolicy.xml.bak	
+14.865685	[RD]	/media/0/Android/data/com.twitter.android/files	
+14.878052	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/journal	
+14.878843	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/0fff17aa3f0332c8cbd8042b45c4e2ab.1	
+14.879473	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/7bc031ea3fd7b8db3f6c9ab4fbef9632.1	
+14.880188	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/0fff17aa3f0332c8cbd8042b45c4e2ab.0	
+14.880828	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/7bc031ea3fd7b8db3f6c9ab4fbef9632.0	
+14.881411	[RD]	/media/0/Android/data/com.twitter.android/cache/http-responses	
+14.917767	[UN]	/media/0/Android/data/com.twitter.android/cache/users/journal	
+14.918622	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8030e758c84282493ce190bb5d987a9b.0	
+14.919274	[UN]	/media/0/Android/data/com.twitter.android/cache/users/18f1af0407202115ccca82e24f8b9163.0	
+14.921490	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+14.921727	[CR]	/system/netstats/uid.1507300282106-	
+14.921803	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e683dba100011c33cba0b21075c62dbd.0	
+14.922501	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8f9aa291351ac784e1b56ed7bad64de5.0	
+14.923337	[UN]	/media/0/Android/data/com.twitter.android/cache/users/069066eb62aa55e34a0516a15b0f83d2.0	
+14.924208	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+14.924647	[UN]	/media/0/Android/data/com.twitter.android/cache/users/891ccc2870fb46ad18ce6d4e41aba279.0	
+14.926240	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+14.926977	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ad97e8c3b047efbb9794c98cbf218026.0	
+14.933476	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5eba204f6076a9234d4f3cd1088ef79e.0	
+14.933682	[WA]	/system/netstats/uid.1507300282106-	16381	5087	16381	
+14.933813	[FS]	/system/netstats/uid.1507300282106-	0	
+14.935125	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8ea979582f9c5e5bb3c0e8c81cc5c73d.0	
+14.936496	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2e63a834c102bce5834b518cda8e9a05.0	
+14.942213	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4815e9b29630d92b56151a0e9e43284b.0	
+14.942796	[UN]	/system/netstats/uid.1507300282106-.backup	
+14.982316	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4ad63efd9b36e8968fe481daa7688dec.0	
+14.983031	[UN]	/media/0/Android/data/com.twitter.android/cache/users/00c5209415cfc56630382ff2c50b52ec.0	
+14.983718	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1fcda67c1448352eb128b498a3d41efc.0	
+14.984399	[UN]	/media/0/Android/data/com.twitter.android/cache/users/54e1e44813f5fd770485015f5eb39371.0	
+14.985117	[UN]	/media/0/Android/data/com.twitter.android/cache/users/14669c75effe199290f8f9316bcba3d8.0	
+14.985809	[UN]	/media/0/Android/data/com.twitter.android/cache/users/51e15b14299157a406020c37a697b8d5.0	
+14.986584	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9b9a1c28715482c11a4fc56d94e400f5.0	
+14.987254	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cd8353f56eb96191b640bc14225c1714.0	
+14.987904	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ac810903f17179f531f071f5cd9ae9a5.0	
+14.988637	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a91527646a619d6df408949ec17e528d.0	
+14.990131	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9e98bcc927fac305debdd877691bf0f6.0	
+14.995300	[UN]	/media/0/Android/data/com.twitter.android/cache/users/37818ba51a5e2093278925702a4d055f.0	
+14.996807	[UN]	/media/0/Android/data/com.twitter.android/cache/users/c176780acb95d728db43c360633c32d2.0	
+14.997474	[UN]	/media/0/Android/data/com.twitter.android/cache/users/80a8c4d06a382cdbfbd2eead6b0b6386.0	
+14.998112	[UN]	/media/0/Android/data/com.twitter.android/cache/users/09b2918dab905567508668571c941315.0	
+14.998847	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6143d395063e52a5ddca3ae23f55b184.0	
+14.999503	[UN]	/media/0/Android/data/com.twitter.android/cache/users/735600aebc0ab26e75e20ff3ccb33e33.0	
+15.001511	[UN]	/media/0/Android/data/com.twitter.android/cache/users/68fb52d13567778b37143bdef3aadbaa.0	
+15.002188	[UN]	/media/0/Android/data/com.twitter.android/cache/users/46fbdbd4585f499224eb9b7178c03f0b.0	
+15.002814	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ea9e847d313d300b87b50efa3dc95062.0	
+15.003469	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1507b10a55266f15f9b08f53395e08cb.0	
+15.004126	[UN]	/media/0/Android/data/com.twitter.android/cache/users/389deba4ae543612c65ddb2248f65d06.0	
+15.004802	[UN]	/media/0/Android/data/com.twitter.android/cache/users/77d8299256aa37619a8e46eb71b3370b.0	
+15.005469	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cafa839664dcfcb7856379ecc53b6c48.0	
+15.006149	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3245b38103ba46afb7eae6e5929f2104.0	
+15.006991	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ce98a6292c2931bd36a0aae79fdcd903.0	
+15.008739	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b85f1f49583c7efad7139044a8769311.0	
+15.015899	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9011a4f3c713857d5f6bd36551395f4c.0	
+15.016764	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3a57b46d654dee7899c3325a39308cdb.0	
+15.017448	[UN]	/media/0/Android/data/com.twitter.android/cache/users/470029db94e7095fb039bdc78849f668.0	
+15.018167	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a46be261fc52907ba07bd17aa1161d79.0	
+15.018962	[UN]	/media/0/Android/data/com.twitter.android/cache/users/218830eb12416e637a6506f457c7382f.0	
+15.019712	[UN]	/media/0/Android/data/com.twitter.android/cache/users/11ab094a4e68d1b3ea96daadd49bbb3b.0	
+15.020530	[UN]	/media/0/Android/data/com.twitter.android/cache/users/06489ca96f174742f3ac7476d27d4741.0	
+15.021313	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2fe45d368961a1a1a96ad2d17d155e36.0	
+15.022098	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b9dc4fbffbcca73417791ccafa3e9303.0	
+15.022780	[UN]	/media/0/Android/data/com.twitter.android/cache/users/7cd6f0ad692c757f66210b16edcc8cf3.0	
+15.023868	[UN]	/media/0/Android/data/com.twitter.android/cache/users/396533ee6ef6eb43cab5d66db7ba38d1.0	
+15.025141	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cfe552b0ddab37f8fd62bb7c1763872a.0	
+15.026144	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9f6d3c5e15d6813e2284ecfeab445650.0	
+15.027495	[UN]	/media/0/Android/data/com.twitter.android/cache/users/bb8ca2d36f26ae24f7f900c26a7ba30d.0	
+15.029290	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e123ddeebc87be012fdf46be91b4f461.0	
+15.031844	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4be4fe77d75d5a1578d6f92593cce450.0	
+15.032716	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3f658a55ff57fab6822beb2f4f2e53f8.0	
+15.033397	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1380fd386cea989da6958dcc7a796875.0	
+15.036813	[UN]	/media/0/Android/data/com.twitter.android/cache/users/7dbcbe5ba03ccc5f5831b5d6ca2e7106.0	
+15.037592	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8711f3e22ff708eeb88e5d5ce332720c.0	
+15.038245	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3d18986409e5840b5a7ab2dc82ffd415.0	
+15.038999	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6abb300f369135cd510bbbb37698ae65.0	
+15.039809	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ad3e203114ccdea745022986be3aad60.0	
+15.040570	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a9e1af1fcacca77f37d16a4982e5126d.0	
+15.041670	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6ad8f34bdac665dd179682008c554ca5.0	
+15.042684	[UN]	/media/0/Android/data/com.twitter.android/cache/users/933e2918ba182d9c7c7b354433e975db.0	
+15.043385	[UN]	/media/0/Android/data/com.twitter.android/cache/users/f50bf716dd342287d7b2b3d095d4757c.0	
+15.046957	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b34c560c54474ae7e1fc5b37dfc82969.0	
+15.050281	[UN]	/media/0/Android/data/com.twitter.android/cache/users/482c6668fe844adca3dd27dbe2675959.0	
+15.051030	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b727cc1c2c7c7f2e977430d07ce87d5f.0	
+15.052037	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d15887747b01ca5d7bf932858d3c590b.0	
+15.053502	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5b93525f22b0ef351194976f0d3e6a8a.0	
+15.054561	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d9173b49fe1eb859e3511a742d5b4531.0	
+15.055295	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8defa2e70750b122b52bb5c71bed6ed4.0	
+15.056466	[UN]	/media/0/Android/data/com.twitter.android/cache/users/fbb17c85bb40ddd73f908c830a228dce.0	
+15.057314	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9b7097f69addc816aaae4dd9445c6d18.0	
+15.058014	[UN]	/media/0/Android/data/com.twitter.android/cache/users/26d849ec5bfa760951bf85237e4c7438.0	
+15.060284	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1889b38550bfaf1c6f12f70610e3304e.0	
+15.061071	[UN]	/media/0/Android/data/com.twitter.android/cache/users/957e6901c1add888238da86136fa092c.0	
+15.061794	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2e208e29b1c8954ed8175285b79be21c.0	
+15.062499	[UN]	/media/0/Android/data/com.twitter.android/cache/users/15008ebf9974971ee0aa0bb336bb7705.0	
+15.063259	[UN]	/media/0/Android/data/com.twitter.android/cache/users/50ce52bb2d869a6df50d234553d0d631.0	
+15.064041	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cf2024b55aad46bbbca91b7474ecee63.0	
+15.066060	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6585373bd3d9cc4ba227a7e450426340.0	
+15.066803	[UN]	/media/0/Android/data/com.twitter.android/cache/users/153c3cacbe54aa6aa109d8ad5ee464bf.0	
+15.067642	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ccd888c65d4fb66c1954673ece03f815.0	
+15.068439	[UN]	/media/0/Android/data/com.twitter.android/cache/users/96232a5bc2eeb8fc12c9614e8fb7f146.0	
+15.069121	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d39244ab6d3c7608e1e0ec38b5e94a79.0	
+15.069894	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5ea26fcb06fcfb20ad88f3b7fac74863.0	
+15.070588	[UN]	/media/0/Android/data/com.twitter.android/cache/users/c3a1309964bcd858cb707c46771eb42b.0	
+15.072125	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9f7afe17b3a6dbf1b5b159cb4edd2c0e.0	
+15.076311	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3b258a8434e05251836f323e0c5a4c1f.0	
+15.077336	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4e58afd1c8361694086b1ba1322e4a66.0	
+15.078084	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5313c1d3d0af0d8819698f691f52a437.0	
+15.078784	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2747a8f44cb82e9c4452b89a37927824.0	
+15.079446	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1d6230c73b1a5a7d4d433402a44f75eb.0	
+15.080415	[UN]	/media/0/Android/data/com.twitter.android/cache/users/172c63110470d5b0b145c1d263cbfa17.0	
+15.081146	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9d2c0b5d293c882d474cbb7a3ac6bc46.0	
+15.083252	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ca7f6a39116f45bb5d7dddf197649932.0	
+15.084090	[UN]	/media/0/Android/data/com.twitter.android/cache/users/418cc56107c5818142d469e7397e6025.0	
+15.085079	[UN]	/media/0/Android/data/com.twitter.android/cache/users/f6a98c1727516f7f8ca1fd7ff772c7ed.0	
+15.085758	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e9c800c8d29df4e055a18d960f834099.0	
+15.086462	[UN]	/media/0/Android/data/com.twitter.android/cache/users/21009f5129bb78cd11f6844f86445c53.0	
+15.087165	[UN]	/media/0/Android/data/com.twitter.android/cache/users/bcd9c8bdbd14a33244fcd24d87da74a9.0	
+15.087888	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b0eff74f1154154c8ae985d6460cab65.0	
+15.088239	[RN]	/system/users/0/registered_services/android.content.SyncAdapter.xml	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+15.088508	[CR]	/system/users/0/registered_services/android.content.SyncAdapter.xml	
+15.088535	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cb8d30b8ba81f2d1f128cdf6dd0d20ce.0	
+15.089209	[UN]	/media/0/Android/data/com.twitter.android/cache/users/59c6c43394e489475691ab7c4e13e458.0	
+15.089583	[WA]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	4152	0	
+15.089760	[FS]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	
+15.089959	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1cfbd7fb4ab3b685e2e4bb3df58c4906.0	
+15.090589	[UN]	/media/0/Android/data/com.twitter.android/cache/users/46b6451ec3124cb85587935dd148263d.0	
+15.091235	[UN]	/media/0/Android/data/com.twitter.android/cache/users/18c5419b303a815dd0373fc183d7fab9.0	
+15.100608	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2215c7987cb1e11e27b026ff68af49d0.0	
+15.101968	[UN]	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+15.104120	[RD]	/media/0/Android/data/com.twitter.android/cache/users	
+15.111562	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.111799	[CR]	/system/job/jobs.xml	
+15.111895	[WA]	/system/job/jobs.xml	0	3835	0	
+15.111989	[FS]	/system/job/jobs.xml	0	
+15.121462	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+15.121530	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+15.121554	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+15.121585	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+15.121611	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+15.121630	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+15.121657	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+15.121739	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+15.121759	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+15.121787	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+15.121810	[WO]	/system/users/0/accounts.db-journal	12824	4	41552	
+15.121828	[WO]	/system/users/0/accounts.db-journal	12828	4096	41552	
+15.121857	[WO]	/system/users/0/accounts.db-journal	16924	4	41552	
+15.121898	[WO]	/system/users/0/accounts.db-journal	16928	4	41552	
+15.121917	[WO]	/system/users/0/accounts.db-journal	16932	4096	41552	
+15.122275	[UN]	/system/job/jobs.xml.bak	
+15.122464	[WO]	/system/users/0/accounts.db-journal	21028	4	41552	
+15.122493	[WO]	/system/users/0/accounts.db-journal	21032	4	41552	
+15.122514	[WO]	/system/users/0/accounts.db-journal	21036	4096	41552	
+15.124008	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.124188	[CR]	/system/job/jobs.xml	
+15.124292	[WA]	/system/job/jobs.xml	0	2743	0	
+15.124298	[WO]	/system/users/0/accounts.db-journal	25132	4	41552	
+15.124354	[WO]	/system/users/0/accounts.db-journal	25136	4	41552	
+15.124376	[WO]	/system/users/0/accounts.db-journal	25140	4096	41552	
+15.124383	[FS]	/system/job/jobs.xml	0	
+15.126478	[WO]	/system/users/0/accounts.db-journal	29236	4	41552	
+15.126525	[WO]	/system/users/0/accounts.db-journal	29240	4	41552	
+15.126547	[WO]	/system/users/0/accounts.db-journal	29244	4096	41552	
+15.127053	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/journal	
+15.127908	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/928d00730b37eea5a58a4c22e0c7c4fc.0	
+15.128130	[WO]	/system/users/0/accounts.db-journal	33340	4	41552	
+15.128339	[WO]	/system/users/0/accounts.db-journal	33344	4	41552	
+15.128368	[WO]	/system/users/0/accounts.db-journal	33348	4096	41552	
+15.128929	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f6cf57cde1c398a5e71d8363c0bbb922.0	
+15.129574	[WO]	/system/users/0/accounts.db-journal	37444	4	41552	
+15.129876	[WO]	/system/users/0/accounts.db-journal	37448	4	41552	
+15.134331	[WO]	/system/users/0/accounts.db-journal	37452	4096	41552	
+15.135116	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/61f40fbeeae4bc3d597d2b6ef9e15db2.0	
+15.135209	[UN]	/system/job/jobs.xml.bak	
+15.135523	[WO]	/system/users/0/accounts.db-journal	41548	4	41552	
+15.135558	[WA]	/system/users/0/accounts.db-journal	41552	4	41552	
+15.135594	[WA]	/system/users/0/accounts.db-journal	41556	4096	41556	
+15.135663	[WA]	/system/users/0/accounts.db-journal	45652	4	45652	
+15.135774	[WA]	/system/users/0/accounts.db-journal	45656	4	45656	
+15.135802	[WA]	/system/users/0/accounts.db-journal	45660	4096	45660	
+15.135860	[WA]	/system/users/0/accounts.db-journal	49756	4	49756	
+15.135902	[FS]	/system/users/0/accounts.db-journal	1	
+15.137100	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a5911431244c250633dea8bbec99bd1a.0	
+15.137939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ab4863ce48500b94a45d5b1a18c280d1.0	
+15.138754	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/47fd4b5b95948dffb8ca67b0b311c76f.0	
+15.138862	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.139047	[CR]	/system/job/jobs.xml	
+15.139137	[WA]	/system/job/jobs.xml	0	2743	0	
+15.139233	[FS]	/system/job/jobs.xml	0	
+15.139558	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6c2cd78dded28a6e2bc15a3fc3c8d214.0	
+15.140264	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/89c3ca8a0c5a43a0349a8e516a9c5ae2.0	
+15.141096	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6aaabe3663103643eccc383c3fe6881b.0	
+15.141876	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/188b4afc00b303157db9e2cc9e32b3b6.0	
+15.142933	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b459414c1503f69d1d28025d655ee569.0	
+15.150517	[UN]	/system/job/jobs.xml.bak	
+15.151401	[FS]	/system/users/0	1	
+15.151920	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a1ffbda78f74d3a4a417050b539667db.0	
+15.152421	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.152655	[CR]	/system/job/jobs.xml	
+15.152749	[WA]	/system/job/jobs.xml	0	2743	0	
+15.152848	[FS]	/system/job/jobs.xml	0	
+15.153660	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/08d11ed1679660ee1921e927e1e3fb18.0	
+15.154455	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bf83a7ff73b0fa365adc5109e4231527.0	
+15.156147	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e9196ae04dbd66e1e5b9793f98a441a7.0	
+15.165193	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7040006f1c6658e5723a76e5d9a05214.0	
+15.165533	[WO]	/system/users/0/accounts.db-journal	0	12	49760	
+15.165575	[FS]	/system/users/0/accounts.db-journal	1	
+15.165616	[UN]	/system/job/jobs.xml.bak	
+15.166164	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/5367e2139bebb5c0679968fbe9b20093.0	
+15.166842	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fae84cccfe175fc227fa6168cd22459e.0	
+15.167576	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2219954e8578d77f90a4809bbe5d3f6b.0	
+15.167805	[WO]	/system/users/0/accounts.db	0	4096	180224	
+15.167855	[WO]	/system/users/0/accounts.db	4096	4096	180224	
+15.167894	[WO]	/system/users/0/accounts.db	12288	4096	180224	
+15.167927	[WO]	/system/users/0/accounts.db	16384	4096	180224	
+15.167960	[WO]	/system/users/0/accounts.db	24576	4096	180224	
+15.167992	[WO]	/system/users/0/accounts.db	40960	4096	180224	
+15.168022	[WO]	/system/users/0/accounts.db	122880	4096	180224	
+15.168057	[WO]	/system/users/0/accounts.db	126976	4096	180224	
+15.168088	[WO]	/system/users/0/accounts.db	139264	4096	180224	
+15.168123	[WO]	/system/users/0/accounts.db	147456	4096	180224	
+15.168154	[WO]	/system/users/0/accounts.db	151552	4096	180224	
+15.168185	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+15.168226	[FS]	/system/users/0/accounts.db	1	
+15.169730	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4a92b7318622124fbc13ee55f2fed837.0	
+15.170761	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6fa7bb6028eb7c78e29b15bd617d3e2e.0	
+15.171550	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7f2cad54e08cc47dcedf8ff2c428c9c5.0	
+15.172289	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6336c0fb4cc3ddaaa61c5d2510e9997c.0	
+15.172984	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d97c0ef9aa8a6210ca55fd324b3ff289.0	
+15.173695	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/227920913ce2513a1cd3108d81c06ec4.0	
+15.174378	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/028e10dcd5b719469d6ebcf11386393d.0	
+15.175103	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3b7f79250412202bfc70dd72c7c74355.0	
+15.175868	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fc775d07f88ca240bd44303566a871f3.0	
+15.176095	[WO]	/system/users/0/accounts.db-journal	0	28	49760	
+15.176151	[FS]	/system/users/0/accounts.db-journal	1	
+15.176772	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4f6884255359e00ea364d10dd72d30d9.0	
+15.177614	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.177836	[CR]	/system/job/jobs.xml	
+15.177937	[WA]	/system/job/jobs.xml	0	2743	0	
+15.178033	[FS]	/system/job/jobs.xml	0	
+15.178844	[WO]	/system/users/0/accounts.db-journal	0	512	49760	
+15.178874	[WO]	/system/users/0/accounts.db-journal	512	4	49760	
+15.178911	[WO]	/system/users/0/accounts.db-journal	516	4096	49760	
+15.178941	[WO]	/system/users/0/accounts.db-journal	4612	4	49760	
+15.178969	[WO]	/system/users/0/accounts.db-journal	4616	4	49760	
+15.178988	[WO]	/system/users/0/accounts.db-journal	4620	4096	49760	
+15.179015	[WO]	/system/users/0/accounts.db-journal	8716	4	49760	
+15.179066	[WO]	/system/users/0/accounts.db-journal	8720	4	49760	
+15.179086	[WO]	/system/users/0/accounts.db-journal	8724	4096	49760	
+15.179114	[WO]	/system/users/0/accounts.db-journal	12820	4	49760	
+15.179145	[FS]	/system/users/0/accounts.db-journal	1	
+15.180038	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/69f90060e023c3ac7b7f565a3b8ee1b5.0	
+15.188636	[FS]	/system/users/0	1	
+15.189185	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6ec7e5cdeab9209a2d824a0480a934d5.0	
+15.190064	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d593c45231b227fee6229469e2f7187d.0	
+15.190959	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/da498617da5a30abe2d91c28bad6239b.0	
+15.191549	[UN]	/system/job/jobs.xml.bak	
+15.192033	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/561d122d099e53cdacaaebc4a3cd73f4.0	
+15.198400	[WO]	/system/users/0/accounts.db-journal	0	12	49760	
+15.198461	[FS]	/system/users/0/accounts.db-journal	1	
+15.198675	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a4314b08076fc6c98fe610089ecc50e4.0	
+15.200369	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a8cc968e99334557543d384131ef77de.0	
+15.201279	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/583f9d2a802bf83379a25ff1a0afb88f.0	
+15.202015	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fdca30a9fadecb881fdf43ad37473a60.0	
+15.202812	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b23a09a4f8ea4d901c6f88b2e8e6e652.0	
+15.203500	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8a79508cf0750cf7b9be0b11279b2c9f.0	
+15.204221	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e927123184fb435bbff741cedb4e6662.0	
+15.204939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0f72809076e993bc237c958d54177c32.0	
+15.205714	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4bc2eef97dce358a713a98c05fc935a7.0	
+15.206615	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6dbde27391674d4fea3b842738b9f4f6.0	
+15.207293	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/95e4f59145e803c387c68fc933d57f37.0	
+15.208029	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/66e83ff4d9a386cf9d2e5c1421b686a4.0	
+15.208175	[WO]	/system/users/0/accounts.db	0	4096	176128	
+15.208228	[WO]	/system/users/0/accounts.db	65536	4096	176128	
+15.208341	[WO]	/system/users/0/accounts.db	69632	4096	176128	
+15.208380	[FS]	/system/users/0/accounts.db	1	
+15.208739	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/5c06fb19fa03244b67b3eab75f4d998e.0	
+15.209411	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ad0a0f4aa0d75b73f6f5d0327b5af17b.0	
+15.210148	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ff02ee328056ac2fe32a6be5723b0576.0	
+15.210923	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/c5daa342f98ae27c51e29861f5ad82bb.0	
+15.211872	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/74bfc950a7485b77a4cc621ee4b57387.0	
+15.227026	[WO]	/system/users/0/accounts.db-journal	0	28	49760	
+15.235755	[FS]	/system/users/0/accounts.db-journal	1	
+15.236707	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9b238a3951ff803e108c35e709782b78.0	
+15.238048	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/c23265128ce8b369142ed14b3813eb9f.0	
+15.238781	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0550492c5656eeae7583eca5450bd50e.0	
+15.246084	[WO]	/system/notification_log.db-journal	0	512	49760	
+15.246146	[WO]	/system/notification_log.db-journal	512	4	49760	
+15.246171	[WO]	/system/notification_log.db-journal	516	4096	49760	
+15.246214	[WO]	/system/notification_log.db-journal	4612	4	49760	
+15.246258	[WO]	/system/notification_log.db-journal	4616	4	49760	
+15.246282	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+15.246321	[WO]	/system/notification_log.db-journal	8716	4	49760	
+15.246386	[WO]	/system/notification_log.db-journal	8720	4	49760	
+15.246410	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+15.246454	[WO]	/system/notification_log.db-journal	12820	4	49760	
+15.246491	[FS]	/system/notification_log.db-journal	1	
+15.251165	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/14a83003b7cb4447a7658e515bbdda1d.0	
+15.259292	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+15.259565	[CR]	/system/sync/accounts.xml	
+15.269432	[FS]	/system	1	
+15.271632	[WA]	/system/sync/accounts.xml	0	8185	0	
+15.272758	[WA]	/system/sync/accounts.xml	8185	976	8185	
+15.272815	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b38543eac7989b9439b5f209d5db5e4f.0	
+15.272849	[FS]	/system/sync/accounts.xml	0	
+15.288522	[UN]	/system/sync/accounts.xml.bak	
+15.288959	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+15.289202	[CR]	/system/sync/status.bin	
+15.289899	[WA]	/system/sync/status.bin	0	3532	0	
+15.290010	[FS]	/system/sync/status.bin	0	
+15.290163	[WO]	/system/notification_log.db-journal	0	12	49760	
+15.290202	[FS]	/system/notification_log.db-journal	1	
+15.297275	[UN]	/system/sync/status.bin.bak	
+15.298145	[RN]	/system/sync/pending.xml	/system/sync/pending.xml.bak	
+15.299534	[CR]	/system/sync/pending.xml	
+15.300323	[WA]	/system/sync/pending.xml	0	601	0	
+15.300432	[FS]	/system/sync/pending.xml	0	
+15.301878	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d276327a9d7dcdc0f32b472cb3eb5951.0	
+15.302037	[WO]	/system/notification_log.db	0	4096	53248	
+15.302234	[WO]	/system/notification_log.db	16384	4096	53248	
+15.302262	[WO]	/system/notification_log.db	49152	4096	53248	
+15.302296	[FS]	/system/notification_log.db	1	
+15.302939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/92d832f7791f6c80c58c05e2af093b39.0	
+15.308321	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f04ab1b0168d0b0279b0737e532d43d3.0	
+15.309111	[UN]	/system/sync/pending.xml.bak	
+15.309533	[RN]	/system/sync/stats.bin	/system/sync/stats.bin.bak	
+15.309826	[CR]	/system/sync/stats.bin	
+15.310061	[WA]	/system/sync/stats.bin	0	836	0	
+15.310160	[FS]	/system/sync/stats.bin	0	
+15.312886	[WO]	/system/notification_log.db-journal	0	28	49760	
+15.312942	[FS]	/system/notification_log.db-journal	1	
+15.313295	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64355c53eb942929e703d742d715d422.0	
+15.320621	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f8c885f6bd93439e5bcfc6c36c83ef2f.0	
+15.321397	[UN]	/system/sync/stats.bin.bak	
+15.321747	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9b057846e50dce6804cb105a3dffcee8.0	
+15.326782	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d781b13b062e31f85dcf77a830a038b7.0	
+15.327480	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/882decf0ce37e05b5359288196d32340.0	
+15.328177	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e387273488ea6817e6005c0495abe178.0	
+15.328925	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3048948decf56712bf3255121ce0b3f7.0	
+15.329618	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7b8edb34d9a4cfbe19bd4c948dae775d.0	
+15.330438	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f17331cbb9c7cb54c94992b0992bee80.0	
+15.331189	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4b640648bf46dacb1a31eddea2890a24.0	
+15.332343	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0a4f2a8fb6b9c220494fa6e1d7eac3f1.0	
+15.339834	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/dbe91624650cae2bcb171fe2e7cc86c7.0	
+15.340620	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8ff47335a9960abf77fcd70ec2d3fb82.0	
+15.341399	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8620f5c0d2cf3dbfa55c58d064b7fa40.0	
+15.342999	[WO]	/system/sync/pending.xml	0	77	601	
+15.343107	[FS]	/system/sync/pending.xml	0	
+15.348395	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1d199225e08ac7383e66b37cd38c2041.0	
+15.349218	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0e7bd2971d5f70d908b5975de215d9da.0	
+15.354844	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e2ec654559a2e3cad98b44a49e66d34f.0	
+15.358314	[WO]	/system/sync/pending.xml	0	77	678	
+15.358406	[FS]	/system/sync/pending.xml	0	
+15.358996	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/590be7de83bae2d1aa1a94a6184485f1.0	
+15.364309	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f9cd4f3910174c06f077a718352a8cf4.0	
+15.366297	[WO]	/system/sync/pending.xml	0	77	755	
+15.366403	[FS]	/system/sync/pending.xml	0	
+15.368744	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64e1d0e16e954b35ff6c8712d237d553.0	
+15.378719	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/51e57e99282d09dc599e142cc7434c29.0	
+15.381592	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/32ca433eade1a3afa8553ce0be8d2015.0	
+15.383364	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/13d46e0e276a6c2e5802b83bf4997707.0	
+15.384879	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2e7c59f61fb7243610999169f8e3a6ab.0	
+15.385551	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e1acb8f58a5776a7a070ec95f088998b.0	
+15.386597	[WO]	/system/sync/pending.xml	0	77	832	
+15.386686	[FS]	/system/sync/pending.xml	0	
+15.387083	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6759b1e5fbf0df26ad6c8224c98041ba.0	
+15.391045	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/005c8b9418ff0ea4affd53517da3fc5d.0	
+15.395340	[WO]	/system/sync/pending.xml	0	78	909	
+15.395435	[FS]	/system/sync/pending.xml	0	
+15.396417	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8fb901c3f9778ce0e12a17d4ae7944de.0	
+15.400143	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/358351f4195bff2249892783f7f0d369.0	
+15.411769	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f83626a1a1cf09e470f4326e3c135b95.0	
+15.411855	[WO]	/system/sync/pending.xml	0	77	987	
+15.411947	[FS]	/system/sync/pending.xml	0	
+15.420965	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8b891d14f418c74f30782cd52cceb188.0	
+15.421820	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/10be25de21cbbac2aa916d7fda6e9df6.0	
+15.428178	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7816cf72b3214a2d4da9e2e58545a36f.0	
+15.429710	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/deacc3f0c66d2ff1ee8166b29d4bcda8.0	
+15.430582	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d270d1ba8d12bc32b6df6af2f741c862.0	
+15.431300	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4b5d51e34eadeb87570639f3af0d3994.0	
+15.431613	[WO]	/system/sync/pending.xml	0	78	1064	
+15.431703	[FS]	/system/sync/pending.xml	0	
+15.434522	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2e2c21c108d38a382d49e8b6cb4d5973.0	
+15.446824	[WO]	/system/sync/pending.xml	0	77	1142	
+15.446916	[FS]	/system/sync/pending.xml	0	
+15.447691	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0d5f64d79f0b968c83f8776815e1b8fd.0	
+15.448361	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fd23423119fef17dbb08d33998bd1f31.0	
+15.449310	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b9b48af5cec3e40e927158d074700a04.0	
+15.456805	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/380c82da49aa10192f0a292c9d2ee47b.0	
+15.458484	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/13f5ed92075d8ad4b6aecba29d9b38c4.0	
+15.459200	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/620d65c465be1d89c5b8fbe642a1f0f2.0	
+15.461587	[WO]	/system/sync/pending.xml	0	77	1219	
+15.461683	[FS]	/system/sync/pending.xml	0	
+15.462093	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8c12457e29aa3239b5961f3be5373bc6.0	
+15.462778	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1753e1d4909e78b53ce1bb78dbb6c19e.0	
+15.463750	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e5d617d2e326658442bd041047de2828.0	
+15.465169	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/96a6b0e7623a2b458be6e4c70783ea0d.0	
+15.475395	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/50920ad43d8f1ce03f279055a1ac71ea.0	
+15.477230	[WO]	/system/sync/pending.xml	0	77	1296	
+15.477339	[FS]	/system/sync/pending.xml	0	
+15.478359	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f56f03f79b506b640ad66a4c09eacc12.0	
+15.479071	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2c17d2448f9d073018872e724e3980d3.0	
+15.492507	[WO]	/system/sync/pending.xml	0	78	1373	
+15.492615	[FS]	/system/sync/pending.xml	0	
+15.498480	[WO]	/system/sync/pending.xml	0	78	1451	
+15.498568	[FS]	/system/sync/pending.xml	0	
+15.503421	[WO]	/system/sync/pending.xml	0	78	1529	
+15.503519	[FS]	/system/sync/pending.xml	0	
+15.509075	[WO]	/system/sync/pending.xml	0	78	1607	
+15.509155	[FS]	/system/sync/pending.xml	0	
+15.509945	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/56642517aca8c539e2cae7cda8d40e4d.0	
+15.510754	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/011587faf86d71b949238365cf8826a4.0	
+15.511719	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/50553fb1baeb559743c4b00329d7a85b.0	
+15.513283	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64c97648a89685e7bdd1b7d3f1a56939.0	
+15.518166	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4362f502332de2eb9bb2f5a5a0858abb.0	
+15.520211	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/babb29ed4ab5aeed56bd44a1af287110.0	
+15.520744	[WO]	/system/sync/pending.xml	0	78	1685	
+15.520828	[FS]	/system/sync/pending.xml	0	
+15.521053	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/489e3cd1ab03f6758168e1f6aa385795.0	
+15.521853	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f4e2b71e92af6b62fab9d1cd9731ce17.0	
+15.522543	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3fcf0af77086abd88a2988678261372b.0	
+15.523235	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6cbc7bd0c0824a0ba0d5dd2c2c4e730b.0	
+15.524003	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bdfba021e9c10dcb17bbb4a252855ff4.0	
+15.530219	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/45b53a07913439f43341b72ff366af75.0	
+15.530930	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a8ccb1d71e48df3b5a6170b5fc13feaf.0	
+15.531821	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fcf420c5a6852c1b3d5b71ae5623e89b.0	
+15.533263	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bcab19033bd0c22f92704478ae465019.0	
+15.534055	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9263f74435ed68180bb49f20782494a7.0	
+15.534699	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/68de38a8d958ebd606a5c1899f276616.0	
+15.535752	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1f45a836ad0c14f73595459ae55b941d.0	
+15.536553	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/deef9501c480d2d85b5c23a63eb284f7.0	
+15.537841	[WO]	/system/sync/pending.xml	0	78	1763	
+15.537934	[FS]	/system/sync/pending.xml	0	
+15.538634	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8a4b0f767c755b7a8cd93d827d2b8887.0	
+15.543312	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/06c071e6bbf64e28d4fe07558c8ac898.0	
+15.552384	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b497e951b898c3d1ac8f79beb77c459b.0	
+15.553363	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d5e58d17f4435a060e1e8a07f6ae9f2f.0	
+15.553997	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/906fb79919f444631feb66d13d97aef9.0	
+15.554695	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e62c08614f47d46e0c8920990c012a4f.0	
+15.559137	[WO]	/system/sync/pending.xml	0	78	1841	
+15.559233	[FS]	/system/sync/pending.xml	0	
+15.561017	[RD]	/media/0/Android/data/com.twitter.android/cache/photos	
+15.568755	[WO]	/system/sync/pending.xml	0	78	1919	
+15.568840	[FS]	/system/sync/pending.xml	0	
+15.577997	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/3_B8S8f8s8uOMJ73FT_pQVim2BA.cnt	
+15.584512	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/3In7xHLazvxC43zbanNf4_nkBO0.cnt	
+15.587424	[WO]	/system/sync/pending.xml	0	78	1997	
+15.587507	[FS]	/system/sync/pending.xml	0	
+15.589811	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/kcTxZH3ut5ga3mWuvQX-8HpUgvg.cnt	
+15.599944	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/IhBRJSpiCIeVvGiE6yZtGlKWNHQ.cnt	
+15.601907	[WO]	/system/sync/pending.xml	0	78	2075	
+15.602001	[FS]	/system/sync/pending.xml	0	
+15.602471	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64	
+15.605370	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/0WfUUBJO3Gfk-qmsj6n0bCQqHtk.cnt	
+15.645785	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/JtQuDRUFZktDDZyA8HuUcFIs0_s.cnt	
+15.709955	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/viXld1HNTGKb00Zht2VtGFhQICc.cnt	
+15.712729	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79	
+15.714830	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22/b2_dXNOyb75yIfAVxMbiclonixA.cnt	
+15.715539	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22/0bHOnVnp1hcZtQszw5IxMy5YDQQ.cnt	
+15.716057	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22	
+15.717910	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/FRZHmMmPwHA1xIE3hyMuRVz9OWg.cnt	
+15.751540	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/6V07KefX9TUiuVH8pAiujWoNFss.cnt	
+15.753160	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/o3tftWUCHaMLHc5mYNqDQDHdOkc.cnt	
+15.754352	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/ZEXFrabI5o0g6rEHncETbTrHKj8.cnt	
+15.754888	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10	
+15.762362	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/30/KB41ZJoVn65k6wus-o8dPTA_dSI.cnt	
+15.777019	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/30	
+15.778797	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/65/_lwnaJxHgKyPFn8n6pHj6vhG0l8.cnt	
+15.784730	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/65	
+15.786929	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8/0rfO9iJjz_Dh0xxPeKYnoMpu1Zo.cnt	
+15.787763	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8/7-zEbtN0bm6nxZBCCb4Qg9rl7og.cnt	
+15.788367	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8	
+15.790328	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/85/9LrCLJr-l3FIgqsoM4S8CY_aYHo.cnt	
+15.790920	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/85	
+15.797237	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/wuWrNBE66-1O7wThnZ18B28ZgS4.cnt	
+15.831592	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/DWGpHeC2naOqHSJb8RbPnT6cuSM.cnt	
+15.833108	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/OgexKs9oCFRx6dobHlR-mKhS4tw.cnt	
+15.833844	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/f5nS2Hm9bVvRPO6LcmV_LsPD1II.cnt	
+15.834679	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/9aJjlOoOXe-XRMi9ihlUdbj3MAM.cnt	
+15.839731	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/zZDECZyfEKPDaDrhR5TM7ZYNYhk.cnt	
+15.840287	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80	
+15.844553	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36/s3pHvXEISVg0sVyxTX7uxWn2r6I.cnt	
+15.845356	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36/l__bcoKGyB3vafbvyFJbCnkfhyg.cnt	
+15.846676	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36	
+15.849489	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/G7RUhaciLi-cu_rehLKu2H0GnXg.cnt	
+15.880665	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/FLoYkt_JD6eDRJgWGuL3M2ak3sU.cnt	
+15.927850	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/5HX6Q_hGQbdtIbDp1dqRzCKjS2w.cnt	
+15.928779	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/FV6THK9CoW-AMbvgN9pISD9L8s0.cnt	
+15.929451	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68	
+15.935458	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17/J_-2P7mxs0C5zfgtcCGia6PG2M8.cnt	
+16.033486	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17/hlpK9bMTQCWvZ3POsA6098AsXWg.cnt	
+16.034283	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17	
+16.036768	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4/I2OTlZzWRm4A7bbdBQiR7ghQTFI.cnt	
+16.038284	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4/URLRLY0XHSqZ154eXTJjKWgKOoA.cnt	
+16.039218	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4	
+16.042216	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/EFCsR49zFUCdwWdhIR_k-y5TyME.cnt	
+16.047522	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/N45hBy79jJ5IILksErHySOPiCcY.cnt	
+16.052075	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/WPVhjDUtEbi1nDOKUf5p8yyo4TQ.cnt	
+16.071216	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/j1TPt9YtJloyFT8or86vuu25-jE.cnt	
+16.071994	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/tV-QRjteSY_uD8MAVxL5gjwLAks.cnt	
+16.072545	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39	
+16.074602	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86/tnYT2P1u9_0o3R2LHHpOfL15W74.cnt	
+16.075565	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86/uAMPeUW73Lwp1_RXGgbZcitTWUs.cnt	
+16.076067	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86	
+16.077669	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7/cZqemI89yw8eonix57Zzn8IOAa8.cnt	
+16.078984	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7/GQNKrPRBR8mQRWkrpgnT9AszGRQ.cnt	
+16.079487	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7	
+16.089218	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/5MEFdIBc0uWG1kN1GD7IV4jzYhE.cnt	
+16.090064	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/FpEj6QX6JuKqZsO7KYv4CT-HU4M.cnt	
+16.092028	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/JKxw7bOK2-n9VDETYtWo1hTPG4A.cnt	
+16.093122	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56	
+16.105637	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/_R3Lrp5U4MUd55qeZZAM0KGSPnc.cnt	
+16.108072	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/KRlXMC69tezvY_TTNeJTlckLHII.cnt	
+16.113373	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/83R86_mGfAeyyoLgOB4GH761bkU.cnt	
+16.114463	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/10DyOX5sh02Cf7R4JfM8pSFZoGA.cnt	
+16.114982	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84	
+16.121376	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/94/_kK0qMfaDHHhEUP7DT20CYDcWjc.cnt	
+16.129058	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/94	
+16.140617	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/3veF06PM-Glld_7C4FqMcE5MA9E.cnt	
+16.141328	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/SQ02UwDh1UdHWPjHgm1AelzeyPI.cnt	
+16.142070	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/3YVvXIxRZEPhxCpJTuCpfM7Srfo.cnt	
+16.143086	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/RrT5XAQNkX848LI97Bkay8eVKTE.cnt	
+16.150716	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51	
+16.154466	[RN]	/system/users/0/appwidgets.xml	/system/users/0/appwidgets.xml.bak	
+16.154855	[CR]	/system/users/0/appwidgets.xml	
+16.155741	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/E-QcQ14PmlkNVsD66AmJ814Bm_4.cnt	
+16.155775	[WA]	/system/users/0/appwidgets.xml	0	552	0	
+16.155870	[FS]	/system/users/0/appwidgets.xml	0	
+16.158225	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/DN89Z1k6wG23PFQ1BtSTMJArU7o.cnt	
+16.158983	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/xAsgPQJruU1o4WSDr-SaOWE1oWQ.cnt	
+16.159743	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/gF0RL-08IRy9KUXw4mjcuWg6xNQ.cnt	
+16.160445	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12	
+16.162242	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/dYoq6XuvHdOGig-E6zaMpR1VrGo.cnt	
+16.163509	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/mAqfCNUvspwl6GEjKJEJ49vTfm0.cnt	
+16.164901	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/hUbhUUVakZ3c-66MLNzwlNhIt3s.cnt	
+16.165856	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13	
+16.202191	[UN]	/system/users/0/appwidgets.xml.bak	
+16.209203	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6/Rlt1aiNzE92anzBqGkimFleGxjE.cnt	
+16.210120	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6/bUGdVIpiLR-C_a-qWRtAdC447IY.cnt	
+16.210612	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6	
+16.214168	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/Syk6Bn3EMvqCfR1FaQF1K33_Hxw.cnt	
+16.216712	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/pP4VO6R4w2Hi0rob465Z4D4zMXQ.cnt	
+16.217623	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/dOR9fL1m8pT86ZsfMQF6qNSMn0I.cnt	
+16.218299	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/z-8swGFfaNCeltBqDijwCMjV3QI.cnt	
+16.218997	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/D5_ax6X61XNdnS8NlEXktYNg8eM.cnt	
+16.219722	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/OEY1i-y0-wOXKL40jFZFl7RYTQY.cnt	
+16.220403	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/b4nXD07b8mg8INrVnX61ad1aMaw.cnt	
+16.221082	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/GwNRMWs9JQmFMAGWpXVKcRRBL-4.cnt	
+16.221897	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/iOUfQKMaX7LL2mPnrvamFOYzf_Y.cnt	
+16.222736	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67	
+16.224482	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/-zlt6cONKpI2QoATlWxIwV7Hzv8.cnt	
+16.225267	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/YZEwIxdkLNMnWxmjXyX-DWpfL4Q.cnt	
+16.225921	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/hY9YDWmfapToYHurkHDzVwtgfP0.cnt	
+16.226836	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24	
+16.231721	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/azFcoRMU5K9AwbrI_r0GZLbzY_c.cnt	
+16.232473	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/SPprOCtT6gMq0DG7tbKHhjodFoo.cnt	
+16.233301	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/7z1h6_ZGYGsYWPhMGybZ1qEogXg.cnt	
+16.237335	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40	
+16.243631	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/2S9dmUCNtB4cWI1l-YKexbMEG2M.cnt	
+16.257656	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/ZSFQdpsXIaU8jLTEDHcJpM9DUMI.cnt	
+16.260661	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/AUO41s01NKpWxbRIbhk6437B8xE.cnt	
+16.261164	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81	
+16.262816	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/33/ZZHaPKTNdLc1wKSKlpIahAAgT60.cnt	
+16.263322	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/33	
+16.265307	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26/mtMCS7PIep5MNzHShjw9NdlWf2k.cnt	
+16.266847	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26/TyMLOHY5PDRL3WivHLZDNCvNDTY.cnt	
+16.267371	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26	
+16.270133	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/H5LJYFPtk2D-ofWvr2YKDVLBxjo.cnt	
+16.270831	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/aEgzMucLgvWujYI5msg4HSH3uq4.cnt	
+16.272064	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/WSpzOs7xBo1qXCSzaAnvxK0Rhys.cnt	
+16.272662	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35	
+16.274497	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/H9LXFTPdG1SO3KKtYz5MC5UngIk.cnt	
+16.275164	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/hycQQtpGf3jp77EjnUxhvaE22e0.cnt	
+16.275826	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/MdrZ-Ox1F3C5uQK4TlFYNtKTSwY.cnt	
+16.276497	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/uKX3EE45Qgisk7UWdDWKYnAc01E.cnt	
+16.277175	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/u4r9b5DSEEk1FSfbRpn4q5fItBg.cnt	
+16.277697	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19	
+16.279180	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/15/9kPF4Gmsyx_uEOcbuqLCmGAQX-0.cnt	
+16.279747	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/15	
+16.281448	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/3N2bcMFielTm59dXzTP-fXHyDpM.cnt	
+16.282107	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/le_GV1E-Duaeg-DS4E51DfYeQ8o.cnt	
+16.282758	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/-QTCraXOr-a09NiIBj11yGr4rNk.cnt	
+16.283432	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/vR2WdLPmyDZ4bJSZy0m_ZkcWtg0.cnt	
+16.283939	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9	
+16.285487	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2/e0Wy5FNy9SS7jaXT_dXWp9tNRxI.cnt	
+16.286175	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2/pkrAOWPHo_RwlFkR5TrUPN_OmK4.cnt	
+16.286646	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2	
+16.288152	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46/3hckLwrXpvHM7LvEig-j91PA-5s.cnt	
+16.288810	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46/lv0rIOXYOuKYqtqFay-A8tgdh9k.cnt	
+16.289320	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46	
+16.290765	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/38/y72cgcWnXWzoIAe7l3kIDrB2rPg.cnt	
+16.291239	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/38	
+16.292828	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/iKbksv4CG8I_4leChtX-i1wEmGg.cnt	
+16.293511	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/WFGj53uPRFVcZBbnD8ONy9nMu8I.cnt	
+16.294139	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/YXKWd3uQOte1USyDO0ILuL-mWoc.cnt	
+16.294603	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32	
+16.296317	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/We5PY4rneawTg6qCaSEx8bq5P6E.cnt	
+16.296976	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/H972sNGqeAZOuUqzeNUpV2igK-U.cnt	
+16.297617	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/SEwDgShFz854gXfJ4UQ_6U6t3CI.cnt	
+16.298238	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/yPIbJhFN_wKu2Vaq_szCHrdFR78.cnt	
+16.298879	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/4SyB8EINX2hwGy5_ph2hIQdCpgU.cnt	
+16.299352	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14	
+16.309414	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/mMJgHnwy4scjsT0aKdowQynSNHQ.cnt	
+16.310184	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/fj-WwfXw_bQ_54gqgY02lqmD8Ik.cnt	
+16.310810	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/By_488qUb7YoVOHQf23T7EOjYqw.cnt	
+16.311437	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/mCUujlSejpfOApnx7k910p753Rs.cnt	
+16.311907	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92	
+16.313555	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/JAUcAXBc76j2klGAwMGMmX3T07U.cnt	
+16.314261	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/tj11PIZnBaeFSrKNxHLpVacZHUA.cnt	
+16.314957	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/LuNp0hCoSnYzOuV4VxeFF4k849o.cnt	
+16.315649	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/P6PgTFHrFvViNEZDjFRvbkyYxxs.cnt	
+16.316139	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69	
+16.317633	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/16/cFoECQiySztM5f8bePieRlIFSbk.cnt	
+16.318121	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/16	
+16.319957	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/WiBZGEaIjnBt5PL4xaDGhL9WrUc.cnt	
+16.320639	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/MmUm3q3Ot8kATV96N_CEQIOsTXQ.cnt	
+16.321286	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/36PsKOKuCw83xvd2q5ZOnRFGt5E.cnt	
+16.321958	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/tgMquYjWzhxuU1ICQvqIk9kW-Oc.cnt	
+16.322636	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/OGOfUURSEU1vtfa4MSAWqk1Nv-s.cnt	
+16.323302	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/sNEH_GmTFyFyAHudd7qIOcqf5Ds.cnt	
+16.323812	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61	
+16.325269	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/82/_WqHN8bijMcavuhLVjDcOZ5cavs.cnt	
+16.325785	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/82	
+16.327319	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93/e3VgKkfekRdH3ff-mhasb4hPF2g.cnt	
+16.328007	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93/c3vlEGIlMS1dnJd0c-1GUO55-UA.cnt	
+16.328505	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93	
+16.330609	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/kAgg99BlesRGMK080MAMYXwUy1Q.cnt	
+16.331374	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/Cnb-4F2yGM5Kh96nrY7zniE3RXg.cnt	
+16.332048	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/PCP0ZL-Edwc-q6KSWHHilOg3EC0.cnt	
+16.332732	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/D03btkO-qP2NJOcWeIpj8qDkLcw.cnt	
+16.333251	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18	
+16.334772	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/44/yNV3NFPGO0FBkdYBQ9x2fduyt-E.cnt	
+16.335293	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/44	
+16.336890	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72/tEdXNHoKj0AjfYd-hFjV21ZHwsE.cnt	
+16.337626	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72/wMFGkA-MuPi-adevYYlQYk_HlYY.cnt	
+16.338190	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72	
+16.339806	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/3/xZyagmB-jo6g_59SZc6lmzZg3cc.cnt	
+16.340667	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/3	
+16.342197	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20/ssG2uUFocMSYDiieVYlXR7oHCFY.cnt	
+16.342908	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20/BIMbJ4hN4H0GgYrcgf32Jq03DCQ.cnt	
+16.343420	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20	
+16.344870	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/62/zkCgdZMR2z7CciqWi2gfHaXOm8U.cnt	
+16.345346	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/62	
+16.346782	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/54/nvhQCMWZWLqwdPZPZaW75m2AKaI.cnt	
+16.347284	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/54	
+16.348804	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91/Ih-U6ZSVNWLNcqVhM-xtkm-mZAw.cnt	
+16.349469	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91/XTPQsuxA5O-PnaMBYn8Ric0OpYo.cnt	
+16.350037	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91	
+16.351881	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/uI9hWqhyRBNRRFUhDdg_YfjiWis.cnt	
+16.352580	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/fxVnZaxCfRrPKmOjR7tRa3KG0sw.cnt	
+16.353229	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/RVRXGjwV3_2ZQfjTArF-6iC7Q8Q.cnt	
+16.353871	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/EUQTSgJY4KGogf-6ZLoNjdMeetw.cnt	
+16.354514	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/PbRr-QUaN7G6gmtmFwdMfvVTxjs.cnt	
+16.355029	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28	
+16.356585	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27/KLqR_cdVmcXQz1JiFUfHSthGsT8.cnt	
+16.357241	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27/ppqel9imAU4vLB8h8ByN94Mx73I.cnt	
+16.357722	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27	
+16.359215	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23/zlsJsA1_5fNkV3SmnTKWQMmO7uA.cnt	
+16.359911	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23/sCVKIJx9aS34bRd56sDDf_OI7bs.cnt	
+16.360401	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23	
+16.361890	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/52/jFspHjBg_Cyy4oQpFIGMzzvB6Zo.cnt	
+16.362440	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/52	
+16.364083	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/6yyfFCwHYNdD0Fp7-wboQr42D0E.cnt	
+16.364770	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/PHUXJN4byvetDd10f440XIo8lfI.cnt	
+16.365446	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/4rPAXkN5ecA55hqbGsxJ8DruYWI.cnt	
+16.365940	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41	
+16.367418	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/55/w6ioXndiLuf3WZ6z0E2Ix9rmIvY.cnt	
+16.367958	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/55	
+16.369493	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66/REmCn2j-bk_kvqD5dFCGKaukLBo.cnt	
+16.370210	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66/35cLrwAqAsnBKgCd5glJEsF2H4g.cnt	
+16.370687	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66	
+16.372191	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96/xC8VhfaTTcXFOr1RDI8A_NCfLXc.cnt	
+16.372847	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96/BuBsQBed39J6TpXoww00ASqkSf8.cnt	
+16.373334	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96	
+16.374994	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/-UfK2ylnqa57qESVGFG8fuNk2xk.cnt	
+16.375742	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/xU2QWsiNZV7O0oXMLoQjIfsaRiM.cnt	
+16.376450	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/jQTGECWuPQMFvrFiE8DCMAh79_8.cnt	
+16.377142	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/jJcRz1jFcA532aFqp9ijeoFWImc.cnt	
+16.377658	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98	
+16.379163	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/70/EJZQczYK2pBKll-2DWDEHB4Ig10.cnt	
+16.379810	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/70	
+16.381487	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/aA9Wheg_Ts--x-soNMHkVgVCj64.cnt	
+16.382208	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/AXyoxjEqIKepnqYw6p2W73uJ420.cnt	
+16.382867	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/TNzqIrhRk6v9HlWUjBt9wxylFWQ.cnt	
+16.383373	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63	
+16.384867	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/95/9L9DJ_6rdQw7IGka7K-cuIQOA3w.cnt	
+16.385380	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/95	
+16.387135	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/R7SEYFTqsB_4zBC3a-J589QiIDI.cnt	
+16.387837	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/1NRGB-RdxRbeLIdso75CV3i7lwU.cnt	
+16.390292	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/ZTB6_8mhjVxsFCiEBy6gt2-7Cj4.cnt	
+16.390969	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/75AEkH8eEP_hMwgyOqFfuCqO5eI.cnt	
+16.391452	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37	
+16.393030	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71/w11Xtv6ZWdTI1bjYsEqkS2_Y214.cnt	
+16.393761	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71/Vm0a8YA9-Uo14Dzw70CbDWIgZb0.cnt	
+16.394263	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71	
+16.395757	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/76/_9DQxrs8WniQph7oDl3U0YosQdc.cnt	
+16.396275	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/76	
+16.397762	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/77/w0wZnhRwTW7R1dyC8mc7k8nGBiQ.cnt	
+16.398277	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/77	
+16.399933	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/Uv1JUrZTTW21AXQQ-NS3SwJ9mg4.cnt	
+16.400632	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/sT3oK_tAKGKLAv4yglLlEeEdrLo.cnt	
+16.401317	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/YBZiOQZkNcoifVsXnWIeEgAVrPQ.cnt	
+16.401820	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48	
+16.403390	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1/2d07KA-j-edUoN3e83_1cmi44jQ.cnt	
+16.404082	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1/VFQlZ-uk0yKMrvAlWuhc6y3jWPY.cnt	
+16.404577	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1	
+16.406119	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29/kr4-g51o94gymcmqoE9bFUBjfUE.cnt	
+16.406801	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29/OZyqj946QiSA5pnbVDjrmepV5jQ.cnt	
+16.407324	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29	
+16.408787	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/21/WFAzNQoU9j_RVKY3parsCUZxSQU.cnt	
+16.409277	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/21	
+16.417679	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/97/uFBvbPRcczRJEd0EFogKnKZM4rw.cnt	
+16.427667	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/97	
+16.431125	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/60/C2WFKmCG-vTFganrKmAFJWdAKVA.cnt	
+16.467431	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/60	
+16.476406	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/47/PglybVvJStCwmXcyOXCgmI0-GUw.cnt	
+16.476955	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/47	
+16.481166	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/25/yg-jgtVAotjqONDGdga38MkyZSE.cnt	
+16.481769	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/25	
+16.483392	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/78/W4F08E4sdbHZOk6Sna0r1ybPbVA.cnt	
+16.483895	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/78	
+16.486125	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/34/UKKrlmYdDPAk4OqaUu5BokQyS-g.cnt	
+16.486703	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/34	
+16.488243	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/42/SQ8SKexRQ2FZFKexRycuSFbmN4M.cnt	
+16.488753	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/42	
+16.490249	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/58/KY9wAaPq903jrLxRyd65L8OI3-w.cnt	
+16.490770	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/58	
+16.492398	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/99/AKAxQG5xao-xwcqoIvOCJzYOEuI.cnt	
+16.492932	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/99	
+16.494488	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/57/L5QFlAue8snsCRRPKwINP9xFgL0.cnt	
+16.502463	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/57	
+16.504238	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/75/h-0VjHMUZXuU1HdcIczGPQWLU-Q.cnt	
+16.504777	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/75	
+16.505471	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1	
+16.506232	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache	
+16.510489	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/journal	
+16.511507	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/63ea488d5144ec4429d47e40c9ce03a8.0	
+16.512219	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/2a5f0aa37b7e548c32eac182d631dc25.0	
+16.512891	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/cc5722e251fd683546ab8cf3a2335772.0	
+16.514019	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/cfd4ff17eef87e51269126c4e4fa8df8.0	
+16.514925	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/50cfda506811fee25227e666ff1f95ad.0	
+16.515620	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/32823c271912e1ecdcfb423421cfc162.0	
+16.516570	[RD]	/media/0/Android/data/com.twitter.android/cache/videos	
+16.517085	[RD]	/media/0/Android/data/com.twitter.android/cache	
+16.517560	[RD]	/media/0/Android/data/com.twitter.android	
+16.662805	[RN]	/system/users/0/appwidgets.xml	/system/users/0/appwidgets.xml.bak	
+16.663857	[CR]	/system/users/0/appwidgets.xml	
+16.673349	[WA]	/system/users/0/appwidgets.xml	0	552	0	
+16.673465	[FS]	/system/users/0/appwidgets.xml	0	
+16.696014	[UN]	/system/users/0/appwidgets.xml.bak	
+6.306879	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+6.307564	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+6.307587	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+6.307625	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+6.307896	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+6.307921	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+6.307957	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+6.307991	[FS]	/system/users/0/accounts.db-journal	1	
+6.314402	[FS]	/system/users/0	1	
+6.339917	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+6.339990	[FS]	/system/users/0/accounts.db-journal	1	
+6.359536	[WO]	/system/users/0/accounts.db	0	4096	180224	
+6.359594	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+6.359675	[FS]	/system/users/0/accounts.db	1	
+6.372029	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+6.372096	[FS]	/system/users/0/accounts.db-journal	1	
+7.330238	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.330509	[CR]	/system/job/jobs.xml	
+7.330629	[WA]	/system/job/jobs.xml	0	3835	0	
+7.330998	[FS]	/system/job/jobs.xml	0	
+7.341398	[UN]	/system/job/jobs.xml.bak	
+7.547654	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+7.547920	[CR]	/system/job/jobs.xml	
+7.548028	[WA]	/system/job/jobs.xml	0	4096	0	
+7.548124	[FS]	/system/job/jobs.xml	0	
+7.553994	[UN]	/system/job/jobs.xml.bak	
+10.757650	[CR]	/system/dropbox/drop13.tmp	
+10.757784	[FS]	/system/dropbox/drop13.tmp	0	
+10.766450	[WA]	/system/dropbox/drop13.tmp	0	105	0	
+10.767032	[RN]	/system/dropbox/drop13.tmp	/system/dropbox/event_log@1508137557682.txt	
+11.045947	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.046016	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.046037	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.046067	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.046257	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.046278	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.046309	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.046340	[FS]	/system/users/0/accounts.db-journal	1	
+11.048147	[FS]	/system/users/0	1	
+11.052745	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.052806	[FS]	/system/users/0/accounts.db-journal	1	
+11.053762	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.053801	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.053842	[FS]	/system/users/0/accounts.db	1	
+11.055659	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.055685	[FS]	/system/users/0/accounts.db-journal	1	
+11.059935	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.060005	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.060025	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.060060	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.060092	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.060111	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.060139	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.060668	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+11.060696	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+11.060773	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+11.060817	[FS]	/system/users/0/accounts.db-journal	1	
+11.064210	[FS]	/system/users/0	1	
+11.067045	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.067088	[FS]	/system/users/0/accounts.db-journal	1	
+11.068509	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.068560	[WO]	/system/users/0/accounts.db	114688	4096	180224	
+11.068592	[WO]	/system/users/0/accounts.db	155648	4096	180224	
+11.068638	[FS]	/system/users/0/accounts.db	1	
+11.071272	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.071315	[FS]	/system/users/0/accounts.db-journal	1	
+11.491990	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.492049	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.492070	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.492100	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.492132	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.492152	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.492181	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.492212	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+11.492231	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+11.492258	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+11.492400	[WO]	/system/users/0/accounts.db-journal	12824	4	41552	
+11.492420	[WO]	/system/users/0/accounts.db-journal	12828	4096	41552	
+11.492944	[WO]	/system/users/0/accounts.db-journal	16924	4	41552	
+11.492980	[FS]	/system/users/0/accounts.db-journal	1	
+11.496783	[FS]	/system/users/0	1	
+11.498849	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.498917	[FS]	/system/users/0/accounts.db-journal	1	
+11.500175	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.500225	[WO]	/system/users/0/accounts.db	20480	4096	180224	
+11.500267	[WO]	/system/users/0/accounts.db	114688	4096	180224	
+11.500295	[WO]	/system/users/0/accounts.db	176128	4096	180224	
+11.500336	[FS]	/system/users/0/accounts.db	1	
+11.505649	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.505714	[FS]	/system/users/0/accounts.db-journal	1	
+11.509593	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.510405	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.510484	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.510525	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.510802	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.510828	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.510861	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.510913	[FS]	/system/users/0/accounts.db-journal	1	
+11.513719	[FS]	/system/users/0	1	
+11.515647	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.515685	[FS]	/system/users/0/accounts.db-journal	1	
+11.516690	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.516742	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.516777	[FS]	/system/users/0/accounts.db	1	
+11.518586	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.518618	[FS]	/system/users/0/accounts.db-journal	1	
+11.527743	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.527846	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.527866	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.527896	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.528079	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.528101	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.528135	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.528177	[FS]	/system/users/0/accounts.db-journal	1	
+11.530792	[FS]	/system/users/0	1	
+11.532568	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.532629	[FS]	/system/users/0/accounts.db-journal	1	
+11.533663	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.533712	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.533748	[FS]	/system/users/0/accounts.db	1	
+11.539922	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.539998	[FS]	/system/users/0/accounts.db-journal	1	
+11.557599	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+11.557663	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+11.557684	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+11.557713	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+11.557854	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+11.557874	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+11.557904	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+11.557937	[FS]	/system/users/0/accounts.db-journal	1	
+11.562514	[FS]	/system/users/0	1	
+11.566596	[WO]	/system/users/0/accounts.db-journal	0	12	41552	
+11.566664	[FS]	/system/users/0/accounts.db-journal	1	
+11.567684	[WO]	/system/users/0/accounts.db	0	4096	180224	
+11.567726	[WO]	/system/users/0/accounts.db	81920	4096	180224	
+11.567761	[FS]	/system/users/0/accounts.db	1	
+11.570320	[WO]	/system/users/0/accounts.db-journal	0	28	41552	
+11.570378	[FS]	/system/users/0/accounts.db-journal	1	
+11.713165	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+11.713437	[CR]	/system/sync/accounts.xml	
+11.715663	[WA]	/system/sync/accounts.xml	0	8185	0	
+11.715992	[WA]	/system/sync/accounts.xml	8185	1221	8185	
+11.716081	[FS]	/system/sync/accounts.xml	0	
+11.720058	[RN]	/system/shared_prefs/log_files.xml	/system/shared_prefs/log_files.xml.bak	
+11.726605	[UN]	/system/sync/accounts.xml.bak	
+11.727078	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+11.727311	[CR]	/system/sync/status.bin	
+11.728046	[WA]	/system/sync/status.bin	0	3628	0	
+11.728159	[FS]	/system/sync/status.bin	0	
+11.728538	[CR]	/system/shared_prefs/log_files.xml	
+11.729570	[WA]	/system/shared_prefs/log_files.xml	0	183	0	
+11.729872	[FS]	/system/shared_prefs/log_files.xml	0	
+11.736876	[UN]	/system/sync/status.bin.bak	
+11.737476	[UN]	/system/shared_prefs/log_files.xml.bak	
+11.757129	[RN]	/system/shared_prefs/log_files.xml	/system/shared_prefs/log_files.xml.bak	
+11.757420	[CR]	/system/shared_prefs/log_files.xml	
+11.758240	[WA]	/system/shared_prefs/log_files.xml	0	183	0	
+11.758344	[FS]	/system/shared_prefs/log_files.xml	0	
+11.778750	[UN]	/system/shared_prefs/log_files.xml.bak	
+13.380544	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+13.808699	[FS]	/mediadrm/IDM1013/L1/cert.bin	0	
+13.996155	[UN]	/dalvik-cache/profiles/com.twitter.android	
+13.996367	[UN]	/data/com.twitter.android/lib	
+13.998801	[RD]	/data/com.twitter.android/cache/WebView/SafeBrowsing	
+13.998993	[RD]	/data/com.twitter.android/cache/WebView	
+13.999719	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/index	
+14.000452	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/index-dir/the-real-index	
+14.000605	[RD]	/data/com.twitter.android/cache/org.chromium.android_webview/index-dir	
+14.000774	[UN]	/data/com.twitter.android/cache/org.chromium.android_webview/a7ae0fac9c413631_0	
+14.002231	[RD]	/data/com.twitter.android/cache/org.chromium.android_webview	
+14.002391	[RD]	/data/com.twitter.android/cache	
+14.003712	[RD]	/data/com.twitter.android/code_cache	
+14.003968	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-ndk	
+14.004135	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionDevice.cls	
+14.004288	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3BeginSession.cls	
+14.004426	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionApp.cls	
+14.004551	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3SessionOS.cls	
+14.004814	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59E459D80346-0001-0E56-EC1B036D50B3.temp	
+14.004971	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files/crashlytics-userlog-59E45A50025E-0001-0800-EC1B036D50B3.temp	
+14.005040	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/log-files	
+14.005102	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core/59E45A50025E-0001-0800-EC1B036D50B3user.meta	
+14.005242	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android.crashlytics-core	
+14.005685	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics_to_send	
+14.005820	[UN]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers/session_analytics.tap	
+14.005881	[RD]	/data/com.twitter.android/files/.Fabric/com.crashlytics.sdk.android:answers	
+14.006065	[UN]	/data/com.twitter.android/files/.Fabric/io.fabric.sdk.android:fabric/com.crashlytics.settings.json	
+14.006329	[RD]	/data/com.twitter.android/files/.Fabric/io.fabric.sdk.android:fabric	
+14.006459	[RD]	/data/com.twitter.android/files/.Fabric	
+14.006527	[UN]	/data/com.twitter.android/files/serialized_local_feature_switches_manifest_7.17.01507638711724feature_switch_manifest	
+14.006778	[UN]	/data/com.twitter.android/files/feature_switches_0	
+14.006924	[UN]	/data/com.twitter.android/files/feature_switches_3317833400	
+14.007080	[RD]	/data/com.twitter.android/files	
+14.007271	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.android_preferences.xml	
+14.007409	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.sdk.android:answers:settings.xml	
+14.009068	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.sdk.android.crashlytics-core:com.crashlytics.android.core.CrashlyticsCore.xml	
+14.009368	[UN]	/data/com.twitter.android/shared_prefs/com.crashlytics.prefs.xml	
+14.009491	[UN]	/data/com.twitter.android/shared_prefs/r.xml	
+14.009609	[UN]	/data/com.twitter.android/shared_prefs/data_usage_observer.xml	
+14.009871	[UN]	/data/com.twitter.android/shared_prefs/0.xml	
+14.010005	[UN]	/data/com.twitter.android/shared_prefs/year_class.xml	
+14.010134	[UN]	/data/com.twitter.android/shared_prefs/evernote_jobs.xml	
+14.010279	[UN]	/data/com.twitter.android/shared_prefs/TwitterAdvertisingInfoPreferences.xml	
+14.010450	[UN]	/data/com.twitter.android/shared_prefs/DispatchActivity.xml	
+14.010613	[UN]	/data/com.twitter.android/shared_prefs/guest_auth.xml	
+14.010738	[UN]	/data/com.twitter.android/shared_prefs/config.xml	
+14.010876	[UN]	/data/com.twitter.android/shared_prefs/io.fabric.sdk.android:fabric:io.fabric.sdk.android.l.xml	
+14.011047	[UN]	/data/com.twitter.android/shared_prefs/WebViewChromiumPrefs.xml	
+14.011177	[UN]	/data/com.twitter.android/shared_prefs/Periscope Library Prefs.xml	
+14.011323	[UN]	/data/com.twitter.android/shared_prefs/3317833400.xml	
+14.011476	[UN]	/data/com.twitter.android/shared_prefs/c2dm.xml	
+14.013216	[UN]	/data/com.twitter.android/shared_prefs/com.google.android.gcm.xml	
+14.013445	[UN]	/data/com.twitter.android/shared_prefs/appratingusage.xml	
+14.013608	[UN]	/data/com.twitter.android/shared_prefs/dm_prefs.xml	
+14.013779	[UN]	/data/com.twitter.android/shared_prefs/com.twitter.app.main.MainActivity.xml	
+14.013950	[UN]	/data/com.twitter.android/shared_prefs/system_permission_status.xml	
+14.014065	[UN]	/data/com.twitter.android/shared_prefs/metrics.xml	
+14.014294	[UN]	/data/com.twitter.android/shared_prefs/hardwareinfo_prefs.xml	
+14.014450	[RD]	/data/com.twitter.android/shared_prefs	
+14.015938	[UN]	/data/com.twitter.android/databases/evernote_jobs.db	
+14.016002	[UN]	/data/com.twitter.android/databases/evernote_jobs.db-journal	
+14.016496	[UN]	/data/com.twitter.android/databases/0-scribe.db	
+14.016550	[UN]	/data/com.twitter.android/databases/0-scribe.db-journal	
+14.016910	[UN]	/data/com.twitter.android/databases/0-48.db	
+14.017168	[UN]	/data/com.twitter.android/databases/0-48.db-journal	
+14.017319	[UN]	/data/com.twitter.android/databases/3317833400-48.db	
+14.017371	[UN]	/data/com.twitter.android/databases/3317833400-48.db-journal	
+14.018431	[UN]	/data/com.twitter.android/databases/3317833400-scribe.db	
+14.018487	[UN]	/data/com.twitter.android/databases/3317833400-scribe.db-journal	
+14.018837	[UN]	/data/com.twitter.android/databases/global.db	
+14.018945	[UN]	/data/com.twitter.android/databases/global.db-journal	
+14.019187	[UN]	/data/com.twitter.android/databases/3317833400-drafts.db	
+14.019374	[UN]	/data/com.twitter.android/databases/3317833400-drafts.db-journal	
+14.019551	[UN]	/data/com.twitter.android/databases/3317833400-dm.db	
+14.019760	[UN]	/data/com.twitter.android/databases/3317833400-dm.db-journal	
+14.019933	[UN]	/data/com.twitter.android/databases/3317833400-lru_key_value.db	
+14.020128	[UN]	/data/com.twitter.android/databases/3317833400-lru_key_value.db-journal	
+14.027369	[RD]	/data/com.twitter.android/databases	
+14.027813	[UN]	/data/com.twitter.android/app_webview/webview_data.lock	
+14.027941	[UN]	/data/com.twitter.android/app_webview/Web Data	
+14.028108	[UN]	/data/com.twitter.android/app_webview/metrics_guid	
+14.028261	[UN]	/data/com.twitter.android/app_webview/Web Data-journal	
+14.029847	[UN]	/data/com.twitter.android/app_webview/GPUCache/index	
+14.036023	[UN]	/data/com.twitter.android/app_webview/GPUCache/index-dir/the-real-index	
+14.036201	[RD]	/data/com.twitter.android/app_webview/GPUCache/index-dir	
+14.036342	[RD]	/data/com.twitter.android/app_webview/GPUCache	
+14.036514	[UN]	/data/com.twitter.android/app_webview/Cookies	
+14.036729	[UN]	/data/com.twitter.android/app_webview/Cookies-journal	
+14.036816	[RD]	/data/com.twitter.android/app_webview	
+14.037160	[RD]	/data/com.twitter.android/app_textures	
+14.038047	[RD]	/data/com.twitter.android/app_download_internal	
+14.038185	[RD]	/data/com.twitter.android	
+14.485771	[RN]	/system/users/0/runtime-permissions.xml	/system/users/0/runtime-permissions.xml.bak	
+14.486038	[CR]	/system/users/0/runtime-permissions.xml	
+14.506818	[WA]	/system/users/0/runtime-permissions.xml	0	8192	0	
+14.514570	[WA]	/system/users/0/runtime-permissions.xml	8192	7406	8192	
+14.514714	[FS]	/system/users/0/runtime-permissions.xml	0	
+14.534027	[UN]	/app/com.twitter.android-2/base.apk	
+14.579702	[UN]	/system/users/0/runtime-permissions.xml.bak	
+14.580136	[UN]	/app/com.twitter.android-2/lib/arm/libtwittermedia.so	
+14.582239	[UN]	/app/com.twitter.android-2/lib/arm/libbrotli.so	
+14.582839	[UN]	/app/com.twitter.android-2/lib/arm/libzstd.so	
+14.583129	[UN]	/app/com.twitter.android-2/lib/arm/libcrashlytics-envelope.so	
+14.583265	[UN]	/app/com.twitter.android-2/lib/arm/libsuperresolutionmodule.so	
+14.583952	[UN]	/app/com.twitter.android-2/lib/arm/libbrotli-jni.so	
+14.584086	[UN]	/app/com.twitter.android-2/lib/arm/libimagepipeline.so	
+14.584397	[UN]	/app/com.twitter.android-2/lib/arm/libopenclinformation.so	
+14.584985	[UN]	/app/com.twitter.android-2/lib/arm/libunwind-crashlytics.so	
+14.585155	[UN]	/app/com.twitter.android-2/lib/arm/libcrashlytics.so	
+14.585497	[UN]	/app/com.twitter.android-2/lib/arm/liblhlslib-jni.so	
+14.585731	[RD]	/app/com.twitter.android-2/lib/arm	
+14.588651	[RD]	/app/com.twitter.android-2/lib	
+14.589036	[UN]	/app/com.twitter.android-2/oat/arm/base.odex	
+14.639463	[RD]	/app/com.twitter.android-2/oat/arm	
+14.639676	[RD]	/app/com.twitter.android-2/oat	
+14.639833	[RD]	/app/com.twitter.android-2	
+14.802282	[RN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+14.802543	[CR]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	
+14.803294	[WA]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	322	0	
+14.803388	[FS]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml	0	
+14.812415	[RN]	/system/netpolicy.xml	/system/netpolicy.xml.bak	
+14.812624	[CR]	/system/netpolicy.xml	
+14.813096	[WA]	/system/netpolicy.xml	0	113	0	
+14.813191	[FS]	/system/netpolicy.xml	0	
+14.819713	[UN]	/system/users/0/registered_services/android.accounts.AccountAuthenticator.xml.bak	
+14.831045	[UN]	/system/netpolicy.xml.bak	
+14.865685	[RD]	/media/0/Android/data/com.twitter.android/files	
+14.878052	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/journal	
+14.878843	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/0fff17aa3f0332c8cbd8042b45c4e2ab.1	
+14.879473	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/7bc031ea3fd7b8db3f6c9ab4fbef9632.1	
+14.880188	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/0fff17aa3f0332c8cbd8042b45c4e2ab.0	
+14.880828	[UN]	/media/0/Android/data/com.twitter.android/cache/http-responses/7bc031ea3fd7b8db3f6c9ab4fbef9632.0	
+14.881411	[RD]	/media/0/Android/data/com.twitter.android/cache/http-responses	
+14.917767	[UN]	/media/0/Android/data/com.twitter.android/cache/users/journal	
+14.918622	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8030e758c84282493ce190bb5d987a9b.0	
+14.919274	[UN]	/media/0/Android/data/com.twitter.android/cache/users/18f1af0407202115ccca82e24f8b9163.0	
+14.921490	[RN]	/system/netstats/uid.1507300282106-	/system/netstats/uid.1507300282106-.backup	
+14.921727	[CR]	/system/netstats/uid.1507300282106-	
+14.921803	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e683dba100011c33cba0b21075c62dbd.0	
+14.922501	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8f9aa291351ac784e1b56ed7bad64de5.0	
+14.923337	[UN]	/media/0/Android/data/com.twitter.android/cache/users/069066eb62aa55e34a0516a15b0f83d2.0	
+14.924208	[WA]	/system/netstats/uid.1507300282106-	0	8189	0	
+14.924647	[UN]	/media/0/Android/data/com.twitter.android/cache/users/891ccc2870fb46ad18ce6d4e41aba279.0	
+14.926240	[WA]	/system/netstats/uid.1507300282106-	8189	8192	8189	
+14.926977	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ad97e8c3b047efbb9794c98cbf218026.0	
+14.933476	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5eba204f6076a9234d4f3cd1088ef79e.0	
+14.933682	[WA]	/system/netstats/uid.1507300282106-	16381	5087	16381	
+14.933813	[FS]	/system/netstats/uid.1507300282106-	0	
+14.935125	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8ea979582f9c5e5bb3c0e8c81cc5c73d.0	
+14.936496	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2e63a834c102bce5834b518cda8e9a05.0	
+14.942213	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4815e9b29630d92b56151a0e9e43284b.0	
+14.942796	[UN]	/system/netstats/uid.1507300282106-.backup	
+14.982316	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4ad63efd9b36e8968fe481daa7688dec.0	
+14.983031	[UN]	/media/0/Android/data/com.twitter.android/cache/users/00c5209415cfc56630382ff2c50b52ec.0	
+14.983718	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1fcda67c1448352eb128b498a3d41efc.0	
+14.984399	[UN]	/media/0/Android/data/com.twitter.android/cache/users/54e1e44813f5fd770485015f5eb39371.0	
+14.985117	[UN]	/media/0/Android/data/com.twitter.android/cache/users/14669c75effe199290f8f9316bcba3d8.0	
+14.985809	[UN]	/media/0/Android/data/com.twitter.android/cache/users/51e15b14299157a406020c37a697b8d5.0	
+14.986584	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9b9a1c28715482c11a4fc56d94e400f5.0	
+14.987254	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cd8353f56eb96191b640bc14225c1714.0	
+14.987904	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ac810903f17179f531f071f5cd9ae9a5.0	
+14.988637	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a91527646a619d6df408949ec17e528d.0	
+14.990131	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9e98bcc927fac305debdd877691bf0f6.0	
+14.995300	[UN]	/media/0/Android/data/com.twitter.android/cache/users/37818ba51a5e2093278925702a4d055f.0	
+14.996807	[UN]	/media/0/Android/data/com.twitter.android/cache/users/c176780acb95d728db43c360633c32d2.0	
+14.997474	[UN]	/media/0/Android/data/com.twitter.android/cache/users/80a8c4d06a382cdbfbd2eead6b0b6386.0	
+14.998112	[UN]	/media/0/Android/data/com.twitter.android/cache/users/09b2918dab905567508668571c941315.0	
+14.998847	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6143d395063e52a5ddca3ae23f55b184.0	
+14.999503	[UN]	/media/0/Android/data/com.twitter.android/cache/users/735600aebc0ab26e75e20ff3ccb33e33.0	
+15.001511	[UN]	/media/0/Android/data/com.twitter.android/cache/users/68fb52d13567778b37143bdef3aadbaa.0	
+15.002188	[UN]	/media/0/Android/data/com.twitter.android/cache/users/46fbdbd4585f499224eb9b7178c03f0b.0	
+15.002814	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ea9e847d313d300b87b50efa3dc95062.0	
+15.003469	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1507b10a55266f15f9b08f53395e08cb.0	
+15.004126	[UN]	/media/0/Android/data/com.twitter.android/cache/users/389deba4ae543612c65ddb2248f65d06.0	
+15.004802	[UN]	/media/0/Android/data/com.twitter.android/cache/users/77d8299256aa37619a8e46eb71b3370b.0	
+15.005469	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cafa839664dcfcb7856379ecc53b6c48.0	
+15.006149	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3245b38103ba46afb7eae6e5929f2104.0	
+15.006991	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ce98a6292c2931bd36a0aae79fdcd903.0	
+15.008739	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b85f1f49583c7efad7139044a8769311.0	
+15.015899	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9011a4f3c713857d5f6bd36551395f4c.0	
+15.016764	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3a57b46d654dee7899c3325a39308cdb.0	
+15.017448	[UN]	/media/0/Android/data/com.twitter.android/cache/users/470029db94e7095fb039bdc78849f668.0	
+15.018167	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a46be261fc52907ba07bd17aa1161d79.0	
+15.018962	[UN]	/media/0/Android/data/com.twitter.android/cache/users/218830eb12416e637a6506f457c7382f.0	
+15.019712	[UN]	/media/0/Android/data/com.twitter.android/cache/users/11ab094a4e68d1b3ea96daadd49bbb3b.0	
+15.020530	[UN]	/media/0/Android/data/com.twitter.android/cache/users/06489ca96f174742f3ac7476d27d4741.0	
+15.021313	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2fe45d368961a1a1a96ad2d17d155e36.0	
+15.022098	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b9dc4fbffbcca73417791ccafa3e9303.0	
+15.022780	[UN]	/media/0/Android/data/com.twitter.android/cache/users/7cd6f0ad692c757f66210b16edcc8cf3.0	
+15.023868	[UN]	/media/0/Android/data/com.twitter.android/cache/users/396533ee6ef6eb43cab5d66db7ba38d1.0	
+15.025141	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cfe552b0ddab37f8fd62bb7c1763872a.0	
+15.026144	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9f6d3c5e15d6813e2284ecfeab445650.0	
+15.027495	[UN]	/media/0/Android/data/com.twitter.android/cache/users/bb8ca2d36f26ae24f7f900c26a7ba30d.0	
+15.029290	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e123ddeebc87be012fdf46be91b4f461.0	
+15.031844	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4be4fe77d75d5a1578d6f92593cce450.0	
+15.032716	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3f658a55ff57fab6822beb2f4f2e53f8.0	
+15.033397	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1380fd386cea989da6958dcc7a796875.0	
+15.036813	[UN]	/media/0/Android/data/com.twitter.android/cache/users/7dbcbe5ba03ccc5f5831b5d6ca2e7106.0	
+15.037592	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8711f3e22ff708eeb88e5d5ce332720c.0	
+15.038245	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3d18986409e5840b5a7ab2dc82ffd415.0	
+15.038999	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6abb300f369135cd510bbbb37698ae65.0	
+15.039809	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ad3e203114ccdea745022986be3aad60.0	
+15.040570	[UN]	/media/0/Android/data/com.twitter.android/cache/users/a9e1af1fcacca77f37d16a4982e5126d.0	
+15.041670	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6ad8f34bdac665dd179682008c554ca5.0	
+15.042684	[UN]	/media/0/Android/data/com.twitter.android/cache/users/933e2918ba182d9c7c7b354433e975db.0	
+15.043385	[UN]	/media/0/Android/data/com.twitter.android/cache/users/f50bf716dd342287d7b2b3d095d4757c.0	
+15.046957	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b34c560c54474ae7e1fc5b37dfc82969.0	
+15.050281	[UN]	/media/0/Android/data/com.twitter.android/cache/users/482c6668fe844adca3dd27dbe2675959.0	
+15.051030	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b727cc1c2c7c7f2e977430d07ce87d5f.0	
+15.052037	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d15887747b01ca5d7bf932858d3c590b.0	
+15.053502	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5b93525f22b0ef351194976f0d3e6a8a.0	
+15.054561	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d9173b49fe1eb859e3511a742d5b4531.0	
+15.055295	[UN]	/media/0/Android/data/com.twitter.android/cache/users/8defa2e70750b122b52bb5c71bed6ed4.0	
+15.056466	[UN]	/media/0/Android/data/com.twitter.android/cache/users/fbb17c85bb40ddd73f908c830a228dce.0	
+15.057314	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9b7097f69addc816aaae4dd9445c6d18.0	
+15.058014	[UN]	/media/0/Android/data/com.twitter.android/cache/users/26d849ec5bfa760951bf85237e4c7438.0	
+15.060284	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1889b38550bfaf1c6f12f70610e3304e.0	
+15.061071	[UN]	/media/0/Android/data/com.twitter.android/cache/users/957e6901c1add888238da86136fa092c.0	
+15.061794	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2e208e29b1c8954ed8175285b79be21c.0	
+15.062499	[UN]	/media/0/Android/data/com.twitter.android/cache/users/15008ebf9974971ee0aa0bb336bb7705.0	
+15.063259	[UN]	/media/0/Android/data/com.twitter.android/cache/users/50ce52bb2d869a6df50d234553d0d631.0	
+15.064041	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cf2024b55aad46bbbca91b7474ecee63.0	
+15.066060	[UN]	/media/0/Android/data/com.twitter.android/cache/users/6585373bd3d9cc4ba227a7e450426340.0	
+15.066803	[UN]	/media/0/Android/data/com.twitter.android/cache/users/153c3cacbe54aa6aa109d8ad5ee464bf.0	
+15.067642	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ccd888c65d4fb66c1954673ece03f815.0	
+15.068439	[UN]	/media/0/Android/data/com.twitter.android/cache/users/96232a5bc2eeb8fc12c9614e8fb7f146.0	
+15.069121	[UN]	/media/0/Android/data/com.twitter.android/cache/users/d39244ab6d3c7608e1e0ec38b5e94a79.0	
+15.069894	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5ea26fcb06fcfb20ad88f3b7fac74863.0	
+15.070588	[UN]	/media/0/Android/data/com.twitter.android/cache/users/c3a1309964bcd858cb707c46771eb42b.0	
+15.072125	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9f7afe17b3a6dbf1b5b159cb4edd2c0e.0	
+15.076311	[UN]	/media/0/Android/data/com.twitter.android/cache/users/3b258a8434e05251836f323e0c5a4c1f.0	
+15.077336	[UN]	/media/0/Android/data/com.twitter.android/cache/users/4e58afd1c8361694086b1ba1322e4a66.0	
+15.078084	[UN]	/media/0/Android/data/com.twitter.android/cache/users/5313c1d3d0af0d8819698f691f52a437.0	
+15.078784	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2747a8f44cb82e9c4452b89a37927824.0	
+15.079446	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1d6230c73b1a5a7d4d433402a44f75eb.0	
+15.080415	[UN]	/media/0/Android/data/com.twitter.android/cache/users/172c63110470d5b0b145c1d263cbfa17.0	
+15.081146	[UN]	/media/0/Android/data/com.twitter.android/cache/users/9d2c0b5d293c882d474cbb7a3ac6bc46.0	
+15.083252	[UN]	/media/0/Android/data/com.twitter.android/cache/users/ca7f6a39116f45bb5d7dddf197649932.0	
+15.084090	[UN]	/media/0/Android/data/com.twitter.android/cache/users/418cc56107c5818142d469e7397e6025.0	
+15.085079	[UN]	/media/0/Android/data/com.twitter.android/cache/users/f6a98c1727516f7f8ca1fd7ff772c7ed.0	
+15.085758	[UN]	/media/0/Android/data/com.twitter.android/cache/users/e9c800c8d29df4e055a18d960f834099.0	
+15.086462	[UN]	/media/0/Android/data/com.twitter.android/cache/users/21009f5129bb78cd11f6844f86445c53.0	
+15.087165	[UN]	/media/0/Android/data/com.twitter.android/cache/users/bcd9c8bdbd14a33244fcd24d87da74a9.0	
+15.087888	[UN]	/media/0/Android/data/com.twitter.android/cache/users/b0eff74f1154154c8ae985d6460cab65.0	
+15.088239	[RN]	/system/users/0/registered_services/android.content.SyncAdapter.xml	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+15.088508	[CR]	/system/users/0/registered_services/android.content.SyncAdapter.xml	
+15.088535	[UN]	/media/0/Android/data/com.twitter.android/cache/users/cb8d30b8ba81f2d1f128cdf6dd0d20ce.0	
+15.089209	[UN]	/media/0/Android/data/com.twitter.android/cache/users/59c6c43394e489475691ab7c4e13e458.0	
+15.089583	[WA]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	4152	0	
+15.089760	[FS]	/system/users/0/registered_services/android.content.SyncAdapter.xml	0	
+15.089959	[UN]	/media/0/Android/data/com.twitter.android/cache/users/1cfbd7fb4ab3b685e2e4bb3df58c4906.0	
+15.090589	[UN]	/media/0/Android/data/com.twitter.android/cache/users/46b6451ec3124cb85587935dd148263d.0	
+15.091235	[UN]	/media/0/Android/data/com.twitter.android/cache/users/18c5419b303a815dd0373fc183d7fab9.0	
+15.100608	[UN]	/media/0/Android/data/com.twitter.android/cache/users/2215c7987cb1e11e27b026ff68af49d0.0	
+15.101968	[UN]	/system/users/0/registered_services/android.content.SyncAdapter.xml.bak	
+15.104120	[RD]	/media/0/Android/data/com.twitter.android/cache/users	
+15.111562	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.111799	[CR]	/system/job/jobs.xml	
+15.111895	[WA]	/system/job/jobs.xml	0	3835	0	
+15.111989	[FS]	/system/job/jobs.xml	0	
+15.121462	[WO]	/system/users/0/accounts.db-journal	0	512	41552	
+15.121530	[WO]	/system/users/0/accounts.db-journal	512	4	41552	
+15.121554	[WO]	/system/users/0/accounts.db-journal	516	4096	41552	
+15.121585	[WO]	/system/users/0/accounts.db-journal	4612	4	41552	
+15.121611	[WO]	/system/users/0/accounts.db-journal	4616	4	41552	
+15.121630	[WO]	/system/users/0/accounts.db-journal	4620	4096	41552	
+15.121657	[WO]	/system/users/0/accounts.db-journal	8716	4	41552	
+15.121739	[WO]	/system/users/0/accounts.db-journal	8720	4	41552	
+15.121759	[WO]	/system/users/0/accounts.db-journal	8724	4096	41552	
+15.121787	[WO]	/system/users/0/accounts.db-journal	12820	4	41552	
+15.121810	[WO]	/system/users/0/accounts.db-journal	12824	4	41552	
+15.121828	[WO]	/system/users/0/accounts.db-journal	12828	4096	41552	
+15.121857	[WO]	/system/users/0/accounts.db-journal	16924	4	41552	
+15.121898	[WO]	/system/users/0/accounts.db-journal	16928	4	41552	
+15.121917	[WO]	/system/users/0/accounts.db-journal	16932	4096	41552	
+15.122275	[UN]	/system/job/jobs.xml.bak	
+15.122464	[WO]	/system/users/0/accounts.db-journal	21028	4	41552	
+15.122493	[WO]	/system/users/0/accounts.db-journal	21032	4	41552	
+15.122514	[WO]	/system/users/0/accounts.db-journal	21036	4096	41552	
+15.124008	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.124188	[CR]	/system/job/jobs.xml	
+15.124292	[WA]	/system/job/jobs.xml	0	2743	0	
+15.124298	[WO]	/system/users/0/accounts.db-journal	25132	4	41552	
+15.124354	[WO]	/system/users/0/accounts.db-journal	25136	4	41552	
+15.124376	[WO]	/system/users/0/accounts.db-journal	25140	4096	41552	
+15.124383	[FS]	/system/job/jobs.xml	0	
+15.126478	[WO]	/system/users/0/accounts.db-journal	29236	4	41552	
+15.126525	[WO]	/system/users/0/accounts.db-journal	29240	4	41552	
+15.126547	[WO]	/system/users/0/accounts.db-journal	29244	4096	41552	
+15.127053	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/journal	
+15.127908	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/928d00730b37eea5a58a4c22e0c7c4fc.0	
+15.128130	[WO]	/system/users/0/accounts.db-journal	33340	4	41552	
+15.128339	[WO]	/system/users/0/accounts.db-journal	33344	4	41552	
+15.128368	[WO]	/system/users/0/accounts.db-journal	33348	4096	41552	
+15.128929	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f6cf57cde1c398a5e71d8363c0bbb922.0	
+15.129574	[WO]	/system/users/0/accounts.db-journal	37444	4	41552	
+15.129876	[WO]	/system/users/0/accounts.db-journal	37448	4	41552	
+15.134331	[WO]	/system/users/0/accounts.db-journal	37452	4096	41552	
+15.135116	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/61f40fbeeae4bc3d597d2b6ef9e15db2.0	
+15.135209	[UN]	/system/job/jobs.xml.bak	
+15.135523	[WO]	/system/users/0/accounts.db-journal	41548	4	41552	
+15.135558	[WA]	/system/users/0/accounts.db-journal	41552	4	41552	
+15.135594	[WA]	/system/users/0/accounts.db-journal	41556	4096	41556	
+15.135663	[WA]	/system/users/0/accounts.db-journal	45652	4	45652	
+15.135774	[WA]	/system/users/0/accounts.db-journal	45656	4	45656	
+15.135802	[WA]	/system/users/0/accounts.db-journal	45660	4096	45660	
+15.135860	[WA]	/system/users/0/accounts.db-journal	49756	4	49756	
+15.135902	[FS]	/system/users/0/accounts.db-journal	1	
+15.137100	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a5911431244c250633dea8bbec99bd1a.0	
+15.137939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ab4863ce48500b94a45d5b1a18c280d1.0	
+15.138754	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/47fd4b5b95948dffb8ca67b0b311c76f.0	
+15.138862	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.139047	[CR]	/system/job/jobs.xml	
+15.139137	[WA]	/system/job/jobs.xml	0	2743	0	
+15.139233	[FS]	/system/job/jobs.xml	0	
+15.139558	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6c2cd78dded28a6e2bc15a3fc3c8d214.0	
+15.140264	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/89c3ca8a0c5a43a0349a8e516a9c5ae2.0	
+15.141096	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6aaabe3663103643eccc383c3fe6881b.0	
+15.141876	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/188b4afc00b303157db9e2cc9e32b3b6.0	
+15.142933	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b459414c1503f69d1d28025d655ee569.0	
+15.150517	[UN]	/system/job/jobs.xml.bak	
+15.151401	[FS]	/system/users/0	1	
+15.151920	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a1ffbda78f74d3a4a417050b539667db.0	
+15.152421	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.152655	[CR]	/system/job/jobs.xml	
+15.152749	[WA]	/system/job/jobs.xml	0	2743	0	
+15.152848	[FS]	/system/job/jobs.xml	0	
+15.153660	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/08d11ed1679660ee1921e927e1e3fb18.0	
+15.154455	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bf83a7ff73b0fa365adc5109e4231527.0	
+15.156147	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e9196ae04dbd66e1e5b9793f98a441a7.0	
+15.165193	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7040006f1c6658e5723a76e5d9a05214.0	
+15.165533	[WO]	/system/users/0/accounts.db-journal	0	12	49760	
+15.165575	[FS]	/system/users/0/accounts.db-journal	1	
+15.165616	[UN]	/system/job/jobs.xml.bak	
+15.166164	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/5367e2139bebb5c0679968fbe9b20093.0	
+15.166842	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fae84cccfe175fc227fa6168cd22459e.0	
+15.167576	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2219954e8578d77f90a4809bbe5d3f6b.0	
+15.167805	[WO]	/system/users/0/accounts.db	0	4096	180224	
+15.167855	[WO]	/system/users/0/accounts.db	4096	4096	180224	
+15.167894	[WO]	/system/users/0/accounts.db	12288	4096	180224	
+15.167927	[WO]	/system/users/0/accounts.db	16384	4096	180224	
+15.167960	[WO]	/system/users/0/accounts.db	24576	4096	180224	
+15.167992	[WO]	/system/users/0/accounts.db	40960	4096	180224	
+15.168022	[WO]	/system/users/0/accounts.db	122880	4096	180224	
+15.168057	[WO]	/system/users/0/accounts.db	126976	4096	180224	
+15.168088	[WO]	/system/users/0/accounts.db	139264	4096	180224	
+15.168123	[WO]	/system/users/0/accounts.db	147456	4096	180224	
+15.168154	[WO]	/system/users/0/accounts.db	151552	4096	180224	
+15.168185	[WO]	/system/users/0/accounts.db	167936	4096	180224	
+15.168226	[FS]	/system/users/0/accounts.db	1	
+15.169730	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4a92b7318622124fbc13ee55f2fed837.0	
+15.170761	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6fa7bb6028eb7c78e29b15bd617d3e2e.0	
+15.171550	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7f2cad54e08cc47dcedf8ff2c428c9c5.0	
+15.172289	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6336c0fb4cc3ddaaa61c5d2510e9997c.0	
+15.172984	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d97c0ef9aa8a6210ca55fd324b3ff289.0	
+15.173695	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/227920913ce2513a1cd3108d81c06ec4.0	
+15.174378	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/028e10dcd5b719469d6ebcf11386393d.0	
+15.175103	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3b7f79250412202bfc70dd72c7c74355.0	
+15.175868	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fc775d07f88ca240bd44303566a871f3.0	
+15.176095	[WO]	/system/users/0/accounts.db-journal	0	28	49760	
+15.176151	[FS]	/system/users/0/accounts.db-journal	1	
+15.176772	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4f6884255359e00ea364d10dd72d30d9.0	
+15.177614	[RN]	/system/job/jobs.xml	/system/job/jobs.xml.bak	
+15.177836	[CR]	/system/job/jobs.xml	
+15.177937	[WA]	/system/job/jobs.xml	0	2743	0	
+15.178033	[FS]	/system/job/jobs.xml	0	
+15.178844	[WO]	/system/users/0/accounts.db-journal	0	512	49760	
+15.178874	[WO]	/system/users/0/accounts.db-journal	512	4	49760	
+15.178911	[WO]	/system/users/0/accounts.db-journal	516	4096	49760	
+15.178941	[WO]	/system/users/0/accounts.db-journal	4612	4	49760	
+15.178969	[WO]	/system/users/0/accounts.db-journal	4616	4	49760	
+15.178988	[WO]	/system/users/0/accounts.db-journal	4620	4096	49760	
+15.179015	[WO]	/system/users/0/accounts.db-journal	8716	4	49760	
+15.179066	[WO]	/system/users/0/accounts.db-journal	8720	4	49760	
+15.179086	[WO]	/system/users/0/accounts.db-journal	8724	4096	49760	
+15.179114	[WO]	/system/users/0/accounts.db-journal	12820	4	49760	
+15.179145	[FS]	/system/users/0/accounts.db-journal	1	
+15.180038	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/69f90060e023c3ac7b7f565a3b8ee1b5.0	
+15.188636	[FS]	/system/users/0	1	
+15.189185	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6ec7e5cdeab9209a2d824a0480a934d5.0	
+15.190064	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d593c45231b227fee6229469e2f7187d.0	
+15.190959	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/da498617da5a30abe2d91c28bad6239b.0	
+15.191549	[UN]	/system/job/jobs.xml.bak	
+15.192033	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/561d122d099e53cdacaaebc4a3cd73f4.0	
+15.198400	[WO]	/system/users/0/accounts.db-journal	0	12	49760	
+15.198461	[FS]	/system/users/0/accounts.db-journal	1	
+15.198675	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a4314b08076fc6c98fe610089ecc50e4.0	
+15.200369	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a8cc968e99334557543d384131ef77de.0	
+15.201279	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/583f9d2a802bf83379a25ff1a0afb88f.0	
+15.202015	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fdca30a9fadecb881fdf43ad37473a60.0	
+15.202812	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b23a09a4f8ea4d901c6f88b2e8e6e652.0	
+15.203500	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8a79508cf0750cf7b9be0b11279b2c9f.0	
+15.204221	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e927123184fb435bbff741cedb4e6662.0	
+15.204939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0f72809076e993bc237c958d54177c32.0	
+15.205714	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4bc2eef97dce358a713a98c05fc935a7.0	
+15.206615	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6dbde27391674d4fea3b842738b9f4f6.0	
+15.207293	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/95e4f59145e803c387c68fc933d57f37.0	
+15.208029	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/66e83ff4d9a386cf9d2e5c1421b686a4.0	
+15.208175	[WO]	/system/users/0/accounts.db	0	4096	176128	
+15.208228	[WO]	/system/users/0/accounts.db	65536	4096	176128	
+15.208341	[WO]	/system/users/0/accounts.db	69632	4096	176128	
+15.208380	[FS]	/system/users/0/accounts.db	1	
+15.208739	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/5c06fb19fa03244b67b3eab75f4d998e.0	
+15.209411	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ad0a0f4aa0d75b73f6f5d0327b5af17b.0	
+15.210148	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/ff02ee328056ac2fe32a6be5723b0576.0	
+15.210923	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/c5daa342f98ae27c51e29861f5ad82bb.0	
+15.211872	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/74bfc950a7485b77a4cc621ee4b57387.0	
+15.227026	[WO]	/system/users/0/accounts.db-journal	0	28	49760	
+15.235755	[FS]	/system/users/0/accounts.db-journal	1	
+15.236707	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9b238a3951ff803e108c35e709782b78.0	
+15.238048	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/c23265128ce8b369142ed14b3813eb9f.0	
+15.238781	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0550492c5656eeae7583eca5450bd50e.0	
+15.246084	[WO]	/system/notification_log.db-journal	0	512	49760	
+15.246146	[WO]	/system/notification_log.db-journal	512	4	49760	
+15.246171	[WO]	/system/notification_log.db-journal	516	4096	49760	
+15.246214	[WO]	/system/notification_log.db-journal	4612	4	49760	
+15.246258	[WO]	/system/notification_log.db-journal	4616	4	49760	
+15.246282	[WO]	/system/notification_log.db-journal	4620	4096	49760	
+15.246321	[WO]	/system/notification_log.db-journal	8716	4	49760	
+15.246386	[WO]	/system/notification_log.db-journal	8720	4	49760	
+15.246410	[WO]	/system/notification_log.db-journal	8724	4096	49760	
+15.246454	[WO]	/system/notification_log.db-journal	12820	4	49760	
+15.246491	[FS]	/system/notification_log.db-journal	1	
+15.251165	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/14a83003b7cb4447a7658e515bbdda1d.0	
+15.259292	[RN]	/system/sync/accounts.xml	/system/sync/accounts.xml.bak	
+15.259565	[CR]	/system/sync/accounts.xml	
+15.269432	[FS]	/system	1	
+15.271632	[WA]	/system/sync/accounts.xml	0	8185	0	
+15.272758	[WA]	/system/sync/accounts.xml	8185	976	8185	
+15.272815	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b38543eac7989b9439b5f209d5db5e4f.0	
+15.272849	[FS]	/system/sync/accounts.xml	0	
+15.288522	[UN]	/system/sync/accounts.xml.bak	
+15.288959	[RN]	/system/sync/status.bin	/system/sync/status.bin.bak	
+15.289202	[CR]	/system/sync/status.bin	
+15.289899	[WA]	/system/sync/status.bin	0	3532	0	
+15.290010	[FS]	/system/sync/status.bin	0	
+15.290163	[WO]	/system/notification_log.db-journal	0	12	49760	
+15.290202	[FS]	/system/notification_log.db-journal	1	
+15.297275	[UN]	/system/sync/status.bin.bak	
+15.298145	[RN]	/system/sync/pending.xml	/system/sync/pending.xml.bak	
+15.299534	[CR]	/system/sync/pending.xml	
+15.300323	[WA]	/system/sync/pending.xml	0	601	0	
+15.300432	[FS]	/system/sync/pending.xml	0	
+15.301878	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d276327a9d7dcdc0f32b472cb3eb5951.0	
+15.302037	[WO]	/system/notification_log.db	0	4096	53248	
+15.302234	[WO]	/system/notification_log.db	16384	4096	53248	
+15.302262	[WO]	/system/notification_log.db	49152	4096	53248	
+15.302296	[FS]	/system/notification_log.db	1	
+15.302939	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/92d832f7791f6c80c58c05e2af093b39.0	
+15.308321	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f04ab1b0168d0b0279b0737e532d43d3.0	
+15.309111	[UN]	/system/sync/pending.xml.bak	
+15.309533	[RN]	/system/sync/stats.bin	/system/sync/stats.bin.bak	
+15.309826	[CR]	/system/sync/stats.bin	
+15.310061	[WA]	/system/sync/stats.bin	0	836	0	
+15.310160	[FS]	/system/sync/stats.bin	0	
+15.312886	[WO]	/system/notification_log.db-journal	0	28	49760	
+15.312942	[FS]	/system/notification_log.db-journal	1	
+15.313295	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64355c53eb942929e703d742d715d422.0	
+15.320621	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f8c885f6bd93439e5bcfc6c36c83ef2f.0	
+15.321397	[UN]	/system/sync/stats.bin.bak	
+15.321747	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9b057846e50dce6804cb105a3dffcee8.0	
+15.326782	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d781b13b062e31f85dcf77a830a038b7.0	
+15.327480	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/882decf0ce37e05b5359288196d32340.0	
+15.328177	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e387273488ea6817e6005c0495abe178.0	
+15.328925	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3048948decf56712bf3255121ce0b3f7.0	
+15.329618	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7b8edb34d9a4cfbe19bd4c948dae775d.0	
+15.330438	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f17331cbb9c7cb54c94992b0992bee80.0	
+15.331189	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4b640648bf46dacb1a31eddea2890a24.0	
+15.332343	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0a4f2a8fb6b9c220494fa6e1d7eac3f1.0	
+15.339834	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/dbe91624650cae2bcb171fe2e7cc86c7.0	
+15.340620	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8ff47335a9960abf77fcd70ec2d3fb82.0	
+15.341399	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8620f5c0d2cf3dbfa55c58d064b7fa40.0	
+15.342999	[WO]	/system/sync/pending.xml	0	77	601	
+15.343107	[FS]	/system/sync/pending.xml	0	
+15.348395	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1d199225e08ac7383e66b37cd38c2041.0	
+15.349218	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0e7bd2971d5f70d908b5975de215d9da.0	
+15.354844	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e2ec654559a2e3cad98b44a49e66d34f.0	
+15.358314	[WO]	/system/sync/pending.xml	0	77	678	
+15.358406	[FS]	/system/sync/pending.xml	0	
+15.358996	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/590be7de83bae2d1aa1a94a6184485f1.0	
+15.364309	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f9cd4f3910174c06f077a718352a8cf4.0	
+15.366297	[WO]	/system/sync/pending.xml	0	77	755	
+15.366403	[FS]	/system/sync/pending.xml	0	
+15.368744	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64e1d0e16e954b35ff6c8712d237d553.0	
+15.378719	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/51e57e99282d09dc599e142cc7434c29.0	
+15.381592	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/32ca433eade1a3afa8553ce0be8d2015.0	
+15.383364	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/13d46e0e276a6c2e5802b83bf4997707.0	
+15.384879	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2e7c59f61fb7243610999169f8e3a6ab.0	
+15.385551	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e1acb8f58a5776a7a070ec95f088998b.0	
+15.386597	[WO]	/system/sync/pending.xml	0	77	832	
+15.386686	[FS]	/system/sync/pending.xml	0	
+15.387083	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6759b1e5fbf0df26ad6c8224c98041ba.0	
+15.391045	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/005c8b9418ff0ea4affd53517da3fc5d.0	
+15.395340	[WO]	/system/sync/pending.xml	0	78	909	
+15.395435	[FS]	/system/sync/pending.xml	0	
+15.396417	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8fb901c3f9778ce0e12a17d4ae7944de.0	
+15.400143	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/358351f4195bff2249892783f7f0d369.0	
+15.411769	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f83626a1a1cf09e470f4326e3c135b95.0	
+15.411855	[WO]	/system/sync/pending.xml	0	77	987	
+15.411947	[FS]	/system/sync/pending.xml	0	
+15.420965	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8b891d14f418c74f30782cd52cceb188.0	
+15.421820	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/10be25de21cbbac2aa916d7fda6e9df6.0	
+15.428178	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/7816cf72b3214a2d4da9e2e58545a36f.0	
+15.429710	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/deacc3f0c66d2ff1ee8166b29d4bcda8.0	
+15.430582	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d270d1ba8d12bc32b6df6af2f741c862.0	
+15.431300	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4b5d51e34eadeb87570639f3af0d3994.0	
+15.431613	[WO]	/system/sync/pending.xml	0	78	1064	
+15.431703	[FS]	/system/sync/pending.xml	0	
+15.434522	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2e2c21c108d38a382d49e8b6cb4d5973.0	
+15.446824	[WO]	/system/sync/pending.xml	0	77	1142	
+15.446916	[FS]	/system/sync/pending.xml	0	
+15.447691	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/0d5f64d79f0b968c83f8776815e1b8fd.0	
+15.448361	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fd23423119fef17dbb08d33998bd1f31.0	
+15.449310	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b9b48af5cec3e40e927158d074700a04.0	
+15.456805	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/380c82da49aa10192f0a292c9d2ee47b.0	
+15.458484	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/13f5ed92075d8ad4b6aecba29d9b38c4.0	
+15.459200	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/620d65c465be1d89c5b8fbe642a1f0f2.0	
+15.461587	[WO]	/system/sync/pending.xml	0	77	1219	
+15.461683	[FS]	/system/sync/pending.xml	0	
+15.462093	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8c12457e29aa3239b5961f3be5373bc6.0	
+15.462778	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1753e1d4909e78b53ce1bb78dbb6c19e.0	
+15.463750	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e5d617d2e326658442bd041047de2828.0	
+15.465169	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/96a6b0e7623a2b458be6e4c70783ea0d.0	
+15.475395	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/50920ad43d8f1ce03f279055a1ac71ea.0	
+15.477230	[WO]	/system/sync/pending.xml	0	77	1296	
+15.477339	[FS]	/system/sync/pending.xml	0	
+15.478359	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f56f03f79b506b640ad66a4c09eacc12.0	
+15.479071	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/2c17d2448f9d073018872e724e3980d3.0	
+15.492507	[WO]	/system/sync/pending.xml	0	78	1373	
+15.492615	[FS]	/system/sync/pending.xml	0	
+15.498480	[WO]	/system/sync/pending.xml	0	78	1451	
+15.498568	[FS]	/system/sync/pending.xml	0	
+15.503421	[WO]	/system/sync/pending.xml	0	78	1529	
+15.503519	[FS]	/system/sync/pending.xml	0	
+15.509075	[WO]	/system/sync/pending.xml	0	78	1607	
+15.509155	[FS]	/system/sync/pending.xml	0	
+15.509945	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/56642517aca8c539e2cae7cda8d40e4d.0	
+15.510754	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/011587faf86d71b949238365cf8826a4.0	
+15.511719	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/50553fb1baeb559743c4b00329d7a85b.0	
+15.513283	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/64c97648a89685e7bdd1b7d3f1a56939.0	
+15.518166	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/4362f502332de2eb9bb2f5a5a0858abb.0	
+15.520211	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/babb29ed4ab5aeed56bd44a1af287110.0	
+15.520744	[WO]	/system/sync/pending.xml	0	78	1685	
+15.520828	[FS]	/system/sync/pending.xml	0	
+15.521053	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/489e3cd1ab03f6758168e1f6aa385795.0	
+15.521853	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/f4e2b71e92af6b62fab9d1cd9731ce17.0	
+15.522543	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/3fcf0af77086abd88a2988678261372b.0	
+15.523235	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/6cbc7bd0c0824a0ba0d5dd2c2c4e730b.0	
+15.524003	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bdfba021e9c10dcb17bbb4a252855ff4.0	
+15.530219	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/45b53a07913439f43341b72ff366af75.0	
+15.530930	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/a8ccb1d71e48df3b5a6170b5fc13feaf.0	
+15.531821	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/fcf420c5a6852c1b3d5b71ae5623e89b.0	
+15.533263	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/bcab19033bd0c22f92704478ae465019.0	
+15.534055	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/9263f74435ed68180bb49f20782494a7.0	
+15.534699	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/68de38a8d958ebd606a5c1899f276616.0	
+15.535752	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/1f45a836ad0c14f73595459ae55b941d.0	
+15.536553	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/deef9501c480d2d85b5c23a63eb284f7.0	
+15.537841	[WO]	/system/sync/pending.xml	0	78	1763	
+15.537934	[FS]	/system/sync/pending.xml	0	
+15.538634	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/8a4b0f767c755b7a8cd93d827d2b8887.0	
+15.543312	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/06c071e6bbf64e28d4fe07558c8ac898.0	
+15.552384	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/b497e951b898c3d1ac8f79beb77c459b.0	
+15.553363	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/d5e58d17f4435a060e1e8a07f6ae9f2f.0	
+15.553997	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/906fb79919f444631feb66d13d97aef9.0	
+15.554695	[UN]	/media/0/Android/data/com.twitter.android/cache/photos/e62c08614f47d46e0c8920990c012a4f.0	
+15.559137	[WO]	/system/sync/pending.xml	0	78	1841	
+15.559233	[FS]	/system/sync/pending.xml	0	
+15.561017	[RD]	/media/0/Android/data/com.twitter.android/cache/photos	
+15.568755	[WO]	/system/sync/pending.xml	0	78	1919	
+15.568840	[FS]	/system/sync/pending.xml	0	
+15.577997	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/3_B8S8f8s8uOMJ73FT_pQVim2BA.cnt	
+15.584512	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/3In7xHLazvxC43zbanNf4_nkBO0.cnt	
+15.587424	[WO]	/system/sync/pending.xml	0	78	1997	
+15.587507	[FS]	/system/sync/pending.xml	0	
+15.589811	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/kcTxZH3ut5ga3mWuvQX-8HpUgvg.cnt	
+15.599944	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64/IhBRJSpiCIeVvGiE6yZtGlKWNHQ.cnt	
+15.601907	[WO]	/system/sync/pending.xml	0	78	2075	
+15.602001	[FS]	/system/sync/pending.xml	0	
+15.602471	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/64	
+15.605370	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/0WfUUBJO3Gfk-qmsj6n0bCQqHtk.cnt	
+15.645785	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/JtQuDRUFZktDDZyA8HuUcFIs0_s.cnt	
+15.709955	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79/viXld1HNTGKb00Zht2VtGFhQICc.cnt	
+15.712729	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/79	
+15.714830	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22/b2_dXNOyb75yIfAVxMbiclonixA.cnt	
+15.715539	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22/0bHOnVnp1hcZtQszw5IxMy5YDQQ.cnt	
+15.716057	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/22	
+15.717910	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/FRZHmMmPwHA1xIE3hyMuRVz9OWg.cnt	
+15.751540	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/6V07KefX9TUiuVH8pAiujWoNFss.cnt	
+15.753160	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/o3tftWUCHaMLHc5mYNqDQDHdOkc.cnt	
+15.754352	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10/ZEXFrabI5o0g6rEHncETbTrHKj8.cnt	
+15.754888	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/10	
+15.762362	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/30/KB41ZJoVn65k6wus-o8dPTA_dSI.cnt	
+15.777019	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/30	
+15.778797	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/65/_lwnaJxHgKyPFn8n6pHj6vhG0l8.cnt	
+15.784730	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/65	
+15.786929	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8/0rfO9iJjz_Dh0xxPeKYnoMpu1Zo.cnt	
+15.787763	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8/7-zEbtN0bm6nxZBCCb4Qg9rl7og.cnt	
+15.788367	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/8	
+15.790328	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/85/9LrCLJr-l3FIgqsoM4S8CY_aYHo.cnt	
+15.790920	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/85	
+15.797237	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/wuWrNBE66-1O7wThnZ18B28ZgS4.cnt	
+15.831592	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/DWGpHeC2naOqHSJb8RbPnT6cuSM.cnt	
+15.833108	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/OgexKs9oCFRx6dobHlR-mKhS4tw.cnt	
+15.833844	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/f5nS2Hm9bVvRPO6LcmV_LsPD1II.cnt	
+15.834679	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/9aJjlOoOXe-XRMi9ihlUdbj3MAM.cnt	
+15.839731	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80/zZDECZyfEKPDaDrhR5TM7ZYNYhk.cnt	
+15.840287	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/80	
+15.844553	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36/s3pHvXEISVg0sVyxTX7uxWn2r6I.cnt	
+15.845356	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36/l__bcoKGyB3vafbvyFJbCnkfhyg.cnt	
+15.846676	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/36	
+15.849489	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/G7RUhaciLi-cu_rehLKu2H0GnXg.cnt	
+15.880665	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/FLoYkt_JD6eDRJgWGuL3M2ak3sU.cnt	
+15.927850	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/5HX6Q_hGQbdtIbDp1dqRzCKjS2w.cnt	
+15.928779	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68/FV6THK9CoW-AMbvgN9pISD9L8s0.cnt	
+15.929451	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/68	
+15.935458	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17/J_-2P7mxs0C5zfgtcCGia6PG2M8.cnt	
+16.033486	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17/hlpK9bMTQCWvZ3POsA6098AsXWg.cnt	
+16.034283	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/17	
+16.036768	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4/I2OTlZzWRm4A7bbdBQiR7ghQTFI.cnt	
+16.038284	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4/URLRLY0XHSqZ154eXTJjKWgKOoA.cnt	
+16.039218	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/4	
+16.042216	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/EFCsR49zFUCdwWdhIR_k-y5TyME.cnt	
+16.047522	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/N45hBy79jJ5IILksErHySOPiCcY.cnt	
+16.052075	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/WPVhjDUtEbi1nDOKUf5p8yyo4TQ.cnt	
+16.071216	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/j1TPt9YtJloyFT8or86vuu25-jE.cnt	
+16.071994	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39/tV-QRjteSY_uD8MAVxL5gjwLAks.cnt	
+16.072545	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/39	
+16.074602	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86/tnYT2P1u9_0o3R2LHHpOfL15W74.cnt	
+16.075565	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86/uAMPeUW73Lwp1_RXGgbZcitTWUs.cnt	
+16.076067	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/86	
+16.077669	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7/cZqemI89yw8eonix57Zzn8IOAa8.cnt	
+16.078984	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7/GQNKrPRBR8mQRWkrpgnT9AszGRQ.cnt	
+16.079487	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/7	
+16.089218	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/5MEFdIBc0uWG1kN1GD7IV4jzYhE.cnt	
+16.090064	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/FpEj6QX6JuKqZsO7KYv4CT-HU4M.cnt	
+16.092028	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56/JKxw7bOK2-n9VDETYtWo1hTPG4A.cnt	
+16.093122	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/56	
+16.105637	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/_R3Lrp5U4MUd55qeZZAM0KGSPnc.cnt	
+16.108072	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/KRlXMC69tezvY_TTNeJTlckLHII.cnt	
+16.113373	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/83R86_mGfAeyyoLgOB4GH761bkU.cnt	
+16.114463	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84/10DyOX5sh02Cf7R4JfM8pSFZoGA.cnt	
+16.114982	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/84	
+16.121376	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/94/_kK0qMfaDHHhEUP7DT20CYDcWjc.cnt	
+16.129058	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/94	
+16.140617	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/3veF06PM-Glld_7C4FqMcE5MA9E.cnt	
+16.141328	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/SQ02UwDh1UdHWPjHgm1AelzeyPI.cnt	
+16.142070	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/3YVvXIxRZEPhxCpJTuCpfM7Srfo.cnt	
+16.143086	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51/RrT5XAQNkX848LI97Bkay8eVKTE.cnt	
+16.150716	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/51	
+16.154466	[RN]	/system/users/0/appwidgets.xml	/system/users/0/appwidgets.xml.bak	
+16.154855	[CR]	/system/users/0/appwidgets.xml	
+16.155741	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/E-QcQ14PmlkNVsD66AmJ814Bm_4.cnt	
+16.155775	[WA]	/system/users/0/appwidgets.xml	0	552	0	
+16.155870	[FS]	/system/users/0/appwidgets.xml	0	
+16.158225	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/DN89Z1k6wG23PFQ1BtSTMJArU7o.cnt	
+16.158983	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/xAsgPQJruU1o4WSDr-SaOWE1oWQ.cnt	
+16.159743	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12/gF0RL-08IRy9KUXw4mjcuWg6xNQ.cnt	
+16.160445	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/12	
+16.162242	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/dYoq6XuvHdOGig-E6zaMpR1VrGo.cnt	
+16.163509	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/mAqfCNUvspwl6GEjKJEJ49vTfm0.cnt	
+16.164901	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13/hUbhUUVakZ3c-66MLNzwlNhIt3s.cnt	
+16.165856	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/13	
+16.202191	[UN]	/system/users/0/appwidgets.xml.bak	
+16.209203	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6/Rlt1aiNzE92anzBqGkimFleGxjE.cnt	
+16.210120	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6/bUGdVIpiLR-C_a-qWRtAdC447IY.cnt	
+16.210612	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/6	
+16.214168	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/Syk6Bn3EMvqCfR1FaQF1K33_Hxw.cnt	
+16.216712	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/pP4VO6R4w2Hi0rob465Z4D4zMXQ.cnt	
+16.217623	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/dOR9fL1m8pT86ZsfMQF6qNSMn0I.cnt	
+16.218299	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/z-8swGFfaNCeltBqDijwCMjV3QI.cnt	
+16.218997	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/D5_ax6X61XNdnS8NlEXktYNg8eM.cnt	
+16.219722	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/OEY1i-y0-wOXKL40jFZFl7RYTQY.cnt	
+16.220403	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/b4nXD07b8mg8INrVnX61ad1aMaw.cnt	
+16.221082	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/GwNRMWs9JQmFMAGWpXVKcRRBL-4.cnt	
+16.221897	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67/iOUfQKMaX7LL2mPnrvamFOYzf_Y.cnt	
+16.222736	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/67	
+16.224482	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/-zlt6cONKpI2QoATlWxIwV7Hzv8.cnt	
+16.225267	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/YZEwIxdkLNMnWxmjXyX-DWpfL4Q.cnt	
+16.225921	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24/hY9YDWmfapToYHurkHDzVwtgfP0.cnt	
+16.226836	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/24	
+16.231721	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/azFcoRMU5K9AwbrI_r0GZLbzY_c.cnt	
+16.232473	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/SPprOCtT6gMq0DG7tbKHhjodFoo.cnt	
+16.233301	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40/7z1h6_ZGYGsYWPhMGybZ1qEogXg.cnt	
+16.237335	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/40	
+16.243631	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/2S9dmUCNtB4cWI1l-YKexbMEG2M.cnt	
+16.257656	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/ZSFQdpsXIaU8jLTEDHcJpM9DUMI.cnt	
+16.260661	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81/AUO41s01NKpWxbRIbhk6437B8xE.cnt	
+16.261164	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/81	
+16.262816	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/33/ZZHaPKTNdLc1wKSKlpIahAAgT60.cnt	
+16.263322	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/33	
+16.265307	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26/mtMCS7PIep5MNzHShjw9NdlWf2k.cnt	
+16.266847	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26/TyMLOHY5PDRL3WivHLZDNCvNDTY.cnt	
+16.267371	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/26	
+16.270133	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/H5LJYFPtk2D-ofWvr2YKDVLBxjo.cnt	
+16.270831	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/aEgzMucLgvWujYI5msg4HSH3uq4.cnt	
+16.272064	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35/WSpzOs7xBo1qXCSzaAnvxK0Rhys.cnt	
+16.272662	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/35	
+16.274497	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/H9LXFTPdG1SO3KKtYz5MC5UngIk.cnt	
+16.275164	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/hycQQtpGf3jp77EjnUxhvaE22e0.cnt	
+16.275826	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/MdrZ-Ox1F3C5uQK4TlFYNtKTSwY.cnt	
+16.276497	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/uKX3EE45Qgisk7UWdDWKYnAc01E.cnt	
+16.277175	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19/u4r9b5DSEEk1FSfbRpn4q5fItBg.cnt	
+16.277697	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/19	
+16.279180	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/15/9kPF4Gmsyx_uEOcbuqLCmGAQX-0.cnt	
+16.279747	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/15	
+16.281448	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/3N2bcMFielTm59dXzTP-fXHyDpM.cnt	
+16.282107	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/le_GV1E-Duaeg-DS4E51DfYeQ8o.cnt	
+16.282758	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/-QTCraXOr-a09NiIBj11yGr4rNk.cnt	
+16.283432	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9/vR2WdLPmyDZ4bJSZy0m_ZkcWtg0.cnt	
+16.283939	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/9	
+16.285487	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2/e0Wy5FNy9SS7jaXT_dXWp9tNRxI.cnt	
+16.286175	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2/pkrAOWPHo_RwlFkR5TrUPN_OmK4.cnt	
+16.286646	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/2	
+16.288152	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46/3hckLwrXpvHM7LvEig-j91PA-5s.cnt	
+16.288810	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46/lv0rIOXYOuKYqtqFay-A8tgdh9k.cnt	
+16.289320	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/46	
+16.290765	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/38/y72cgcWnXWzoIAe7l3kIDrB2rPg.cnt	
+16.291239	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/38	
+16.292828	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/iKbksv4CG8I_4leChtX-i1wEmGg.cnt	
+16.293511	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/WFGj53uPRFVcZBbnD8ONy9nMu8I.cnt	
+16.294139	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32/YXKWd3uQOte1USyDO0ILuL-mWoc.cnt	
+16.294603	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/32	
+16.296317	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/We5PY4rneawTg6qCaSEx8bq5P6E.cnt	
+16.296976	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/H972sNGqeAZOuUqzeNUpV2igK-U.cnt	
+16.297617	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/SEwDgShFz854gXfJ4UQ_6U6t3CI.cnt	
+16.298238	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/yPIbJhFN_wKu2Vaq_szCHrdFR78.cnt	
+16.298879	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14/4SyB8EINX2hwGy5_ph2hIQdCpgU.cnt	
+16.299352	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/14	
+16.309414	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/mMJgHnwy4scjsT0aKdowQynSNHQ.cnt	
+16.310184	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/fj-WwfXw_bQ_54gqgY02lqmD8Ik.cnt	
+16.310810	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/By_488qUb7YoVOHQf23T7EOjYqw.cnt	
+16.311437	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92/mCUujlSejpfOApnx7k910p753Rs.cnt	
+16.311907	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/92	
+16.313555	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/JAUcAXBc76j2klGAwMGMmX3T07U.cnt	
+16.314261	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/tj11PIZnBaeFSrKNxHLpVacZHUA.cnt	
+16.314957	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/LuNp0hCoSnYzOuV4VxeFF4k849o.cnt	
+16.315649	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69/P6PgTFHrFvViNEZDjFRvbkyYxxs.cnt	
+16.316139	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/69	
+16.317633	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/16/cFoECQiySztM5f8bePieRlIFSbk.cnt	
+16.318121	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/16	
+16.319957	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/WiBZGEaIjnBt5PL4xaDGhL9WrUc.cnt	
+16.320639	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/MmUm3q3Ot8kATV96N_CEQIOsTXQ.cnt	
+16.321286	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/36PsKOKuCw83xvd2q5ZOnRFGt5E.cnt	
+16.321958	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/tgMquYjWzhxuU1ICQvqIk9kW-Oc.cnt	
+16.322636	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/OGOfUURSEU1vtfa4MSAWqk1Nv-s.cnt	
+16.323302	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61/sNEH_GmTFyFyAHudd7qIOcqf5Ds.cnt	
+16.323812	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/61	
+16.325269	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/82/_WqHN8bijMcavuhLVjDcOZ5cavs.cnt	
+16.325785	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/82	
+16.327319	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93/e3VgKkfekRdH3ff-mhasb4hPF2g.cnt	
+16.328007	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93/c3vlEGIlMS1dnJd0c-1GUO55-UA.cnt	
+16.328505	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/93	
+16.330609	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/kAgg99BlesRGMK080MAMYXwUy1Q.cnt	
+16.331374	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/Cnb-4F2yGM5Kh96nrY7zniE3RXg.cnt	
+16.332048	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/PCP0ZL-Edwc-q6KSWHHilOg3EC0.cnt	
+16.332732	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18/D03btkO-qP2NJOcWeIpj8qDkLcw.cnt	
+16.333251	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/18	
+16.334772	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/44/yNV3NFPGO0FBkdYBQ9x2fduyt-E.cnt	
+16.335293	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/44	
+16.336890	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72/tEdXNHoKj0AjfYd-hFjV21ZHwsE.cnt	
+16.337626	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72/wMFGkA-MuPi-adevYYlQYk_HlYY.cnt	
+16.338190	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/72	
+16.339806	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/3/xZyagmB-jo6g_59SZc6lmzZg3cc.cnt	
+16.340667	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/3	
+16.342197	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20/ssG2uUFocMSYDiieVYlXR7oHCFY.cnt	
+16.342908	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20/BIMbJ4hN4H0GgYrcgf32Jq03DCQ.cnt	
+16.343420	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/20	
+16.344870	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/62/zkCgdZMR2z7CciqWi2gfHaXOm8U.cnt	
+16.345346	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/62	
+16.346782	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/54/nvhQCMWZWLqwdPZPZaW75m2AKaI.cnt	
+16.347284	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/54	
+16.348804	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91/Ih-U6ZSVNWLNcqVhM-xtkm-mZAw.cnt	
+16.349469	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91/XTPQsuxA5O-PnaMBYn8Ric0OpYo.cnt	
+16.350037	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/91	
+16.351881	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/uI9hWqhyRBNRRFUhDdg_YfjiWis.cnt	
+16.352580	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/fxVnZaxCfRrPKmOjR7tRa3KG0sw.cnt	
+16.353229	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/RVRXGjwV3_2ZQfjTArF-6iC7Q8Q.cnt	
+16.353871	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/EUQTSgJY4KGogf-6ZLoNjdMeetw.cnt	
+16.354514	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28/PbRr-QUaN7G6gmtmFwdMfvVTxjs.cnt	
+16.355029	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/28	
+16.356585	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27/KLqR_cdVmcXQz1JiFUfHSthGsT8.cnt	
+16.357241	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27/ppqel9imAU4vLB8h8ByN94Mx73I.cnt	
+16.357722	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/27	
+16.359215	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23/zlsJsA1_5fNkV3SmnTKWQMmO7uA.cnt	
+16.359911	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23/sCVKIJx9aS34bRd56sDDf_OI7bs.cnt	
+16.360401	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/23	
+16.361890	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/52/jFspHjBg_Cyy4oQpFIGMzzvB6Zo.cnt	
+16.362440	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/52	
+16.364083	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/6yyfFCwHYNdD0Fp7-wboQr42D0E.cnt	
+16.364770	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/PHUXJN4byvetDd10f440XIo8lfI.cnt	
+16.365446	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41/4rPAXkN5ecA55hqbGsxJ8DruYWI.cnt	
+16.365940	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/41	
+16.367418	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/55/w6ioXndiLuf3WZ6z0E2Ix9rmIvY.cnt	
+16.367958	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/55	
+16.369493	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66/REmCn2j-bk_kvqD5dFCGKaukLBo.cnt	
+16.370210	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66/35cLrwAqAsnBKgCd5glJEsF2H4g.cnt	
+16.370687	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/66	
+16.372191	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96/xC8VhfaTTcXFOr1RDI8A_NCfLXc.cnt	
+16.372847	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96/BuBsQBed39J6TpXoww00ASqkSf8.cnt	
+16.373334	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/96	
+16.374994	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/-UfK2ylnqa57qESVGFG8fuNk2xk.cnt	
+16.375742	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/xU2QWsiNZV7O0oXMLoQjIfsaRiM.cnt	
+16.376450	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/jQTGECWuPQMFvrFiE8DCMAh79_8.cnt	
+16.377142	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98/jJcRz1jFcA532aFqp9ijeoFWImc.cnt	
+16.377658	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/98	
+16.379163	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/70/EJZQczYK2pBKll-2DWDEHB4Ig10.cnt	
+16.379810	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/70	
+16.381487	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/aA9Wheg_Ts--x-soNMHkVgVCj64.cnt	
+16.382208	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/AXyoxjEqIKepnqYw6p2W73uJ420.cnt	
+16.382867	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63/TNzqIrhRk6v9HlWUjBt9wxylFWQ.cnt	
+16.383373	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/63	
+16.384867	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/95/9L9DJ_6rdQw7IGka7K-cuIQOA3w.cnt	
+16.385380	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/95	
+16.387135	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/R7SEYFTqsB_4zBC3a-J589QiIDI.cnt	
+16.387837	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/1NRGB-RdxRbeLIdso75CV3i7lwU.cnt	
+16.390292	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/ZTB6_8mhjVxsFCiEBy6gt2-7Cj4.cnt	
+16.390969	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37/75AEkH8eEP_hMwgyOqFfuCqO5eI.cnt	
+16.391452	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/37	
+16.393030	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71/w11Xtv6ZWdTI1bjYsEqkS2_Y214.cnt	
+16.393761	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71/Vm0a8YA9-Uo14Dzw70CbDWIgZb0.cnt	
+16.394263	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/71	
+16.395757	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/76/_9DQxrs8WniQph7oDl3U0YosQdc.cnt	
+16.396275	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/76	
+16.397762	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/77/w0wZnhRwTW7R1dyC8mc7k8nGBiQ.cnt	
+16.398277	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/77	
+16.399933	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/Uv1JUrZTTW21AXQQ-NS3SwJ9mg4.cnt	
+16.400632	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/sT3oK_tAKGKLAv4yglLlEeEdrLo.cnt	
+16.401317	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48/YBZiOQZkNcoifVsXnWIeEgAVrPQ.cnt	
+16.401820	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/48	
+16.403390	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1/2d07KA-j-edUoN3e83_1cmi44jQ.cnt	
+16.404082	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1/VFQlZ-uk0yKMrvAlWuhc6y3jWPY.cnt	
+16.404577	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/1	
+16.406119	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29/kr4-g51o94gymcmqoE9bFUBjfUE.cnt	
+16.406801	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29/OZyqj946QiSA5pnbVDjrmepV5jQ.cnt	
+16.407324	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/29	
+16.408787	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/21/WFAzNQoU9j_RVKY3parsCUZxSQU.cnt	
+16.409277	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/21	
+16.417679	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/97/uFBvbPRcczRJEd0EFogKnKZM4rw.cnt	
+16.427667	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/97	
+16.431125	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/60/C2WFKmCG-vTFganrKmAFJWdAKVA.cnt	
+16.467431	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/60	
+16.476406	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/47/PglybVvJStCwmXcyOXCgmI0-GUw.cnt	
+16.476955	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/47	
+16.481166	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/25/yg-jgtVAotjqONDGdga38MkyZSE.cnt	
+16.481769	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/25	
+16.483392	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/78/W4F08E4sdbHZOk6Sna0r1ybPbVA.cnt	
+16.483895	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/78	
+16.486125	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/34/UKKrlmYdDPAk4OqaUu5BokQyS-g.cnt	
+16.486703	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/34	
+16.488243	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/42/SQ8SKexRQ2FZFKexRycuSFbmN4M.cnt	
+16.488753	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/42	
+16.490249	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/58/KY9wAaPq903jrLxRyd65L8OI3-w.cnt	
+16.490770	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/58	
+16.492398	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/99/AKAxQG5xao-xwcqoIvOCJzYOEuI.cnt	
+16.492932	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/99	
+16.494488	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/57/L5QFlAue8snsCRRPKwINP9xFgL0.cnt	
+16.502463	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/57	
+16.504238	[UN]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/75/h-0VjHMUZXuU1HdcIczGPQWLU-Q.cnt	
+16.504777	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1/75	
+16.505471	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache/v2.ols100.1	
+16.506232	[RD]	/media/0/Android/data/com.twitter.android/cache/image_cache	
+16.510489	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/journal	
+16.511507	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/63ea488d5144ec4429d47e40c9ce03a8.0	
+16.512219	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/2a5f0aa37b7e548c32eac182d631dc25.0	
+16.512891	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/cc5722e251fd683546ab8cf3a2335772.0	
+16.514019	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/cfd4ff17eef87e51269126c4e4fa8df8.0	
+16.514925	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/50cfda506811fee25227e666ff1f95ad.0	
+16.515620	[UN]	/media/0/Android/data/com.twitter.android/cache/videos/32823c271912e1ecdcfb423421cfc162.0	
+16.516570	[RD]	/media/0/Android/data/com.twitter.android/cache/videos	
+16.517085	[RD]	/media/0/Android/data/com.twitter.android/cache	
+16.517560	[RD]	/media/0/Android/data/com.twitter.android	
+16.662805	[RN]	/system/users/0/appwidgets.xml	/system/users/0/appwidgets.xml.bak	
+16.663857	[CR]	/system/users/0/appwidgets.xml	
+16.673349	[WA]	/system/users/0/appwidgets.xml	0	552	0	
+16.673465	[FS]	/system/users/0/appwidgets.xml	0	
+16.696014	[UN]	/system/users/0/appwidgets.xml.bak	

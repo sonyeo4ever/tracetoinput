@@ -1,0 +1,206 @@
+0.000000	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.000257	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.000667	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+0.000734	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.016316	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.017019	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.017311	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.043550	[WO]	unknown_123171	1626	4	4096	
+0.056533	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	459	0	
+0.057469	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.059534	[UN]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.059854	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.060250	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+0.061427	[WO]	unknown_123171	1630	537	4096	
+0.066221	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.070581	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.070779	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+0.071222	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+0.071298	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+0.071511	[WO]	unknown_123171	0	16	4096	
+0.078585	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.087403	[WO]	unknown_123171	2167	4	4096	
+0.105737	[WO]	unknown_123171	2171	536	4096	
+0.112564	[WO]	unknown_123171	0	16	4096	
+0.268665	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+0.268709	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+0.273669	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+0.273753	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+0.273787	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+0.273804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+0.273954	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+0.273970	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+0.273998	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+0.274012	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+0.342194	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+0.342241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+0.342270	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+0.342284	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+0.342310	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+0.342324	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+0.342349	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+0.342364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+0.356222	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+0.356374	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+0.356440	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+0.356469	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+0.356512	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+0.356526	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+0.356553	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+0.356576	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+0.542864	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.543039	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.543508	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	458	0	
+0.543585	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.551545	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.552521	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.557835	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.558328	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	470	0	
+0.558411	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.567608	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.570829	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.572717	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+0.572748	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+0.572763	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+0.572787	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+0.572898	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+0.572914	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+0.572939	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+0.572964	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.573954	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.576487	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.582409	[FS]	/data/com.nhn.android.band/databases	1	
+0.589243	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+0.589257	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.589273	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.592631	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+0.595212	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+0.595246	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+0.597486	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+0.597533	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.855465	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.857370	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.865893	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.877339	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.886399	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+0.886432	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+0.886448	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+0.886472	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+0.886555	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+0.886570	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+0.886593	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+0.886617	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.888254	[FS]	/data/com.nhn.android.band/databases	1	
+0.890388	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+0.890410	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.891236	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+0.891267	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+0.891289	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+0.892788	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+0.892813	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+17.050098	[CR]	/data/eu.chainfire.supersu/logs/L15081425920000.GRANTED.ADB shell	
+17.215113	[CR]	/data/eu.chainfire.supersu/logs/L15081425920001.GRANTED.ADB shell	
+20.100832	[CR]	/data/eu.chainfire.supersu/logs/L15081425950000.GRANTED.ADB shell	
+0.000000	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.000257	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.000667	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	447	0	
+0.000734	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.016316	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.017019	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.017311	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.043550	[WO]	unknown_123171	1626	4	4096	
+0.056533	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	459	0	
+0.057469	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.059534	[UN]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.059854	[CR]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	
+0.060250	[WA]	/data/com.nhn.android.band/files/AppEventsLogger.persistedevents	0	178	0	
+0.061427	[WO]	unknown_123171	1630	537	4096	
+0.066221	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.070581	[RN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.070779	[CR]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	
+0.071222	[WA]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	448	0	
+0.071298	[FS]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml	0	
+0.071511	[WO]	unknown_123171	0	16	4096	
+0.078585	[UN]	/data/com.nhn.android.band/shared_prefs/com.nhn.android.band_preferences.xml.bak	
+0.087403	[WO]	unknown_123171	2167	4	4096	
+0.105737	[WO]	unknown_123171	2171	536	4096	
+0.112564	[WO]	unknown_123171	0	16	4096	
+0.268665	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	0	32	524288	
+0.268709	[FS]	/data/com.google.android.gms/databases/playlog.db-wal	1	
+0.273669	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32	24	524288	
+0.273753	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	56	4096	524288	
+0.273787	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4152	24	524288	
+0.273804	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	4176	4096	524288	
+0.273954	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8272	24	524288	
+0.273970	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	8296	4096	524288	
+0.273998	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12392	24	524288	
+0.274012	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	12416	4096	524288	
+0.342194	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16512	24	524288	
+0.342241	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	16536	4096	524288	
+0.342270	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20632	24	524288	
+0.342284	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	20656	4096	524288	
+0.342310	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24752	24	524288	
+0.342324	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	24776	4096	524288	
+0.342349	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28872	24	524288	
+0.342364	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	28896	4096	524288	
+0.356222	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	32992	24	524288	
+0.356374	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	33016	4096	524288	
+0.356440	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37112	24	524288	
+0.356469	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	37136	4096	524288	
+0.356512	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41232	24	524288	
+0.356526	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	41256	4096	524288	
+0.356553	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45352	24	524288	
+0.356576	[WO]	/data/com.google.android.gms/databases/playlog.db-wal	45376	4096	524288	
+0.542864	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.543039	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.543508	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	458	0	
+0.543585	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.551545	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.552521	[RN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.557835	[CR]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	
+0.558328	[WA]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	470	0	
+0.558411	[FS]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml	0	
+0.567608	[UN]	/data/com.nhn.android.band/shared_prefs/STAT_PREFS.xml.bak	
+0.570829	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.572717	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+0.572748	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+0.572763	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+0.572787	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+0.572898	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+0.572914	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+0.572939	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+0.572964	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.573954	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.576487	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.582409	[FS]	/data/com.nhn.android.band/databases	1	
+0.589243	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+0.589257	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.589273	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.592631	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+0.595212	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+0.595246	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+0.597486	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+0.597533	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.855465	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.857370	[WA]	/data/com.nhn.android.band/files/jackpotlog.realm.lock	0	1184	0	
+0.865893	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.877339	[FS]	/data/com.nhn.android.band/files/jackpotlog.realm	0	
+0.886399	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	512	12824	
+0.886432	[WO]	/data/com.nhn.android.band/databases/statistics-journal	512	4	12824	
+0.886448	[WO]	/data/com.nhn.android.band/databases/statistics-journal	516	4096	12824	
+0.886472	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4612	4	12824	
+0.886555	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4616	4	12824	
+0.886570	[WO]	/data/com.nhn.android.band/databases/statistics-journal	4620	4096	12824	
+0.886593	[WO]	/data/com.nhn.android.band/databases/statistics-journal	8716	4	12824	
+0.886617	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.888254	[FS]	/data/com.nhn.android.band/databases	1	
+0.890388	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	12	12824	
+0.890410	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+0.891236	[WO]	/data/com.nhn.android.band/databases/statistics	0	4096	20480	
+0.891267	[WO]	/data/com.nhn.android.band/databases/statistics	12288	4096	20480	
+0.891289	[FS]	/data/com.nhn.android.band/databases/statistics	1	
+0.892788	[WO]	/data/com.nhn.android.band/databases/statistics-journal	0	28	12824	
+0.892813	[FS]	/data/com.nhn.android.band/databases/statistics-journal	1	
+17.050098	[CR]	/data/eu.chainfire.supersu/logs/L15081425920000.GRANTED.ADB shell	
+17.215113	[CR]	/data/eu.chainfire.supersu/logs/L15081425920001.GRANTED.ADB shell	
+20.100832	[CR]	/data/eu.chainfire.supersu/logs/L15081425950000.GRANTED.ADB shell	
